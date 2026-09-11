@@ -4555,7 +4555,7 @@
             "nombre": "RockZz",
             "tag": "1337",
             "region": "eu",
-            "apariciones": 32,
+            "apariciones": 34,
             "amigo_desde": "2026-09-02",
             "ultima_vez": "2026-09-11"
         },
@@ -4793,8 +4793,9 @@
             "nombre": "ElBrujo",
             "tag": "TrYhr",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-09-07"
+            "apariciones": 5,
+            "amigo_desde": "2026-09-07",
+            "ultima_vez": "2026-09-11"
         },
         {
             "nombre": "MrJoker",
@@ -4874,6 +4875,34 @@
             "tag": "5X30",
             "region": "eu",
             "apariciones": 4,
+            "amigo_desde": "2026-09-11"
+        },
+        {
+            "nombre": "jess \u03b5\u00ef\u0437",
+            "tag": "gab",
+            "region": "eu",
+            "apariciones": 4,
+            "amigo_desde": "2026-09-11"
+        },
+        {
+            "nombre": "Chaps",
+            "tag": "2906",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-09-11"
+        },
+        {
+            "nombre": "nostalgia hearts",
+            "tag": "123",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-09-11"
+        },
+        {
+            "nombre": "hellsing",
+            "tag": "vamp",
+            "region": "eu",
+            "apariciones": 3,
             "amigo_desde": "2026-09-11"
         }
     ]
