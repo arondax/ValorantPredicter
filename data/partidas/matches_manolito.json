@@ -151275,8 +151275,8 @@
                     },
                     {
                         "puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                        "name": "Jan\u30ad\u30e9",
-                        "tag": "1234",
+                        "name": "fallen2",
+                        "tag": "0000",
                         "team": "Blue",
                         "level": 160,
                         "character": "Clove",
@@ -152301,8 +152301,8 @@
                     },
                     {
                         "puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                        "name": "Jan\u30ad\u30e9",
-                        "tag": "1234",
+                        "name": "fallen2",
+                        "tag": "0000",
                         "team": "Blue",
                         "level": 160,
                         "character": "Clove",
@@ -152461,7 +152461,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4858,
@@ -152683,7 +152683,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4721,
@@ -152743,7 +152743,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -152829,7 +152829,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4099,
@@ -152863,7 +152863,7 @@
                                     "killer_display_name": "manolito#pe\u00f1a",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5472,
@@ -153017,7 +153017,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -153123,7 +153123,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1522,
@@ -153286,7 +153286,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3721,
@@ -153481,7 +153481,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -153512,7 +153512,7 @@
                                     "kill_time_in_round": 24986,
                                     "kill_time_in_match": 80048,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -153571,7 +153571,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4898,
@@ -153596,7 +153596,7 @@
                                     "kill_time_in_round": 36157,
                                     "kill_time_in_match": 91219,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8ab0215f-16d5-5172-8281-498082360aff",
                                     "victim_display_name": "Pirula#nst",
@@ -153645,7 +153645,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5799,
@@ -153860,7 +153860,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1700,
@@ -154118,7 +154118,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2040,
@@ -154516,7 +154516,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -154536,7 +154536,7 @@
                                     "killer_display_name": "CT elpan#1795",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1858,
@@ -154648,7 +154648,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -154670,7 +154670,7 @@
                                     "kill_time_in_round": 2076,
                                     "kill_time_in_match": 145193,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8ab0215f-16d5-5172-8281-498082360aff",
                                     "victim_display_name": "Pirula#nst",
@@ -154759,7 +154759,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2108,
@@ -155061,7 +155061,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -155117,7 +155117,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -324,
@@ -155490,7 +155490,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3117,
@@ -155552,7 +155552,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -155592,7 +155592,7 @@
                                     "kill_time_in_round": 16140,
                                     "kill_time_in_match": 221999,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e1fa1cdf-619d-53aa-b2a9-70d09fe17d32",
                                     "victim_display_name": "Sullyvan#jiji",
@@ -155671,7 +155671,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2573,
@@ -155702,7 +155702,7 @@
                                     "kill_time_in_round": 17741,
                                     "kill_time_in_match": 223600,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8ab0215f-16d5-5172-8281-498082360aff",
                                     "victim_display_name": "Pirula#nst",
@@ -155771,7 +155771,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2694,
@@ -155796,7 +155796,7 @@
                                     "kill_time_in_round": 36187,
                                     "kill_time_in_match": 242046,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                                     "victim_display_name": "manolito#pe\u00f1a",
@@ -155825,7 +155825,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -111,
@@ -155991,7 +155991,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2760,
@@ -156065,7 +156065,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2691,
@@ -156215,7 +156215,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6265,
@@ -156539,7 +156539,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4429,
@@ -156725,7 +156725,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -156831,7 +156831,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6693,
@@ -156859,7 +156859,7 @@
                                     "killer_display_name": "TH  jose\u30c4#imm",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4732,
@@ -157202,7 +157202,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -157330,7 +157330,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -2503,
@@ -157364,7 +157364,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -2854,
@@ -157505,7 +157505,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1170,
@@ -157668,7 +157668,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3812,
@@ -157937,7 +157937,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3479,
@@ -158031,7 +158031,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3371,
@@ -158167,7 +158167,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 483,
@@ -158227,7 +158227,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2546,
@@ -158369,7 +158369,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3365,
@@ -158436,7 +158436,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -158458,7 +158458,7 @@
                                     "kill_time_in_round": 31244,
                                     "kill_time_in_match": 392637,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e1fa1cdf-619d-53aa-b2a9-70d09fe17d32",
                                     "victim_display_name": "Sullyvan#jiji",
@@ -158497,7 +158497,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2503,
@@ -158678,7 +158678,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4896,
@@ -158813,7 +158813,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2256,
@@ -158944,7 +158944,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -158953,7 +158953,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -158973,7 +158973,7 @@
                                     "killer_display_name": "Pirula#nst",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4704,
@@ -159047,7 +159047,7 @@
                                     "killer_display_name": "Pirula#nst",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6065,
@@ -159175,7 +159175,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -159261,7 +159261,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4684,
@@ -159418,7 +159418,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2256,
@@ -159626,7 +159626,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4875,
@@ -159797,7 +159797,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4891,
@@ -159861,7 +159861,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5126,
@@ -159907,7 +159907,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -159929,7 +159929,7 @@
                                     "kill_time_in_round": 43577,
                                     "kill_time_in_match": 494221,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                                     "victim_display_name": "CT elpan#1795",
@@ -159968,7 +159968,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5126,
@@ -160167,7 +160167,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3656,
@@ -160221,7 +160221,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3669,
@@ -160410,7 +160410,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3656,
@@ -160721,7 +160721,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3656,
@@ -160825,7 +160825,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3656,
@@ -160962,7 +160962,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3656,
@@ -161018,7 +161018,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -161121,7 +161121,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3656,
@@ -161390,7 +161390,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -161410,7 +161410,7 @@
                                     "killer_display_name": "TH  jose\u30c4#imm",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1143,
@@ -161804,7 +161804,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1142,
@@ -161831,7 +161831,7 @@
                                         },
                                         {
                                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                                            "assistant_display_name": "fallen2#0000",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -161921,7 +161921,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                                            "assistant_display_name": "fallen2#0000",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -162067,7 +162067,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -162232,7 +162232,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                                            "assistant_display_name": "fallen2#0000",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -162464,7 +162464,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -162549,7 +162549,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5854,
@@ -162583,7 +162583,7 @@
                                     "killer_display_name": "manolito#pe\u00f1a",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6352,
@@ -162918,7 +162918,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3185,
@@ -163072,7 +163072,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                                            "assistant_display_name": "fallen2#0000",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -163256,7 +163256,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -163427,7 +163427,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4444,
@@ -163449,7 +163449,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                                            "assistant_display_name": "fallen2#0000",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -163527,7 +163527,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5823,
@@ -163549,7 +163549,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                                            "assistant_display_name": "fallen2#0000",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -163721,7 +163721,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2576,
@@ -164046,7 +164046,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1317,
@@ -164107,7 +164107,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -164206,7 +164206,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -164367,7 +164367,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -137,
@@ -164461,7 +164461,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1299,
@@ -164535,7 +164535,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 137,
@@ -164738,7 +164738,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2206,
@@ -164842,7 +164842,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2608,
@@ -165231,7 +165231,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -165253,7 +165253,7 @@
                                     "kill_time_in_round": 29370,
                                     "kill_time_in_match": 826344,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                                     "victim_display_name": "CT elpan#1795",
@@ -165302,7 +165302,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1174,
@@ -165458,7 +165458,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2301,
@@ -165548,7 +165548,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1953,
@@ -165966,7 +165966,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4300,
@@ -166078,7 +166078,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -166164,7 +166164,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5987,
@@ -166220,7 +166220,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -166242,7 +166242,7 @@
                                     "kill_time_in_round": 23468,
                                     "kill_time_in_match": 886822,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                                     "victim_display_name": "manolito#pe\u00f1a",
@@ -166301,7 +166301,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6699,
@@ -166476,7 +166476,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4275,
@@ -166550,7 +166550,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3953,
@@ -166614,7 +166614,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2540,
@@ -167398,7 +167398,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -167427,7 +167427,7 @@
                                     "killer_display_name": "CT elpan#1795",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2601,
@@ -167653,7 +167653,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -167815,7 +167815,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2432,
@@ -168113,7 +168113,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -168142,7 +168142,7 @@
                                     "killer_display_name": "Pirula#nst",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -355,
@@ -168430,7 +168430,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 156,
@@ -168729,7 +168729,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 100,
@@ -168891,7 +168891,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2,
@@ -168991,7 +168991,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -680,
@@ -169037,7 +169037,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -169312,7 +169312,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1429,
@@ -169392,7 +169392,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1320,
@@ -169514,7 +169514,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -169534,7 +169534,7 @@
                                     "killer_display_name": "manolito#pe\u00f1a",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1030,
@@ -169640,7 +169640,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -169764,7 +169764,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4283,
@@ -170039,7 +170039,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3335,
@@ -170100,7 +170100,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -170156,7 +170156,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -170308,7 +170308,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1517,
@@ -170370,7 +170370,7 @@
                         },
                         "planted_by": {
                             "puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "display_name": "Jan\u30ad\u30e9#1234",
+                            "display_name": "fallen2#0000",
                             "team": "Blue"
                         },
                         "plant_site": "A",
@@ -170408,7 +170408,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6770,
@@ -170498,7 +170498,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -170594,7 +170594,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6567,
@@ -170668,7 +170668,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6185,
@@ -170876,7 +170876,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6582,
@@ -170945,7 +170945,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -171031,7 +171031,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6543,
@@ -171188,7 +171188,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5531,
@@ -171328,7 +171328,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -171377,7 +171377,7 @@
                                     "kill_time_in_round": 46149,
                                     "kill_time_in_match": 1306420,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e1fa1cdf-619d-53aa-b2a9-70d09fe17d32",
                                     "victim_display_name": "Sullyvan#jiji",
@@ -171426,7 +171426,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6919,
@@ -171441,7 +171441,7 @@
                                     "kill_time_in_round": 61636,
                                     "kill_time_in_match": 1321907,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                                     "victim_display_name": "CT elpan#1795",
@@ -171480,7 +171480,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5578,
@@ -171495,7 +171495,7 @@
                                     "kill_time_in_round": 64457,
                                     "kill_time_in_match": 1324728,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -171524,7 +171524,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5375,
@@ -171539,7 +171539,7 @@
                                     "kill_time_in_round": 70642,
                                     "kill_time_in_match": 1330913,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8ab0215f-16d5-5172-8281-498082360aff",
                                     "victim_display_name": "Pirula#nst",
@@ -171558,7 +171558,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6568,
@@ -171662,7 +171662,7 @@
                         },
                         "planted_by": {
                             "puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "display_name": "Jan\u30ad\u30e9#1234",
+                            "display_name": "fallen2#0000",
                             "team": "Blue"
                         },
                         "plant_site": "A",
@@ -171740,7 +171740,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6662,
@@ -171873,7 +171873,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6106,
@@ -171977,7 +171977,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -172072,7 +172072,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6101,
@@ -172090,7 +172090,7 @@
                                     "killer_display_name": "Pirula#nst",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5938,
@@ -172261,7 +172261,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -172299,7 +172299,7 @@
                                     "killer_display_name": "manolito#pe\u00f1a",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6480,
@@ -172392,7 +172392,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -172600,7 +172600,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6129,
@@ -172777,7 +172777,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6558,
@@ -172933,7 +172933,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -172955,7 +172955,7 @@
                                     "kill_time_in_round": 36106,
                                     "kill_time_in_match": 1404023,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -173034,7 +173034,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6129,
@@ -173257,7 +173257,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -173371,7 +173371,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1537,
@@ -173405,7 +173405,7 @@
                                     "killer_display_name": "manolito#pe\u00f1a",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1617,
@@ -174002,7 +174002,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1595,
@@ -174058,7 +174058,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -174148,7 +174148,7 @@
                         },
                         "planted_by": {
                             "puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "display_name": "Jan\u30ad\u30e9#1234",
+                            "display_name": "fallen2#0000",
                             "team": "Blue"
                         },
                         "plant_site": "A",
@@ -174196,7 +174196,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6384,
@@ -174311,7 +174311,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6464,
@@ -174381,7 +174381,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6044,
@@ -174432,7 +174432,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -174632,7 +174632,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6583,
@@ -174826,7 +174826,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7059,
@@ -174838,7 +174838,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                                            "assistant_display_name": "fallen2#0000",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -174886,7 +174886,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5997,
@@ -175075,7 +175075,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6747,
@@ -175131,7 +175131,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -175162,7 +175162,7 @@
                                     "kill_time_in_round": 18976,
                                     "kill_time_in_match": 1571742,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                                     "victim_display_name": "CT elpan#1795",
@@ -175231,7 +175231,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6792,
@@ -175413,7 +175413,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3954,
@@ -175475,7 +175475,7 @@
                         },
                         "planted_by": {
                             "puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "display_name": "Jan\u30ad\u30e9#1234",
+                            "display_name": "fallen2#0000",
                             "team": "Blue"
                         },
                         "plant_site": "C",
@@ -175523,7 +175523,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -2543,
@@ -175837,7 +175837,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1182,
@@ -175993,7 +175993,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 398,
@@ -176067,7 +176067,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3652,
@@ -176217,7 +176217,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -176239,7 +176239,7 @@
                                     "kill_time_in_round": 24002,
                                     "kill_time_in_match": 1660339,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -176318,7 +176318,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1220,
@@ -176470,7 +176470,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2543,
@@ -176534,7 +176534,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2402,
@@ -176596,7 +176596,7 @@
                         },
                         "planted_by": {
                             "puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "display_name": "Jan\u30ad\u30e9#1234",
+                            "display_name": "fallen2#0000",
                             "team": "Blue"
                         },
                         "plant_site": "B",
@@ -176614,7 +176614,7 @@
                             },
                             {
                                 "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                "player_display_name": "Jan\u30ad\u30e9#1234",
+                                "player_display_name": "fallen2#0000",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 1791,
@@ -176788,7 +176788,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -176844,7 +176844,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1875,
@@ -176913,7 +176913,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -177009,7 +177009,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -9,
@@ -177103,7 +177103,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -350,
@@ -177270,7 +177270,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 612,
@@ -177410,7 +177410,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -177459,7 +177459,7 @@
                                     "kill_time_in_round": 39193,
                                     "kill_time_in_match": 1783879,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                                     "victim_display_name": "CT elpan#1795",
@@ -177518,7 +177518,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -357,
@@ -177543,7 +177543,7 @@
                                     "kill_time_in_round": 58085,
                                     "kill_time_in_match": 1802771,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -177582,7 +177582,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1866,
@@ -177607,7 +177607,7 @@
                                     "kill_time_in_round": 69884,
                                     "kill_time_in_match": 1814570,
                                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                                    "killer_display_name": "fallen2#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e1fa1cdf-619d-53aa-b2a9-70d09fe17d32",
                                     "victim_display_name": "Sullyvan#jiji",
@@ -177636,7 +177636,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1753,
@@ -177762,7 +177762,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1372,
@@ -177784,7 +177784,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                                            "assistant_display_name": "fallen2#0000",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -178003,7 +178003,7 @@
                                         },
                                         {
                                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                                            "player_display_name": "fallen2#0000",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2063,
@@ -178064,7 +178064,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 7,
                                     "headshots": 1,
@@ -178073,7 +178073,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -178093,7 +178093,7 @@
                                     "killer_display_name": "Pirula#nst",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 780,
@@ -178674,7 +178674,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "receiver_display_name": "Jan\u30ad\u30e9#1234",
+                                    "receiver_display_name": "fallen2#0000",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -178703,7 +178703,7 @@
                                     "killer_display_name": "CT elpan#1795",
                                     "killer_team": "Red",
                                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                                    "victim_display_name": "fallen2#0000",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1985,
@@ -178915,7 +178915,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -179286,7 +179286,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1522,
@@ -179397,7 +179397,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3721,
@@ -179492,7 +179492,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4099,
@@ -179524,7 +179524,7 @@
                     "kill_time_in_match": 80048,
                     "round": 0,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -179583,7 +179583,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4898,
@@ -179668,7 +179668,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4721,
@@ -179684,7 +179684,7 @@
                     "kill_time_in_match": 91219,
                     "round": 0,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "8ab0215f-16d5-5172-8281-498082360aff",
                     "victim_display_name": "Pirula#nst",
@@ -179733,7 +179733,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5799,
@@ -179758,7 +179758,7 @@
                     "killer_display_name": "manolito#pe\u00f1a",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5472,
@@ -179896,7 +179896,7 @@
                     "kill_time_in_match": 145193,
                     "round": 1,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "8ab0215f-16d5-5172-8281-498082360aff",
                     "victim_display_name": "Pirula#nst",
@@ -179985,7 +179985,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2108,
@@ -180090,7 +180090,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2040,
@@ -180185,7 +180185,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1700,
@@ -180214,7 +180214,7 @@
                     "killer_display_name": "CT elpan#1795",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1858,
@@ -180643,7 +180643,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3117,
@@ -180675,7 +180675,7 @@
                     "kill_time_in_match": 221999,
                     "round": 2,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "e1fa1cdf-619d-53aa-b2a9-70d09fe17d32",
                     "victim_display_name": "Sullyvan#jiji",
@@ -180754,7 +180754,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2573,
@@ -180786,7 +180786,7 @@
                     "kill_time_in_match": 223600,
                     "round": 2,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "8ab0215f-16d5-5172-8281-498082360aff",
                     "victim_display_name": "Pirula#nst",
@@ -180855,7 +180855,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2694,
@@ -180940,7 +180940,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2760,
@@ -181015,7 +181015,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2691,
@@ -181080,7 +181080,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -324,
@@ -181106,7 +181106,7 @@
                     "kill_time_in_match": 242046,
                     "round": 2,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                     "victim_display_name": "manolito#pe\u00f1a",
@@ -181135,7 +181135,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -111,
@@ -181261,7 +181261,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6693,
@@ -181376,7 +181376,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4429,
@@ -181395,7 +181395,7 @@
                     "killer_display_name": "TH  jose\u30c4#imm",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4732,
@@ -181801,7 +181801,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3812,
@@ -181906,7 +181906,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3479,
@@ -182001,7 +182001,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3371,
@@ -182086,7 +182086,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3365,
@@ -182172,7 +182172,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 483,
@@ -182253,7 +182253,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1170,
@@ -182275,7 +182275,7 @@
                     "kill_time_in_match": 392637,
                     "round": 4,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "e1fa1cdf-619d-53aa-b2a9-70d09fe17d32",
                     "victim_display_name": "Sullyvan#jiji",
@@ -182314,7 +182314,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2503,
@@ -182359,7 +182359,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2546,
@@ -182470,7 +182470,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2256,
@@ -182575,7 +182575,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2256,
@@ -182686,7 +182686,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4891,
@@ -182771,7 +182771,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4875,
@@ -182862,7 +182862,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4684,
@@ -182881,7 +182881,7 @@
                     "killer_display_name": "Pirula#nst",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4704,
@@ -183067,7 +183067,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5126,
@@ -183083,7 +183083,7 @@
                     "kill_time_in_match": 494221,
                     "round": 5,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                     "victim_display_name": "CT elpan#1795",
@@ -183122,7 +183122,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5126,
@@ -183141,7 +183141,7 @@
                     "killer_display_name": "Pirula#nst",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6065,
@@ -183272,7 +183272,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3656,
@@ -183377,7 +183377,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3656,
@@ -183472,7 +183472,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3656,
@@ -183557,7 +183557,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3656,
@@ -183632,7 +183632,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3656,
@@ -183697,7 +183697,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3656,
@@ -183752,7 +183752,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3669,
@@ -183867,7 +183867,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1142,
@@ -183894,7 +183894,7 @@
                         },
                         {
                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                            "assistant_display_name": "fallen2#0000",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -183907,7 +183907,7 @@
                     "killer_display_name": "TH  jose\u30c4#imm",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1143,
@@ -184106,7 +184106,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                            "assistant_display_name": "fallen2#0000",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -184197,7 +184197,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                            "assistant_display_name": "fallen2#0000",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -184436,7 +184436,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3185,
@@ -184547,7 +184547,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4444,
@@ -184569,7 +184569,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                            "assistant_display_name": "fallen2#0000",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -184648,7 +184648,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5823,
@@ -184670,7 +184670,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                            "assistant_display_name": "fallen2#0000",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -184739,7 +184739,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5854,
@@ -184774,7 +184774,7 @@
                     "killer_display_name": "manolito#pe\u00f1a",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6352,
@@ -184913,7 +184913,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                            "assistant_display_name": "fallen2#0000",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -185164,7 +185164,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2576,
@@ -185269,7 +185269,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -137,
@@ -185364,7 +185364,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1299,
@@ -185449,7 +185449,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1317,
@@ -185524,7 +185524,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 137,
@@ -185645,7 +185645,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2206,
@@ -185750,7 +185750,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2608,
@@ -185845,7 +185845,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2301,
@@ -185936,7 +185936,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1953,
@@ -185962,7 +185962,7 @@
                     "kill_time_in_match": 826344,
                     "round": 10,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                     "victim_display_name": "CT elpan#1795",
@@ -186011,7 +186011,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1174,
@@ -186126,7 +186126,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4300,
@@ -186231,7 +186231,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4275,
@@ -186326,7 +186326,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5987,
@@ -186352,7 +186352,7 @@
                     "kill_time_in_match": 886822,
                     "round": 11,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                     "victim_display_name": "manolito#pe\u00f1a",
@@ -186411,7 +186411,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6699,
@@ -186486,7 +186486,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3953,
@@ -186551,7 +186551,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2540,
@@ -186666,7 +186666,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2432,
@@ -186695,7 +186695,7 @@
                     "killer_display_name": "CT elpan#1795",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2601,
@@ -187290,7 +187290,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 156,
@@ -187401,7 +187401,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 100,
@@ -187502,7 +187502,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2,
@@ -187603,7 +187603,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -680,
@@ -187622,7 +187622,7 @@
                     "killer_display_name": "Pirula#nst",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -355,
@@ -187915,7 +187915,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4283,
@@ -188026,7 +188026,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3335,
@@ -188121,7 +188121,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1517,
@@ -188216,7 +188216,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1429,
@@ -188297,7 +188297,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1320,
@@ -188327,7 +188327,7 @@
                     "killer_display_name": "manolito#pe\u00f1a",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1030,
@@ -188539,7 +188539,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5531,
@@ -188654,7 +188654,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6582,
@@ -188749,7 +188749,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6567,
@@ -188834,7 +188834,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6543,
@@ -188909,7 +188909,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6185,
@@ -188925,7 +188925,7 @@
                     "kill_time_in_match": 1306420,
                     "round": 15,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "e1fa1cdf-619d-53aa-b2a9-70d09fe17d32",
                     "victim_display_name": "Sullyvan#jiji",
@@ -188974,7 +188974,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6919,
@@ -188990,7 +188990,7 @@
                     "kill_time_in_match": 1321907,
                     "round": 15,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                     "victim_display_name": "CT elpan#1795",
@@ -189029,7 +189029,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5578,
@@ -189045,7 +189045,7 @@
                     "kill_time_in_match": 1324728,
                     "round": 15,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -189074,7 +189074,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5375,
@@ -189090,7 +189090,7 @@
                     "kill_time_in_match": 1330913,
                     "round": 15,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "8ab0215f-16d5-5172-8281-498082360aff",
                     "victim_display_name": "Pirula#nst",
@@ -189109,7 +189109,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6568,
@@ -189214,7 +189214,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6558,
@@ -189335,7 +189335,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6129,
@@ -189362,7 +189362,7 @@
                     "kill_time_in_match": 1404023,
                     "round": 16,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -189441,7 +189441,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6129,
@@ -189532,7 +189532,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6101,
@@ -189551,7 +189551,7 @@
                     "killer_display_name": "Pirula#nst",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5938,
@@ -189737,7 +189737,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6106,
@@ -189756,7 +189756,7 @@
                     "killer_display_name": "manolito#pe\u00f1a",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6480,
@@ -189989,7 +189989,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1595,
@@ -190094,7 +190094,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1537,
@@ -190129,7 +190129,7 @@
                     "killer_display_name": "manolito#pe\u00f1a",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1617,
@@ -190470,7 +190470,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3954,
@@ -190575,7 +190575,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6747,
@@ -190601,7 +190601,7 @@
                     "kill_time_in_match": 1571742,
                     "round": 18,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                     "victim_display_name": "CT elpan#1795",
@@ -190670,7 +190670,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6792,
@@ -190781,7 +190781,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6583,
@@ -190872,7 +190872,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7059,
@@ -190884,7 +190884,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                            "assistant_display_name": "fallen2#0000",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -190953,7 +190953,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6464,
@@ -191024,7 +191024,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6044,
@@ -191079,7 +191079,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5997,
@@ -191184,7 +191184,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1182,
@@ -191210,7 +191210,7 @@
                     "kill_time_in_match": 1660339,
                     "round": 19,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -191289,7 +191289,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1220,
@@ -191390,7 +191390,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 398,
@@ -191475,7 +191475,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2543,
@@ -191550,7 +191550,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3652,
@@ -191615,7 +191615,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2402,
@@ -191730,7 +191730,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 612,
@@ -191835,7 +191835,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -9,
@@ -191930,7 +191930,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -350,
@@ -191956,7 +191956,7 @@
                     "kill_time_in_match": 1783879,
                     "round": 20,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "9a5a6155-cc4a-51e6-aad3-1fedcb9bac99",
                     "victim_display_name": "CT elpan#1795",
@@ -192015,7 +192015,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": -357,
@@ -192090,7 +192090,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1372,
@@ -192112,7 +192112,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "assistant_display_name": "Jan\u30ad\u30e9#1234",
+                            "assistant_display_name": "fallen2#0000",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -192122,7 +192122,7 @@
                     "kill_time_in_match": 1802771,
                     "round": 20,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "42e5822c-e6fa-5a0f-b064-5777e8ce0327",
                     "victim_display_name": "TH  jose\u30c4#imm",
@@ -192161,7 +192161,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1866,
@@ -192226,7 +192226,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1875,
@@ -192242,7 +192242,7 @@
                     "kill_time_in_match": 1814570,
                     "round": 20,
                     "killer_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "killer_display_name": "Jan\u30ad\u30e9#1234",
+                    "killer_display_name": "fallen2#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "e1fa1cdf-619d-53aa-b2a9-70d09fe17d32",
                     "victim_display_name": "Sullyvan#jiji",
@@ -192271,7 +192271,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1753,
@@ -192290,7 +192290,7 @@
                     "killer_display_name": "Pirula#nst",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 780,
@@ -192491,7 +192491,7 @@
                         },
                         {
                             "player_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                            "player_display_name": "Jan\u30ad\u30e9#1234",
+                            "player_display_name": "fallen2#0000",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2063,
@@ -192520,7 +192520,7 @@
                     "killer_display_name": "CT elpan#1795",
                     "killer_team": "Red",
                     "victim_puuid": "0ce3a8a9-4dc0-5517-bd68-0cf91f2639bc",
-                    "victim_display_name": "Jan\u30ad\u30e9#1234",
+                    "victim_display_name": "fallen2#0000",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1985,
