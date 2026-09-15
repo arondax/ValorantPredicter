@@ -922,9 +922,9 @@
             "nombre": "Bonnie",
             "tag": "4106",
             "region": "eu",
-            "apariciones": 53,
+            "apariciones": 56,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-14"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "RauL BeCaNYaHu",
@@ -4557,9 +4557,9 @@
             "nombre": "RockZz",
             "tag": "1337",
             "region": "eu",
-            "apariciones": 42,
+            "apariciones": 45,
             "amigo_desde": "2026-09-02",
-            "ultima_vez": "2026-09-14"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "Hater1deMaduro",
@@ -4810,9 +4810,9 @@
             "nombre": "sTR0",
             "tag": "Stro",
             "region": "eu",
-            "apariciones": 11,
+            "apariciones": 12,
             "amigo_desde": "2026-09-08",
-            "ultima_vez": "2026-09-14"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "MartaGamer32",
@@ -4941,8 +4941,9 @@
             "nombre": "pulpoAfeira",
             "tag": "2222",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-09-11"
+            "apariciones": 5,
+            "amigo_desde": "2026-09-11",
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "3mo Talal",
@@ -5000,6 +5001,13 @@
             "region": "eu",
             "apariciones": 4,
             "amigo_desde": "2026-09-14"
+        },
+        {
+            "nombre": "Lia24",
+            "tag": "2388",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-09-15"
         }
     ]
 }
