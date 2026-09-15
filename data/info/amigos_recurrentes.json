@@ -505,7 +505,7 @@
             "nombre": "ikiler6",
             "tag": "9997",
             "region": "eu",
-            "apariciones": 21,
+            "apariciones": 26,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-09-15"
         },
@@ -2208,9 +2208,9 @@
             "nombre": "LefazoC\u00f3smico",
             "tag": "Boca",
             "region": "eu",
-            "apariciones": 71,
+            "apariciones": 75,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-14"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "C4volp",
@@ -2867,8 +2867,9 @@
             "nombre": "Maximeron",
             "tag": "5858",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "ffrostmourne",
@@ -3842,9 +3843,9 @@
             "nombre": "EFN I Choppe",
             "tag": "1234",
             "region": "eu",
-            "apariciones": 18,
+            "apariciones": 22,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-14"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "PinkMonster",
@@ -3973,9 +3974,9 @@
             "nombre": "talibandudu",
             "tag": "chuen",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 10,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-03"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "PazPadilla",
@@ -4034,9 +4035,9 @@
             "nombre": "\u7231\u6cfc\u65af\u5766",
             "tag": "ALTF4",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 10,
             "amigo_desde": "2026-08-25",
-            "ultima_vez": "2026-09-11"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "iizanmrtnzz",
@@ -4050,9 +4051,9 @@
             "nombre": "jrande Bosta",
             "tag": "EUW",
             "region": "eu",
-            "apariciones": 4,
+            "apariciones": 5,
             "amigo_desde": "2026-08-25",
-            "ultima_vez": "2026-08-27"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "Kuromi",
@@ -4135,9 +4136,9 @@
             "nombre": "LefazoEstelar",
             "tag": "cara",
             "region": "eu",
-            "apariciones": 23,
+            "apariciones": 25,
             "amigo_desde": "2026-08-26",
-            "ultima_vez": "2026-09-04"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "KEKSIKmg",
@@ -4487,9 +4488,9 @@
             "nombre": "Alvaro28",
             "tag": "APC",
             "region": "eu",
-            "apariciones": 12,
+            "apariciones": 17,
             "amigo_desde": "2026-09-02",
-            "ultima_vez": "2026-09-13"
+            "ultima_vez": "2026-09-15"
         },
         {
             "nombre": "st3r",
@@ -5014,6 +5015,13 @@
             "tag": "sun",
             "region": "eu",
             "apariciones": 4,
+            "amigo_desde": "2026-09-15"
+        },
+        {
+            "nombre": "Drangoner",
+            "tag": "EUW",
+            "region": "eu",
+            "apariciones": 3,
             "amigo_desde": "2026-09-15"
         }
     ]
