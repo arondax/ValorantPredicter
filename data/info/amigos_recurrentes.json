@@ -1431,9 +1431,9 @@
             "nombre": "luckyfraz",
             "tag": "420",
             "region": "eu",
-            "apariciones": 15,
+            "apariciones": 17,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-14"
+            "ultima_vez": "2026-09-17"
         },
         {
             "nombre": "Pr3nyaPayas",
@@ -3814,16 +3814,17 @@
             "nombre": "Baby M",
             "tag": "8655",
             "region": "eu",
-            "apariciones": 7,
+            "apariciones": 8,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-27"
+            "ultima_vez": "2026-09-17"
         },
         {
             "nombre": "Uiste",
             "tag": "8653",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-09-17"
         },
         {
             "nombre": "Kingsthroat00",
@@ -4288,9 +4289,9 @@
             "nombre": "mutu",
             "tag": "AWP",
             "region": "eu",
-            "apariciones": 42,
+            "apariciones": 46,
             "amigo_desde": "2026-08-27",
-            "ultima_vez": "2026-09-16"
+            "ultima_vez": "2026-09-17"
         },
         {
             "nombre": "0rumble",
@@ -4597,8 +4598,9 @@
             "nombre": "MaDD",
             "tag": "AWP",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-09-03"
+            "apariciones": 7,
+            "amigo_desde": "2026-09-03",
+            "ultima_vez": "2026-09-17"
         },
         {
             "nombre": "prozac",
@@ -4773,9 +4775,9 @@
             "nombre": "mhotz",
             "tag": "kzn33",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 7,
             "amigo_desde": "2026-09-07",
-            "ultima_vez": "2026-09-07"
+            "ultima_vez": "2026-09-17"
         },
         {
             "nombre": "FUN\u0394FI",
@@ -4972,9 +4974,9 @@
             "nombre": "Lexuuss",
             "tag": "uWu",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 8,
             "amigo_desde": "2026-09-12",
-            "ultima_vez": "2026-09-13"
+            "ultima_vez": "2026-09-17"
         },
         {
             "nombre": "la truite",
@@ -5039,6 +5041,13 @@
             "region": "eu",
             "apariciones": 5,
             "amigo_desde": "2026-09-16"
+        },
+        {
+            "nombre": "KuRu",
+            "tag": "420",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-09-17"
         }
     ]
 }
