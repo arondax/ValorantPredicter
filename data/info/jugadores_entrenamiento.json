@@ -145,12 +145,6 @@
             "activo": true
         },
         {
-            "nombre": "Nomade",
-            "tag": "FRIO",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "KOLDY x CHIKI",
             "tag": "RETRN",
             "region": "eu",
@@ -2487,6 +2481,14 @@
         {
             "nombre": "MIBR ASPAS",
             "tag": "0009",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-09-18",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Nomade",
+            "tag": "FRIO",
             "region": "eu",
             "activo": true,
             "desde": "2026-09-18",
