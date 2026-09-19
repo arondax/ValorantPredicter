@@ -4299,7 +4299,7 @@
             "nombre": "0rumble",
             "tag": "2000",
             "region": "eu",
-            "apariciones": 13,
+            "apariciones": 14,
             "amigo_desde": "2026-08-28",
             "ultima_vez": "2026-09-19"
         },
@@ -5131,15 +5131,17 @@
             "nombre": "CaN",
             "tag": "elx",
             "region": "eu",
-            "apariciones": 5,
-            "amigo_desde": "2026-09-19"
+            "apariciones": 7,
+            "amigo_desde": "2026-09-19",
+            "ultima_vez": "2026-09-19"
         },
         {
             "nombre": "Pecolsito",
             "tag": "Frost",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-09-19"
+            "apariciones": 4,
+            "amigo_desde": "2026-09-19",
+            "ultima_vez": "2026-09-19"
         },
         {
             "nombre": "MaStErX",
@@ -5167,6 +5169,20 @@
             "tag": "777",
             "region": "eu",
             "apariciones": 3,
+            "amigo_desde": "2026-09-19"
+        },
+        {
+            "nombre": "sponge",
+            "tag": "amu",
+            "region": "eu",
+            "apariciones": 4,
+            "amigo_desde": "2026-09-19"
+        },
+        {
+            "nombre": "Stepwait",
+            "tag": "GOD",
+            "region": "eu",
+            "apariciones": 5,
             "amigo_desde": "2026-09-19"
         }
     ]
