@@ -2,6 +2,26 @@
     "status": 200,
     "data": [
         {
+            "is_available": false,
+            "metadata": null,
+            "players": null,
+            "observers": [],
+            "coaches": [],
+            "teams": null,
+            "rounds": [],
+            "kills": []
+        },
+        {
+            "is_available": false,
+            "metadata": null,
+            "players": null,
+            "observers": [],
+            "coaches": [],
+            "teams": null,
+            "rounds": [],
+            "kills": []
+        },
+        {
             "is_available": true,
             "metadata": {
                 "map": "Lotus",
@@ -57185,26 +57205,6 @@
                     "assistants": []
                 }
             ]
-        },
-        {
-            "is_available": false,
-            "metadata": null,
-            "players": null,
-            "observers": [],
-            "coaches": [],
-            "teams": null,
-            "rounds": [],
-            "kills": []
-        },
-        {
-            "is_available": false,
-            "metadata": null,
-            "players": null,
-            "observers": [],
-            "coaches": [],
-            "teams": null,
-            "rounds": [],
-            "kills": []
         },
         {
             "is_available": false,
