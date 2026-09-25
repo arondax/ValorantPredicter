@@ -2,6 +2,16 @@
     "status": 200,
     "data": [
         {
+            "is_available": false,
+            "metadata": null,
+            "players": null,
+            "observers": [],
+            "coaches": [],
+            "teams": null,
+            "rounds": [],
+            "kills": []
+        },
+        {
             "is_available": true,
             "metadata": {
                 "map": "Split",
@@ -78823,16 +78833,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "is_available": false,
-            "metadata": null,
-            "players": null,
-            "observers": [],
-            "coaches": [],
-            "teams": null,
-            "rounds": [],
-            "kills": []
         },
         {
             "is_available": false,
