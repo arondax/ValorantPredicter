@@ -538,7 +538,7 @@
                     },
                     {
                         "puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                        "name": "Danjago",
+                        "name": "ZIPAM",
                         "tag": "S1M",
                         "team": "Red",
                         "level": 262,
@@ -905,7 +905,7 @@
                     },
                     {
                         "puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                        "name": "Danjago",
+                        "name": "ZIPAM",
                         "tag": "S1M",
                         "team": "Red",
                         "level": 262,
@@ -1582,7 +1582,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -1602,7 +1602,7 @@
                                     "killer_display_name": "Skipper#44112",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1335,
@@ -1704,7 +1704,7 @@
                                 },
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -1770,7 +1770,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2279,
@@ -1927,7 +1927,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -5537,
@@ -2183,7 +2183,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -5537,
@@ -2273,7 +2273,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -5537,
@@ -2339,7 +2339,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -2361,7 +2361,7 @@
                                     "kill_time_in_round": 45193,
                                     "kill_time_in_match": 100256,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "cd936c30-8da2-5bd3-8f99-495642490d71",
                                     "victim_display_name": "IFRABTC#OMG",
@@ -2400,7 +2400,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1605,
@@ -2598,7 +2598,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -5537,
@@ -2787,7 +2787,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "assistant_display_name": "Danjago#S1M",
+                                            "assistant_display_name": "ZIPAM#S1M",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -3297,7 +3297,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -3326,7 +3326,7 @@
                                     "killer_display_name": "picapiedra010#pedro",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1469,
@@ -3646,7 +3646,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3881,7 +3881,7 @@
                             },
                             {
                                 "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                "player_display_name": "Danjago#S1M",
+                                "player_display_name": "ZIPAM#S1M",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1275,
@@ -4017,7 +4017,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1384,
@@ -4164,7 +4164,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2897,
@@ -4446,7 +4446,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2904,
@@ -4510,7 +4510,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1581,
@@ -4608,7 +4608,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4769,7 +4769,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2609,
@@ -4873,7 +4873,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2848,
@@ -5540,7 +5540,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -5560,7 +5560,7 @@
                                     "killer_display_name": "IFRABTC#OMG",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1538,
@@ -5980,7 +5980,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -6510,7 +6510,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "assistant_display_name": "Danjago#S1M",
+                                            "assistant_display_name": "ZIPAM#S1M",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -7008,7 +7008,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -7028,7 +7028,7 @@
                                     "killer_display_name": "picapiedra010#pedro",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 107,
@@ -7359,7 +7359,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7549,7 +7549,7 @@
                             },
                             {
                                 "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                "player_display_name": "Danjago#S1M",
+                                "player_display_name": "ZIPAM#S1M",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 538,
@@ -7830,7 +7830,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1468,
@@ -7910,7 +7910,7 @@
                                 },
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -8047,7 +8047,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 728,
@@ -8131,7 +8131,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 854,
@@ -8229,7 +8229,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8260,7 +8260,7 @@
                                     "kill_time_in_round": 32037,
                                     "kill_time_in_match": 483699,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "a9257d56-3127-59b2-806c-94ec826de8a2",
                                     "victim_display_name": "elvaquilla#gokko",
@@ -8309,7 +8309,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 852,
@@ -8344,7 +8344,7 @@
                                     "kill_time_in_round": 34555,
                                     "kill_time_in_match": 486217,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "978d1412-3e2e-5237-9b09-ee757a272835",
                                     "victim_display_name": "picapiedra010#pedro",
@@ -8383,7 +8383,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1235,
@@ -8592,7 +8592,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2041,
@@ -8692,7 +8692,7 @@
                             },
                             {
                                 "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                "player_display_name": "Danjago#S1M",
+                                "player_display_name": "ZIPAM#S1M",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2010,
@@ -8876,7 +8876,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 779,
@@ -9093,7 +9093,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -9290,7 +9290,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1517,
@@ -9380,7 +9380,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2133,
@@ -9454,7 +9454,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1218,
@@ -9528,7 +9528,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2019,
@@ -9584,7 +9584,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9606,7 +9606,7 @@
                                     "kill_time_in_round": 8740,
                                     "kill_time_in_match": 531966,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "978d1412-3e2e-5237-9b09-ee757a272835",
                                     "victim_display_name": "picapiedra010#pedro",
@@ -9675,7 +9675,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 818,
@@ -9804,7 +9804,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -9824,7 +9824,7 @@
                                     "killer_display_name": "MORDEX#EGO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 439,
@@ -10530,7 +10530,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -10559,7 +10559,7 @@
                                     "killer_display_name": "picapiedra010#pedro",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1053,
@@ -10929,7 +10929,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11193,7 +11193,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11704,7 +11704,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -11733,7 +11733,7 @@
                                     "killer_display_name": "picapiedra010#pedro",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 529,
@@ -12082,7 +12082,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 654,
@@ -12148,7 +12148,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -12573,7 +12573,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1375,
@@ -12767,7 +12767,7 @@
                             },
                             {
                                 "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                "player_display_name": "Danjago#S1M",
+                                "player_display_name": "ZIPAM#S1M",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 955,
@@ -12974,7 +12974,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 952,
@@ -13084,7 +13084,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 952,
@@ -13255,7 +13255,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 958,
@@ -13440,7 +13440,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "assistant_display_name": "Danjago#S1M",
+                                            "assistant_display_name": "ZIPAM#S1M",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -13705,7 +13705,7 @@
                                 },
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 6,
                                     "headshots": 3,
@@ -13725,7 +13725,7 @@
                                     "killer_display_name": "picapiedra010#pedro",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1174,
@@ -13921,7 +13921,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14111,7 +14111,7 @@
                             },
                             {
                                 "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                "player_display_name": "Danjago#S1M",
+                                "player_display_name": "ZIPAM#S1M",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2733,
@@ -14311,7 +14311,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -460,
@@ -14478,7 +14478,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1879,
@@ -14635,7 +14635,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1403,
@@ -14803,7 +14803,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2484,
@@ -14857,7 +14857,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2763,
@@ -14903,7 +14903,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14934,7 +14934,7 @@
                                     "kill_time_in_round": 16168,
                                     "kill_time_in_match": 909972,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "cd936c30-8da2-5bd3-8f99-495642490d71",
                                     "victim_display_name": "IFRABTC#OMG",
@@ -14983,7 +14983,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -456,
@@ -15008,7 +15008,7 @@
                                     "kill_time_in_round": 48961,
                                     "kill_time_in_match": 942765,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "a9257d56-3127-59b2-806c-94ec826de8a2",
                                     "victim_display_name": "elvaquilla#gokko",
@@ -15027,7 +15027,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2680,
@@ -15188,7 +15188,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1329,
@@ -15242,7 +15242,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2986,
@@ -15264,7 +15264,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "assistant_display_name": "Danjago#S1M",
+                                            "assistant_display_name": "ZIPAM#S1M",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -15700,7 +15700,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -15729,7 +15729,7 @@
                                     "killer_display_name": "picapiedra010#pedro",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1650,
@@ -16059,7 +16059,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -16562,7 +16562,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "assistant_display_name": "Danjago#S1M",
+                                            "assistant_display_name": "ZIPAM#S1M",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -16658,7 +16658,7 @@
                                 },
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -16772,7 +16772,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3254,
@@ -16790,7 +16790,7 @@
                                     "killer_display_name": "IFRABTC#OMG",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2713,
@@ -17076,7 +17076,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4456,
@@ -17265,7 +17265,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -17425,7 +17425,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17465,7 +17465,7 @@
                                     "kill_time_in_round": 10447,
                                     "kill_time_in_match": 1080743,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "978d1412-3e2e-5237-9b09-ee757a272835",
                                     "victim_display_name": "picapiedra010#pedro",
@@ -17544,7 +17544,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2077,
@@ -17976,7 +17976,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -18023,7 +18023,7 @@
                                     "killer_display_name": "picapiedra010#pedro",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2064,
@@ -18565,7 +18565,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1965,
@@ -18631,7 +18631,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -18791,7 +18791,7 @@
                             },
                             {
                                 "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                "player_display_name": "Danjago#S1M",
+                                "player_display_name": "ZIPAM#S1M",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2992,
@@ -18939,7 +18939,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1055,
@@ -19128,7 +19128,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1664,
@@ -19346,7 +19346,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 373,
@@ -19522,7 +19522,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -40,
@@ -19596,7 +19596,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4654,
@@ -19652,7 +19652,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -19760,7 +19760,7 @@
                                 },
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -19826,7 +19826,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4666,
@@ -19854,7 +19854,7 @@
                                     "killer_display_name": "MORDEX#EGO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2620,
@@ -20057,7 +20057,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -120,
@@ -20151,7 +20151,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -146,
@@ -20397,7 +20397,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -133,
@@ -20471,7 +20471,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1302,
@@ -20612,7 +20612,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 714,
@@ -20686,7 +20686,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -535,
@@ -20848,7 +20848,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1823,
@@ -20956,7 +20956,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -21232,7 +21232,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4903,
@@ -21493,7 +21493,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 630,
@@ -21639,7 +21639,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 256,
@@ -21703,7 +21703,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -524,
@@ -21868,7 +21868,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3156,
@@ -21952,7 +21952,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2651,
@@ -22016,7 +22016,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1163,
@@ -22114,7 +22114,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -22304,7 +22304,7 @@
                             },
                             {
                                 "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                "player_display_name": "Danjago#S1M",
+                                "player_display_name": "ZIPAM#S1M",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2790,
@@ -22341,7 +22341,7 @@
                         },
                         "defused_by": {
                             "puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "display_name": "Danjago#S1M",
+                            "display_name": "ZIPAM#S1M",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 51597,
@@ -22358,7 +22358,7 @@
                             },
                             {
                                 "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                "player_display_name": "Danjago#S1M",
+                                "player_display_name": "ZIPAM#S1M",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1110,
@@ -22444,7 +22444,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -22590,7 +22590,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3121,
@@ -22746,7 +22746,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2606,
@@ -22820,7 +22820,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3235,
@@ -22967,7 +22967,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3715,
@@ -23145,7 +23145,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4557,
@@ -23253,7 +23253,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -23284,7 +23284,7 @@
                                     "kill_time_in_round": 34093,
                                     "kill_time_in_match": 1549262,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "978d1412-3e2e-5237-9b09-ee757a272835",
                                     "victim_display_name": "picapiedra010#pedro",
@@ -23323,7 +23323,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3151,
@@ -23354,7 +23354,7 @@
                                     "kill_time_in_round": 38018,
                                     "kill_time_in_match": 1553187,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "af721066-af92-5610-9708-325018623257",
                                     "victim_display_name": "Skipper#44112",
@@ -23383,7 +23383,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3230,
@@ -24061,7 +24061,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -24099,7 +24099,7 @@
                                     "killer_display_name": "picapiedra010#pedro",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 925,
@@ -24577,7 +24577,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -24916,7 +24916,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2693,
@@ -25000,7 +25000,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3077,
@@ -25064,7 +25064,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2856,
@@ -25313,7 +25313,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3062,
@@ -25440,7 +25440,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2619,
@@ -25629,7 +25629,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3165,
@@ -25685,7 +25685,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -25716,7 +25716,7 @@
                                     "kill_time_in_round": 21621,
                                     "kill_time_in_match": 1725894,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "d3eb2d0b-ddef-5d6f-bcfb-344828e38a62",
                                     "victim_display_name": "MORDEX#EGO",
@@ -25805,7 +25805,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2879,
@@ -26322,7 +26322,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 491,
@@ -26531,7 +26531,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -26560,7 +26560,7 @@
                                     "killer_display_name": "picapiedra010#pedro",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3066,
@@ -26960,7 +26960,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -27291,7 +27291,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -27329,7 +27329,7 @@
                                     "killer_display_name": "IFRABTC#OMG",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1506,
@@ -27862,7 +27862,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -27884,7 +27884,7 @@
                                     "kill_time_in_round": 13679,
                                     "kill_time_in_match": 1891653,
                                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "killer_display_name": "Danjago#S1M",
+                                    "killer_display_name": "ZIPAM#S1M",
                                     "killer_team": "Red",
                                     "victim_puuid": "af721066-af92-5610-9708-325018623257",
                                     "victim_display_name": "Skipper#44112",
@@ -27953,7 +27953,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1299,
@@ -28270,7 +28270,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1616,
@@ -28640,7 +28640,7 @@
                                 },
                                 {
                                     "receiver_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "receiver_display_name": "Danjago#S1M",
+                                    "receiver_display_name": "ZIPAM#S1M",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -28735,7 +28735,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2982,
@@ -28773,7 +28773,7 @@
                                     "killer_display_name": "IFRABTC#OMG",
                                     "killer_team": "Blue",
                                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                    "victim_display_name": "Danjago#S1M",
+                                    "victim_display_name": "ZIPAM#S1M",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2698,
@@ -29098,7 +29098,7 @@
                                         },
                                         {
                                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                                            "player_display_name": "Danjago#S1M",
+                                            "player_display_name": "ZIPAM#S1M",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3039,
@@ -29300,7 +29300,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -29772,7 +29772,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -5537,
@@ -29883,7 +29883,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -5537,
@@ -29978,7 +29978,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -5537,
@@ -30069,7 +30069,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -5537,
@@ -30154,7 +30154,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -2279,
@@ -30180,7 +30180,7 @@
                     "kill_time_in_match": 100256,
                     "round": 0,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "cd936c30-8da2-5bd3-8f99-495642490d71",
                     "victim_display_name": "IFRABTC#OMG",
@@ -30219,7 +30219,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1605,
@@ -30248,7 +30248,7 @@
                     "killer_display_name": "Skipper#44112",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1335,
@@ -30309,7 +30309,7 @@
                     "killer_display_name": "picapiedra010#pedro",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1469,
@@ -30777,7 +30777,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "assistant_display_name": "Danjago#S1M",
+                            "assistant_display_name": "ZIPAM#S1M",
                             "assistant_team": "Red"
                         }
                     ]
@@ -31031,7 +31031,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 1384,
@@ -31136,7 +31136,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2609,
@@ -31241,7 +31241,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2848,
@@ -31326,7 +31326,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2897,
@@ -31401,7 +31401,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2904,
@@ -31466,7 +31466,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 1581,
@@ -31495,7 +31495,7 @@
                     "killer_display_name": "IFRABTC#OMG",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1538,
@@ -32153,7 +32153,7 @@
                     "killer_display_name": "picapiedra010#pedro",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 107,
@@ -32366,7 +32366,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "assistant_display_name": "Danjago#S1M",
+                            "assistant_display_name": "ZIPAM#S1M",
                             "assistant_team": "Red"
                         }
                     ]
@@ -32850,7 +32850,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -2041,
@@ -32955,7 +32955,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1468,
@@ -33050,7 +33050,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 728,
@@ -33086,7 +33086,7 @@
                     "kill_time_in_match": 483699,
                     "round": 5,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "a9257d56-3127-59b2-806c-94ec826de8a2",
                     "victim_display_name": "elvaquilla#gokko",
@@ -33135,7 +33135,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 852,
@@ -33220,7 +33220,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 854,
@@ -33246,7 +33246,7 @@
                     "kill_time_in_match": 486217,
                     "round": 5,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "978d1412-3e2e-5237-9b09-ee757a272835",
                     "victim_display_name": "picapiedra010#pedro",
@@ -33285,7 +33285,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 1235,
@@ -33390,7 +33390,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 779,
@@ -33426,7 +33426,7 @@
                     "kill_time_in_match": 531966,
                     "round": 6,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "978d1412-3e2e-5237-9b09-ee757a272835",
                     "victim_display_name": "picapiedra010#pedro",
@@ -33495,7 +33495,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 818,
@@ -33596,7 +33596,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 1517,
@@ -33687,7 +33687,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2133,
@@ -33762,7 +33762,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 1218,
@@ -33837,7 +33837,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2019,
@@ -33866,7 +33866,7 @@
                     "killer_display_name": "MORDEX#EGO",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 439,
@@ -33927,7 +33927,7 @@
                     "killer_display_name": "picapiedra010#pedro",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1053,
@@ -34710,7 +34710,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1375,
@@ -34815,7 +34815,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 654,
@@ -34854,7 +34854,7 @@
                     "killer_display_name": "picapiedra010#pedro",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 529,
@@ -35461,7 +35461,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 952,
@@ -35572,7 +35572,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 952,
@@ -35673,7 +35673,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 958,
@@ -35702,7 +35702,7 @@
                     "killer_display_name": "picapiedra010#pedro",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1174,
@@ -35855,7 +35855,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "assistant_display_name": "Danjago#S1M",
+                            "assistant_display_name": "ZIPAM#S1M",
                             "assistant_team": "Red"
                         }
                     ]
@@ -36160,7 +36160,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1879,
@@ -36265,7 +36265,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1403,
@@ -36360,7 +36360,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1329,
@@ -36445,7 +36445,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -460,
@@ -36471,7 +36471,7 @@
                     "kill_time_in_match": 909972,
                     "round": 10,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "cd936c30-8da2-5bd3-8f99-495642490d71",
                     "victim_display_name": "IFRABTC#OMG",
@@ -36520,7 +36520,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -456,
@@ -36585,7 +36585,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2484,
@@ -36640,7 +36640,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2986,
@@ -36662,7 +36662,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "assistant_display_name": "Danjago#S1M",
+                            "assistant_display_name": "ZIPAM#S1M",
                             "assistant_team": "Red"
                         }
                     ]
@@ -36701,7 +36701,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2763,
@@ -36717,7 +36717,7 @@
                     "kill_time_in_match": 942765,
                     "round": 10,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "a9257d56-3127-59b2-806c-94ec826de8a2",
                     "victim_display_name": "elvaquilla#gokko",
@@ -36736,7 +36736,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2680,
@@ -36761,7 +36761,7 @@
                     "killer_display_name": "picapiedra010#pedro",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1650,
@@ -37353,7 +37353,7 @@
                     "kill_time_in_match": 1080743,
                     "round": 12,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "978d1412-3e2e-5237-9b09-ee757a272835",
                     "victim_display_name": "picapiedra010#pedro",
@@ -37432,7 +37432,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2077,
@@ -37547,7 +37547,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 4456,
@@ -37652,7 +37652,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3254,
@@ -37671,7 +37671,7 @@
                     "killer_display_name": "IFRABTC#OMG",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2713,
@@ -37824,7 +37824,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "assistant_display_name": "Danjago#S1M",
+                            "assistant_display_name": "ZIPAM#S1M",
                             "assistant_team": "Red"
                         }
                     ]
@@ -38119,7 +38119,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 1965,
@@ -38158,7 +38158,7 @@
                     "killer_display_name": "picapiedra010#pedro",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2064,
@@ -38600,7 +38600,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -40,
@@ -38705,7 +38705,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 373,
@@ -38800,7 +38800,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1664,
@@ -38885,7 +38885,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1055,
@@ -38970,7 +38970,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -4666,
@@ -39035,7 +39035,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -4654,
@@ -39064,7 +39064,7 @@
                     "killer_display_name": "MORDEX#EGO",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2620,
@@ -39195,7 +39195,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 1823,
@@ -39300,7 +39300,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -120,
@@ -39395,7 +39395,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -133,
@@ -39490,7 +39490,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -146,
@@ -39571,7 +39571,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 714,
@@ -39646,7 +39646,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -535,
@@ -39707,7 +39707,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1302,
@@ -39808,7 +39808,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 630,
@@ -39913,7 +39913,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 4903,
@@ -40018,7 +40018,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3156,
@@ -40103,7 +40103,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2651,
@@ -40178,7 +40178,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 256,
@@ -40243,7 +40243,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -524,
@@ -40308,7 +40308,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": -1163,
@@ -40413,7 +40413,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 4557,
@@ -40518,7 +40518,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3715,
@@ -40624,7 +40624,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3121,
@@ -40719,7 +40719,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2606,
@@ -40794,7 +40794,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3235,
@@ -40820,7 +40820,7 @@
                     "kill_time_in_match": 1549262,
                     "round": 17,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "978d1412-3e2e-5237-9b09-ee757a272835",
                     "victim_display_name": "picapiedra010#pedro",
@@ -40859,7 +40859,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3151,
@@ -40891,7 +40891,7 @@
                     "kill_time_in_match": 1553187,
                     "round": 17,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "af721066-af92-5610-9708-325018623257",
                     "victim_display_name": "Skipper#44112",
@@ -40920,7 +40920,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3230,
@@ -40949,7 +40949,7 @@
                     "killer_display_name": "picapiedra010#pedro",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 925,
@@ -41621,7 +41621,7 @@
                     "kill_time_in_match": 1725894,
                     "round": 19,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "d3eb2d0b-ddef-5d6f-bcfb-344828e38a62",
                     "victim_display_name": "MORDEX#EGO",
@@ -41710,7 +41710,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2879,
@@ -41821,7 +41821,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2693,
@@ -41916,7 +41916,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3165,
@@ -42001,7 +42001,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3077,
@@ -42076,7 +42076,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2619,
@@ -42151,7 +42151,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3062,
@@ -42216,7 +42216,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2856,
@@ -42321,7 +42321,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 491,
@@ -42360,7 +42360,7 @@
                     "killer_display_name": "picapiedra010#pedro",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3066,
@@ -43026,7 +43026,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 1616,
@@ -43062,7 +43062,7 @@
                     "kill_time_in_match": 1891653,
                     "round": 21,
                     "killer_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "killer_display_name": "Danjago#S1M",
+                    "killer_display_name": "ZIPAM#S1M",
                     "killer_team": "Red",
                     "victim_puuid": "af721066-af92-5610-9708-325018623257",
                     "victim_display_name": "Skipper#44112",
@@ -43131,7 +43131,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 1299,
@@ -43176,7 +43176,7 @@
                     "killer_display_name": "IFRABTC#OMG",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1506,
@@ -43627,7 +43627,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 3039,
@@ -43732,7 +43732,7 @@
                         },
                         {
                             "player_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                            "player_display_name": "Danjago#S1M",
+                            "player_display_name": "ZIPAM#S1M",
                             "player_team": "Red",
                             "location": {
                                 "x": 2982,
@@ -43771,7 +43771,7 @@
                     "killer_display_name": "IFRABTC#OMG",
                     "killer_team": "Blue",
                     "victim_puuid": "875bf3d3-f5c2-5f51-a4af-22a13df686da",
-                    "victim_display_name": "Danjago#S1M",
+                    "victim_display_name": "ZIPAM#S1M",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2698,
