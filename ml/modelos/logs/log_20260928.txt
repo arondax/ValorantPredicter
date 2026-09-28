@@ -1,0 +1,78 @@
+Log de entrenamiento - 20260928
+==================================================
+Dataset: 20260928 | Tamaño: 7406
+
+========================================
+  Regresión Lineal
+========================================
+  [rondas_ganadas] MAE: 2.16
+  [rondas_ganadas] RMSE: 2.63
+  [rondas_ganadas] R²: 0.4445
+  CV R² (5-fold): 0.5046 ± 0.0166
+Muestras totales: 7406 | Train: 5184 | Test: 2222
+Split: random (sin fecha disponible)
+  [rondas_perdidas] MAE: 1.84
+  [rondas_perdidas] RMSE: 2.25
+  [rondas_perdidas] R²: 0.5706
+  CV R² (5-fold): 0.5046 ± 0.0166
+Muestras totales: 7406 | Train: 5184 | Test: 2222
+Split: random (sin fecha disponible)
+
+========================================
+  Árbol de Decisión
+========================================
+  [rondas_ganadas] MAE: 2.20
+  [rondas_ganadas] RMSE: 2.85
+  [rondas_ganadas] R²: 0.3478
+  CV R² (5-fold): 0.4702 ± 0.0122
+Muestras totales: 7406 | Train: 5184 | Test: 2222
+Split: random (sin fecha disponible)
+  [rondas_perdidas] MAE: 1.69
+  [rondas_perdidas] RMSE: 2.18
+  [rondas_perdidas] R²: 0.5970
+  CV R² (5-fold): 0.4702 ± 0.0122
+Muestras totales: 7406 | Train: 5184 | Test: 2222
+Split: random (sin fecha disponible)
+
+========================================
+  Random Forest
+========================================
+  [rondas_ganadas] MAE: 2.15
+  [rondas_ganadas] RMSE: 2.74
+  [rondas_ganadas] R²: 0.3969
+  CV R² (5-fold): 0.5081 ± 0.0145
+Muestras totales: 7406 | Train: 5184 | Test: 2222
+Split: random (sin fecha disponible)
+  [rondas_perdidas] MAE: 1.66
+  [rondas_perdidas] RMSE: 2.11
+  [rondas_perdidas] R²: 0.6203
+  CV R² (5-fold): 0.5081 ± 0.0145
+Muestras totales: 7406 | Train: 5184 | Test: 2222
+Split: random (sin fecha disponible)
+
+  Feature Importances:
+    muertes: 68.52%
+    kills: 23.70%
+    asistencias: 5.81%
+    acs: 1.80%
+    fb: 0.05%
+    headshots: 0.04%
+    rango: 0.01%
+    desconocidos: 0.01%
+    fd: 0.01%
+    mapa_Abyss: 0.01%
+    mapa_Lotus: 0.01%
+    mapa_Sunset: 0.01%
+    mapa_Ascent: 0.01%
+    subrango: 0.01%
+    mapa_Pearl: 0.00%
+    mapa_Fracture: 0.00%
+    num_amigos: 0.00%
+    mapa_Split: 0.00%
+    mapa_Bind: 0.00%
+    mapa_Breeze: 0.00%
+    mapa_Corrode: 0.00%
+    mapa_Haven: 0.00%
+    mapa_Icebox: 0.00%
+    mapa_Summit: 0.00%
+    es_main: 0.00%
