@@ -319,7 +319,7 @@
                     },
                     {
                         "puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                        "name": "SeguritasDirect",
+                        "name": "EcuadorDestroyer",
                         "tag": "FBI",
                         "team": "Red",
                         "level": 335,
@@ -832,7 +832,7 @@
                     },
                     {
                         "puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                        "name": "SeguritasDirect",
+                        "name": "EcuadorDestroyer",
                         "tag": "FBI",
                         "team": "Red",
                         "level": 335,
@@ -1606,7 +1606,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -1635,7 +1635,7 @@
                                     "killer_display_name": "3 is average#inch",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "victim_display_name": "SeguritasDirect#FBI",
+                                    "victim_display_name": "EcuadorDestroyer#FBI",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2578,
@@ -1767,7 +1767,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -1912,7 +1912,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2624,
@@ -2815,7 +2815,7 @@
                         },
                         "planted_by": {
                             "puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "display_name": "SeguritasDirect#FBI",
+                            "display_name": "EcuadorDestroyer#FBI",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -2833,7 +2833,7 @@
                             },
                             {
                                 "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                "player_display_name": "SeguritasDirect#FBI",
+                                "player_display_name": "EcuadorDestroyer#FBI",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -3331,
@@ -2939,7 +2939,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1460,
@@ -2995,7 +2995,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3026,7 +3026,7 @@
                                     "kill_time_in_round": 23784,
                                     "kill_time_in_match": 208951,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "4ff959aa-a500-5e11-9d35-1b4806fade08",
                                     "victim_display_name": "\uff46\uff55\uff4c\uff41\uff4e\uff49\uff54\uff4f#xxx",
@@ -3055,7 +3055,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -90,
@@ -3136,7 +3136,7 @@
                                     "kill_time_in_round": 103731,
                                     "kill_time_in_match": 288898,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "089fd731-236c-5f62-bbe8-d506914a5679",
                                     "victim_display_name": "3 is average#inch",
@@ -3155,7 +3155,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 879,
@@ -3319,7 +3319,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -106,
@@ -3413,7 +3413,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2313,
@@ -3559,7 +3559,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3331,
@@ -3646,7 +3646,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -3701,7 +3701,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -368,
@@ -3990,7 +3990,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3259,
@@ -4186,7 +4186,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2053,
@@ -4282,7 +4282,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -4595,7 +4595,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5209,
@@ -4749,7 +4749,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2669,
@@ -4843,7 +4843,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 763,
@@ -4927,7 +4927,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3107,
@@ -5064,7 +5064,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2766,
@@ -5186,7 +5186,7 @@
                         },
                         "planted_by": {
                             "puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "display_name": "SeguritasDirect#FBI",
+                            "display_name": "EcuadorDestroyer#FBI",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -5194,7 +5194,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                "player_display_name": "SeguritasDirect#FBI",
+                                "player_display_name": "EcuadorDestroyer#FBI",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -3947,
@@ -5326,7 +5326,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2996,
@@ -5392,7 +5392,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -5450,7 +5450,7 @@
                                     "kill_time_in_round": 36985,
                                     "kill_time_in_match": 432061,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "089fd731-236c-5f62-bbe8-d506914a5679",
                                     "victim_display_name": "3 is average#inch",
@@ -5469,7 +5469,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4178,
@@ -5722,7 +5722,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2325,
@@ -5920,7 +5920,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2227,
@@ -5972,7 +5972,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "assistant_display_name": "SeguritasDirect#FBI",
+                                            "assistant_display_name": "EcuadorDestroyer#FBI",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -6010,7 +6010,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2717,
@@ -6052,7 +6052,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "assistant_display_name": "SeguritasDirect#FBI",
+                                            "assistant_display_name": "EcuadorDestroyer#FBI",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -6203,7 +6203,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2049,
@@ -6317,7 +6317,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2100,
@@ -6389,7 +6389,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "assistant_display_name": "SeguritasDirect#FBI",
+                                            "assistant_display_name": "EcuadorDestroyer#FBI",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -6577,7 +6577,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -477,
@@ -6683,7 +6683,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6714,7 +6714,7 @@
                                     "kill_time_in_round": 31584,
                                     "kill_time_in_match": 500648,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "089fd731-236c-5f62-bbe8-d506914a5679",
                                     "victim_display_name": "3 is average#inch",
@@ -6733,7 +6733,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1829,
@@ -6844,7 +6844,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -6864,7 +6864,7 @@
                                     "killer_display_name": "su bomboncito#sexy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "victim_display_name": "SeguritasDirect#FBI",
+                                    "victim_display_name": "EcuadorDestroyer#FBI",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1716,
@@ -7222,7 +7222,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2925,
@@ -7769,7 +7769,7 @@
                             },
                             {
                                 "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                "player_display_name": "SeguritasDirect#FBI",
+                                "player_display_name": "EcuadorDestroyer#FBI",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1730,
@@ -7926,7 +7926,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7948,7 +7948,7 @@
                                     "kill_time_in_round": 29786,
                                     "kill_time_in_match": 628509,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "4ff959aa-a500-5e11-9d35-1b4806fade08",
                                     "victim_display_name": "\uff46\uff55\uff4c\uff41\uff4e\uff49\uff54\uff4f#xxx",
@@ -7977,7 +7977,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1275,
@@ -8362,7 +8362,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -8418,7 +8418,7 @@
                                     "killer_display_name": "GAMER154#1234",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "victim_display_name": "SeguritasDirect#FBI",
+                                    "victim_display_name": "EcuadorDestroyer#FBI",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -975,
@@ -8720,7 +8720,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -9168,7 +9168,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                "player_display_name": "SeguritasDirect#FBI",
+                                "player_display_name": "EcuadorDestroyer#FBI",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2057,
@@ -9305,7 +9305,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -9440,7 +9440,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2057,
@@ -9536,7 +9536,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -9581,7 +9581,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2057,
@@ -9740,7 +9740,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2057,
@@ -9901,7 +9901,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2057,
@@ -9995,7 +9995,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2057,
@@ -10159,7 +10159,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4907,
@@ -10263,7 +10263,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4650,
@@ -10511,7 +10511,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2877,
@@ -10631,7 +10631,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2708,
@@ -10743,7 +10743,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -10765,7 +10765,7 @@
                                     "kill_time_in_round": 13012,
                                     "kill_time_in_match": 818559,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "089fd731-236c-5f62-bbe8-d506914a5679",
                                     "victim_display_name": "3 is average#inch",
@@ -10784,7 +10784,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2656,
@@ -10940,7 +10940,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -978,
@@ -11296,7 +11296,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3216,
@@ -11418,7 +11418,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2093,
@@ -11502,7 +11502,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1185,
@@ -11592,7 +11592,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                "player_display_name": "SeguritasDirect#FBI",
+                                "player_display_name": "EcuadorDestroyer#FBI",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4124,
@@ -11699,7 +11699,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -11791,7 +11791,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1080,
@@ -11984,7 +11984,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1081,
@@ -12098,7 +12098,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1161,
@@ -12192,7 +12192,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1194,
@@ -12282,7 +12282,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2357,
@@ -12512,7 +12512,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6064,
@@ -12690,7 +12690,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5899,
@@ -12812,7 +12812,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                "player_display_name": "SeguritasDirect#FBI",
+                                "player_display_name": "EcuadorDestroyer#FBI",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3145,
@@ -12919,7 +12919,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12941,7 +12941,7 @@
                                     "kill_time_in_round": 26068,
                                     "kill_time_in_match": 999544,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "4ff959aa-a500-5e11-9d35-1b4806fade08",
                                     "victim_display_name": "\uff46\uff55\uff4c\uff41\uff4e\uff49\uff54\uff4f#xxx",
@@ -12970,7 +12970,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -382,
@@ -13107,7 +13107,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1310,
@@ -13312,7 +13312,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -13461,7 +13461,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2574,
@@ -13575,7 +13575,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1076,
@@ -13712,7 +13712,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3085,
@@ -13829,7 +13829,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 571,
@@ -13988,7 +13988,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14100,7 +14100,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4226,
@@ -14194,7 +14194,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5762,
@@ -14527,7 +14527,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4615,
@@ -14621,7 +14621,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5982,
@@ -14673,7 +14673,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "assistant_display_name": "SeguritasDirect#FBI",
+                                            "assistant_display_name": "EcuadorDestroyer#FBI",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -14706,7 +14706,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4815,
@@ -14823,7 +14823,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5807,
@@ -15052,7 +15052,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1070,
@@ -15132,7 +15132,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -974,
@@ -15198,7 +15198,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -15229,7 +15229,7 @@
                                     "kill_time_in_round": 18231,
                                     "kill_time_in_match": 1136580,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                                     "victim_display_name": "su bomboncito#sexy",
@@ -15258,7 +15258,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -614,
@@ -15465,7 +15465,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1008,
@@ -15799,7 +15799,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2724,
@@ -15893,7 +15893,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 228,
@@ -16080,7 +16080,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16111,7 +16111,7 @@
                                     "kill_time_in_round": 29219,
                                     "kill_time_in_match": 1223333,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                                     "victim_display_name": "su bomboncito#sexy",
@@ -16130,7 +16130,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1583,
@@ -16191,7 +16191,7 @@
                                     "kill_time_in_round": 33390,
                                     "kill_time_in_match": 1227504,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "4ff959aa-a500-5e11-9d35-1b4806fade08",
                                     "victim_display_name": "\uff46\uff55\uff4c\uff41\uff4e\uff49\uff54\uff4f#xxx",
@@ -16210,7 +16210,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2173,
@@ -16332,7 +16332,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1294,
@@ -16493,7 +16493,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1300,
@@ -16607,7 +16607,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -315,
@@ -16815,7 +16815,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -326,
@@ -17098,7 +17098,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1662,
@@ -17256,7 +17256,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17287,7 +17287,7 @@
                                     "kill_time_in_round": 11516,
                                     "kill_time_in_match": 1276027,
                                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "killer_display_name": "SeguritasDirect#FBI",
+                                    "killer_display_name": "EcuadorDestroyer#FBI",
                                     "killer_team": "Red",
                                     "victim_puuid": "c8be7970-030d-5bd4-aa40-5d6c731572ef",
                                     "victim_display_name": "who r u peeking#0000",
@@ -17316,7 +17316,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5316,
@@ -17532,7 +17532,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -17561,7 +17561,7 @@
                                     "killer_display_name": "GAMER154#1234",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "victim_display_name": "SeguritasDirect#FBI",
+                                    "victim_display_name": "EcuadorDestroyer#FBI",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6819,
@@ -17788,7 +17788,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5969,
@@ -17967,7 +17967,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "assistant_display_name": "SeguritasDirect#FBI",
+                                            "assistant_display_name": "EcuadorDestroyer#FBI",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -18076,7 +18076,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5343,
@@ -18196,7 +18196,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6455,
@@ -18258,7 +18258,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "assistant_display_name": "SeguritasDirect#FBI",
+                                            "assistant_display_name": "EcuadorDestroyer#FBI",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -18380,7 +18380,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -18525,7 +18525,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4120,
@@ -18664,7 +18664,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -18710,7 +18710,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3099,
@@ -18788,7 +18788,7 @@
                                     "killer_display_name": "GAMER154#1234",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "victim_display_name": "SeguritasDirect#FBI",
+                                    "victim_display_name": "EcuadorDestroyer#FBI",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -942,
@@ -19335,7 +19335,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "assistant_display_name": "SeguritasDirect#FBI",
+                                            "assistant_display_name": "EcuadorDestroyer#FBI",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -19477,7 +19477,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1547,
@@ -19636,7 +19636,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -19729,7 +19729,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4171,
@@ -20132,7 +20132,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "receiver_display_name": "SeguritasDirect#FBI",
+                                    "receiver_display_name": "EcuadorDestroyer#FBI",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -20152,7 +20152,7 @@
                                     "killer_display_name": "who r u peeking#0000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                    "victim_display_name": "SeguritasDirect#FBI",
+                                    "victim_display_name": "EcuadorDestroyer#FBI",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2317,
@@ -20351,7 +20351,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2391,
@@ -20727,7 +20727,7 @@
                                         },
                                         {
                                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                                            "player_display_name": "SeguritasDirect#FBI",
+                                            "player_display_name": "EcuadorDestroyer#FBI",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2406,
@@ -20863,7 +20863,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2624,
@@ -20958,7 +20958,7 @@
                     "killer_display_name": "3 is average#inch",
                     "killer_team": "Blue",
                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "victim_display_name": "SeguritasDirect#FBI",
+                    "victim_display_name": "EcuadorDestroyer#FBI",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2578,
@@ -21509,7 +21509,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -368,
@@ -21595,7 +21595,7 @@
                     "kill_time_in_match": 208951,
                     "round": 1,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "4ff959aa-a500-5e11-9d35-1b4806fade08",
                     "victim_display_name": "\uff46\uff55\uff4c\uff41\uff4e\uff49\uff54\uff4f#xxx",
@@ -21624,7 +21624,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -90,
@@ -21735,7 +21735,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -106,
@@ -21830,7 +21830,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2313,
@@ -21915,7 +21915,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -3331,
@@ -21996,7 +21996,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -3259,
@@ -22067,7 +22067,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 1460,
@@ -22093,7 +22093,7 @@
                     "kill_time_in_match": 288898,
                     "round": 1,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "089fd731-236c-5f62-bbe8-d506914a5679",
                     "victim_display_name": "3 is average#inch",
@@ -22112,7 +22112,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 879,
@@ -22173,7 +22173,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2766,
@@ -22288,7 +22288,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2669,
@@ -22393,7 +22393,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2053,
@@ -22478,7 +22478,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 763,
@@ -22563,7 +22563,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 3107,
@@ -22638,7 +22638,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 5209,
@@ -22713,7 +22713,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2049,
@@ -22828,7 +22828,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2100,
@@ -22900,7 +22900,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "assistant_display_name": "SeguritasDirect#FBI",
+                            "assistant_display_name": "EcuadorDestroyer#FBI",
                             "assistant_team": "Red"
                         }
                     ]
@@ -22939,7 +22939,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2325,
@@ -23034,7 +23034,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2227,
@@ -23086,7 +23086,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "assistant_display_name": "SeguritasDirect#FBI",
+                            "assistant_display_name": "EcuadorDestroyer#FBI",
                             "assistant_team": "Red"
                         }
                     ]
@@ -23125,7 +23125,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2717,
@@ -23167,7 +23167,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "assistant_display_name": "SeguritasDirect#FBI",
+                            "assistant_display_name": "EcuadorDestroyer#FBI",
                             "assistant_team": "Red"
                         }
                     ]
@@ -23206,7 +23206,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2996,
@@ -23242,7 +23242,7 @@
                     "kill_time_in_match": 432061,
                     "round": 3,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "089fd731-236c-5f62-bbe8-d506914a5679",
                     "victim_display_name": "3 is average#inch",
@@ -23261,7 +23261,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -4178,
@@ -23326,7 +23326,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2925,
@@ -23441,7 +23441,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -477,
@@ -23517,7 +23517,7 @@
                     "kill_time_in_match": 500648,
                     "round": 4,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "089fd731-236c-5f62-bbe8-d506914a5679",
                     "victim_display_name": "3 is average#inch",
@@ -23536,7 +23536,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 1829,
@@ -23615,7 +23615,7 @@
                     "killer_display_name": "su bomboncito#sexy",
                     "killer_team": "Blue",
                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "victim_display_name": "SeguritasDirect#FBI",
+                    "victim_display_name": "EcuadorDestroyer#FBI",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1716,
@@ -23943,7 +23943,7 @@
                     "kill_time_in_match": 628509,
                     "round": 5,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "4ff959aa-a500-5e11-9d35-1b4806fade08",
                     "victim_display_name": "\uff46\uff55\uff4c\uff41\uff4e\uff49\uff54\uff4f#xxx",
@@ -23972,7 +23972,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1275,
@@ -24061,7 +24061,7 @@
                     "killer_display_name": "GAMER154#1234",
                     "killer_team": "Blue",
                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "victim_display_name": "SeguritasDirect#FBI",
+                    "victim_display_name": "EcuadorDestroyer#FBI",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -975,
@@ -24683,7 +24683,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 4907,
@@ -24788,7 +24788,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 4650,
@@ -24893,7 +24893,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 2057,
@@ -24988,7 +24988,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 2057,
@@ -25079,7 +25079,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 2057,
@@ -25154,7 +25154,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 2057,
@@ -25219,7 +25219,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 2057,
@@ -25300,7 +25300,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2877,
@@ -25421,7 +25421,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2708,
@@ -25503,7 +25503,7 @@
                     "kill_time_in_match": 818559,
                     "round": 7,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "089fd731-236c-5f62-bbe8-d506914a5679",
                     "victim_display_name": "3 is average#inch",
@@ -25522,7 +25522,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2656,
@@ -25617,7 +25617,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2093,
@@ -25702,7 +25702,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -978,
@@ -25777,7 +25777,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1185,
@@ -25842,7 +25842,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 3216,
@@ -25903,7 +25903,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1081,
@@ -26018,7 +26018,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 1080,
@@ -26123,7 +26123,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 1161,
@@ -26218,7 +26218,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 1194,
@@ -26309,7 +26309,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 2357,
@@ -26384,7 +26384,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 6064,
@@ -26449,7 +26449,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 5899,
@@ -26514,7 +26514,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2574,
@@ -26629,7 +26629,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1310,
@@ -26734,7 +26734,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1076,
@@ -26800,7 +26800,7 @@
                     "kill_time_in_match": 999544,
                     "round": 9,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "4ff959aa-a500-5e11-9d35-1b4806fade08",
                     "victim_display_name": "\uff46\uff55\uff4c\uff41\uff4e\uff49\uff54\uff4f#xxx",
@@ -26829,7 +26829,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -382,
@@ -26904,7 +26904,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 571,
@@ -26979,7 +26979,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 3085,
@@ -27054,7 +27054,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 4226,
@@ -27149,7 +27149,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 4615,
@@ -27244,7 +27244,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 5762,
@@ -27339,7 +27339,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 5807,
@@ -27424,7 +27424,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 5982,
@@ -27476,7 +27476,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "assistant_display_name": "SeguritasDirect#FBI",
+                            "assistant_display_name": "EcuadorDestroyer#FBI",
                             "assistant_team": "Red"
                         },
                         {
@@ -27510,7 +27510,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 4815,
@@ -27585,7 +27585,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2724,
@@ -27690,7 +27690,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1008,
@@ -27756,7 +27756,7 @@
                     "kill_time_in_match": 1136580,
                     "round": 11,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                     "victim_display_name": "su bomboncito#sexy",
@@ -27785,7 +27785,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -614,
@@ -27870,7 +27870,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1070,
@@ -27951,7 +27951,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -974,
@@ -28006,7 +28006,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 228,
@@ -28067,7 +28067,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 1300,
@@ -28182,7 +28182,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -315,
@@ -28287,7 +28287,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -326,
@@ -28382,7 +28382,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1294,
@@ -28454,7 +28454,7 @@
                     "kill_time_in_match": 1223333,
                     "round": 12,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                     "victim_display_name": "su bomboncito#sexy",
@@ -28473,7 +28473,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1583,
@@ -28554,7 +28554,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -1662,
@@ -28600,7 +28600,7 @@
                     "kill_time_in_match": 1227504,
                     "round": 12,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "4ff959aa-a500-5e11-9d35-1b4806fade08",
                     "victim_display_name": "\uff46\uff55\uff4c\uff41\uff4e\uff49\uff54\uff4f#xxx",
@@ -28619,7 +28619,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": -2173,
@@ -28690,7 +28690,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 5343,
@@ -28782,7 +28782,7 @@
                     "kill_time_in_match": 1276027,
                     "round": 13,
                     "killer_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "killer_display_name": "SeguritasDirect#FBI",
+                    "killer_display_name": "EcuadorDestroyer#FBI",
                     "killer_team": "Red",
                     "victim_puuid": "c8be7970-030d-5bd4-aa40-5d6c731572ef",
                     "victim_display_name": "who r u peeking#0000",
@@ -28811,7 +28811,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 5316,
@@ -28927,7 +28927,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 6455,
@@ -28989,7 +28989,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "assistant_display_name": "SeguritasDirect#FBI",
+                            "assistant_display_name": "EcuadorDestroyer#FBI",
                             "assistant_team": "Red"
                         }
                     ]
@@ -29018,7 +29018,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 5969,
@@ -29087,7 +29087,7 @@
                     "killer_display_name": "GAMER154#1234",
                     "killer_team": "Blue",
                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "victim_display_name": "SeguritasDirect#FBI",
+                    "victim_display_name": "EcuadorDestroyer#FBI",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6819,
@@ -29220,7 +29220,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "assistant_display_name": "SeguritasDirect#FBI",
+                            "assistant_display_name": "EcuadorDestroyer#FBI",
                             "assistant_team": "Red"
                         }
                     ]
@@ -29259,7 +29259,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 4120,
@@ -29374,7 +29374,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 3099,
@@ -29479,7 +29479,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 1547,
@@ -29548,7 +29548,7 @@
                     "killer_display_name": "GAMER154#1234",
                     "killer_team": "Blue",
                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "victim_display_name": "SeguritasDirect#FBI",
+                    "victim_display_name": "EcuadorDestroyer#FBI",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -942,
@@ -29766,7 +29766,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "assistant_display_name": "SeguritasDirect#FBI",
+                            "assistant_display_name": "EcuadorDestroyer#FBI",
                             "assistant_team": "Red"
                         }
                     ]
@@ -29946,7 +29946,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 4171,
@@ -30061,7 +30061,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 2406,
@@ -30166,7 +30166,7 @@
                         },
                         {
                             "player_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                            "player_display_name": "SeguritasDirect#FBI",
+                            "player_display_name": "EcuadorDestroyer#FBI",
                             "player_team": "Red",
                             "location": {
                                 "x": 2391,
@@ -30241,7 +30241,7 @@
                     "killer_display_name": "who r u peeking#0000",
                     "killer_team": "Blue",
                     "victim_puuid": "3c104bca-7cd8-51ad-8703-c69357bef501",
-                    "victim_display_name": "SeguritasDirect#FBI",
+                    "victim_display_name": "EcuadorDestroyer#FBI",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2317,
