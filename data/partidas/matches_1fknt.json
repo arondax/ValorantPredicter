@@ -27,8 +27,8 @@
                 "all_players": [
                     {
                         "puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                        "name": "Wi\u015bnia",
-                        "tag": "bunny",
+                        "name": "beast boy",
+                        "tag": "1827",
                         "team": "Red",
                         "level": 78,
                         "character": "Chamber",
@@ -465,8 +465,8 @@
                     },
                     {
                         "puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                        "name": "KateBunny",
-                        "tag": "goofy",
+                        "name": "raven",
+                        "tag": "18270",
                         "team": "Red",
                         "level": 46,
                         "character": "Skye",
@@ -759,8 +759,8 @@
                 "red": [
                     {
                         "puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                        "name": "Wi\u015bnia",
-                        "tag": "bunny",
+                        "name": "beast boy",
+                        "tag": "1827",
                         "team": "Red",
                         "level": 78,
                         "character": "Chamber",
@@ -1051,8 +1051,8 @@
                     },
                     {
                         "puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                        "name": "KateBunny",
-                        "tag": "goofy",
+                        "name": "raven",
+                        "tag": "18270",
                         "team": "Red",
                         "level": 46,
                         "character": "Skye",
@@ -1578,7 +1578,7 @@
                             },
                             {
                                 "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                "player_display_name": "Wi\u015bnia#bunny",
+                                "player_display_name": "beast boy#1827",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7284,
@@ -1693,7 +1693,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8101,
@@ -1744,7 +1744,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "receiver_display_name": "KateBunny#goofy",
+                                    "receiver_display_name": "raven#18270",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 2,
@@ -1782,7 +1782,7 @@
                                     "killer_display_name": "VRTX#exe",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "victim_display_name": "KateBunny#goofy",
+                                    "victim_display_name": "raven#18270",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6853,
@@ -1858,7 +1858,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6304,
@@ -1942,7 +1942,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7084,
@@ -2002,7 +2002,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -2115,7 +2115,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -2221,7 +2221,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7397,
@@ -2231,7 +2231,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7052,
@@ -2413,7 +2413,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -2462,7 +2462,7 @@
                                     "kill_time_in_round": 14000,
                                     "kill_time_in_match": 69057,
                                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "killer_display_name": "Wi\u015bnia#bunny",
+                                    "killer_display_name": "beast boy#1827",
                                     "killer_team": "Red",
                                     "victim_puuid": "ff076d33-8069-57d9-8f2c-cef597aaee9c",
                                     "victim_display_name": "TheGorilleJr#Easy",
@@ -2541,7 +2541,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6425,
@@ -2551,7 +2551,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7282,
@@ -2568,7 +2568,7 @@
                                         },
                                         {
                                             "assistant_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "assistant_display_name": "KateBunny#goofy",
+                                            "assistant_display_name": "raven#18270",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -2577,7 +2577,7 @@
                                     "kill_time_in_round": 32537,
                                     "kill_time_in_match": 87594,
                                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "killer_display_name": "Wi\u015bnia#bunny",
+                                    "killer_display_name": "beast boy#1827",
                                     "killer_team": "Red",
                                     "victim_puuid": "09ca566b-7743-55a4-bf27-bb283bae470c",
                                     "victim_display_name": "Vykoz#9288",
@@ -2626,7 +2626,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8101,
@@ -2641,7 +2641,7 @@
                                     "kill_time_in_round": 39664,
                                     "kill_time_in_match": 94721,
                                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "killer_display_name": "Wi\u015bnia#bunny",
+                                    "killer_display_name": "beast boy#1827",
                                     "killer_team": "Red",
                                     "victim_puuid": "efc1db24-18ab-584d-8ca5-a6b80b47f464",
                                     "victim_display_name": "VRTX#exe",
@@ -2680,7 +2680,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7908,
@@ -2701,7 +2701,7 @@
                                     "kill_time_in_round": 50514,
                                     "kill_time_in_match": 105571,
                                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "killer_display_name": "Wi\u015bnia#bunny",
+                                    "killer_display_name": "beast boy#1827",
                                     "killer_team": "Red",
                                     "victim_puuid": "d838b753-22a3-55f9-b755-2074df86ebb3",
                                     "victim_display_name": "1fknt#1fkk",
@@ -2730,7 +2730,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5442,
@@ -2776,7 +2776,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -2982,7 +2982,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7086,
@@ -3137,7 +3137,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -3155,7 +3155,7 @@
                                 },
                                 {
                                     "receiver_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "receiver_display_name": "KateBunny#goofy",
+                                    "receiver_display_name": "raven#18270",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -3175,7 +3175,7 @@
                                     "killer_display_name": "TheGorilleJr#Easy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "victim_display_name": "Wi\u015bnia#bunny",
+                                    "victim_display_name": "beast boy#1827",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7375,
@@ -3271,7 +3271,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7029,
@@ -3375,7 +3375,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7351,
@@ -3393,7 +3393,7 @@
                                     "killer_display_name": "TheGorilleJr#Easy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "victim_display_name": "KateBunny#goofy",
+                                    "victim_display_name": "raven#18270",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7257,
@@ -3680,7 +3680,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7616,
@@ -3726,7 +3726,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -3768,7 +3768,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3826,7 +3826,7 @@
                         },
                         "planted_by": {
                             "puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "display_name": "KateBunny#goofy",
+                            "display_name": "raven#18270",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -3834,7 +3834,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                "player_display_name": "KateBunny#goofy",
+                                "player_display_name": "raven#18270",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2142,
@@ -3982,7 +3982,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2572,
@@ -3992,7 +3992,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2842,
@@ -4282,7 +4282,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2302,
@@ -4292,7 +4292,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2064,
@@ -4448,7 +4448,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2364,
@@ -4458,7 +4458,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1801,
@@ -4585,7 +4585,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2682,
@@ -4595,7 +4595,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2714,
@@ -4666,7 +4666,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -4675,7 +4675,7 @@
                                 },
                                 {
                                     "receiver_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "receiver_display_name": "KateBunny#goofy",
+                                    "receiver_display_name": "raven#18270",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -4695,7 +4695,7 @@
                                     "killer_display_name": "n0rooo#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "victim_display_name": "Wi\u015bnia#bunny",
+                                    "victim_display_name": "beast boy#1827",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2882,
@@ -4721,7 +4721,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2142,
@@ -4767,7 +4767,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4798,7 +4798,7 @@
                                     "kill_time_in_round": 29171,
                                     "kill_time_in_match": 249125,
                                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "killer_display_name": "Wi\u015bnia#bunny",
+                                    "killer_display_name": "beast boy#1827",
                                     "killer_team": "Red",
                                     "victim_puuid": "09ca566b-7743-55a4-bf27-bb283bae470c",
                                     "victim_display_name": "Vykoz#9288",
@@ -4867,7 +4867,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2664,
@@ -4877,7 +4877,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2850,
@@ -4898,7 +4898,7 @@
                                     "kill_time_in_round": 48030,
                                     "kill_time_in_match": 267984,
                                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "killer_display_name": "Wi\u015bnia#bunny",
+                                    "killer_display_name": "beast boy#1827",
                                     "killer_team": "Red",
                                     "victim_puuid": "efc1db24-18ab-584d-8ca5-a6b80b47f464",
                                     "victim_display_name": "VRTX#exe",
@@ -4927,7 +4927,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2809,
@@ -4937,7 +4937,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2791,
@@ -4983,7 +4983,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -5014,7 +5014,7 @@
                                     "kill_time_in_round": 36424,
                                     "kill_time_in_match": 256378,
                                     "killer_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "killer_display_name": "KateBunny#goofy",
+                                    "killer_display_name": "raven#18270",
                                     "killer_team": "Red",
                                     "victim_puuid": "d838b753-22a3-55f9-b755-2074df86ebb3",
                                     "victim_display_name": "1fknt#1fkk",
@@ -5053,7 +5053,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2916,
@@ -5063,7 +5063,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3046,
@@ -5084,7 +5084,7 @@
                                     "kill_time_in_round": 56333,
                                     "kill_time_in_match": 276287,
                                     "killer_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "killer_display_name": "KateBunny#goofy",
+                                    "killer_display_name": "raven#18270",
                                     "killer_team": "Red",
                                     "victim_puuid": "25c2f357-bc16-5963-a565-b28e1792577f",
                                     "victim_display_name": "n0rooo#EUW",
@@ -5103,7 +5103,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2273,
@@ -5155,7 +5155,7 @@
                         },
                         "planted_by": {
                             "puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "display_name": "Wi\u015bnia#bunny",
+                            "display_name": "beast boy#1827",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -5223,7 +5223,7 @@
                             },
                             {
                                 "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                "player_display_name": "Wi\u015bnia#bunny",
+                                "player_display_name": "beast boy#1827",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -842,
@@ -5233,7 +5233,7 @@
                             },
                             {
                                 "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                "player_display_name": "KateBunny#goofy",
+                                "player_display_name": "raven#18270",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 315,
@@ -5600,7 +5600,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -5609,7 +5609,7 @@
                                 },
                                 {
                                     "receiver_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "receiver_display_name": "KateBunny#goofy",
+                                    "receiver_display_name": "raven#18270",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -5629,7 +5629,7 @@
                                     "killer_display_name": "TheGorilleJr#Easy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "victim_display_name": "Wi\u015bnia#bunny",
+                                    "victim_display_name": "beast boy#1827",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 678,
@@ -5705,7 +5705,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1412,
@@ -5723,7 +5723,7 @@
                                     "killer_display_name": "TheGorilleJr#Easy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "victim_display_name": "KateBunny#goofy",
+                                    "victim_display_name": "raven#18270",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1206,
@@ -5961,7 +5961,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 193,
@@ -5971,7 +5971,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 576,
@@ -6076,7 +6076,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "receiver_display_name": "KateBunny#goofy",
+                                    "receiver_display_name": "raven#18270",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -6085,7 +6085,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -6184,7 +6184,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6236,7 +6236,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6258,7 +6258,7 @@
                                     "kill_time_in_round": 16778,
                                     "kill_time_in_match": 330072,
                                     "killer_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "killer_display_name": "KateBunny#goofy",
+                                    "killer_display_name": "raven#18270",
                                     "killer_team": "Red",
                                     "victim_puuid": "d838b753-22a3-55f9-b755-2074df86ebb3",
                                     "victim_display_name": "1fknt#1fkk",
@@ -6337,7 +6337,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 157,
@@ -6347,7 +6347,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 426,
@@ -6540,7 +6540,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "assistant_display_name": "Wi\u015bnia#bunny",
+                                            "assistant_display_name": "beast boy#1827",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -6785,7 +6785,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1443,
@@ -6795,7 +6795,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2261,
@@ -6983,7 +6983,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1215,
@@ -6993,7 +6993,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 850,
@@ -7053,7 +7053,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -7062,7 +7062,7 @@
                                 },
                                 {
                                     "receiver_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "receiver_display_name": "KateBunny#goofy",
+                                    "receiver_display_name": "raven#18270",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -7167,7 +7167,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1227,
@@ -7177,7 +7177,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1631,
@@ -7195,7 +7195,7 @@
                                     "killer_display_name": "1fknt#1fkk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "victim_display_name": "Wi\u015bnia#bunny",
+                                    "victim_display_name": "beast boy#1827",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1264,
@@ -7261,7 +7261,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 586,
@@ -7279,7 +7279,7 @@
                                     "killer_display_name": "1fknt#1fkk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "victim_display_name": "KateBunny#goofy",
+                                    "victim_display_name": "raven#18270",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2659,
@@ -7467,7 +7467,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 364,
@@ -7563,7 +7563,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7615,7 +7615,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7796,7 +7796,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1676,
@@ -7871,7 +7871,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -7957,7 +7957,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1703,
@@ -8011,7 +8011,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1063,
@@ -8029,7 +8029,7 @@
                                     "killer_display_name": "VRTX#exe",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "victim_display_name": "Wi\u015bnia#bunny",
+                                    "victim_display_name": "beast boy#1827",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1242,
@@ -8227,7 +8227,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2574,
@@ -8237,7 +8237,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3229,
@@ -8434,7 +8434,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "receiver_display_name": "KateBunny#goofy",
+                                    "receiver_display_name": "raven#18270",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -8443,7 +8443,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -8463,7 +8463,7 @@
                                     "killer_display_name": "1fknt#1fkk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "victim_display_name": "KateBunny#goofy",
+                                    "victim_display_name": "raven#18270",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2551,
@@ -8539,7 +8539,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2052,
@@ -8627,7 +8627,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8667,7 +8667,7 @@
                                     "kill_time_in_round": 14876,
                                     "kill_time_in_match": 552205,
                                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "killer_display_name": "Wi\u015bnia#bunny",
+                                    "killer_display_name": "beast boy#1827",
                                     "killer_team": "Red",
                                     "victim_puuid": "25c2f357-bc16-5963-a565-b28e1792577f",
                                     "victim_display_name": "n0rooo#EUW",
@@ -8746,7 +8746,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2508,
@@ -8756,7 +8756,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2762,
@@ -8771,7 +8771,7 @@
                                     "kill_time_in_round": 36413,
                                     "kill_time_in_match": 573742,
                                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "killer_display_name": "Wi\u015bnia#bunny",
+                                    "killer_display_name": "beast boy#1827",
                                     "killer_team": "Red",
                                     "victim_puuid": "d838b753-22a3-55f9-b755-2074df86ebb3",
                                     "victim_display_name": "1fknt#1fkk",
@@ -8830,7 +8830,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1699,
@@ -8876,7 +8876,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9050,7 +9050,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2171,
@@ -9060,7 +9060,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2576,
@@ -9261,7 +9261,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1276,
@@ -9271,7 +9271,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 577,
@@ -9489,7 +9489,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1234,
@@ -9499,7 +9499,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2935,
@@ -9573,7 +9573,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2971,
@@ -9583,7 +9583,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2283,
@@ -9723,7 +9723,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -9765,7 +9765,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9787,7 +9787,7 @@
                                     "kill_time_in_round": 33317,
                                     "kill_time_in_match": 663847,
                                     "killer_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                    "killer_display_name": "KateBunny#goofy",
+                                    "killer_display_name": "raven#18270",
                                     "killer_team": "Red",
                                     "victim_puuid": "efc1db24-18ab-584d-8ca5-a6b80b47f464",
                                     "victim_display_name": "VRTX#exe",
@@ -9856,7 +9856,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2395,
@@ -9866,7 +9866,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2579,
@@ -10023,7 +10023,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3502,
@@ -10035,7 +10035,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "assistant_display_name": "Wi\u015bnia#bunny",
+                                            "assistant_display_name": "beast boy#1827",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -10093,7 +10093,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1678,
@@ -10192,7 +10192,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "receiver_display_name": "Wi\u015bnia#bunny",
+                                    "receiver_display_name": "beast boy#1827",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -10212,7 +10212,7 @@
                                     "killer_display_name": "Vykoz#9288",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                    "victim_display_name": "Wi\u015bnia#bunny",
+                                    "victim_display_name": "beast boy#1827",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2706,
@@ -10298,7 +10298,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6162,
@@ -10507,7 +10507,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3014,
@@ -10517,7 +10517,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6213,
@@ -10682,7 +10682,7 @@
                                         },
                                         {
                                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                                            "player_display_name": "Wi\u015bnia#bunny",
+                                            "player_display_name": "beast boy#1827",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2815,
@@ -10692,7 +10692,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6213,
@@ -10786,7 +10786,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4379,
@@ -10870,7 +10870,7 @@
                                         },
                                         {
                                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                                            "player_display_name": "KateBunny#goofy",
+                                            "player_display_name": "raven#18270",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3883,
@@ -11006,7 +11006,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11058,7 +11058,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -11190,7 +11190,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 7397,
@@ -11200,7 +11200,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 7052,
@@ -11216,7 +11216,7 @@
                     "kill_time_in_match": 69057,
                     "round": 0,
                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "killer_display_name": "Wi\u015bnia#bunny",
+                    "killer_display_name": "beast boy#1827",
                     "killer_team": "Red",
                     "victim_puuid": "ff076d33-8069-57d9-8f2c-cef597aaee9c",
                     "victim_display_name": "TheGorilleJr#Easy",
@@ -11295,7 +11295,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 6425,
@@ -11305,7 +11305,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 7282,
@@ -11322,7 +11322,7 @@
                         },
                         {
                             "assistant_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "assistant_display_name": "KateBunny#goofy",
+                            "assistant_display_name": "raven#18270",
                             "assistant_team": "Red"
                         }
                     ]
@@ -11335,7 +11335,7 @@
                     "killer_display_name": "VRTX#exe",
                     "killer_team": "Blue",
                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                    "victim_display_name": "KateBunny#goofy",
+                    "victim_display_name": "raven#18270",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6853,
@@ -11411,7 +11411,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 6304,
@@ -11496,7 +11496,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 7084,
@@ -11571,7 +11571,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 8101,
@@ -11587,7 +11587,7 @@
                     "kill_time_in_match": 87594,
                     "round": 0,
                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "killer_display_name": "Wi\u015bnia#bunny",
+                    "killer_display_name": "beast boy#1827",
                     "killer_team": "Red",
                     "victim_puuid": "09ca566b-7743-55a4-bf27-bb283bae470c",
                     "victim_display_name": "Vykoz#9288",
@@ -11636,7 +11636,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 8101,
@@ -11652,7 +11652,7 @@
                     "kill_time_in_match": 94721,
                     "round": 0,
                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "killer_display_name": "Wi\u015bnia#bunny",
+                    "killer_display_name": "beast boy#1827",
                     "killer_team": "Red",
                     "victim_puuid": "efc1db24-18ab-584d-8ca5-a6b80b47f464",
                     "victim_display_name": "VRTX#exe",
@@ -11691,7 +11691,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 7908,
@@ -11713,7 +11713,7 @@
                     "kill_time_in_match": 105571,
                     "round": 0,
                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "killer_display_name": "Wi\u015bnia#bunny",
+                    "killer_display_name": "beast boy#1827",
                     "killer_team": "Red",
                     "victim_puuid": "d838b753-22a3-55f9-b755-2074df86ebb3",
                     "victim_display_name": "1fknt#1fkk",
@@ -11742,7 +11742,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 5442,
@@ -11761,7 +11761,7 @@
                     "killer_display_name": "TheGorilleJr#Easy",
                     "killer_team": "Blue",
                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "victim_display_name": "Wi\u015bnia#bunny",
+                    "victim_display_name": "beast boy#1827",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7375,
@@ -11857,7 +11857,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 7029,
@@ -11962,7 +11962,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 7351,
@@ -12057,7 +12057,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 7616,
@@ -12142,7 +12142,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 7086,
@@ -12161,7 +12161,7 @@
                     "killer_display_name": "TheGorilleJr#Easy",
                     "killer_team": "Blue",
                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                    "victim_display_name": "KateBunny#goofy",
+                    "victim_display_name": "raven#18270",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7257,
@@ -12322,7 +12322,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2302,
@@ -12332,7 +12332,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": -2064,
@@ -12427,7 +12427,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2364,
@@ -12437,7 +12437,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": -1801,
@@ -12453,7 +12453,7 @@
                     "kill_time_in_match": 249125,
                     "round": 2,
                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "killer_display_name": "Wi\u015bnia#bunny",
+                    "killer_display_name": "beast boy#1827",
                     "killer_team": "Red",
                     "victim_puuid": "09ca566b-7743-55a4-bf27-bb283bae470c",
                     "victim_display_name": "Vykoz#9288",
@@ -12522,7 +12522,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2664,
@@ -12532,7 +12532,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": -2850,
@@ -12613,7 +12613,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2682,
@@ -12623,7 +12623,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": -2714,
@@ -12699,7 +12699,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2572,
@@ -12709,7 +12709,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": -2842,
@@ -12736,7 +12736,7 @@
                     "kill_time_in_match": 256378,
                     "round": 2,
                     "killer_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                    "killer_display_name": "KateBunny#goofy",
+                    "killer_display_name": "raven#18270",
                     "killer_team": "Red",
                     "victim_puuid": "d838b753-22a3-55f9-b755-2074df86ebb3",
                     "victim_display_name": "1fknt#1fkk",
@@ -12775,7 +12775,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2916,
@@ -12785,7 +12785,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": -3046,
@@ -12807,7 +12807,7 @@
                     "kill_time_in_match": 267984,
                     "round": 2,
                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "killer_display_name": "Wi\u015bnia#bunny",
+                    "killer_display_name": "beast boy#1827",
                     "killer_team": "Red",
                     "victim_puuid": "efc1db24-18ab-584d-8ca5-a6b80b47f464",
                     "victim_display_name": "VRTX#exe",
@@ -12836,7 +12836,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2809,
@@ -12846,7 +12846,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": -2791,
@@ -12865,7 +12865,7 @@
                     "killer_display_name": "n0rooo#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "victim_display_name": "Wi\u015bnia#bunny",
+                    "victim_display_name": "beast boy#1827",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2882,
@@ -12891,7 +12891,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": -2142,
@@ -12907,7 +12907,7 @@
                     "kill_time_in_match": 276287,
                     "round": 2,
                     "killer_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                    "killer_display_name": "KateBunny#goofy",
+                    "killer_display_name": "raven#18270",
                     "killer_team": "Red",
                     "victim_puuid": "25c2f357-bc16-5963-a565-b28e1792577f",
                     "victim_display_name": "n0rooo#EUW",
@@ -12926,7 +12926,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": -2273,
@@ -13031,7 +13031,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 193,
@@ -13041,7 +13041,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 576,
@@ -13057,7 +13057,7 @@
                     "kill_time_in_match": 330072,
                     "round": 3,
                     "killer_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                    "killer_display_name": "KateBunny#goofy",
+                    "killer_display_name": "raven#18270",
                     "killer_team": "Red",
                     "victim_puuid": "d838b753-22a3-55f9-b755-2074df86ebb3",
                     "victim_display_name": "1fknt#1fkk",
@@ -13136,7 +13136,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 157,
@@ -13146,7 +13146,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 426,
@@ -13171,7 +13171,7 @@
                     "killer_display_name": "TheGorilleJr#Easy",
                     "killer_team": "Blue",
                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "victim_display_name": "Wi\u015bnia#bunny",
+                    "victim_display_name": "beast boy#1827",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 678,
@@ -13247,7 +13247,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 1412,
@@ -13266,7 +13266,7 @@
                     "killer_display_name": "TheGorilleJr#Easy",
                     "killer_team": "Blue",
                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                    "victim_display_name": "KateBunny#goofy",
+                    "victim_display_name": "raven#18270",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1206,
@@ -13638,7 +13638,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 1443,
@@ -13648,7 +13648,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 2261,
@@ -13743,7 +13743,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 1227,
@@ -13753,7 +13753,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 1631,
@@ -13838,7 +13838,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 1215,
@@ -13848,7 +13848,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 850,
@@ -13867,7 +13867,7 @@
                     "killer_display_name": "1fknt#1fkk",
                     "killer_team": "Blue",
                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "victim_display_name": "Wi\u015bnia#bunny",
+                    "victim_display_name": "beast boy#1827",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1264,
@@ -13933,7 +13933,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 586,
@@ -14008,7 +14008,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 364,
@@ -14027,7 +14027,7 @@
                     "killer_display_name": "1fknt#1fkk",
                     "killer_team": "Blue",
                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                    "victim_display_name": "KateBunny#goofy",
+                    "victim_display_name": "raven#18270",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2659,
@@ -14146,7 +14146,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "assistant_display_name": "Wi\u015bnia#bunny",
+                            "assistant_display_name": "beast boy#1827",
                             "assistant_team": "Red"
                         }
                     ]
@@ -14296,7 +14296,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 2574,
@@ -14306,7 +14306,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 3229,
@@ -14322,7 +14322,7 @@
                     "kill_time_in_match": 552205,
                     "round": 5,
                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "killer_display_name": "Wi\u015bnia#bunny",
+                    "killer_display_name": "beast boy#1827",
                     "killer_team": "Red",
                     "victim_puuid": "25c2f357-bc16-5963-a565-b28e1792577f",
                     "victim_display_name": "n0rooo#EUW",
@@ -14401,7 +14401,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 2508,
@@ -14411,7 +14411,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 2762,
@@ -14430,7 +14430,7 @@
                     "killer_display_name": "1fknt#1fkk",
                     "killer_team": "Blue",
                     "victim_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                    "victim_display_name": "KateBunny#goofy",
+                    "victim_display_name": "raven#18270",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2551,
@@ -14506,7 +14506,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 2052,
@@ -14591,7 +14591,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 1703,
@@ -14607,7 +14607,7 @@
                     "kill_time_in_match": 573742,
                     "round": 5,
                     "killer_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "killer_display_name": "Wi\u015bnia#bunny",
+                    "killer_display_name": "beast boy#1827",
                     "killer_team": "Red",
                     "victim_puuid": "d838b753-22a3-55f9-b755-2074df86ebb3",
                     "victim_display_name": "1fknt#1fkk",
@@ -14666,7 +14666,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 1699,
@@ -14731,7 +14731,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 1676,
@@ -14792,7 +14792,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 1063,
@@ -14811,7 +14811,7 @@
                     "killer_display_name": "VRTX#exe",
                     "killer_team": "Blue",
                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "victim_display_name": "Wi\u015bnia#bunny",
+                    "victim_display_name": "beast boy#1827",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1242,
@@ -14948,7 +14948,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -1234,
@@ -14958,7 +14958,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 2935,
@@ -15053,7 +15053,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2171,
@@ -15063,7 +15063,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 2576,
@@ -15079,7 +15079,7 @@
                     "kill_time_in_match": 663847,
                     "round": 6,
                     "killer_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                    "killer_display_name": "KateBunny#goofy",
+                    "killer_display_name": "raven#18270",
                     "killer_team": "Red",
                     "victim_puuid": "efc1db24-18ab-584d-8ca5-a6b80b47f464",
                     "victim_display_name": "VRTX#exe",
@@ -15148,7 +15148,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2395,
@@ -15158,7 +15158,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 2579,
@@ -15233,7 +15233,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -2971,
@@ -15243,7 +15243,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 2283,
@@ -15308,7 +15308,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": -1276,
@@ -15318,7 +15318,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 577,
@@ -15423,7 +15423,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 3014,
@@ -15433,7 +15433,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 6213,
@@ -15528,7 +15528,7 @@
                         },
                         {
                             "player_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "player_display_name": "Wi\u015bnia#bunny",
+                            "player_display_name": "beast boy#1827",
                             "player_team": "Red",
                             "location": {
                                 "x": 2815,
@@ -15538,7 +15538,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 6213,
@@ -15557,7 +15557,7 @@
                     "killer_display_name": "Vykoz#9288",
                     "killer_team": "Blue",
                     "victim_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                    "victim_display_name": "Wi\u015bnia#bunny",
+                    "victim_display_name": "beast boy#1827",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2706,
@@ -15643,7 +15643,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 6162,
@@ -15738,7 +15738,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 4379,
@@ -15823,7 +15823,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 3883,
@@ -15904,7 +15904,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 3502,
@@ -15916,7 +15916,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "5f081dcc-f77c-5db3-b2d2-679c7937a6d2",
-                            "assistant_display_name": "Wi\u015bnia#bunny",
+                            "assistant_display_name": "beast boy#1827",
                             "assistant_team": "Red"
                         }
                     ]
@@ -15975,7 +15975,7 @@
                         },
                         {
                             "player_puuid": "ecc00a89-0931-58d6-959c-57ac4f59d38c",
-                            "player_display_name": "KateBunny#goofy",
+                            "player_display_name": "raven#18270",
                             "player_team": "Red",
                             "location": {
                                 "x": 1678,
