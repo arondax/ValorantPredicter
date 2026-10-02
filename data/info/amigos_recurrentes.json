@@ -420,9 +420,9 @@
             "nombre": "MissMeri",
             "tag": "UWU",
             "region": "eu",
-            "apariciones": 24,
+            "apariciones": 26,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-10-01"
+            "ultima_vez": "2026-10-02"
         },
         {
             "nombre": "frVamper",
@@ -922,9 +922,9 @@
             "nombre": "Bonnie",
             "tag": "4106",
             "region": "eu",
-            "apariciones": 111,
+            "apariciones": 112,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-10-01"
+            "ultima_vez": "2026-10-02"
         },
         {
             "nombre": "RauL BeCaNYaHu",
@@ -3827,9 +3827,9 @@
             "nombre": "Uiste",
             "tag": "8653",
             "region": "eu",
-            "apariciones": 15,
+            "apariciones": 17,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-10-01"
+            "ultima_vez": "2026-10-02"
         },
         {
             "nombre": "Kingsthroat00",
@@ -4214,9 +4214,9 @@
             "nombre": "DIOGO",
             "tag": "4141",
             "region": "eu",
-            "apariciones": 13,
+            "apariciones": 14,
             "amigo_desde": "2026-08-27",
-            "ultima_vez": "2026-10-01"
+            "ultima_vez": "2026-10-02"
         },
         {
             "nombre": "JLMercedes",
@@ -4412,9 +4412,9 @@
             "nombre": "MrGab\u30c4",
             "tag": "L10N",
             "region": "eu",
-            "apariciones": 19,
+            "apariciones": 20,
             "amigo_desde": "2026-08-31",
-            "ultima_vez": "2026-10-01"
+            "ultima_vez": "2026-10-02"
         },
         {
             "nombre": "sh1ngo",
@@ -4907,8 +4907,9 @@
             "nombre": "Chaps",
             "tag": "2906",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-09-11"
+            "apariciones": 5,
+            "amigo_desde": "2026-09-11",
+            "ultima_vez": "2026-10-02"
         },
         {
             "nombre": "nostalgia hearts",
@@ -5611,9 +5612,9 @@
             "nombre": "senju",
             "tag": "nathe",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 9,
             "amigo_desde": "2026-09-29",
-            "ultima_vez": "2026-10-01"
+            "ultima_vez": "2026-10-02"
         },
         {
             "nombre": "B4 bzb",
@@ -5649,6 +5650,20 @@
             "region": "eu",
             "apariciones": 3,
             "amigo_desde": "2026-10-01"
+        },
+        {
+            "nombre": "ZermiZe",
+            "tag": "3160",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-10-02"
+        },
+        {
+            "nombre": "elchatarrero",
+            "tag": "HASH",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-10-02"
         }
     ]
 }
