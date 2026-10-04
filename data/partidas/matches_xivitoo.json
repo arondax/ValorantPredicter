@@ -100,8 +100,8 @@
                     },
                     {
                         "puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                        "name": "Bordalas",
-                        "tag": "Cr7",
+                        "name": "Tony Montana",
+                        "tag": "FAT",
                         "team": "Red",
                         "level": 149,
                         "character": "Raze",
@@ -832,8 +832,8 @@
                     },
                     {
                         "puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                        "name": "Bordalas",
-                        "tag": "Cr7",
+                        "name": "Tony Montana",
+                        "tag": "FAT",
                         "team": "Red",
                         "level": 149,
                         "character": "Raze",
@@ -1568,7 +1568,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -234,
@@ -1732,7 +1732,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 674,
@@ -1802,7 +1802,7 @@
                                 },
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -1868,7 +1868,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1069,
@@ -1896,7 +1896,7 @@
                                     "killer_display_name": "PolloMojao#777",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4893,
@@ -2087,7 +2087,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -143,
@@ -2305,7 +2305,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -2447,7 +2447,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 258,
@@ -2521,7 +2521,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4272,
@@ -2668,7 +2668,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 16,
@@ -3257,7 +3257,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -3440,7 +3440,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 1,
@@ -3478,7 +3478,7 @@
                                     "killer_display_name": "paula#0420",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5161,
@@ -3867,7 +3867,7 @@
                         },
                         "planted_by": {
                             "puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "display_name": "Bordalas#Cr7",
+                            "display_name": "Tony Montana#FAT",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -3895,7 +3895,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2863,
@@ -4140,7 +4140,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1730,
@@ -4220,7 +4220,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1623,
@@ -4294,7 +4294,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1612,
@@ -4407,7 +4407,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3303,
@@ -4596,7 +4596,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2834,
@@ -4672,7 +4672,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4814,7 +4814,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2516,
@@ -4894,7 +4894,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3190,
@@ -5063,7 +5063,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1731,
@@ -5213,7 +5213,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6246,
@@ -5427,7 +5427,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "assistant_display_name": "Bordalas#Cr7",
+                                            "assistant_display_name": "Tony Montana#FAT",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -5477,7 +5477,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -5515,7 +5515,7 @@
                                     "killer_display_name": "PolloMojao#777",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5754,
@@ -6025,7 +6025,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6267,7 +6267,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -7245,7 +7245,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -54,
@@ -7447,7 +7447,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -7601,7 +7601,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -7639,7 +7639,7 @@
                                     "killer_display_name": "paula#0420",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 534,
@@ -8580,7 +8580,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8637,7 +8637,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -8684,7 +8684,7 @@
                                     "killer_display_name": "PakuakuT#1103",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4754,
@@ -9395,7 +9395,7 @@
                                 },
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -9480,7 +9480,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2089,
@@ -9528,7 +9528,7 @@
                                     "killer_display_name": "PolloMojao#777",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2089,
@@ -10105,7 +10105,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2111,
@@ -10223,7 +10223,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -10649,7 +10649,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2191,
@@ -10809,7 +10809,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -10922,7 +10922,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2383,
@@ -11079,7 +11079,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2417,
@@ -11381,7 +11381,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11419,7 +11419,7 @@
                                     "killer_display_name": "PolloMojao#777",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 148,
@@ -11875,7 +11875,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -11983,7 +11983,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12014,7 +12014,7 @@
                                     "kill_time_in_round": 21121,
                                     "kill_time_in_match": 950732,
                                     "killer_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "killer_display_name": "Bordalas#Cr7",
+                                    "killer_display_name": "Tony Montana#FAT",
                                     "killer_team": "Red",
                                     "victim_puuid": "5fd1ef7b-1d8a-5d5d-aaaa-6c0765ab53d7",
                                     "victim_display_name": "pepe13#1313",
@@ -12083,7 +12083,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1088,
@@ -12300,7 +12300,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 116,
@@ -12498,7 +12498,7 @@
                         },
                         "planted_by": {
                             "puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "display_name": "Bordalas#Cr7",
+                            "display_name": "Tony Montana#FAT",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -12556,7 +12556,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6292,
@@ -13532,7 +13532,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2631,
@@ -13662,7 +13662,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -13709,7 +13709,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -13729,7 +13729,7 @@
                                     "killer_display_name": "PakuakuT#1103",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5852,
@@ -13942,7 +13942,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6608,
@@ -14104,7 +14104,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1116,
@@ -14228,7 +14228,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2047,
@@ -14318,7 +14318,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2618,
@@ -14379,7 +14379,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -14444,7 +14444,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2691,
@@ -14694,7 +14694,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3932,
@@ -14851,7 +14851,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2558,
@@ -14917,7 +14917,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14948,7 +14948,7 @@
                                     "kill_time_in_round": 88892,
                                     "kill_time_in_match": 1258049,
                                     "killer_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "killer_display_name": "Bordalas#Cr7",
+                                    "killer_display_name": "Tony Montana#FAT",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cf324d4-d67a-5385-a6fd-04a63e5994c5",
                                     "victim_display_name": "paula#0420",
@@ -14977,7 +14977,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 630,
@@ -14998,7 +14998,7 @@
                                     "kill_time_in_round": 100055,
                                     "kill_time_in_match": 1269212,
                                     "killer_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "killer_display_name": "Bordalas#Cr7",
+                                    "killer_display_name": "Tony Montana#FAT",
                                     "killer_team": "Red",
                                     "victim_puuid": "48681fe4-3f22-5af2-9753-b309fa8b848d",
                                     "victim_display_name": "PolloMojao#777",
@@ -15017,7 +15017,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2754,
@@ -15156,7 +15156,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1262,
@@ -15299,7 +15299,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2621,
@@ -15439,7 +15439,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5824,
@@ -15585,7 +15585,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6137,
@@ -15803,7 +15803,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3793,
@@ -15897,7 +15897,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5668,
@@ -16127,7 +16127,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5838,
@@ -16217,7 +16217,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5912,
@@ -16273,7 +16273,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -16428,7 +16428,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5715,
@@ -17395,7 +17395,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17504,7 +17504,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -17697,7 +17697,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -17726,7 +17726,7 @@
                                     "killer_display_name": "ROA#BNKAI",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7106,
@@ -18115,7 +18115,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -18135,7 +18135,7 @@
                                     "killer_display_name": "PolloMojao#777",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1842,
@@ -18470,7 +18470,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -18630,7 +18630,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6912,
@@ -18734,7 +18734,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1142,
@@ -19638,7 +19638,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -19658,7 +19658,7 @@
                                     "killer_display_name": "pepe13#1313",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6683,
@@ -19945,7 +19945,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "assistant_display_name": "Bordalas#Cr7",
+                                            "assistant_display_name": "Tony Montana#FAT",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -20029,7 +20029,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -20369,7 +20369,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7151,
@@ -21244,7 +21244,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -21510,7 +21510,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -21539,7 +21539,7 @@
                                     "killer_display_name": "paula#0420",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6673,
@@ -21885,7 +21885,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -21914,7 +21914,7 @@
                                     "killer_display_name": "PolloMojao#777",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6057,
@@ -22154,7 +22154,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6057,
@@ -22475,7 +22475,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "assistant_display_name": "Bordalas#Cr7",
+                                            "assistant_display_name": "Tony Montana#FAT",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -22677,7 +22677,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -23030,7 +23030,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6990,
@@ -23230,7 +23230,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 437,
@@ -23290,7 +23290,7 @@
                                 },
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -23365,7 +23365,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1972,
@@ -23508,7 +23508,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5475,
@@ -23655,7 +23655,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6681,
@@ -23872,7 +23872,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6687,
@@ -23966,7 +23966,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6842,
@@ -24012,7 +24012,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -24228,7 +24228,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6714,
@@ -24358,7 +24358,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2715,
@@ -24422,7 +24422,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1552,
@@ -24541,7 +24541,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3228,
@@ -24615,7 +24615,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1721,
@@ -24835,7 +24835,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1844,
@@ -25033,7 +25033,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6725,
@@ -25137,7 +25137,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2310,
@@ -25189,7 +25189,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -25393,7 +25393,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3194,
@@ -25565,7 +25565,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3573,
@@ -25619,7 +25619,7 @@
                             },
                             {
                                 "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                "player_display_name": "Bordalas#Cr7",
+                                "player_display_name": "Tony Montana#FAT",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1895,
@@ -25717,7 +25717,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2138,
@@ -25768,7 +25768,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -25976,7 +25976,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6957,
@@ -26070,7 +26070,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2898,
@@ -26134,7 +26134,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2844,
@@ -26286,7 +26286,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6682,
@@ -26390,7 +26390,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6291,
@@ -26537,7 +26537,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6332,
@@ -26593,7 +26593,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -26615,7 +26615,7 @@
                                     "kill_time_in_round": 43871,
                                     "kill_time_in_match": 2228332,
                                     "killer_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "killer_display_name": "Bordalas#Cr7",
+                                    "killer_display_name": "Tony Montana#FAT",
                                     "killer_team": "Red",
                                     "victim_puuid": "48681fe4-3f22-5af2-9753-b309fa8b848d",
                                     "victim_display_name": "PolloMojao#777",
@@ -26664,7 +26664,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2369,
@@ -26781,7 +26781,7 @@
                                         },
                                         {
                                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                            "player_display_name": "Bordalas#Cr7",
+                                            "player_display_name": "Tony Montana#FAT",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4526,
@@ -27757,7 +27757,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -27804,7 +27804,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -27824,7 +27824,7 @@
                                     "killer_display_name": "PakuakuT#1103",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6974,
@@ -27977,7 +27977,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -29236,7 +29236,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -29283,7 +29283,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "receiver_display_name": "Bordalas#Cr7",
+                                    "receiver_display_name": "Tony Montana#FAT",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -29312,7 +29312,7 @@
                                     "killer_display_name": "PakuakuT#1103",
                                     "killer_team": "Blue",
                                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                                    "victim_display_name": "Bordalas#Cr7",
+                                    "victim_display_name": "Tony Montana#FAT",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3520,
@@ -29787,7 +29787,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 16,
@@ -29902,7 +29902,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -143,
@@ -30003,7 +30003,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 258,
@@ -30098,7 +30098,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 674,
@@ -30173,7 +30173,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 1069,
@@ -30238,7 +30238,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 4272,
@@ -30267,7 +30267,7 @@
                     "killer_display_name": "PolloMojao#777",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4893,
@@ -30322,7 +30322,7 @@
                     "killer_display_name": "paula#0420",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5161,
@@ -30869,7 +30869,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -2834,
@@ -30974,7 +30974,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -2516,
@@ -31075,7 +31075,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -1731,
@@ -31170,7 +31170,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -1730,
@@ -31251,7 +31251,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -1623,
@@ -31326,7 +31326,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -1612,
@@ -31387,7 +31387,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -3190,
@@ -31442,7 +31442,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -3303,
@@ -31461,7 +31461,7 @@
                     "killer_display_name": "PolloMojao#777",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5754,
@@ -31952,7 +31952,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "assistant_display_name": "Bordalas#Cr7",
+                            "assistant_display_name": "Tony Montana#FAT",
                             "assistant_team": "Red"
                         },
                         {
@@ -32107,7 +32107,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -54,
@@ -32156,7 +32156,7 @@
                     "killer_display_name": "paula#0420",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 534,
@@ -32807,7 +32807,7 @@
                     "killer_display_name": "PakuakuT#1103",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4754,
@@ -33492,7 +33492,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2111,
@@ -33597,7 +33597,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2089,
@@ -33646,7 +33646,7 @@
                     "killer_display_name": "PolloMojao#777",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2089,
@@ -34209,7 +34209,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -2191,
@@ -34314,7 +34314,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -2417,
@@ -34409,7 +34409,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -2383,
@@ -34455,7 +34455,7 @@
                     "kill_time_in_match": 950732,
                     "round": 8,
                     "killer_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "killer_display_name": "Bordalas#Cr7",
+                    "killer_display_name": "Tony Montana#FAT",
                     "killer_team": "Red",
                     "victim_puuid": "5fd1ef7b-1d8a-5d5d-aaaa-6c0765ab53d7",
                     "victim_display_name": "pepe13#1313",
@@ -34524,7 +34524,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 1088,
@@ -34629,7 +34629,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 116,
@@ -34678,7 +34678,7 @@
                     "killer_display_name": "PolloMojao#777",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 148,
@@ -35131,7 +35131,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2631,
@@ -35236,7 +35236,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6608,
@@ -35285,7 +35285,7 @@
                     "killer_display_name": "PakuakuT#1103",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5852,
@@ -36033,7 +36033,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 3932,
@@ -36138,7 +36138,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2621,
@@ -36243,7 +36243,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2558,
@@ -36328,7 +36328,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2047,
@@ -36419,7 +36419,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2618,
@@ -36484,7 +36484,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2691,
@@ -36539,7 +36539,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 1262,
@@ -36571,7 +36571,7 @@
                     "kill_time_in_match": 1258049,
                     "round": 10,
                     "killer_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "killer_display_name": "Bordalas#Cr7",
+                    "killer_display_name": "Tony Montana#FAT",
                     "killer_team": "Red",
                     "victim_puuid": "4cf324d4-d67a-5385-a6fd-04a63e5994c5",
                     "victim_display_name": "paula#0420",
@@ -36600,7 +36600,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 630,
@@ -36622,7 +36622,7 @@
                     "kill_time_in_match": 1269212,
                     "round": 10,
                     "killer_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "killer_display_name": "Bordalas#Cr7",
+                    "killer_display_name": "Tony Montana#FAT",
                     "killer_team": "Red",
                     "victim_puuid": "48681fe4-3f22-5af2-9753-b309fa8b848d",
                     "victim_display_name": "PolloMojao#777",
@@ -36641,7 +36641,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -2754,
@@ -36726,7 +36726,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 3793,
@@ -36841,7 +36841,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6137,
@@ -36936,7 +36936,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 5838,
@@ -37027,7 +37027,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 5715,
@@ -37112,7 +37112,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 5912,
@@ -37187,7 +37187,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 5668,
@@ -37206,7 +37206,7 @@
                     "killer_display_name": "ROA#BNKAI",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7106,
@@ -37988,7 +37988,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6912,
@@ -38093,7 +38093,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": -1142,
@@ -38142,7 +38142,7 @@
                     "killer_display_name": "PolloMojao#777",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1842,
@@ -38475,7 +38475,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 7151,
@@ -38524,7 +38524,7 @@
                     "killer_display_name": "pepe13#1313",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6683,
@@ -39048,7 +39048,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "assistant_display_name": "Bordalas#Cr7",
+                            "assistant_display_name": "Tony Montana#FAT",
                             "assistant_team": "Red"
                         }
                     ]
@@ -39171,7 +39171,7 @@
                     "killer_display_name": "paula#0420",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6673,
@@ -39918,7 +39918,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6990,
@@ -40033,7 +40033,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6057,
@@ -40072,7 +40072,7 @@
                     "killer_display_name": "PolloMojao#777",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6057,
@@ -40457,7 +40457,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "assistant_display_name": "Bordalas#Cr7",
+                            "assistant_display_name": "Tony Montana#FAT",
                             "assistant_team": "Red"
                         }
                     ]
@@ -40643,7 +40643,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6687,
@@ -40748,7 +40748,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 5475,
@@ -40843,7 +40843,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6714,
@@ -40938,7 +40938,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6681,
@@ -41023,7 +41023,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6842,
@@ -41088,7 +41088,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 1972,
@@ -41149,7 +41149,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 437,
@@ -41244,7 +41244,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6725,
@@ -41349,7 +41349,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 3194,
@@ -41454,7 +41454,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 3228,
@@ -41549,7 +41549,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2310,
@@ -41630,7 +41630,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 1844,
@@ -41695,7 +41695,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 1721,
@@ -41780,7 +41780,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6682,
@@ -41895,7 +41895,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6957,
@@ -42000,7 +42000,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6332,
@@ -42085,7 +42085,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 6291,
@@ -42160,7 +42160,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 4526,
@@ -42251,7 +42251,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2898,
@@ -42316,7 +42316,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2844,
@@ -42338,7 +42338,7 @@
                     "kill_time_in_match": 2228332,
                     "round": 19,
                     "killer_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "killer_display_name": "Bordalas#Cr7",
+                    "killer_display_name": "Tony Montana#FAT",
                     "killer_team": "Red",
                     "victim_puuid": "48681fe4-3f22-5af2-9753-b309fa8b848d",
                     "victim_display_name": "PolloMojao#777",
@@ -42387,7 +42387,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2369,
@@ -42442,7 +42442,7 @@
                         },
                         {
                             "player_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                            "player_display_name": "Bordalas#Cr7",
+                            "player_display_name": "Tony Montana#FAT",
                             "player_team": "Red",
                             "location": {
                                 "x": 2138,
@@ -42461,7 +42461,7 @@
                     "killer_display_name": "PakuakuT#1103",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6974,
@@ -43160,7 +43160,7 @@
                     "killer_display_name": "PakuakuT#1103",
                     "killer_team": "Blue",
                     "victim_puuid": "69d952c8-4915-59e9-80e2-acf474c8f06f",
-                    "victim_display_name": "Bordalas#Cr7",
+                    "victim_display_name": "Tony Montana#FAT",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3520,

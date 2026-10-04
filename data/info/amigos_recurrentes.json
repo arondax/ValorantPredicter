@@ -2277,7 +2277,7 @@
             "nombre": "Draco811",
             "tag": "1234",
             "region": "eu",
-            "apariciones": 93,
+            "apariciones": 96,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-10-04"
         },
@@ -3851,7 +3851,7 @@
             "nombre": "EFN I Choppe",
             "tag": "1234",
             "region": "eu",
-            "apariciones": 56,
+            "apariciones": 58,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-10-04"
         },
@@ -5038,9 +5038,9 @@
             "nombre": "Drangoner",
             "tag": "EUW",
             "region": "eu",
-            "apariciones": 7,
+            "apariciones": 8,
             "amigo_desde": "2026-09-15",
-            "ultima_vez": "2026-09-26"
+            "ultima_vez": "2026-10-04"
         },
         {
             "nombre": "Huh",
@@ -5123,9 +5123,9 @@
             "nombre": "bardo",
             "tag": "002",
             "region": "eu",
-            "apariciones": 12,
+            "apariciones": 14,
             "amigo_desde": "2026-09-18",
-            "ultima_vez": "2026-10-03"
+            "ultima_vez": "2026-10-04"
         },
         {
             "nombre": "fvrdrms1",
@@ -5154,9 +5154,9 @@
             "nombre": "Pecolsito",
             "tag": "Frost",
             "region": "eu",
-            "apariciones": 13,
+            "apariciones": 15,
             "amigo_desde": "2026-09-19",
-            "ultima_vez": "2026-10-03"
+            "ultima_vez": "2026-10-04"
         },
         {
             "nombre": "MaStErX",
@@ -5368,9 +5368,9 @@
             "nombre": "EFN I Rizzler",
             "tag": "9323",
             "region": "eu",
-            "apariciones": 11,
+            "apariciones": 13,
             "amigo_desde": "2026-09-25",
-            "ultima_vez": "2026-10-02"
+            "ultima_vez": "2026-10-04"
         },
         {
             "nombre": "goncas165\u30c4",
@@ -5415,8 +5415,9 @@
             "nombre": "Yomi99",
             "tag": "EUW",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-09-26"
+            "apariciones": 4,
+            "amigo_desde": "2026-09-26",
+            "ultima_vez": "2026-10-04"
         },
         {
             "nombre": "dayraise",
@@ -5762,8 +5763,16 @@
             "nombre": "YeRiikY",
             "tag": "5422",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-10-03"
+            "apariciones": 5,
+            "amigo_desde": "2026-10-03",
+            "ultima_vez": "2026-10-04"
+        },
+        {
+            "nombre": "Int",
+            "tag": "1000",
+            "region": "eu",
+            "apariciones": 6,
+            "amigo_desde": "2026-10-04"
         }
     ]
 }
