@@ -1995,8 +1995,9 @@
             "nombre": "AriG",
             "tag": "xEdu",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-10-05"
         },
         {
             "nombre": "xEduuu01",
@@ -3828,7 +3829,7 @@
             "nombre": "Uiste",
             "tag": "8653",
             "region": "eu",
-            "apariciones": 19,
+            "apariciones": 21,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-10-05"
         },
@@ -4568,9 +4569,9 @@
             "nombre": "RockZz",
             "tag": "1337",
             "region": "eu",
-            "apariciones": 79,
+            "apariciones": 80,
             "amigo_desde": "2026-09-02",
-            "ultima_vez": "2026-10-03"
+            "ultima_vez": "2026-10-06"
         },
         {
             "nombre": "Hater1deMaduro",
@@ -5071,9 +5072,9 @@
             "nombre": "SprayNPray\u30c4",
             "tag": "wifeo",
             "region": "eu",
-            "apariciones": 51,
+            "apariciones": 53,
             "amigo_desde": "2026-09-17",
-            "ultima_vez": "2026-10-02"
+            "ultima_vez": "2026-10-05"
         },
         {
             "nombre": "Ruxic",
@@ -5102,16 +5103,17 @@
             "nombre": "Santiego",
             "tag": "TANK",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-09-17"
+            "apariciones": 4,
+            "amigo_desde": "2026-09-17",
+            "ultima_vez": "2026-10-05"
         },
         {
             "nombre": "salchipepe",
             "tag": "phone",
             "region": "eu",
-            "apariciones": 22,
+            "apariciones": 24,
             "amigo_desde": "2026-09-18",
-            "ultima_vez": "2026-09-28"
+            "ultima_vez": "2026-10-05"
         },
         {
             "nombre": "Upoticono",
@@ -5195,9 +5197,9 @@
             "nombre": "sponge",
             "tag": "amu",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 7,
             "amigo_desde": "2026-09-19",
-            "ultima_vez": "2026-10-01"
+            "ultima_vez": "2026-10-06"
         },
         {
             "nombre": "Stepwait",
@@ -5264,9 +5266,9 @@
             "nombre": "Ni aim Ni brain\u30c4",
             "tag": "wifeo",
             "region": "eu",
-            "apariciones": 22,
+            "apariciones": 24,
             "amigo_desde": "2026-09-21",
-            "ultima_vez": "2026-10-01"
+            "ultima_vez": "2026-10-05"
         },
         {
             "nombre": "TAGEER",
@@ -5323,9 +5325,9 @@
             "nombre": "Papa Gianca",
             "tag": "1997",
             "region": "eu",
-            "apariciones": 11,
+            "apariciones": 12,
             "amigo_desde": "2026-09-24",
-            "ultima_vez": "2026-10-03"
+            "ultima_vez": "2026-10-05"
         },
         {
             "nombre": "M8 Marti",
@@ -5628,7 +5630,7 @@
             "nombre": "B4 bzb",
             "tag": "LOVE",
             "region": "eu",
-            "apariciones": 9,
+            "apariciones": 11,
             "amigo_desde": "2026-09-30",
             "ultima_vez": "2026-10-05"
         },
@@ -5819,29 +5821,61 @@
             "nombre": "ZPI",
             "tag": "2024",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-10-05"
+            "apariciones": 4,
+            "amigo_desde": "2026-10-05",
+            "ultima_vez": "2026-10-05"
         },
         {
             "nombre": "nomia",
             "tag": "daph",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-10-05"
+            "apariciones": 4,
+            "amigo_desde": "2026-10-05",
+            "ultima_vez": "2026-10-05"
         },
         {
             "nombre": "Kyroo",
             "tag": "Tapp",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-10-05"
+            "apariciones": 4,
+            "amigo_desde": "2026-10-05",
+            "ultima_vez": "2026-10-05"
         },
         {
             "nombre": "blessyoumyson",
             "tag": "777",
             "region": "eu",
+            "apariciones": 4,
+            "amigo_desde": "2026-10-05",
+            "ultima_vez": "2026-10-05"
+        },
+        {
+            "nombre": "jingran",
+            "tag": "\u30b5\u30e1\u30a4",
+            "region": "eu",
             "apariciones": 3,
-            "amigo_desde": "2026-10-05"
+            "amigo_desde": "2026-10-06"
+        },
+        {
+            "nombre": "mey mey mey",
+            "tag": "carry",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-10-06"
+        },
+        {
+            "nombre": "Maky",
+            "tag": "ESP",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-10-06"
+        },
+        {
+            "nombre": "garfield",
+            "tag": "44444",
+            "region": "eu",
+            "apariciones": 5,
+            "amigo_desde": "2026-10-06"
         }
     ]
 }
