@@ -4057,11 +4057,16 @@
             "region": "eu"
         },
         {
+            "nombre": "jsl75092",
+            "tag": "92110",
+            "region": "eu"
+        },
+        {
             "nombre": "MIBR ASPAS",
             "tag": "0009",
             "region": "eu",
             "activo": true,
-            "desde": "2026-10-06",
+            "desde": "2026-10-07",
             "origen": "amigo_recurrente"
         },
         {
@@ -4069,7 +4074,7 @@
             "tag": "FRIO",
             "region": "eu",
             "activo": true,
-            "desde": "2026-10-06",
+            "desde": "2026-10-07",
             "origen": "amigo_recurrente"
         },
         {
@@ -4077,7 +4082,7 @@
             "tag": "5588",
             "region": "eu",
             "activo": true,
-            "desde": "2026-10-06",
+            "desde": "2026-10-07",
             "origen": "amigo_recurrente"
         },
         {
@@ -4085,7 +4090,7 @@
             "tag": "NINJA",
             "region": "eu",
             "activo": true,
-            "desde": "2026-10-06",
+            "desde": "2026-10-07",
             "origen": "amigo_recurrente"
         }
     ]
