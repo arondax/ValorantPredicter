@@ -393,7 +393,7 @@
                     {
                         "puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
                         "name": "oatmeal",
-                        "tag": "slob",
+                        "tag": "aktsu",
                         "team": "Red",
                         "level": 34,
                         "character": "Jett",
@@ -906,7 +906,7 @@
                     {
                         "puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
                         "name": "oatmeal",
-                        "tag": "slob",
+                        "tag": "aktsu",
                         "team": "Red",
                         "level": 34,
                         "character": "Jett",
@@ -1535,7 +1535,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -1557,7 +1557,7 @@
                                     "kill_time_in_round": 32812,
                                     "kill_time_in_match": 87875,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -1576,7 +1576,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6065,
@@ -1739,7 +1739,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -1833,7 +1833,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -1871,7 +1871,7 @@
                                     "killer_display_name": "El rey del pozo#9033",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6142,
@@ -2396,7 +2396,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5494,
@@ -2569,7 +2569,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3924,
@@ -2706,7 +2706,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -2983,7 +2983,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -3028,7 +3028,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5342,
@@ -3126,7 +3126,7 @@
                                     "killer_display_name": "El rey del pozo#9033",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6316,
@@ -3520,7 +3520,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6320,
@@ -3767,7 +3767,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7232,
@@ -3842,7 +3842,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3873,7 +3873,7 @@
                                     "kill_time_in_round": 23402,
                                     "kill_time_in_match": 236060,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -3892,7 +3892,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8169,
@@ -3967,7 +3967,7 @@
                                     "kill_time_in_round": 28619,
                                     "kill_time_in_match": 241277,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                                     "victim_display_name": "B4 bzb#LOVE",
@@ -3986,7 +3986,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8020,
@@ -4207,7 +4207,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8546,
@@ -4407,7 +4407,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5159,
@@ -4521,7 +4521,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8082,
@@ -4729,7 +4729,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8261,
@@ -4803,7 +4803,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8658,
@@ -4935,7 +4935,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 9242,
@@ -5010,7 +5010,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -5059,7 +5059,7 @@
                                     "kill_time_in_round": 5493,
                                     "kill_time_in_match": 302460,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                                     "victim_display_name": "B4 bzb#LOVE",
@@ -5078,7 +5078,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4516,
@@ -5173,7 +5173,7 @@
                                     "kill_time_in_round": 60698,
                                     "kill_time_in_match": 357665,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -5192,7 +5192,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9359,
@@ -5247,7 +5247,7 @@
                                     "kill_time_in_round": 68518,
                                     "kill_time_in_match": 365485,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                                     "victim_display_name": "El rey del pozo#9033",
@@ -5266,7 +5266,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9927,
@@ -5467,7 +5467,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7195,
@@ -5529,7 +5529,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "assistant_display_name": "oatmeal#slob",
+                                            "assistant_display_name": "oatmeal#aktsu",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -5652,7 +5652,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5099,
@@ -5903,7 +5903,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5693,
@@ -6020,7 +6020,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -6088,7 +6088,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6326,7 +6326,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5683,
@@ -6735,7 +6735,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -6755,7 +6755,7 @@
                                     "killer_display_name": "Hasagi#610HZ",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7927,
@@ -6927,7 +6927,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7152,
@@ -7252,7 +7252,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7397,7 +7397,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8838,
@@ -7549,7 +7549,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7167,
@@ -7818,7 +7818,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6898,
@@ -8063,7 +8063,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -8108,7 +8108,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6869,
@@ -8206,7 +8206,7 @@
                                     "killer_display_name": "Hasagi#610HZ",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8817,
@@ -8497,7 +8497,7 @@
                         },
                         "planted_by": {
                             "puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "display_name": "oatmeal#slob",
+                            "display_name": "oatmeal#aktsu",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -8505,7 +8505,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6633,
@@ -8550,7 +8550,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8599,7 +8599,7 @@
                                     "kill_time_in_round": 37119,
                                     "kill_time_in_match": 674921,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                                     "victim_display_name": "KHAN#4414",
@@ -8618,7 +8618,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6767,
@@ -8693,7 +8693,7 @@
                                     "kill_time_in_round": 50542,
                                     "kill_time_in_match": 688344,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -8712,7 +8712,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8162,
@@ -8767,7 +8767,7 @@
                                     "kill_time_in_round": 52399,
                                     "kill_time_in_match": 690201,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "091af5ce-e805-5a56-821a-5a9e6f47d359",
                                     "victim_display_name": "Hasagi#610HZ",
@@ -8786,7 +8786,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7994,
@@ -8821,7 +8821,7 @@
                                     "kill_time_in_round": 87007,
                                     "kill_time_in_match": 724809,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                                     "victim_display_name": "B4 bzb#LOVE",
@@ -8840,7 +8840,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7676,
@@ -8937,7 +8937,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8159,
@@ -9232,7 +9232,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6058,
@@ -9372,7 +9372,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -9408,7 +9408,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6825,
@@ -9554,7 +9554,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6369,
@@ -9674,7 +9674,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6726,
@@ -9806,7 +9806,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -9859,7 +9859,7 @@
                         },
                         "planted_by": {
                             "puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "display_name": "oatmeal#slob",
+                            "display_name": "oatmeal#aktsu",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -9867,7 +9867,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7924,
@@ -9912,7 +9912,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9952,7 +9952,7 @@
                                     "kill_time_in_round": 33916,
                                     "kill_time_in_match": 795735,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                                     "victim_display_name": "KHAN#4414",
@@ -9971,7 +9971,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5953,
@@ -10016,7 +10016,7 @@
                                     "kill_time_in_round": 110433,
                                     "kill_time_in_match": 872252,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                                     "victim_display_name": "El rey del pozo#9033",
@@ -10035,7 +10035,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9792,
@@ -10066,7 +10066,7 @@
                                     "kill_time_in_round": 114295,
                                     "kill_time_in_match": 876114,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                                     "victim_display_name": "B4 bzb#LOVE",
@@ -10085,7 +10085,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9785,
@@ -10181,7 +10181,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6301,
@@ -10265,7 +10265,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5638,
@@ -10392,7 +10392,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6321,
@@ -10599,7 +10599,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4789,
@@ -10713,7 +10713,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5312,
@@ -10817,7 +10817,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2876,
@@ -11092,7 +11092,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11160,7 +11160,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11612,7 +11612,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11840,7 +11840,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -11860,7 +11860,7 @@
                                     "killer_display_name": "KHAN#4414",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7995,
@@ -12268,7 +12268,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12653,7 +12653,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -12877,7 +12877,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4150,
@@ -13059,7 +13059,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -13095,7 +13095,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5736,
@@ -13173,7 +13173,7 @@
                                     "killer_display_name": "KHAN#4414",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5780,
@@ -13332,7 +13332,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5536,
@@ -13462,7 +13462,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 10057,
@@ -13537,7 +13537,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13586,7 +13586,7 @@
                                     "kill_time_in_round": 11188,
                                     "kill_time_in_match": 1096133,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                                     "victim_display_name": "KHAN#4414",
@@ -13605,7 +13605,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8495,
@@ -13696,7 +13696,7 @@
                                     "kill_time_in_round": 17701,
                                     "kill_time_in_match": 1102646,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "091af5ce-e805-5a56-821a-5a9e6f47d359",
                                     "victim_display_name": "Hasagi#610HZ",
@@ -13715,7 +13715,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8315,
@@ -13780,7 +13780,7 @@
                                     "kill_time_in_round": 35662,
                                     "kill_time_in_match": 1120607,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -13799,7 +13799,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10037,
@@ -13854,7 +13854,7 @@
                                     "kill_time_in_round": 62152,
                                     "kill_time_in_match": 1147097,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                                     "victim_display_name": "El rey del pozo#9033",
@@ -13873,7 +13873,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8094,
@@ -13986,7 +13986,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -14125,7 +14125,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10018,
@@ -14294,7 +14294,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9423,
@@ -14365,7 +14365,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -14410,7 +14410,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8407,
@@ -14557,7 +14557,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8491,
@@ -14852,7 +14852,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14874,7 +14874,7 @@
                                     "kill_time_in_round": 10977,
                                     "kill_time_in_match": 1195081,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                                     "victim_display_name": "B4 bzb#LOVE",
@@ -14893,7 +14893,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7722,
@@ -15418,7 +15418,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -15463,7 +15463,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8431,
@@ -15551,7 +15551,7 @@
                                     "killer_display_name": "El rey del pozo#9033",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8969,
@@ -16070,7 +16070,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16101,7 +16101,7 @@
                                     "kill_time_in_round": 17661,
                                     "kill_time_in_match": 1300919,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                                     "victim_display_name": "KHAN#4414",
@@ -16120,7 +16120,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8705,
@@ -16205,7 +16205,7 @@
                                     "kill_time_in_round": 36206,
                                     "kill_time_in_match": 1319464,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                                     "victim_display_name": "B4 bzb#LOVE",
@@ -16224,7 +16224,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8227,
@@ -16369,7 +16369,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8950,
@@ -16453,7 +16453,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8309,
@@ -16716,7 +16716,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9246,
@@ -16895,7 +16895,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -16940,7 +16940,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8707,
@@ -17144,7 +17144,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7307,
@@ -17208,7 +17208,7 @@
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 9299,
@@ -17247,7 +17247,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17296,7 +17296,7 @@
                                     "kill_time_in_round": 5407,
                                     "kill_time_in_match": 1363848,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                                     "victim_display_name": "El rey del pozo#9033",
@@ -17315,7 +17315,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6908,
@@ -17400,7 +17400,7 @@
                                     "kill_time_in_round": 26642,
                                     "kill_time_in_match": 1385083,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -17419,7 +17419,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9157,
@@ -17484,7 +17484,7 @@
                                     "kill_time_in_round": 55619,
                                     "kill_time_in_match": 1414060,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                                     "victim_display_name": "KHAN#4414",
@@ -17503,7 +17503,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7657,
@@ -17554,7 +17554,7 @@
                                     "kill_time_in_round": 61684,
                                     "kill_time_in_match": 1420125,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "091af5ce-e805-5a56-821a-5a9e6f47d359",
                                     "victim_display_name": "Hasagi#610HZ",
@@ -17573,7 +17573,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7007,
@@ -17705,7 +17705,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -17741,7 +17741,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7396,
@@ -17982,7 +17982,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7318,
@@ -18193,7 +18193,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6910,
@@ -18382,7 +18382,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -18640,7 +18640,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -18687,7 +18687,7 @@
                                     "killer_display_name": "El rey del pozo#9033",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9122,
@@ -19021,7 +19021,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9241,
@@ -19436,7 +19436,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8838,
@@ -19631,7 +19631,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -20338,7 +20338,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -20358,7 +20358,7 @@
                                     "killer_display_name": "El rey del pozo#9033",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7467,
@@ -20846,7 +20846,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -20886,7 +20886,7 @@
                                     "kill_time_in_round": 8761,
                                     "kill_time_in_match": 1650064,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                                     "victim_display_name": "El rey del pozo#9033",
@@ -20905,7 +20905,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6252,
@@ -21000,7 +21000,7 @@
                                     "kill_time_in_round": 10838,
                                     "kill_time_in_match": 1652141,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                                     "victim_display_name": "B4 bzb#LOVE",
@@ -21019,7 +21019,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7229,
@@ -21642,7 +21642,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "assistant_display_name": "oatmeal#slob",
+                                            "assistant_display_name": "oatmeal#aktsu",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -21687,7 +21687,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -21739,7 +21739,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -21768,7 +21768,7 @@
                                     "killer_display_name": "KHAN#4414",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7174,
@@ -22087,7 +22087,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -22416,7 +22416,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7175,
@@ -23048,7 +23048,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "assistant_display_name": "oatmeal#slob",
+                                            "assistant_display_name": "oatmeal#aktsu",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -23250,7 +23250,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -23270,7 +23270,7 @@
                                     "killer_display_name": "B4 bzb#LOVE",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7085,
@@ -23481,7 +23481,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -23503,7 +23503,7 @@
                                     "kill_time_in_round": 41087,
                                     "kill_time_in_match": 1831456,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                                     "victim_display_name": "KHAN#4414",
@@ -23522,7 +23522,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6609,
@@ -23688,7 +23688,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7818,
@@ -23834,7 +23834,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8216,
@@ -24001,7 +24001,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7111,
@@ -24112,7 +24112,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -24150,7 +24150,7 @@
                                     "killer_display_name": "El rey del pozo#9033",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7895,
@@ -24744,7 +24744,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -25011,7 +25011,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7110,
@@ -25141,7 +25141,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -25161,7 +25161,7 @@
                                     "killer_display_name": "El rey del pozo#9033",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7144,
@@ -25420,7 +25420,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7235,
@@ -25846,7 +25846,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -25907,7 +25907,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8414,
@@ -25984,14 +25984,14 @@
                         },
                         "defused_by": {
                             "puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "display_name": "oatmeal#slob",
+                            "display_name": "oatmeal#aktsu",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 50342,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7095,
@@ -26040,7 +26040,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -26141,7 +26141,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8132,
@@ -26251,7 +26251,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8462,
@@ -26472,7 +26472,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8166,
@@ -26566,7 +26566,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8456,
@@ -26646,7 +26646,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8397,
@@ -26897,7 +26897,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -26951,7 +26951,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8657,
@@ -27082,7 +27082,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -27185,7 +27185,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8467,
@@ -27249,7 +27249,7 @@
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                "player_display_name": "oatmeal#slob",
+                                "player_display_name": "oatmeal#aktsu",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5307,
@@ -27278,7 +27278,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -27309,7 +27309,7 @@
                                     "kill_time_in_round": 59913,
                                     "kill_time_in_match": 2158453,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                                     "victim_display_name": "KHAN#4414",
@@ -27328,7 +27328,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9306,
@@ -27373,7 +27373,7 @@
                                     "kill_time_in_round": 73083,
                                     "kill_time_in_match": 2171623,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                                     "victim_display_name": "B4 bzb#LOVE",
@@ -27392,7 +27392,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8604,
@@ -27516,7 +27516,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5754,
@@ -27641,7 +27641,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6241,
@@ -27725,7 +27725,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7231,
@@ -27805,7 +27805,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9288,
@@ -27930,7 +27930,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4673,
@@ -28034,7 +28034,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5057,
@@ -28196,7 +28196,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -28462,7 +28462,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4805,
@@ -28589,7 +28589,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -29040,7 +29040,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -29078,7 +29078,7 @@
                                     "killer_display_name": "El rey del pozo#9033",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7249,
@@ -29510,7 +29510,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -29766,7 +29766,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -29788,7 +29788,7 @@
                                     "kill_time_in_round": 24203,
                                     "kill_time_in_match": 2320404,
                                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "killer_display_name": "oatmeal#slob",
+                                    "killer_display_name": "oatmeal#aktsu",
                                     "killer_team": "Red",
                                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -29807,7 +29807,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7257,
@@ -29966,7 +29966,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -29984,7 +29984,7 @@
                                 },
                                 {
                                     "receiver_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "receiver_display_name": "oatmeal#slob",
+                                    "receiver_display_name": "oatmeal#aktsu",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -30020,7 +30020,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7257,
@@ -30098,7 +30098,7 @@
                                     "killer_display_name": "\u0e05 \u0e05#haru",
                                     "killer_team": "Blue",
                                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                    "victim_display_name": "oatmeal#slob",
+                                    "victim_display_name": "oatmeal#aktsu",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7856,
@@ -30308,7 +30308,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7167,
@@ -30422,7 +30422,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7220,
@@ -30737,7 +30737,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                                            "player_display_name": "oatmeal#slob",
+                                            "player_display_name": "oatmeal#aktsu",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7257,
@@ -30873,7 +30873,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5494,
@@ -30994,7 +30994,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 3924,
@@ -31080,7 +31080,7 @@
                     "kill_time_in_match": 87875,
                     "round": 0,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -31099,7 +31099,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6065,
@@ -31178,7 +31178,7 @@
                     "killer_display_name": "El rey del pozo#9033",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6142,
@@ -31480,7 +31480,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5342,
@@ -31595,7 +31595,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6320,
@@ -31684,7 +31684,7 @@
                     "killer_display_name": "El rey del pozo#9033",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6316,
@@ -32043,7 +32043,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5159,
@@ -32158,7 +32158,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8082,
@@ -32244,7 +32244,7 @@
                     "kill_time_in_match": 236060,
                     "round": 2,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -32263,7 +32263,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8169,
@@ -32339,7 +32339,7 @@
                     "kill_time_in_match": 241277,
                     "round": 2,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                     "victim_display_name": "B4 bzb#LOVE",
@@ -32358,7 +32358,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8020,
@@ -32443,7 +32443,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8261,
@@ -32518,7 +32518,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8658,
@@ -32583,7 +32583,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8546,
@@ -32619,7 +32619,7 @@
                     "kill_time_in_match": 302460,
                     "round": 3,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                     "victim_display_name": "B4 bzb#LOVE",
@@ -32638,7 +32638,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 4516,
@@ -32753,7 +32753,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5099,
@@ -32858,7 +32858,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5693,
@@ -32959,7 +32959,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7195,
@@ -33021,7 +33021,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "assistant_display_name": "oatmeal#slob",
+                            "assistant_display_name": "oatmeal#aktsu",
                             "assistant_team": "Red"
                         }
                     ]
@@ -33031,7 +33031,7 @@
                     "kill_time_in_match": 357665,
                     "round": 3,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -33050,7 +33050,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9359,
@@ -33106,7 +33106,7 @@
                     "kill_time_in_match": 365485,
                     "round": 3,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                     "victim_display_name": "El rey del pozo#9033",
@@ -33125,7 +33125,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9927,
@@ -33190,7 +33190,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5683,
@@ -33305,7 +33305,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7152,
@@ -33400,7 +33400,7 @@
                     "killer_display_name": "Hasagi#610HZ",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7927,
@@ -33742,7 +33742,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6869,
@@ -33857,7 +33857,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6898,
@@ -33962,7 +33962,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7167,
@@ -34063,7 +34063,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8838,
@@ -34138,7 +34138,7 @@
                     "killer_display_name": "Hasagi#610HZ",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8817,
@@ -34429,7 +34429,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6058,
@@ -34544,7 +34544,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6369,
@@ -34665,7 +34665,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6726,
@@ -34762,7 +34762,7 @@
                     "kill_time_in_match": 674921,
                     "round": 6,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                     "victim_display_name": "KHAN#4414",
@@ -34781,7 +34781,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6767,
@@ -34876,7 +34876,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6825,
@@ -34942,7 +34942,7 @@
                     "kill_time_in_match": 688344,
                     "round": 6,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -34961,7 +34961,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8162,
@@ -35036,7 +35036,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8159,
@@ -35082,7 +35082,7 @@
                     "kill_time_in_match": 690201,
                     "round": 6,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "091af5ce-e805-5a56-821a-5a9e6f47d359",
                     "victim_display_name": "Hasagi#610HZ",
@@ -35101,7 +35101,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7994,
@@ -35137,7 +35137,7 @@
                     "kill_time_in_match": 724809,
                     "round": 6,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                     "victim_display_name": "B4 bzb#LOVE",
@@ -35156,7 +35156,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7676,
@@ -35201,7 +35201,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 4789,
@@ -35316,7 +35316,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5312,
@@ -35421,7 +35421,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6321,
@@ -35516,7 +35516,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6301,
@@ -35601,7 +35601,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5638,
@@ -35657,7 +35657,7 @@
                     "kill_time_in_match": 795735,
                     "round": 7,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                     "victim_display_name": "KHAN#4414",
@@ -35676,7 +35676,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5953,
@@ -35741,7 +35741,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 2876,
@@ -35783,7 +35783,7 @@
                     "kill_time_in_match": 872252,
                     "round": 7,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                     "victim_display_name": "El rey del pozo#9033",
@@ -35802,7 +35802,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9792,
@@ -35834,7 +35834,7 @@
                     "kill_time_in_match": 876114,
                     "round": 7,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                     "victim_display_name": "B4 bzb#LOVE",
@@ -35853,7 +35853,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9785,
@@ -35872,7 +35872,7 @@
                     "killer_display_name": "KHAN#4414",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7995,
@@ -36434,7 +36434,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 4150,
@@ -36549,7 +36549,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5536,
@@ -36654,7 +36654,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5736,
@@ -36733,7 +36733,7 @@
                     "killer_display_name": "KHAN#4414",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5780,
@@ -37080,7 +37080,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8491,
@@ -37176,7 +37176,7 @@
                     "kill_time_in_match": 1096133,
                     "round": 10,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                     "victim_display_name": "KHAN#4414",
@@ -37195,7 +37195,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8495,
@@ -37306,7 +37306,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8407,
@@ -37382,7 +37382,7 @@
                     "kill_time_in_match": 1102646,
                     "round": 10,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "091af5ce-e805-5a56-821a-5a9e6f47d359",
                     "victim_display_name": "Hasagi#610HZ",
@@ -37401,7 +37401,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8315,
@@ -37467,7 +37467,7 @@
                     "kill_time_in_match": 1120607,
                     "round": 10,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -37486,7 +37486,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 10037,
@@ -37561,7 +37561,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 10018,
@@ -37626,7 +37626,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9423,
@@ -37662,7 +37662,7 @@
                     "kill_time_in_match": 1147097,
                     "round": 10,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                     "victim_display_name": "El rey del pozo#9033",
@@ -37681,7 +37681,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8094,
@@ -37707,7 +37707,7 @@
                     "kill_time_in_match": 1195081,
                     "round": 11,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                     "victim_display_name": "B4 bzb#LOVE",
@@ -37726,7 +37726,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7722,
@@ -37841,7 +37841,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8431,
@@ -37930,7 +37930,7 @@
                     "killer_display_name": "El rey del pozo#9033",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8969,
@@ -38399,7 +38399,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9246,
@@ -38501,7 +38501,7 @@
                     "kill_time_in_match": 1300919,
                     "round": 12,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                     "victim_display_name": "KHAN#4414",
@@ -38520,7 +38520,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8705,
@@ -38625,7 +38625,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8707,
@@ -38720,7 +38720,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8950,
@@ -38786,7 +38786,7 @@
                     "kill_time_in_match": 1319464,
                     "round": 12,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                     "victim_display_name": "B4 bzb#LOVE",
@@ -38805,7 +38805,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8227,
@@ -38880,7 +38880,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8309,
@@ -38945,7 +38945,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6910,
@@ -39041,7 +39041,7 @@
                     "kill_time_in_match": 1363848,
                     "round": 13,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                     "victim_display_name": "El rey del pozo#9033",
@@ -39060,7 +39060,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6908,
@@ -39165,7 +39165,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7396,
@@ -39241,7 +39241,7 @@
                     "kill_time_in_match": 1385083,
                     "round": 13,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -39260,7 +39260,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9157,
@@ -39345,7 +39345,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7318,
@@ -39401,7 +39401,7 @@
                     "kill_time_in_match": 1414060,
                     "round": 13,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                     "victim_display_name": "KHAN#4414",
@@ -39420,7 +39420,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7657,
@@ -39472,7 +39472,7 @@
                     "kill_time_in_match": 1420125,
                     "round": 13,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "091af5ce-e805-5a56-821a-5a9e6f47d359",
                     "victim_display_name": "Hasagi#610HZ",
@@ -39491,7 +39491,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7007,
@@ -39546,7 +39546,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8838,
@@ -39667,7 +39667,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9241,
@@ -39762,7 +39762,7 @@
                     "killer_display_name": "El rey del pozo#9033",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9122,
@@ -40229,7 +40229,7 @@
                     "killer_display_name": "El rey del pozo#9033",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7467,
@@ -40878,7 +40878,7 @@
                     "kill_time_in_match": 1650064,
                     "round": 16,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "260a4087-cdea-5b74-beca-2f5bedf7b1af",
                     "victim_display_name": "El rey del pozo#9033",
@@ -40897,7 +40897,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6252,
@@ -40993,7 +40993,7 @@
                     "kill_time_in_match": 1652141,
                     "round": 16,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                     "victim_display_name": "B4 bzb#LOVE",
@@ -41012,7 +41012,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7229,
@@ -41112,7 +41112,7 @@
                     "killer_display_name": "KHAN#4414",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7174,
@@ -41372,7 +41372,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "assistant_display_name": "oatmeal#slob",
+                            "assistant_display_name": "oatmeal#aktsu",
                             "assistant_team": "Red"
                         }
                     ]
@@ -41538,7 +41538,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7175,
@@ -41637,7 +41637,7 @@
                     "killer_display_name": "B4 bzb#LOVE",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7085,
@@ -42061,7 +42061,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "assistant_display_name": "oatmeal#slob",
+                            "assistant_display_name": "oatmeal#aktsu",
                             "assistant_team": "Red"
                         }
                     ]
@@ -42276,7 +42276,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8216,
@@ -42372,7 +42372,7 @@
                     "kill_time_in_match": 1831456,
                     "round": 18,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                     "victim_display_name": "KHAN#4414",
@@ -42391,7 +42391,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6609,
@@ -42496,7 +42496,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7111,
@@ -42591,7 +42591,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7818,
@@ -42660,7 +42660,7 @@
                     "killer_display_name": "El rey del pozo#9033",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7895,
@@ -42956,7 +42956,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7235,
@@ -43071,7 +43071,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7110,
@@ -43160,7 +43160,7 @@
                     "killer_display_name": "El rey del pozo#9033",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7144,
@@ -43581,7 +43581,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8657,
@@ -43696,7 +43696,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8132,
@@ -43807,7 +43807,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8166,
@@ -43902,7 +43902,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8462,
@@ -43993,7 +43993,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8456,
@@ -44074,7 +44074,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8397,
@@ -44145,7 +44145,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5754,
@@ -44271,7 +44271,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 4673,
@@ -44376,7 +44376,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 4805,
@@ -44471,7 +44471,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 5057,
@@ -44556,7 +44556,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 6241,
@@ -44641,7 +44641,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7231,
@@ -44703,7 +44703,7 @@
                     "kill_time_in_match": 2158453,
                     "round": 21,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "dca6ad87-66b4-588f-b365-66127d6e6e2c",
                     "victim_display_name": "KHAN#4414",
@@ -44722,7 +44722,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9306,
@@ -44787,7 +44787,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 9288,
@@ -44823,7 +44823,7 @@
                     "kill_time_in_match": 2171623,
                     "round": 21,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "51702e1c-181a-5229-8b3a-9b21fee4ba81",
                     "victim_display_name": "B4 bzb#LOVE",
@@ -44842,7 +44842,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 8604,
@@ -44871,7 +44871,7 @@
                     "killer_display_name": "El rey del pozo#9033",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7249,
@@ -45500,7 +45500,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7167,
@@ -45615,7 +45615,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7257,
@@ -45720,7 +45720,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7257,
@@ -45796,7 +45796,7 @@
                     "kill_time_in_match": 2320404,
                     "round": 23,
                     "killer_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "killer_display_name": "oatmeal#slob",
+                    "killer_display_name": "oatmeal#aktsu",
                     "killer_team": "Red",
                     "victim_puuid": "73ef0265-8fed-54a7-a7d7-f4ef01f90e98",
                     "victim_display_name": "\u0e05 \u0e05#haru",
@@ -45815,7 +45815,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7257,
@@ -45906,7 +45906,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                            "player_display_name": "oatmeal#slob",
+                            "player_display_name": "oatmeal#aktsu",
                             "player_team": "Red",
                             "location": {
                                 "x": 7220,
@@ -45975,7 +45975,7 @@
                     "killer_display_name": "\u0e05 \u0e05#haru",
                     "killer_team": "Blue",
                     "victim_puuid": "72854227-b4ac-59c0-83e3-3fdbfa7bb62f",
-                    "victim_display_name": "oatmeal#slob",
+                    "victim_display_name": "oatmeal#aktsu",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7856,
