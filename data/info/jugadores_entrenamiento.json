@@ -205,12 +205,6 @@
             "activo": true
         },
         {
-            "nombre": "ZG y4mi",
-            "tag": "1TAP",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "mrkos",
             "tag": "8383",
             "region": "eu",
@@ -1130,12 +1124,6 @@
             "activo": true
         },
         {
-            "nombre": "ZG y4mi",
-            "tag": "1TAP",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "mrkos",
             "tag": "8383",
             "region": "eu",
@@ -1662,12 +1650,6 @@
         {
             "nombre": "xivitoo",
             "tag": "GRX",
-            "region": "eu",
-            "activo": true
-        },
-        {
-            "nombre": "ZG y4mi",
-            "tag": "1TAP",
             "region": "eu",
             "activo": true
         },
@@ -2208,12 +2190,6 @@
             "activo": true
         },
         {
-            "nombre": "ZG y4mi",
-            "tag": "1TAP",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "mrkos",
             "tag": "8383",
             "region": "eu",
@@ -2744,12 +2720,6 @@
         {
             "nombre": "xivitoo",
             "tag": "GRX",
-            "region": "eu",
-            "activo": true
-        },
-        {
-            "nombre": "ZG y4mi",
-            "tag": "1TAP",
             "region": "eu",
             "activo": true
         },
@@ -4082,6 +4052,14 @@
         {
             "nombre": "Nomade",
             "tag": "FRIO",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-10-10",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "ZG y4mi",
+            "tag": "1TAP",
             "region": "eu",
             "activo": true,
             "desde": "2026-10-10",

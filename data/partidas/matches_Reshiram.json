@@ -538,7 +538,7 @@
                     },
                     {
                         "puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                        "name": "Neoria",
+                        "name": "NeoriaQLF",
                         "tag": "FYP",
                         "team": "Red",
                         "level": 91,
@@ -978,7 +978,7 @@
                     },
                     {
                         "puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                        "name": "Neoria",
+                        "name": "NeoriaQLF",
                         "tag": "FYP",
                         "team": "Red",
                         "level": 91,
@@ -1520,7 +1520,7 @@
                         },
                         "planted_by": {
                             "puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "display_name": "Neoria#FYP",
+                            "display_name": "NeoriaQLF#FYP",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -1538,7 +1538,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6401,
@@ -1672,7 +1672,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6401,
@@ -1800,7 +1800,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -1822,7 +1822,7 @@
                                     "kill_time_in_round": 45745,
                                     "kill_time_in_match": 100808,
                                     "killer_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "killer_display_name": "Neoria#FYP",
+                                    "killer_display_name": "NeoriaQLF#FYP",
                                     "killer_team": "Red",
                                     "victim_puuid": "91354673-55ab-5e1d-8b0a-52e06fcbe3f9",
                                     "victim_display_name": "Only Stinger \u30c4#00000",
@@ -1841,7 +1841,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5460,
@@ -1917,7 +1917,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -1953,7 +1953,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6159,
@@ -1991,7 +1991,7 @@
                                     "killer_display_name": "Kayder#RPM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4975,
@@ -2113,7 +2113,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1576,
@@ -2227,7 +2227,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6233,
@@ -2359,7 +2359,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5884,
@@ -2469,7 +2469,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6401,
@@ -2664,7 +2664,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6401,
@@ -2954,7 +2954,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4250,
@@ -3112,7 +3112,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3187,7 +3187,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -3243,7 +3243,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5055,
@@ -3317,7 +3317,7 @@
                                     "killer_display_name": "Kayder#RPM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6898,
@@ -3494,7 +3494,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6515,
@@ -3578,7 +3578,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6812,
@@ -3881,7 +3881,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -3986,7 +3986,7 @@
                         },
                         "planted_by": {
                             "puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "display_name": "Neoria#FYP",
+                            "display_name": "NeoriaQLF#FYP",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -4004,7 +4004,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6397,
@@ -4145,7 +4145,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5180,
@@ -4245,7 +4245,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4943,
@@ -4335,7 +4335,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5607,
@@ -4399,7 +4399,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6397,
@@ -4497,7 +4497,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4563,7 +4563,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -4618,7 +4618,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4972,
@@ -4718,7 +4718,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5501,
@@ -4861,7 +4861,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1672,
@@ -5066,7 +5066,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -5095,7 +5095,7 @@
                                     "killer_display_name": "PilinCoquet#UwU",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5243,
@@ -5422,7 +5422,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -5534,7 +5534,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4082,
@@ -5628,7 +5628,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1567,
@@ -5784,7 +5784,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3513,
@@ -5888,7 +5888,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1880,
@@ -6121,7 +6121,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -6141,7 +6141,7 @@
                                     "killer_display_name": "PikaMoon#EUR",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1988,
@@ -6284,7 +6284,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2081,
@@ -6404,7 +6404,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6935,
@@ -6557,7 +6557,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2449,
@@ -6619,7 +6619,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "assistant_display_name": "Neoria#FYP",
+                                            "assistant_display_name": "NeoriaQLF#FYP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -6657,7 +6657,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6808,
@@ -6731,7 +6731,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6783,
@@ -6900,7 +6900,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2780,
@@ -7010,7 +7010,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6670,
@@ -7096,7 +7096,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7162,7 +7162,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -7180,7 +7180,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -7236,7 +7236,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2349,
@@ -7340,7 +7340,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6910,
@@ -7384,7 +7384,7 @@
                                     "killer_display_name": "Kayder#RPM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6762,
@@ -7566,7 +7566,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -7660,7 +7660,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -7724,7 +7724,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6726,
@@ -7892,7 +7892,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5937,
@@ -8038,7 +8038,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5461,
@@ -8199,7 +8199,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5206,
@@ -8305,7 +8305,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8380,7 +8380,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -8557,7 +8557,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5281,
@@ -8661,7 +8661,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5310,
@@ -8755,7 +8755,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5236,
@@ -9067,7 +9067,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6751,
@@ -9212,7 +9212,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6725,
@@ -9358,7 +9358,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2999,
@@ -9472,7 +9472,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5611,
@@ -9568,7 +9568,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -9783,7 +9783,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6700,
@@ -10023,7 +10023,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5862,
@@ -10097,7 +10097,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5189,
@@ -10501,7 +10501,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -10685,7 +10685,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -10723,7 +10723,7 @@
                                     "killer_display_name": "Only Stinger \u30c4#00000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3596,
@@ -11076,7 +11076,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4203,
@@ -11200,7 +11200,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4998,
@@ -11720,7 +11720,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6951,
@@ -11903,7 +11903,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6572,
@@ -12150,7 +12150,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12271,7 +12271,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6493,
@@ -12545,7 +12545,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -12574,7 +12574,7 @@
                                     "killer_display_name": "Reshiram#miau",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6955,
@@ -12812,7 +12812,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -12876,7 +12876,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6094,
@@ -13050,7 +13050,7 @@
                         },
                         "planted_by": {
                             "puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "display_name": "Neoria#FYP",
+                            "display_name": "NeoriaQLF#FYP",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -13068,7 +13068,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6299,
@@ -13262,7 +13262,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6299,
@@ -13336,7 +13336,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5957,
@@ -13402,7 +13402,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13505,7 +13505,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4643,
@@ -13635,7 +13635,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -13671,7 +13671,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6123,
@@ -13715,7 +13715,7 @@
                                     "killer_display_name": "Only Stinger \u30c4#00000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5203,
@@ -13946,7 +13946,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5006,
@@ -14040,7 +14040,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5005,
@@ -14149,7 +14149,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -14247,7 +14247,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4679,
@@ -14359,7 +14359,7 @@
                         },
                         "planted_by": {
                             "puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "display_name": "Neoria#FYP",
+                            "display_name": "NeoriaQLF#FYP",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -14387,7 +14387,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6454,
@@ -14522,7 +14522,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2629,
@@ -14636,7 +14636,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6454,
@@ -14791,7 +14791,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5118,
@@ -14875,7 +14875,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6147,
@@ -14945,7 +14945,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6065,
@@ -14997,7 +14997,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -15044,7 +15044,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -15108,7 +15108,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5790,
@@ -15188,7 +15188,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6059,
@@ -15527,7 +15527,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3766,
@@ -15780,7 +15780,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16078,7 +16078,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3093,
@@ -16324,7 +16324,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3631,
@@ -16444,7 +16444,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -16464,7 +16464,7 @@
                                     "killer_display_name": "Reshiram#miau",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5495,
@@ -17115,7 +17115,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7707,
@@ -17205,7 +17205,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7707,
@@ -17386,7 +17386,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7626,
@@ -17448,7 +17448,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "assistant_display_name": "Neoria#FYP",
+                                            "assistant_display_name": "NeoriaQLF#FYP",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -17493,7 +17493,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -17605,7 +17605,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4742,
@@ -17709,7 +17709,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7707,
@@ -17816,7 +17816,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -17836,7 +17836,7 @@
                                     "killer_display_name": "Only Stinger \u30c4#00000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6990,
@@ -17975,7 +17975,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7707,
@@ -18358,7 +18358,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4541,
@@ -18534,7 +18534,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5093,
@@ -18671,7 +18671,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -18727,7 +18727,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -18783,7 +18783,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7158,
@@ -18837,7 +18837,7 @@
                                     "killer_display_name": "Kayder#RPM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4835,
@@ -19056,7 +19056,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5909,
@@ -19160,7 +19160,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6296,
@@ -19458,7 +19458,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5947,
@@ -19622,7 +19622,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5948,
@@ -19770,7 +19770,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -19792,7 +19792,7 @@
                                     "kill_time_in_round": 48647,
                                     "kill_time_in_match": 1580818,
                                     "killer_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "killer_display_name": "Neoria#FYP",
+                                    "killer_display_name": "NeoriaQLF#FYP",
                                     "killer_team": "Red",
                                     "victim_puuid": "bce2c9e0-3cb8-54b5-b757-c3ab3a459115",
                                     "victim_display_name": "Kayder#RPM",
@@ -19811,7 +19811,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6147,
@@ -19937,7 +19937,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6233,
@@ -20140,7 +20140,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -20176,7 +20176,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5975,
@@ -20270,7 +20270,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5832,
@@ -20314,7 +20314,7 @@
                                     "killer_display_name": "Reshiram#miau",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6000,
@@ -20485,7 +20485,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5008,
@@ -20642,7 +20642,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6292,
@@ -20768,7 +20768,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 9527,
@@ -21060,7 +21060,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -21361,7 +21361,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -21417,7 +21417,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9212,
@@ -21521,7 +21521,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9456,
@@ -21599,7 +21599,7 @@
                                     "killer_display_name": "Reshiram#miau",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9149,
@@ -21998,7 +21998,7 @@
                                         },
                                         {
                                             "assistant_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "assistant_display_name": "Neoria#FYP",
+                                            "assistant_display_name": "NeoriaQLF#FYP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -22126,7 +22126,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7656,
@@ -22183,14 +22183,14 @@
                         },
                         "defused_by": {
                             "puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "display_name": "Neoria#FYP",
+                            "display_name": "NeoriaQLF#FYP",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 46457,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6529,
@@ -22307,7 +22307,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7707,
@@ -22401,7 +22401,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7699,
@@ -22485,7 +22485,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7669,
@@ -22631,7 +22631,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5691,
@@ -22737,7 +22737,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -22759,7 +22759,7 @@
                                     "kill_time_in_round": 37055,
                                     "kill_time_in_match": 1761337,
                                     "killer_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "killer_display_name": "Neoria#FYP",
+                                    "killer_display_name": "NeoriaQLF#FYP",
                                     "killer_team": "Red",
                                     "victim_puuid": "f16e16f2-5f99-5e1a-b202-776b167a83cb",
                                     "victim_display_name": "PikaMoon#EUR",
@@ -22778,7 +22778,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7654,
@@ -22919,7 +22919,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6188,
@@ -23264,7 +23264,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7692,
@@ -23406,7 +23406,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 9335,
@@ -23551,7 +23551,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9365,
@@ -23699,7 +23699,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -23721,7 +23721,7 @@
                                     "kill_time_in_round": 28992,
                                     "kill_time_in_match": 1836735,
                                     "killer_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "killer_display_name": "Neoria#FYP",
+                                    "killer_display_name": "NeoriaQLF#FYP",
                                     "killer_team": "Red",
                                     "victim_puuid": "5a06cd8e-cd31-5391-acfe-019f1086e5f3",
                                     "victim_display_name": "Reshiram#miau",
@@ -23750,7 +23750,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9173,
@@ -23892,7 +23892,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9255,
@@ -23966,7 +23966,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9333,
@@ -24056,7 +24056,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -24112,7 +24112,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5244,
@@ -24190,7 +24190,7 @@
                                     "killer_display_name": "Only Stinger \u30c4#00000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9409,
@@ -24328,7 +24328,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -24374,7 +24374,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9908,
@@ -24630,7 +24630,7 @@
                             },
                             {
                                 "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                "player_display_name": "Neoria#FYP",
+                                "player_display_name": "NeoriaQLF#FYP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8864,
@@ -24799,7 +24799,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -24902,7 +24902,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7142,
@@ -25003,7 +25003,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -25023,7 +25023,7 @@
                                     "killer_display_name": "Only Stinger \u30c4#00000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7684,
@@ -25186,7 +25186,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6756,
@@ -25377,7 +25377,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7066,
@@ -25461,7 +25461,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6946,
@@ -25898,7 +25898,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7711,
@@ -26008,7 +26008,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7328,
@@ -26213,7 +26213,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -26410,7 +26410,7 @@
                                 },
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -26466,7 +26466,7 @@
                                         },
                                         {
                                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                            "player_display_name": "Neoria#FYP",
+                                            "player_display_name": "NeoriaQLF#FYP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9593,
@@ -26544,7 +26544,7 @@
                                     "killer_display_name": "Only Stinger \u30c4#00000",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7403,
@@ -27402,7 +27402,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -27449,7 +27449,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "receiver_display_name": "Neoria#FYP",
+                                    "receiver_display_name": "NeoriaQLF#FYP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -27478,7 +27478,7 @@
                                     "killer_display_name": "Kayder#RPM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                                    "victim_display_name": "Neoria#FYP",
+                                    "victim_display_name": "NeoriaQLF#FYP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7570,
@@ -28283,7 +28283,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1576,
@@ -28398,7 +28398,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5884,
@@ -28509,7 +28509,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6401,
@@ -28610,7 +28610,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6401,
@@ -28695,7 +28695,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6401,
@@ -28770,7 +28770,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6233,
@@ -28831,7 +28831,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6159,
@@ -28867,7 +28867,7 @@
                     "kill_time_in_match": 100808,
                     "round": 0,
                     "killer_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "killer_display_name": "Neoria#FYP",
+                    "killer_display_name": "NeoriaQLF#FYP",
                     "killer_team": "Red",
                     "victim_puuid": "91354673-55ab-5e1d-8b0a-52e06fcbe3f9",
                     "victim_display_name": "Only Stinger \u30c4#00000",
@@ -28886,7 +28886,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5460,
@@ -28921,7 +28921,7 @@
                     "killer_display_name": "Kayder#RPM",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4975,
@@ -28992,7 +28992,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4250,
@@ -29107,7 +29107,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5055,
@@ -29208,7 +29208,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6515,
@@ -29293,7 +29293,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6812,
@@ -29368,7 +29368,7 @@
                     "killer_display_name": "Kayder#RPM",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6898,
@@ -29556,7 +29556,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1672,
@@ -29671,7 +29671,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5180,
@@ -29772,7 +29772,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4972,
@@ -29873,7 +29873,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4943,
@@ -29964,7 +29964,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5501,
@@ -30045,7 +30045,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5607,
@@ -30110,7 +30110,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6397,
@@ -30139,7 +30139,7 @@
                     "killer_display_name": "PilinCoquet#UwU",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5243,
@@ -30257,7 +30257,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 3513,
@@ -30372,7 +30372,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4082,
@@ -30477,7 +30477,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2081,
@@ -30562,7 +30562,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1567,
@@ -30647,7 +30647,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1880,
@@ -30712,7 +30712,7 @@
                     "killer_display_name": "PikaMoon#EUR",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1988,
@@ -30813,7 +30813,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2349,
@@ -30928,7 +30928,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2449,
@@ -30990,7 +30990,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "assistant_display_name": "Neoria#FYP",
+                            "assistant_display_name": "NeoriaQLF#FYP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -31039,7 +31039,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2780,
@@ -31150,7 +31150,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6670,
@@ -31235,7 +31235,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6726,
@@ -31326,7 +31326,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6808,
@@ -31401,7 +31401,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6910,
@@ -31472,7 +31472,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6783,
@@ -31501,7 +31501,7 @@
                     "killer_display_name": "Kayder#RPM",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6762,
@@ -31628,7 +31628,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5206,
@@ -31743,7 +31743,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5281,
@@ -31848,7 +31848,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5310,
@@ -31943,7 +31943,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5461,
@@ -32034,7 +32034,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5236,
@@ -32115,7 +32115,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2999,
@@ -32230,7 +32230,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5611,
@@ -32335,7 +32335,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6700,
@@ -32430,7 +32430,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6725,
@@ -32505,7 +32505,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5862,
@@ -32580,7 +32580,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5189,
@@ -32645,7 +32645,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4203,
@@ -32770,7 +32770,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4998,
@@ -32849,7 +32849,7 @@
                     "killer_display_name": "Only Stinger \u30c4#00000",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3596,
@@ -33448,7 +33448,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6094,
@@ -33563,7 +33563,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6572,
@@ -33674,7 +33674,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6493,
@@ -33743,7 +33743,7 @@
                     "killer_display_name": "Reshiram#miau",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6955,
@@ -34061,7 +34061,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4643,
@@ -34176,7 +34176,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4679,
@@ -34281,7 +34281,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5006,
@@ -34376,7 +34376,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5005,
@@ -34461,7 +34461,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6299,
@@ -34536,7 +34536,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5957,
@@ -34591,7 +34591,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6123,
@@ -34636,7 +34636,7 @@
                     "killer_display_name": "Only Stinger \u30c4#00000",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5203,
@@ -34723,7 +34723,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2629,
@@ -34838,7 +34838,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 3766,
@@ -34943,7 +34943,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5118,
@@ -35038,7 +35038,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6454,
@@ -35113,7 +35113,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5790,
@@ -35194,7 +35194,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6147,
@@ -35265,7 +35265,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6059,
@@ -35326,7 +35326,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6065,
@@ -35377,7 +35377,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 3093,
@@ -35492,7 +35492,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 3631,
@@ -35571,7 +35571,7 @@
                     "killer_display_name": "Reshiram#miau",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5495,
@@ -36176,7 +36176,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4742,
@@ -36291,7 +36291,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7626,
@@ -36353,7 +36353,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "assistant_display_name": "Neoria#FYP",
+                            "assistant_display_name": "NeoriaQLF#FYP",
                             "assistant_team": "Red"
                         },
                         {
@@ -36397,7 +36397,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7707,
@@ -36498,7 +36498,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7707,
@@ -36589,7 +36589,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7707,
@@ -36664,7 +36664,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7707,
@@ -36703,7 +36703,7 @@
                     "killer_display_name": "Only Stinger \u30c4#00000",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6990,
@@ -36845,7 +36845,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 4541,
@@ -36960,7 +36960,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5909,
@@ -37065,7 +37065,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6296,
@@ -37160,7 +37160,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7158,
@@ -37251,7 +37251,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5093,
@@ -37296,7 +37296,7 @@
                     "killer_display_name": "Kayder#RPM",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4835,
@@ -37459,7 +37459,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5008,
@@ -37574,7 +37574,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5948,
@@ -37669,7 +37669,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5975,
@@ -37764,7 +37764,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6292,
@@ -37855,7 +37855,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6233,
@@ -37911,7 +37911,7 @@
                     "kill_time_in_match": 1580818,
                     "round": 14,
                     "killer_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "killer_display_name": "Neoria#FYP",
+                    "killer_display_name": "NeoriaQLF#FYP",
                     "killer_team": "Red",
                     "victim_puuid": "bce2c9e0-3cb8-54b5-b757-c3ab3a459115",
                     "victim_display_name": "Kayder#RPM",
@@ -37930,7 +37930,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6147,
@@ -37995,7 +37995,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5832,
@@ -38040,7 +38040,7 @@
                     "killer_display_name": "Reshiram#miau",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6000,
@@ -38127,7 +38127,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 9212,
@@ -38232,7 +38232,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 9456,
@@ -38311,7 +38311,7 @@
                     "killer_display_name": "Reshiram#miau",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9149,
@@ -38570,7 +38570,7 @@
                         },
                         {
                             "assistant_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "assistant_display_name": "Neoria#FYP",
+                            "assistant_display_name": "NeoriaQLF#FYP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -38806,7 +38806,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5691,
@@ -38911,7 +38911,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6188,
@@ -39016,7 +39016,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7707,
@@ -39111,7 +39111,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7699,
@@ -39196,7 +39196,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7669,
@@ -39261,7 +39261,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7692,
@@ -39307,7 +39307,7 @@
                     "kill_time_in_match": 1761337,
                     "round": 16,
                     "killer_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "killer_display_name": "Neoria#FYP",
+                    "killer_display_name": "NeoriaQLF#FYP",
                     "killer_team": "Red",
                     "victim_puuid": "f16e16f2-5f99-5e1a-b202-776b167a83cb",
                     "victim_display_name": "PikaMoon#EUR",
@@ -39326,7 +39326,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7654,
@@ -39407,7 +39407,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 5244,
@@ -39522,7 +39522,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 9365,
@@ -39617,7 +39617,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 9908,
@@ -39683,7 +39683,7 @@
                     "kill_time_in_match": 1836735,
                     "round": 17,
                     "killer_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "killer_display_name": "Neoria#FYP",
+                    "killer_display_name": "NeoriaQLF#FYP",
                     "killer_team": "Red",
                     "victim_puuid": "5a06cd8e-cd31-5391-acfe-019f1086e5f3",
                     "victim_display_name": "Reshiram#miau",
@@ -39712,7 +39712,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 9173,
@@ -39793,7 +39793,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 9255,
@@ -39868,7 +39868,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 9333,
@@ -39917,7 +39917,7 @@
                     "killer_display_name": "Only Stinger \u30c4#00000",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9409,
@@ -40008,7 +40008,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6756,
@@ -40129,7 +40129,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7142,
@@ -40234,7 +40234,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7066,
@@ -40319,7 +40319,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 6946,
@@ -40384,7 +40384,7 @@
                     "killer_display_name": "Only Stinger \u30c4#00000",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7684,
@@ -40566,7 +40566,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 9593,
@@ -40681,7 +40681,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7711,
@@ -40792,7 +40792,7 @@
                         },
                         {
                             "player_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                            "player_display_name": "Neoria#FYP",
+                            "player_display_name": "NeoriaQLF#FYP",
                             "player_team": "Red",
                             "location": {
                                 "x": 7328,
@@ -40857,7 +40857,7 @@
                     "killer_display_name": "Only Stinger \u30c4#00000",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7403,
@@ -41220,7 +41220,7 @@
                     "killer_display_name": "Kayder#RPM",
                     "killer_team": "Blue",
                     "victim_puuid": "683b2042-ff69-5829-bb5e-1fc242a4e543",
-                    "victim_display_name": "Neoria#FYP",
+                    "victim_display_name": "NeoriaQLF#FYP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7570,
