@@ -4067,11 +4067,16 @@
             "region": "eu"
         },
         {
+            "nombre": "360DIST",
+            "tag": "360",
+            "region": "eu"
+        },
+        {
             "nombre": "MIBR ASPAS",
             "tag": "0009",
             "region": "eu",
             "activo": true,
-            "desde": "2026-10-09",
+            "desde": "2026-10-10",
             "origen": "amigo_recurrente"
         },
         {
@@ -4079,7 +4084,7 @@
             "tag": "FRIO",
             "region": "eu",
             "activo": true,
-            "desde": "2026-10-09",
+            "desde": "2026-10-10",
             "origen": "amigo_recurrente"
         },
         {
@@ -4087,7 +4092,7 @@
             "tag": "5588",
             "region": "eu",
             "activo": true,
-            "desde": "2026-10-09",
+            "desde": "2026-10-10",
             "origen": "amigo_recurrente"
         },
         {
@@ -4095,7 +4100,7 @@
             "tag": "NINJA",
             "region": "eu",
             "activo": true,
-            "desde": "2026-10-09",
+            "desde": "2026-10-10",
             "origen": "amigo_recurrente"
         }
     ]
