@@ -1433,7 +1433,7 @@
             "nombre": "luckyfraz",
             "tag": "420",
             "region": "eu",
-            "apariciones": 42,
+            "apariciones": 43,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-10-10"
         },
@@ -3854,7 +3854,7 @@
             "nombre": "EFN I Choppe",
             "tag": "1234",
             "region": "eu",
-            "apariciones": 68,
+            "apariciones": 71,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-10-10"
         },
@@ -3862,7 +3862,7 @@
             "nombre": "PinkMonster",
             "tag": "2011",
             "region": "eu",
-            "apariciones": 58,
+            "apariciones": 62,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-10-10"
         },
@@ -4431,7 +4431,7 @@
             "nombre": "aspirateur",
             "tag": "5450",
             "region": "eu",
-            "apariciones": 48,
+            "apariciones": 52,
             "amigo_desde": "2026-08-31",
             "ultima_vez": "2026-10-10"
         },
@@ -4676,9 +4676,9 @@
             "nombre": "Veqaj",
             "tag": "111",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 8,
             "amigo_desde": "2026-09-04",
-            "ultima_vez": "2026-09-16"
+            "ultima_vez": "2026-10-10"
         },
         {
             "nombre": "silbato",
@@ -4788,7 +4788,7 @@
             "nombre": "mhotz",
             "tag": "kzn33",
             "region": "eu",
-            "apariciones": 16,
+            "apariciones": 17,
             "amigo_desde": "2026-09-07",
             "ultima_vez": "2026-10-10"
         },
@@ -5167,9 +5167,9 @@
             "nombre": "MaStErX",
             "tag": "0101",
             "region": "eu",
-            "apariciones": 9,
+            "apariciones": 12,
             "amigo_desde": "2026-09-19",
-            "ultima_vez": "2026-10-04"
+            "ultima_vez": "2026-10-10"
         },
         {
             "nombre": "oxyo",
@@ -5881,9 +5881,9 @@
             "nombre": "garfield",
             "tag": "44444",
             "region": "eu",
-            "apariciones": 10,
+            "apariciones": 11,
             "amigo_desde": "2026-10-06",
-            "ultima_vez": "2026-10-08"
+            "ultima_vez": "2026-10-10"
         },
         {
             "nombre": "Dorito El Porros",
@@ -6031,8 +6031,9 @@
             "nombre": "SL\u00d8W",
             "tag": "M\u00d8\u00d8",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-10-10"
+            "apariciones": 5,
+            "amigo_desde": "2026-10-10",
+            "ultima_vez": "2026-10-10"
         },
         {
             "nombre": "Vaper Addict",
@@ -6041,6 +6042,20 @@
             "apariciones": 8,
             "amigo_desde": "2026-10-10",
             "ultima_vez": "2026-10-10"
+        },
+        {
+            "nombre": "EG0",
+            "tag": "BTD",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-10-10"
+        },
+        {
+            "nombre": "17 COMMA 8",
+            "tag": "BRUCE",
+            "region": "eu",
+            "apariciones": 4,
+            "amigo_desde": "2026-10-10"
         }
     ]
 }
