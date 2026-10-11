@@ -3862,9 +3862,9 @@
             "nombre": "PinkMonster",
             "tag": "2011",
             "region": "eu",
-            "apariciones": 62,
+            "apariciones": 64,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-10-10"
+            "ultima_vez": "2026-10-11"
         },
         {
             "nombre": "super mario",
@@ -4431,9 +4431,9 @@
             "nombre": "aspirateur",
             "tag": "5450",
             "region": "eu",
-            "apariciones": 52,
+            "apariciones": 55,
             "amigo_desde": "2026-08-31",
-            "ultima_vez": "2026-10-10"
+            "ultima_vez": "2026-10-11"
         },
         {
             "nombre": "Inviivi",
@@ -5159,17 +5159,17 @@
             "nombre": "Pecolsito",
             "tag": "Frost",
             "region": "eu",
-            "apariciones": 15,
+            "apariciones": 17,
             "amigo_desde": "2026-09-19",
-            "ultima_vez": "2026-10-04"
+            "ultima_vez": "2026-10-11"
         },
         {
             "nombre": "MaStErX",
             "tag": "0101",
             "region": "eu",
-            "apariciones": 12,
+            "apariciones": 14,
             "amigo_desde": "2026-09-19",
-            "ultima_vez": "2026-10-10"
+            "ultima_vez": "2026-10-11"
         },
         {
             "nombre": "oxyo",
@@ -5881,9 +5881,9 @@
             "nombre": "garfield",
             "tag": "44444",
             "region": "eu",
-            "apariciones": 11,
+            "apariciones": 16,
             "amigo_desde": "2026-10-06",
-            "ultima_vez": "2026-10-10"
+            "ultima_vez": "2026-10-11"
         },
         {
             "nombre": "Dorito El Porros",
@@ -6031,24 +6031,25 @@
             "nombre": "SL\u00d8W",
             "tag": "M\u00d8\u00d8",
             "region": "eu",
-            "apariciones": 5,
+            "apariciones": 6,
             "amigo_desde": "2026-10-10",
-            "ultima_vez": "2026-10-10"
+            "ultima_vez": "2026-10-11"
         },
         {
             "nombre": "Vaper Addict",
             "tag": "Nyraa",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 13,
             "amigo_desde": "2026-10-10",
-            "ultima_vez": "2026-10-10"
+            "ultima_vez": "2026-10-11"
         },
         {
             "nombre": "EG0",
             "tag": "BTD",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-10-10"
+            "apariciones": 4,
+            "amigo_desde": "2026-10-10",
+            "ultima_vez": "2026-10-11"
         },
         {
             "nombre": "17 COMMA 8",
@@ -6056,6 +6057,27 @@
             "region": "eu",
             "apariciones": 4,
             "amigo_desde": "2026-10-10"
+        },
+        {
+            "nombre": "Volt",
+            "tag": "1014",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-10-11"
+        },
+        {
+            "nombre": "TheBungulator",
+            "tag": "5785",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-10-11"
+        },
+        {
+            "nombre": "SnorIax",
+            "tag": "Pok",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-10-11"
         }
     ]
 }
