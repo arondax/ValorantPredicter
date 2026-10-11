@@ -173,8 +173,8 @@
                     },
                     {
                         "puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                        "name": "EL DUDU",
-                        "tag": "6402",
+                        "name": "Lorzasudorosas",
+                        "tag": "Sudor",
                         "team": "Red",
                         "level": 81,
                         "character": "Omen",
@@ -832,8 +832,8 @@
                     },
                     {
                         "puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                        "name": "EL DUDU",
-                        "tag": "6402",
+                        "name": "Lorzasudorosas",
+                        "tag": "Sudor",
                         "team": "Red",
                         "level": 81,
                         "character": "Omen",
@@ -1577,7 +1577,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -1727,7 +1727,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -1782,7 +1782,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3578,
@@ -1870,7 +1870,7 @@
                                     "killer_display_name": "TH vicaa#444",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4437,
@@ -2160,7 +2160,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -2263,7 +2263,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -2570,7 +2570,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "assistant_display_name": "EL DUDU#6402",
+                                            "assistant_display_name": "Lorzasudorosas#Sudor",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -2673,7 +2673,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3053,7 +3053,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3869,
@@ -3225,7 +3225,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -3271,7 +3271,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6234,
@@ -3349,7 +3349,7 @@
                                     "killer_display_name": "VIVA VIGO#8452",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5960,
@@ -3632,7 +3632,7 @@
                         },
                         "planted_by": {
                             "puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "display_name": "EL DUDU#6402",
+                            "display_name": "Lorzasudorosas#Sudor",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -3650,7 +3650,7 @@
                             },
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5014,
@@ -3737,7 +3737,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3840,7 +3840,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3625,
@@ -4021,7 +4021,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5014,
@@ -4258,7 +4258,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3681,
@@ -4374,7 +4374,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -4420,7 +4420,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5014,
@@ -4468,7 +4468,7 @@
                                     "killer_display_name": "VIVA VIGO#8452",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4746,
@@ -4653,7 +4653,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5014,
@@ -4796,7 +4796,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1545,
@@ -5052,7 +5052,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -5154,7 +5154,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6129,
@@ -5591,7 +5591,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -5637,7 +5637,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5635,
@@ -5757,7 +5757,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6353,
@@ -5825,7 +5825,7 @@
                                     "killer_display_name": "VIVA VIGO#8452",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6334,
@@ -6069,7 +6069,7 @@
                         },
                         "planted_by": {
                             "puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "display_name": "EL DUDU#6402",
+                            "display_name": "Lorzasudorosas#Sudor",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -6077,7 +6077,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7757,
@@ -6201,7 +6201,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1331,
@@ -6307,7 +6307,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6347,7 +6347,7 @@
                                     "kill_time_in_round": 41688,
                                     "kill_time_in_match": 411245,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                                     "victim_display_name": "Raava#Swat",
@@ -6376,7 +6376,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3449,
@@ -6431,7 +6431,7 @@
                                     "kill_time_in_round": 48654,
                                     "kill_time_in_match": 418211,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                                     "victim_display_name": "carolina#tired",
@@ -6450,7 +6450,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3753,
@@ -6596,7 +6596,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1399,
@@ -6861,7 +6861,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -6907,7 +6907,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1107,
@@ -6991,7 +6991,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7740,
@@ -7025,7 +7025,7 @@
                                     "killer_display_name": "VIVA VIGO#8452",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7027,
@@ -7137,7 +7137,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3789,
@@ -7179,7 +7179,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "assistant_display_name": "EL DUDU#6402",
+                                            "assistant_display_name": "Lorzasudorosas#Sudor",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -7207,7 +7207,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6301,
@@ -7239,7 +7239,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "assistant_display_name": "EL DUDU#6402",
+                                            "assistant_display_name": "Lorzasudorosas#Sudor",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -7379,7 +7379,7 @@
                         },
                         "planted_by": {
                             "puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "display_name": "EL DUDU#6402",
+                            "display_name": "Lorzasudorosas#Sudor",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -7387,7 +7387,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7369,
@@ -7503,7 +7503,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4919,
@@ -7589,7 +7589,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7620,7 +7620,7 @@
                                     "kill_time_in_round": 87885,
                                     "kill_time_in_match": 593800,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "27812a81-8fb0-555d-a0b3-debe87ce4c27",
                                     "victim_display_name": "TH vicaa#444",
@@ -7639,7 +7639,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6308,
@@ -7778,7 +7778,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8173,
@@ -7885,7 +7885,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8416,
@@ -8002,7 +8002,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7369,
@@ -8163,7 +8163,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4474,
@@ -8284,7 +8284,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -8357,7 +8357,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3893,
@@ -8429,7 +8429,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "assistant_display_name": "EL DUDU#6402",
+                                            "assistant_display_name": "Lorzasudorosas#Sudor",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -8467,7 +8467,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3234,
@@ -8568,7 +8568,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -8681,7 +8681,7 @@
                             },
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4491,
@@ -8807,7 +8807,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4553,
@@ -8883,7 +8883,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9038,7 +9038,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4440,
@@ -9090,7 +9090,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "assistant_display_name": "EL DUDU#6402",
+                                            "assistant_display_name": "Lorzasudorosas#Sudor",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -9241,7 +9241,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3154,
@@ -9345,7 +9345,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4342,
@@ -9429,7 +9429,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6239,
@@ -9598,7 +9598,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4707,
@@ -9818,7 +9818,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6712,
@@ -9942,7 +9942,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5430,
@@ -10046,7 +10046,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5972,
@@ -10140,7 +10140,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6115,
@@ -10226,7 +10226,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -10257,7 +10257,7 @@
                                     "kill_time_in_round": 17230,
                                     "kill_time_in_match": 752335,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                                     "victim_display_name": "carolina#tired",
@@ -10276,7 +10276,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6178,
@@ -10331,7 +10331,7 @@
                                     "kill_time_in_round": 63748,
                                     "kill_time_in_match": 798853,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "76f22b09-30f6-52f7-b4c4-1c2dd5f6080e",
                                     "victim_display_name": "VIVA VIGO#8452",
@@ -10350,7 +10350,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6355,
@@ -10592,7 +10592,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6557,
@@ -10656,7 +10656,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6557,
@@ -10811,7 +10811,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -10918,7 +10918,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4044,
@@ -11040,7 +11040,7 @@
                         },
                         "planted_by": {
                             "puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "display_name": "EL DUDU#6402",
+                            "display_name": "Lorzasudorosas#Sudor",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -11058,7 +11058,7 @@
                             },
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5071,
@@ -11145,7 +11145,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11167,7 +11167,7 @@
                                     "kill_time_in_round": 23146,
                                     "kill_time_in_match": 859003,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                                     "victim_display_name": "Raava#Swat",
@@ -11196,7 +11196,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3401,
@@ -11400,7 +11400,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11619,7 +11619,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3338,
@@ -11693,7 +11693,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4057,
@@ -11747,7 +11747,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4848,
@@ -11873,7 +11873,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3786,
@@ -11977,7 +11977,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3643,
@@ -12135,7 +12135,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1993,
@@ -12271,7 +12271,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5310,
@@ -12398,7 +12398,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12438,7 +12438,7 @@
                                     "kill_time_in_round": 12040,
                                     "kill_time_in_match": 930405,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "27812a81-8fb0-555d-a0b3-debe87ce4c27",
                                     "victim_display_name": "TH vicaa#444",
@@ -12467,7 +12467,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5879,
@@ -12542,7 +12542,7 @@
                                     "kill_time_in_round": 20891,
                                     "kill_time_in_match": 939256,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                                     "victim_display_name": "carolina#tired",
@@ -12561,7 +12561,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4831,
@@ -12652,7 +12652,7 @@
                                     "kill_time_in_round": 51149,
                                     "kill_time_in_match": 969514,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                                     "victim_display_name": "Raava#Swat",
@@ -12671,7 +12671,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4970,
@@ -12816,7 +12816,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5464,
@@ -12942,7 +12942,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5551,
@@ -13019,7 +13019,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -13201,7 +13201,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4686,
@@ -13373,7 +13373,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3604,
@@ -13483,7 +13483,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5140,
@@ -13643,7 +13643,7 @@
                         },
                         "planted_by": {
                             "puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "display_name": "EL DUDU#6402",
+                            "display_name": "Lorzasudorosas#Sudor",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -13661,7 +13661,7 @@
                             },
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7643,
@@ -13741,7 +13741,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -13788,7 +13788,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13819,7 +13819,7 @@
                                     "kill_time_in_round": 13754,
                                     "kill_time_in_match": 1027942,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                                     "victim_display_name": "Raava#Swat",
@@ -13848,7 +13848,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2753,
@@ -13929,7 +13929,7 @@
                                     "kill_time_in_round": 54007,
                                     "kill_time_in_match": 1068195,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "76f22b09-30f6-52f7-b4c4-1c2dd5f6080e",
                                     "victim_display_name": "VIVA VIGO#8452",
@@ -13948,7 +13948,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8990,
@@ -14230,7 +14230,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2585,
@@ -14314,7 +14314,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9100,
@@ -14564,7 +14564,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3084,
@@ -14756,7 +14756,7 @@
                             },
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6372,
@@ -14893,7 +14893,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -14939,7 +14939,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6087,
@@ -15007,7 +15007,7 @@
                                     "killer_display_name": "carolina#tired",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6992,
@@ -15119,7 +15119,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -15212,7 +15212,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5685,
@@ -15833,7 +15833,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5301,
@@ -15969,7 +15969,7 @@
                             },
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8030,
@@ -16106,7 +16106,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16128,7 +16128,7 @@
                                     "kill_time_in_round": 38613,
                                     "kill_time_in_match": 1275253,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "27812a81-8fb0-555d-a0b3-debe87ce4c27",
                                     "victim_display_name": "TH vicaa#444",
@@ -16157,7 +16157,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8296,
@@ -16293,7 +16293,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8228,
@@ -16387,7 +16387,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9110,
@@ -16510,7 +16510,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8272,
@@ -16601,7 +16601,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -16704,7 +16704,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -16750,7 +16750,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8763,
@@ -16838,7 +16838,7 @@
                                     "killer_display_name": "VIVA VIGO#8452",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8585,
@@ -17028,7 +17028,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8337,
@@ -17200,7 +17200,7 @@
                             },
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5496,
@@ -17316,7 +17316,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4942,
@@ -17402,12 +17402,12 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -17424,10 +17424,10 @@
                                     "kill_time_in_round": 86874,
                                     "kill_time_in_match": 1423997,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7570,
@@ -17589,7 +17589,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4520,
@@ -17703,7 +17703,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4942,
@@ -17986,7 +17986,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4942,
@@ -18244,7 +18244,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -18291,7 +18291,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -18322,7 +18322,7 @@
                                     "kill_time_in_round": 20945,
                                     "kill_time_in_match": 1481114,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                                     "victim_display_name": "carolina#tired",
@@ -18341,7 +18341,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6021,
@@ -18416,7 +18416,7 @@
                                     "kill_time_in_round": 75588,
                                     "kill_time_in_match": 1535757,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "76f22b09-30f6-52f7-b4c4-1c2dd5f6080e",
                                     "victim_display_name": "VIVA VIGO#8452",
@@ -18435,7 +18435,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7408,
@@ -18718,7 +18718,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7428,
@@ -18835,7 +18835,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6192,
@@ -18997,7 +18997,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5841,
@@ -19122,7 +19122,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5998,
@@ -19194,7 +19194,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "assistant_display_name": "EL DUDU#6402",
+                                            "assistant_display_name": "Lorzasudorosas#Sudor",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -19469,7 +19469,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -19882,7 +19882,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6105,
@@ -20309,7 +20309,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -20329,7 +20329,7 @@
                                     "killer_display_name": "Raava#Swat",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5742,
@@ -20617,7 +20617,7 @@
                             },
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5173,
@@ -20704,14 +20704,14 @@
                         },
                         "defused_by": {
                             "puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "display_name": "EL DUDU#6402",
+                            "display_name": "Lorzasudorosas#Sudor",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 66199,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                "player_display_name": "EL DUDU#6402",
+                                "player_display_name": "Lorzasudorosas#Sudor",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5070,
@@ -20792,7 +20792,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -20823,7 +20823,7 @@
                                     "kill_time_in_round": 51231,
                                     "kill_time_in_match": 1732217,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                                     "victim_display_name": "Raava#Swat",
@@ -20852,7 +20852,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5517,
@@ -20927,7 +20927,7 @@
                                     "kill_time_in_round": 52049,
                                     "kill_time_in_match": 1733035,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                                     "victim_display_name": "carolina#tired",
@@ -20946,7 +20946,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5516,
@@ -21066,7 +21066,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -21086,7 +21086,7 @@
                                     "killer_display_name": "garbanzit0#9594",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4937,
@@ -21208,7 +21208,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5025,
@@ -21372,7 +21372,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5173,
@@ -21476,7 +21476,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5188,
@@ -21560,7 +21560,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4254,
@@ -21630,7 +21630,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5070,
@@ -21843,7 +21843,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -22005,7 +22005,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -22062,7 +22062,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -22100,7 +22100,7 @@
                                     "killer_display_name": "garbanzit0#9594",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8430,
@@ -22967,7 +22967,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "assistant_display_name": "EL DUDU#6402",
+                                            "assistant_display_name": "Lorzasudorosas#Sudor",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -23126,7 +23126,7 @@
                                 },
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -23173,7 +23173,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -23204,7 +23204,7 @@
                                     "kill_time_in_round": 74310,
                                     "kill_time_in_match": 1944451,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                                     "victim_display_name": "Raava#Swat",
@@ -23233,7 +23233,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6461,
@@ -23304,7 +23304,7 @@
                                     "kill_time_in_round": 75716,
                                     "kill_time_in_match": 1945857,
                                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "killer_display_name": "EL DUDU#6402",
+                                    "killer_display_name": "Lorzasudorosas#Sudor",
                                     "killer_team": "Red",
                                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                                     "victim_display_name": "carolina#tired",
@@ -23323,7 +23323,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6471,
@@ -23424,7 +23424,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -23469,7 +23469,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3485,
@@ -23705,7 +23705,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3033,
@@ -23893,7 +23893,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5063,
@@ -24102,7 +24102,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3968,
@@ -24360,7 +24360,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -24407,7 +24407,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -24717,7 +24717,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6285,
@@ -24998,7 +24998,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "receiver_display_name": "EL DUDU#6402",
+                                    "receiver_display_name": "Lorzasudorosas#Sudor",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -25036,7 +25036,7 @@
                                     "killer_display_name": "VIVA VIGO#8452",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                    "victim_display_name": "EL DUDU#6402",
+                                    "victim_display_name": "Lorzasudorosas#Sudor",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4872,
@@ -25722,7 +25722,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -25815,7 +25815,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9859,
@@ -25957,7 +25957,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6063,
@@ -26067,7 +26067,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6883,
@@ -26214,7 +26214,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4615,
@@ -26371,7 +26371,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10160,
@@ -26643,7 +26643,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9664,
@@ -26727,7 +26727,7 @@
                                         },
                                         {
                                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                                            "player_display_name": "EL DUDU#6402",
+                                            "player_display_name": "Lorzasudorosas#Sudor",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10166,
@@ -26823,7 +26823,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3578,
@@ -26912,7 +26912,7 @@
                     "killer_display_name": "TH vicaa#444",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4437,
@@ -27282,7 +27282,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "assistant_display_name": "EL DUDU#6402",
+                            "assistant_display_name": "Lorzasudorosas#Sudor",
                             "assistant_team": "Red"
                         }
                     ]
@@ -27386,7 +27386,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3869,
@@ -27501,7 +27501,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6234,
@@ -27580,7 +27580,7 @@
                     "killer_display_name": "VIVA VIGO#8452",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5960,
@@ -27867,7 +27867,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 1545,
@@ -27988,7 +27988,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3625,
@@ -28099,7 +28099,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3681,
@@ -28200,7 +28200,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5014,
@@ -28291,7 +28291,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5014,
@@ -28366,7 +28366,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5014,
@@ -28405,7 +28405,7 @@
                     "killer_display_name": "VIVA VIGO#8452",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4746,
@@ -28566,7 +28566,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5635,
@@ -28687,7 +28687,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6129,
@@ -28798,7 +28798,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6353,
@@ -28867,7 +28867,7 @@
                     "killer_display_name": "VIVA VIGO#8452",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6334,
@@ -29179,7 +29179,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 1399,
@@ -29294,7 +29294,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 1331,
@@ -29399,7 +29399,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 1107,
@@ -29465,7 +29465,7 @@
                     "kill_time_in_match": 411245,
                     "round": 4,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                     "victim_display_name": "Raava#Swat",
@@ -29494,7 +29494,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3449,
@@ -29550,7 +29550,7 @@
                     "kill_time_in_match": 418211,
                     "round": 4,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                     "victim_display_name": "carolina#tired",
@@ -29569,7 +29569,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3753,
@@ -29644,7 +29644,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3789,
@@ -29686,7 +29686,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "assistant_display_name": "EL DUDU#6402",
+                            "assistant_display_name": "Lorzasudorosas#Sudor",
                             "assistant_team": "Red"
                         }
                     ]
@@ -29715,7 +29715,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6301,
@@ -29747,7 +29747,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "assistant_display_name": "EL DUDU#6402",
+                            "assistant_display_name": "Lorzasudorosas#Sudor",
                             "assistant_team": "Red"
                         }
                     ]
@@ -29776,7 +29776,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 7740,
@@ -29811,7 +29811,7 @@
                     "killer_display_name": "VIVA VIGO#8452",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7027,
@@ -29872,7 +29872,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4474,
@@ -29987,7 +29987,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3893,
@@ -30059,7 +30059,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "assistant_display_name": "EL DUDU#6402",
+                            "assistant_display_name": "Lorzasudorosas#Sudor",
                             "assistant_team": "Red"
                         }
                     ]
@@ -30098,7 +30098,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3234,
@@ -30193,7 +30193,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4919,
@@ -30268,7 +30268,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 7369,
@@ -30349,7 +30349,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 8416,
@@ -30414,7 +30414,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 8173,
@@ -30450,7 +30450,7 @@
                     "kill_time_in_match": 593800,
                     "round": 5,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "27812a81-8fb0-555d-a0b3-debe87ce4c27",
                     "victim_display_name": "TH vicaa#444",
@@ -30469,7 +30469,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6308,
@@ -30524,7 +30524,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4707,
@@ -30645,7 +30645,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3154,
@@ -30750,7 +30750,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4342,
@@ -30845,7 +30845,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4440,
@@ -30897,7 +30897,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "assistant_display_name": "EL DUDU#6402",
+                            "assistant_display_name": "Lorzasudorosas#Sudor",
                             "assistant_team": "Red"
                         }
                     ]
@@ -30936,7 +30936,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4553,
@@ -31001,7 +31001,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6239,
@@ -31076,7 +31076,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4044,
@@ -31191,7 +31191,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5430,
@@ -31296,7 +31296,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5972,
@@ -31391,7 +31391,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6115,
@@ -31447,7 +31447,7 @@
                     "kill_time_in_match": 752335,
                     "round": 7,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                     "victim_display_name": "carolina#tired",
@@ -31466,7 +31466,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6178,
@@ -31541,7 +31541,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6557,
@@ -31606,7 +31606,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6557,
@@ -31642,7 +31642,7 @@
                     "kill_time_in_match": 798853,
                     "round": 7,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "76f22b09-30f6-52f7-b4c4-1c2dd5f6080e",
                     "victim_display_name": "VIVA VIGO#8452",
@@ -31661,7 +31661,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6355,
@@ -31716,7 +31716,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 1993,
@@ -31837,7 +31837,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3786,
@@ -31942,7 +31942,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3643,
@@ -32019,7 +32019,7 @@
                     "kill_time_in_match": 859003,
                     "round": 8,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                     "victim_display_name": "Raava#Swat",
@@ -32048,7 +32048,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3401,
@@ -32133,7 +32133,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3338,
@@ -32208,7 +32208,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4057,
@@ -32263,7 +32263,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4848,
@@ -32328,7 +32328,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3604,
@@ -32420,7 +32420,7 @@
                     "kill_time_in_match": 930405,
                     "round": 9,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "27812a81-8fb0-555d-a0b3-debe87ce4c27",
                     "victim_display_name": "TH vicaa#444",
@@ -32449,7 +32449,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5879,
@@ -32525,7 +32525,7 @@
                     "kill_time_in_match": 939256,
                     "round": 9,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                     "victim_display_name": "carolina#tired",
@@ -32544,7 +32544,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4831,
@@ -32655,7 +32655,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4686,
@@ -32756,7 +32756,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5140,
@@ -32828,7 +32828,7 @@
                     "kill_time_in_match": 969514,
                     "round": 9,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                     "victim_display_name": "Raava#Swat",
@@ -32847,7 +32847,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4970,
@@ -32922,7 +32922,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5464,
@@ -32987,7 +32987,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5551,
@@ -33058,7 +33058,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3084,
@@ -33144,7 +33144,7 @@
                     "kill_time_in_match": 1027942,
                     "round": 10,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                     "victim_display_name": "Raava#Swat",
@@ -33173,7 +33173,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 2753,
@@ -33284,7 +33284,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 2585,
@@ -33369,7 +33369,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 9100,
@@ -33435,7 +33435,7 @@
                     "kill_time_in_match": 1068195,
                     "round": 10,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "76f22b09-30f6-52f7-b4c4-1c2dd5f6080e",
                     "victim_display_name": "VIVA VIGO#8452",
@@ -33454,7 +33454,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 8990,
@@ -33539,7 +33539,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5685,
@@ -33660,7 +33660,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5301,
@@ -33771,7 +33771,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6087,
@@ -33840,7 +33840,7 @@
                     "killer_display_name": "carolina#tired",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6992,
@@ -34091,7 +34091,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 8763,
@@ -34206,7 +34206,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 8337,
@@ -34311,7 +34311,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 8228,
@@ -34406,7 +34406,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 8272,
@@ -34462,7 +34462,7 @@
                     "kill_time_in_match": 1275253,
                     "round": 12,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "27812a81-8fb0-555d-a0b3-debe87ce4c27",
                     "victim_display_name": "TH vicaa#444",
@@ -34491,7 +34491,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 8296,
@@ -34566,7 +34566,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 9110,
@@ -34611,7 +34611,7 @@
                     "killer_display_name": "VIVA VIGO#8452",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8585,
@@ -34698,7 +34698,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4520,
@@ -34813,7 +34813,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4942,
@@ -34918,7 +34918,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4942,
@@ -35013,7 +35013,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4942,
@@ -35069,10 +35069,10 @@
                     "kill_time_in_match": 1423997,
                     "round": 13,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7570,
@@ -35173,7 +35173,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5841,
@@ -35299,7 +35299,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5998,
@@ -35371,7 +35371,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "assistant_display_name": "EL DUDU#6402",
+                            "assistant_display_name": "Lorzasudorosas#Sudor",
                             "assistant_team": "Red"
                         }
                     ]
@@ -35381,7 +35381,7 @@
                     "kill_time_in_match": 1481114,
                     "round": 14,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                     "victim_display_name": "carolina#tired",
@@ -35400,7 +35400,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6021,
@@ -35495,7 +35495,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6192,
@@ -35567,7 +35567,7 @@
                     "kill_time_in_match": 1535757,
                     "round": 14,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "76f22b09-30f6-52f7-b4c4-1c2dd5f6080e",
                     "victim_display_name": "VIVA VIGO#8452",
@@ -35586,7 +35586,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 7408,
@@ -35672,7 +35672,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 7428,
@@ -35747,7 +35747,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6105,
@@ -35836,7 +35836,7 @@
                     "killer_display_name": "Raava#Swat",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5742,
@@ -36360,7 +36360,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5173,
@@ -36446,7 +36446,7 @@
                     "kill_time_in_match": 1732217,
                     "round": 16,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                     "victim_display_name": "Raava#Swat",
@@ -36475,7 +36475,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5517,
@@ -36551,7 +36551,7 @@
                     "kill_time_in_match": 1733035,
                     "round": 16,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                     "victim_display_name": "carolina#tired",
@@ -36570,7 +36570,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5516,
@@ -36665,7 +36665,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5188,
@@ -36750,7 +36750,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5025,
@@ -36825,7 +36825,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4254,
@@ -36896,7 +36896,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5070,
@@ -36941,7 +36941,7 @@
                     "killer_display_name": "garbanzit0#9594",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4937,
@@ -36986,7 +36986,7 @@
                     "killer_display_name": "garbanzit0#9594",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8430,
@@ -37580,7 +37580,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "assistant_display_name": "EL DUDU#6402",
+                            "assistant_display_name": "Lorzasudorosas#Sudor",
                             "assistant_team": "Red"
                         }
                     ]
@@ -37619,7 +37619,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3968,
@@ -37734,7 +37734,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 5063,
@@ -37810,7 +37810,7 @@
                     "kill_time_in_match": 1944451,
                     "round": 18,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "96f04aa6-ff08-56f5-a437-e10ae8cceb66",
                     "victim_display_name": "Raava#Swat",
@@ -37839,7 +37839,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6461,
@@ -37911,7 +37911,7 @@
                     "kill_time_in_match": 1945857,
                     "round": 18,
                     "killer_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "killer_display_name": "EL DUDU#6402",
+                    "killer_display_name": "Lorzasudorosas#Sudor",
                     "killer_team": "Red",
                     "victim_puuid": "261f0760-893b-5a66-b0f4-b855063f28df",
                     "victim_display_name": "carolina#tired",
@@ -37930,7 +37930,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6471,
@@ -38015,7 +38015,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3485,
@@ -38096,7 +38096,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 3033,
@@ -38171,7 +38171,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6285,
@@ -38260,7 +38260,7 @@
                     "killer_display_name": "VIVA VIGO#8452",
                     "killer_team": "Blue",
                     "victim_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                    "victim_display_name": "EL DUDU#6402",
+                    "victim_display_name": "Lorzasudorosas#Sudor",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4872,
@@ -38924,7 +38924,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 4615,
@@ -39039,7 +39039,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6063,
@@ -39150,7 +39150,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 6883,
@@ -39245,7 +39245,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 9664,
@@ -39330,7 +39330,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 9859,
@@ -39411,7 +39411,7 @@
                         },
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 10166,
@@ -39466,7 +39466,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "56826fc9-24a1-5d33-8276-1c6934620f2a",
-                            "player_display_name": "EL DUDU#6402",
+                            "player_display_name": "Lorzasudorosas#Sudor",
                             "player_team": "Red",
                             "location": {
                                 "x": 10160,
