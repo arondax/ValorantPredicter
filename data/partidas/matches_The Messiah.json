@@ -175736,8 +175736,8 @@
                     },
                     {
                         "puuid": "a4361286-350a-5253-8239-353a2c380343",
-                        "name": "mar",
-                        "tag": "mink",
+                        "name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442",
+                        "tag": "1025",
                         "team": "Red",
                         "level": 70,
                         "character": "Jett",
@@ -176103,8 +176103,8 @@
                     },
                     {
                         "puuid": "a4361286-350a-5253-8239-353a2c380343",
-                        "name": "mar",
-                        "tag": "mink",
+                        "name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442",
+                        "tag": "1025",
                         "team": "Red",
                         "level": 70,
                         "character": "Jett",
@@ -176961,7 +176961,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -177112,7 +177112,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -177370,7 +177370,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -177440,7 +177440,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -177469,7 +177469,7 @@
                                     "killer_display_name": "The Messiah#2265",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "victim_display_name": "mar#mink",
+                                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6811,
@@ -177751,7 +177751,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7191,
@@ -178309,7 +178309,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -178408,7 +178408,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 2,
@@ -178437,7 +178437,7 @@
                                     "killer_display_name": "SoGeXIX#922",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "victim_display_name": "mar#mink",
+                                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5285,
@@ -179017,7 +179017,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9010,
@@ -179107,7 +179107,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9133,
@@ -179334,7 +179334,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8156,
@@ -179438,7 +179438,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8161,
@@ -179534,7 +179534,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -179556,7 +179556,7 @@
                                     "kill_time_in_round": 27352,
                                     "kill_time_in_match": 207447,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                                     "victim_display_name": "Gehrman#FLORA",
@@ -179575,7 +179575,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9555,
@@ -179701,7 +179701,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9265,
@@ -179755,7 +179755,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8618,
@@ -179877,7 +179877,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -180026,7 +180026,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9126,
@@ -180184,7 +180184,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7025,
@@ -180310,7 +180310,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8233,
@@ -180438,7 +180438,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -180485,7 +180485,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -180525,7 +180525,7 @@
                                     "kill_time_in_round": 17260,
                                     "kill_time_in_match": 274779,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                                     "victim_display_name": "Emenavarro#KICK",
@@ -180564,7 +180564,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7109,
@@ -180629,7 +180629,7 @@
                                     "kill_time_in_round": 22067,
                                     "kill_time_in_match": 279586,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                                     "victim_display_name": "Gehrman#FLORA",
@@ -180658,7 +180658,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7034,
@@ -180713,7 +180713,7 @@
                                     "kill_time_in_round": 27079,
                                     "kill_time_in_match": 284598,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                                     "victim_display_name": "manolito#pe\u00f1a",
@@ -180742,7 +180742,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7529,
@@ -180963,7 +180963,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7086,
@@ -181088,7 +181088,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -181163,7 +181163,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6054,
@@ -181416,7 +181416,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 9606,
@@ -181532,7 +181532,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8377,
@@ -181554,7 +181554,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "assistant_display_name": "mar#mink",
+                                            "assistant_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -181665,7 +181665,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6237,
@@ -181793,7 +181793,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -181833,7 +181833,7 @@
                                     "kill_time_in_round": 3055,
                                     "kill_time_in_match": 326812,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                                     "victim_display_name": "manolito#pe\u00f1a",
@@ -181882,7 +181882,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6343,
@@ -181947,7 +181947,7 @@
                                     "kill_time_in_round": 25850,
                                     "kill_time_in_match": 349607,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                                     "victim_display_name": "Emenavarro#KICK",
@@ -181986,7 +181986,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9369,
@@ -182180,7 +182180,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7763,
@@ -182359,7 +182359,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8105,
@@ -182482,7 +182482,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -182572,7 +182572,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7549,
@@ -182688,7 +182688,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9346,
@@ -182821,7 +182821,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6482,
@@ -182939,7 +182939,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -182961,7 +182961,7 @@
                                     "kill_time_in_round": 15443,
                                     "kill_time_in_match": 414810,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                                     "victim_display_name": "Emenavarro#KICK",
@@ -183000,7 +183000,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7006,
@@ -183189,7 +183189,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9321,
@@ -183377,7 +183377,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5994,
@@ -183497,7 +183497,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6395,
@@ -183701,7 +183701,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7242,
@@ -184000,7 +184000,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -184040,7 +184040,7 @@
                                     "kill_time_in_round": 11666,
                                     "kill_time_in_match": 487178,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                                     "victim_display_name": "manolito#pe\u00f1a",
@@ -184079,7 +184079,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8210,
@@ -184144,7 +184144,7 @@
                                     "kill_time_in_round": 12877,
                                     "kill_time_in_match": 488389,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "4113cc55-4086-584d-b659-276e6827f2f4",
                                     "victim_display_name": "The Messiah#2265",
@@ -184183,7 +184183,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8285,
@@ -184340,7 +184340,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -184396,7 +184396,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6641,
@@ -184510,7 +184510,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8015,
@@ -184558,7 +184558,7 @@
                                     "killer_display_name": "SoGeXIX#922",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "victim_display_name": "mar#mink",
+                                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7242,
@@ -184856,7 +184856,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "assistant_display_name": "mar#mink",
+                                            "assistant_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -184943,7 +184943,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -185270,7 +185270,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -185301,7 +185301,7 @@
                                     "kill_time_in_round": 15518,
                                     "kill_time_in_match": 574322,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                                     "victim_display_name": "Gehrman#FLORA",
@@ -185350,7 +185350,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7029,
@@ -185521,7 +185521,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5688,
@@ -185929,7 +185929,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6974,
@@ -186072,7 +186072,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -186092,7 +186092,7 @@
                                     "killer_display_name": "The Messiah#2265",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "victim_display_name": "mar#mink",
+                                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6665,
@@ -186280,7 +186280,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 10176,
@@ -186395,7 +186395,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4683,
@@ -186479,7 +186479,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9988,
@@ -186616,7 +186616,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5083,
@@ -186792,7 +186792,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4845,
@@ -186886,7 +186886,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4756,
@@ -186958,7 +186958,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -186980,7 +186980,7 @@
                                     "kill_time_in_round": 65764,
                                     "kill_time_in_match": 714328,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "4113cc55-4086-584d-b659-276e6827f2f4",
                                     "victim_display_name": "The Messiah#2265",
@@ -186999,7 +186999,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9241,
@@ -187116,7 +187116,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4648,
@@ -187305,7 +187305,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4389,
@@ -187490,7 +187490,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9271,
@@ -187652,7 +187652,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 10141,
@@ -187878,7 +187878,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9543,
@@ -188006,7 +188006,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -188046,7 +188046,7 @@
                                     "kill_time_in_round": 21337,
                                     "kill_time_in_match": 772676,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                                     "victim_display_name": "Emenavarro#KICK",
@@ -188085,7 +188085,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10198,
@@ -188238,7 +188238,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8278,
@@ -188465,7 +188465,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -188494,7 +188494,7 @@
                                     "killer_display_name": "The Messiah#2265",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "victim_display_name": "mar#mink",
+                                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 10204,
@@ -188739,7 +188739,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10180,
@@ -188957,7 +188957,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7412,
@@ -189073,7 +189073,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -49385,
@@ -189233,7 +189233,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -189273,7 +189273,7 @@
                                     "kill_time_in_round": 18229,
                                     "kill_time_in_match": 858417,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                                     "victim_display_name": "manolito#pe\u00f1a",
@@ -189322,7 +189322,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7296,
@@ -189387,7 +189387,7 @@
                                     "kill_time_in_round": 28339,
                                     "kill_time_in_match": 868527,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "e83d3258-88c6-5958-b4ae-358d1e5a909a",
                                     "victim_display_name": "SoGeXIX#922",
@@ -189436,7 +189436,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -49273,
@@ -189481,7 +189481,7 @@
                                     "kill_time_in_round": 41325,
                                     "kill_time_in_match": 881513,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                                     "victim_display_name": "Gehrman#FLORA",
@@ -189520,7 +189520,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8481,
@@ -189657,7 +189657,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -49704,
@@ -189748,7 +189748,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -189800,7 +189800,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -189852,7 +189852,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -190511,7 +190511,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -191038,7 +191038,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -191076,7 +191076,7 @@
                                     "killer_display_name": "The Messiah#2265",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "victim_display_name": "mar#mink",
+                                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7009,
@@ -191585,7 +191585,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -191847,7 +191847,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -191876,7 +191876,7 @@
                                     "killer_display_name": "SoGeXIX#922",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "victim_display_name": "mar#mink",
+                                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6241,
@@ -192512,7 +192512,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -192715,7 +192715,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8340,
@@ -192757,7 +192757,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "assistant_display_name": "mar#mink",
+                                            "assistant_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -192896,7 +192896,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -192936,7 +192936,7 @@
                                     "kill_time_in_round": 11036,
                                     "kill_time_in_match": 1101624,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                                     "victim_display_name": "Emenavarro#KICK",
@@ -192965,7 +192965,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8373,
@@ -193041,7 +193041,7 @@
                                     "kill_time_in_round": 25659,
                                     "kill_time_in_match": 1116247,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "4113cc55-4086-584d-b659-276e6827f2f4",
                                     "victim_display_name": "The Messiah#2265",
@@ -193060,7 +193060,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6673,
@@ -193254,7 +193254,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6487,
@@ -193368,7 +193368,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8337,
@@ -193593,7 +193593,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8320,
@@ -193673,7 +193673,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6264,
@@ -193770,7 +193770,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6862,
@@ -193851,7 +193851,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -193932,7 +193932,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6395,
@@ -193969,7 +193969,7 @@
                         },
                         "defused_by": {
                             "puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "display_name": "mar#mink",
+                            "display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 75511,
@@ -193986,7 +193986,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8451,
@@ -194065,7 +194065,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8089,
@@ -194195,7 +194195,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -194235,7 +194235,7 @@
                                     "kill_time_in_round": 20186,
                                     "kill_time_in_match": 1181326,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "4113cc55-4086-584d-b659-276e6827f2f4",
                                     "victim_display_name": "The Messiah#2265",
@@ -194284,7 +194284,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7479,
@@ -194329,7 +194329,7 @@
                                     "kill_time_in_round": 57930,
                                     "kill_time_in_match": 1219070,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "e83d3258-88c6-5958-b4ae-358d1e5a909a",
                                     "victim_display_name": "SoGeXIX#922",
@@ -194368,7 +194368,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6992,
@@ -194393,7 +194393,7 @@
                                     "kill_time_in_round": 63868,
                                     "kill_time_in_match": 1225008,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                                     "victim_display_name": "manolito#pe\u00f1a",
@@ -194432,7 +194432,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8089,
@@ -194600,7 +194600,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7257,
@@ -194674,7 +194674,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7257,
@@ -194811,7 +194811,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8240,
@@ -194978,7 +194978,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8089,
@@ -195182,7 +195182,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8657,
@@ -195249,7 +195249,7 @@
                         },
                         "defused_by": {
                             "puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "display_name": "mar#mink",
+                            "display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 109180,
@@ -195266,7 +195266,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7101,
@@ -195384,7 +195384,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8294,
@@ -195478,7 +195478,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7010,
@@ -195562,7 +195562,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7101,
@@ -195741,7 +195741,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7195,
@@ -195847,7 +195847,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -195997,7 +195997,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -196071,7 +196071,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6655,
@@ -196307,7 +196307,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 9222,
@@ -196508,7 +196508,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -196611,7 +196611,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8339,
@@ -196729,7 +196729,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -196793,7 +196793,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8485,
@@ -196867,7 +196867,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8510,
@@ -196925,7 +196925,7 @@
                                     "killer_display_name": "SoGeXIX#922",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "victim_display_name": "mar#mink",
+                                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9312,
@@ -197166,7 +197166,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -197202,7 +197202,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9804,
@@ -197396,7 +197396,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 10083,
@@ -197460,7 +197460,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7143,
@@ -197634,7 +197634,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10778,
@@ -197720,7 +197720,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -197742,7 +197742,7 @@
                                     "kill_time_in_round": 45973,
                                     "kill_time_in_match": 1547502,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                                     "victim_display_name": "Gehrman#FLORA",
@@ -197771,7 +197771,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9887,
@@ -197897,7 +197897,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10052,
@@ -197971,7 +197971,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9754,
@@ -198103,7 +198103,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10014,
@@ -198391,7 +198391,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5056,
@@ -198428,14 +198428,14 @@
                         },
                         "defused_by": {
                             "puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "display_name": "mar#mink",
+                            "display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 89552,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8586,
@@ -198515,7 +198515,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3400,
@@ -198655,7 +198655,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "receiver_display_name": "mar#mink",
+                                    "receiver_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -198711,7 +198711,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6160,
@@ -198805,7 +198805,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6466,
@@ -198879,7 +198879,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9374,
@@ -198925,7 +198925,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -198947,7 +198947,7 @@
                                     "kill_time_in_round": 80126,
                                     "kill_time_in_match": 1679528,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                                     "victim_display_name": "Emenavarro#KICK",
@@ -198966,7 +198966,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9530,
@@ -199140,7 +199140,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6857,
@@ -199214,7 +199214,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6147,
@@ -199382,7 +199382,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7091,
@@ -199566,7 +199566,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6659,
@@ -199583,7 +199583,7 @@
                         },
                         "defused_by": {
                             "puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "display_name": "mar#mink",
+                            "display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 112100,
@@ -199610,7 +199610,7 @@
                             },
                             {
                                 "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                "player_display_name": "mar#mink",
+                                "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8415,
@@ -199690,7 +199690,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8706,
@@ -199830,7 +199830,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -199861,7 +199861,7 @@
                                     "kill_time_in_round": 48386,
                                     "kill_time_in_match": 1774343,
                                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                    "killer_display_name": "mar#mink",
+                                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                     "killer_team": "Red",
                                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                                     "victim_display_name": "Gehrman#FLORA",
@@ -199910,7 +199910,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3741,
@@ -200027,7 +200027,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7061,
@@ -200225,7 +200225,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6824,
@@ -200309,7 +200309,7 @@
                                         },
                                         {
                                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                                            "player_display_name": "mar#mink",
+                                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5047,
@@ -200551,7 +200551,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7191,
@@ -200626,7 +200626,7 @@
                     "killer_display_name": "The Messiah#2265",
                     "killer_team": "Blue",
                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "victim_display_name": "mar#mink",
+                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6811,
@@ -201118,7 +201118,7 @@
                     "killer_display_name": "SoGeXIX#922",
                     "killer_team": "Blue",
                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "victim_display_name": "mar#mink",
+                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5285,
@@ -201710,7 +201710,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8156,
@@ -201815,7 +201815,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8161,
@@ -201920,7 +201920,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9010,
@@ -202011,7 +202011,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9133,
@@ -202086,7 +202086,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9126,
@@ -202148,7 +202148,7 @@
                     "kill_time_in_match": 207447,
                     "round": 2,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                     "victim_display_name": "Gehrman#FLORA",
@@ -202167,7 +202167,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9555,
@@ -202232,7 +202232,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9265,
@@ -202287,7 +202287,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8618,
@@ -202362,7 +202362,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6054,
@@ -202428,7 +202428,7 @@
                     "kill_time_in_match": 274779,
                     "round": 3,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                     "victim_display_name": "Emenavarro#KICK",
@@ -202467,7 +202467,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7109,
@@ -202562,7 +202562,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7086,
@@ -202634,7 +202634,7 @@
                     "kill_time_in_match": 279586,
                     "round": 3,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                     "victim_display_name": "Gehrman#FLORA",
@@ -202663,7 +202663,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7034,
@@ -202719,7 +202719,7 @@
                     "kill_time_in_match": 284598,
                     "round": 3,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                     "victim_display_name": "manolito#pe\u00f1a",
@@ -202748,7 +202748,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7529,
@@ -202823,7 +202823,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8233,
@@ -202865,7 +202865,7 @@
                     "kill_time_in_match": 326812,
                     "round": 4,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                     "victim_display_name": "manolito#pe\u00f1a",
@@ -202914,7 +202914,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6343,
@@ -203029,7 +203029,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6237,
@@ -203134,7 +203134,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8105,
@@ -203180,7 +203180,7 @@
                     "kill_time_in_match": 349607,
                     "round": 4,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                     "victim_display_name": "Emenavarro#KICK",
@@ -203219,7 +203219,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9369,
@@ -203310,7 +203310,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7763,
@@ -203385,7 +203385,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8377,
@@ -203407,7 +203407,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "assistant_display_name": "mar#mink",
+                            "assistant_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "assistant_team": "Red"
                         }
                     ]
@@ -203466,7 +203466,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 5994,
@@ -203587,7 +203587,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6395,
@@ -203692,7 +203692,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6482,
@@ -203738,7 +203738,7 @@
                     "kill_time_in_match": 414810,
                     "round": 5,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                     "victim_display_name": "Emenavarro#KICK",
@@ -203777,7 +203777,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7006,
@@ -203862,7 +203862,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9321,
@@ -203937,7 +203937,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9346,
@@ -204008,7 +204008,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6641,
@@ -204084,7 +204084,7 @@
                     "kill_time_in_match": 487178,
                     "round": 6,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                     "victim_display_name": "manolito#pe\u00f1a",
@@ -204123,7 +204123,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8210,
@@ -204189,7 +204189,7 @@
                     "kill_time_in_match": 488389,
                     "round": 6,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "4113cc55-4086-584d-b659-276e6827f2f4",
                     "victim_display_name": "The Messiah#2265",
@@ -204228,7 +204228,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8285,
@@ -204329,7 +204329,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8015,
@@ -204378,7 +204378,7 @@
                     "killer_display_name": "SoGeXIX#922",
                     "killer_team": "Blue",
                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "victim_display_name": "mar#mink",
+                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7242,
@@ -204517,7 +204517,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "assistant_display_name": "mar#mink",
+                            "assistant_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "assistant_team": "Red"
                         }
                     ]
@@ -204711,7 +204711,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 5688,
@@ -204832,7 +204832,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6974,
@@ -204888,7 +204888,7 @@
                     "kill_time_in_match": 574322,
                     "round": 7,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                     "victim_display_name": "Gehrman#FLORA",
@@ -204937,7 +204937,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7029,
@@ -204992,7 +204992,7 @@
                     "killer_display_name": "The Messiah#2265",
                     "killer_team": "Blue",
                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "victim_display_name": "mar#mink",
+                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6665,
@@ -205363,7 +205363,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 5083,
@@ -205478,7 +205478,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 4845,
@@ -205573,7 +205573,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 4389,
@@ -205684,7 +205684,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 4683,
@@ -205779,7 +205779,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 4648,
@@ -205864,7 +205864,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 4756,
@@ -205935,7 +205935,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9988,
@@ -205990,7 +205990,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9271,
@@ -206026,7 +206026,7 @@
                     "kill_time_in_match": 714328,
                     "round": 8,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "4113cc55-4086-584d-b659-276e6827f2f4",
                     "victim_display_name": "The Messiah#2265",
@@ -206045,7 +206045,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9241,
@@ -206120,7 +206120,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8278,
@@ -206235,7 +206235,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9543,
@@ -206340,7 +206340,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 10180,
@@ -206386,7 +206386,7 @@
                     "kill_time_in_match": 772676,
                     "round": 9,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                     "victim_display_name": "Emenavarro#KICK",
@@ -206425,7 +206425,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 10198,
@@ -206480,7 +206480,7 @@
                     "killer_display_name": "The Messiah#2265",
                     "killer_team": "Blue",
                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "victim_display_name": "mar#mink",
+                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 10204,
@@ -206717,7 +206717,7 @@
                     "kill_time_in_match": 858417,
                     "round": 10,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                     "victim_display_name": "manolito#pe\u00f1a",
@@ -206766,7 +206766,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7296,
@@ -206881,7 +206881,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": -49704,
@@ -206937,7 +206937,7 @@
                     "kill_time_in_match": 868527,
                     "round": 10,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "e83d3258-88c6-5958-b4ae-358d1e5a909a",
                     "victim_display_name": "SoGeXIX#922",
@@ -206986,7 +206986,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": -49273,
@@ -207071,7 +207071,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": -49385,
@@ -207117,7 +207117,7 @@
                     "kill_time_in_match": 881513,
                     "round": 10,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                     "victim_display_name": "Gehrman#FLORA",
@@ -207156,7 +207156,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8481,
@@ -207195,7 +207195,7 @@
                     "killer_display_name": "The Messiah#2265",
                     "killer_team": "Blue",
                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "victim_display_name": "mar#mink",
+                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7009,
@@ -207876,7 +207876,7 @@
                     "killer_display_name": "SoGeXIX#922",
                     "killer_team": "Blue",
                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "victim_display_name": "mar#mink",
+                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6241,
@@ -208564,7 +208564,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6487,
@@ -208679,7 +208679,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8337,
@@ -208745,7 +208745,7 @@
                     "kill_time_in_match": 1101624,
                     "round": 13,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                     "victim_display_name": "Emenavarro#KICK",
@@ -208774,7 +208774,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8373,
@@ -208880,7 +208880,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8320,
@@ -208971,7 +208971,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8340,
@@ -209013,7 +209013,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "assistant_display_name": "mar#mink",
+                            "assistant_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "assistant_team": "Red"
                         },
                         {
@@ -209047,7 +209047,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6862,
@@ -209093,7 +209093,7 @@
                     "kill_time_in_match": 1116247,
                     "round": 13,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "4113cc55-4086-584d-b659-276e6827f2f4",
                     "victim_display_name": "The Messiah#2265",
@@ -209112,7 +209112,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6673,
@@ -209173,7 +209173,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6264,
@@ -209248,7 +209248,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8240,
@@ -209363,7 +209363,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8089,
@@ -209419,7 +209419,7 @@
                     "kill_time_in_match": 1181326,
                     "round": 14,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "4113cc55-4086-584d-b659-276e6827f2f4",
                     "victim_display_name": "The Messiah#2265",
@@ -209468,7 +209468,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7479,
@@ -209563,7 +209563,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7257,
@@ -209638,7 +209638,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7257,
@@ -209674,7 +209674,7 @@
                     "kill_time_in_match": 1219070,
                     "round": 14,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "e83d3258-88c6-5958-b4ae-358d1e5a909a",
                     "victim_display_name": "SoGeXIX#922",
@@ -209713,7 +209713,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6992,
@@ -209739,7 +209739,7 @@
                     "kill_time_in_match": 1225008,
                     "round": 14,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "36ce2bb0-0883-5550-b959-bf67b45d15c7",
                     "victim_display_name": "manolito#pe\u00f1a",
@@ -209778,7 +209778,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8089,
@@ -209823,7 +209823,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8089,
@@ -209878,7 +209878,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7195,
@@ -209993,7 +209993,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6655,
@@ -210088,7 +210088,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8294,
@@ -210183,7 +210183,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7010,
@@ -210268,7 +210268,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7101,
@@ -210353,7 +210353,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8339,
@@ -210438,7 +210438,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8485,
@@ -210513,7 +210513,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8510,
@@ -210588,7 +210588,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9804,
@@ -210637,7 +210637,7 @@
                     "killer_display_name": "SoGeXIX#922",
                     "killer_team": "Blue",
                     "victim_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "victim_display_name": "mar#mink",
+                    "victim_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9312,
@@ -210814,7 +210814,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 10778,
@@ -210909,7 +210909,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 10014,
@@ -210984,7 +210984,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 10052,
@@ -211030,7 +211030,7 @@
                     "kill_time_in_match": 1547502,
                     "round": 17,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                     "victim_display_name": "Gehrman#FLORA",
@@ -211059,7 +211059,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9887,
@@ -211124,7 +211124,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9754,
@@ -211195,7 +211195,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6160,
@@ -211290,7 +211290,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6857,
@@ -211375,7 +211375,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6466,
@@ -211460,7 +211460,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 3400,
@@ -211525,7 +211525,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6147,
@@ -211590,7 +211590,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7091,
@@ -211645,7 +211645,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9374,
@@ -211661,7 +211661,7 @@
                     "kill_time_in_match": 1679528,
                     "round": 18,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "87e6b5e2-9216-5bc5-89ff-889974cfde54",
                     "victim_display_name": "Emenavarro#KICK",
@@ -211680,7 +211680,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 9530,
@@ -211751,7 +211751,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 7061,
@@ -211846,7 +211846,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 6824,
@@ -211931,7 +211931,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 5047,
@@ -211957,7 +211957,7 @@
                     "kill_time_in_match": 1774343,
                     "round": 19,
                     "killer_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                    "killer_display_name": "mar#mink",
+                    "killer_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                     "killer_team": "Red",
                     "victim_puuid": "c0b68db3-8d9e-599e-be10-040c42fc18b1",
                     "victim_display_name": "Gehrman#FLORA",
@@ -212006,7 +212006,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 3741,
@@ -212061,7 +212061,7 @@
                         },
                         {
                             "player_puuid": "a4361286-350a-5253-8239-353a2c380343",
-                            "player_display_name": "mar#mink",
+                            "player_display_name": "\u043f\u0440\u043e\u043a\u043b\u0435\u0442#1025",
                             "player_team": "Red",
                             "location": {
                                 "x": 8706,
