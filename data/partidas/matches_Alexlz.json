@@ -611,8 +611,8 @@
                     },
                     {
                         "puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                        "name": "Sumbul",
-                        "tag": "8864",
+                        "name": "sumbul\u3086\u3086",
+                        "tag": "meow",
                         "team": "Blue",
                         "level": 228,
                         "character": "Jett",
@@ -1418,8 +1418,8 @@
                     },
                     {
                         "puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                        "name": "Sumbul",
-                        "tag": "8864",
+                        "name": "sumbul\u3086\u3086",
+                        "tag": "meow",
                         "team": "Blue",
                         "level": 228,
                         "character": "Jett",
@@ -1608,7 +1608,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -1934,7 +1934,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -1965,7 +1965,7 @@
                                     "kill_time_in_round": 10506,
                                     "kill_time_in_match": 72207,
                                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "killer_display_name": "Sumbul#8864",
+                                    "killer_display_name": "sumbul\u3086\u3086#meow",
                                     "killer_team": "Blue",
                                     "victim_puuid": "21913fc4-1b31-5346-af16-611f88b2a810",
                                     "victim_display_name": "A1skengdoe#6856",
@@ -2004,7 +2004,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 578,
@@ -2496,7 +2496,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -2534,7 +2534,7 @@
                                     "killer_display_name": "Baggelsss#UwU",
                                     "killer_team": "Red",
                                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "victim_display_name": "Sumbul#8864",
+                                    "victim_display_name": "sumbul\u3086\u3086#meow",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -42,
@@ -2892,7 +2892,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -2912,7 +2912,7 @@
                                     "killer_display_name": "b1gdckdaddy#huge",
                                     "killer_team": "Red",
                                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "victim_display_name": "Sumbul#8864",
+                                    "victim_display_name": "sumbul\u3086\u3086#meow",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -5107,
@@ -3239,7 +3239,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -3261,7 +3261,7 @@
                                     "kill_time_in_round": 19020,
                                     "kill_time_in_match": 177587,
                                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "killer_display_name": "Sumbul#8864",
+                                    "killer_display_name": "sumbul\u3086\u3086#meow",
                                     "killer_team": "Blue",
                                     "victim_puuid": "21913fc4-1b31-5346-af16-611f88b2a810",
                                     "victim_display_name": "A1skengdoe#6856",
@@ -3300,7 +3300,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -5830,
@@ -4344,7 +4344,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -4410,7 +4410,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -5745,
@@ -4478,7 +4478,7 @@
                                     "killer_display_name": "A1skengdoe#6856",
                                     "killer_team": "Red",
                                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "victim_display_name": "Sumbul#8864",
+                                    "victim_display_name": "sumbul\u3086\u3086#meow",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2612,
@@ -4606,7 +4606,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -4637,7 +4637,7 @@
                                     "kill_time_in_round": 25089,
                                     "kill_time_in_match": 272270,
                                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "killer_display_name": "Sumbul#8864",
+                                    "killer_display_name": "sumbul\u3086\u3086#meow",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b173acc2-3b3e-5bb1-9e91-eed66ba859c2",
                                     "victim_display_name": "Alexlz#001",
@@ -4686,7 +4686,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2943,
@@ -4777,7 +4777,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -5578,7 +5578,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3775,
@@ -5669,7 +5669,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -5698,7 +5698,7 @@
                                     "killer_display_name": "VantaaaX#3670",
                                     "killer_team": "Red",
                                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "victim_display_name": "Sumbul#8864",
+                                    "victim_display_name": "sumbul\u3086\u3086#meow",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4863,
@@ -6085,7 +6085,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -6282,7 +6282,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3853,
@@ -6511,7 +6511,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3080,
@@ -6687,7 +6687,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3639,
@@ -6905,7 +6905,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -6925,7 +6925,7 @@
                                     "killer_display_name": "b1gdckdaddy#huge",
                                     "killer_team": "Red",
                                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "victim_display_name": "Sumbul#8864",
+                                    "victim_display_name": "sumbul\u3086\u3086#meow",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2642,
@@ -7465,7 +7465,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -7733,7 +7733,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "assistant_display_name": "Sumbul#8864",
+                                            "assistant_display_name": "sumbul\u3086\u3086#meow",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -8104,7 +8104,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -8188,7 +8188,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4062,
@@ -8457,7 +8457,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3088,
@@ -8553,7 +8553,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -8955,7 +8955,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "assistant_display_name": "Sumbul#8864",
+                                            "assistant_display_name": "sumbul\u3086\u3086#meow",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -9040,7 +9040,7 @@
                                         },
                                         {
                                             "assistant_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "assistant_display_name": "Sumbul#8864",
+                                            "assistant_display_name": "sumbul\u3086\u3086#meow",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -9173,7 +9173,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -9202,7 +9202,7 @@
                                     "killer_display_name": "Baggelsss#UwU",
                                     "killer_team": "Red",
                                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "victim_display_name": "Sumbul#8864",
+                                    "victim_display_name": "sumbul\u3086\u3086#meow",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4302,
@@ -9525,7 +9525,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -9545,7 +9545,7 @@
                                     "killer_display_name": "VantaaaX#3670",
                                     "killer_team": "Red",
                                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "victim_display_name": "Sumbul#8864",
+                                    "victim_display_name": "sumbul\u3086\u3086#meow",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3406,
@@ -9709,7 +9709,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -9740,7 +9740,7 @@
                                     "kill_time_in_round": 12021,
                                     "kill_time_in_match": 665711,
                                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "killer_display_name": "Sumbul#8864",
+                                    "killer_display_name": "sumbul\u3086\u3086#meow",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b173acc2-3b3e-5bb1-9e91-eed66ba859c2",
                                     "victim_display_name": "Alexlz#001",
@@ -9779,7 +9779,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4712,
@@ -9850,7 +9850,7 @@
                                     "kill_time_in_round": 20198,
                                     "kill_time_in_match": 673888,
                                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "killer_display_name": "Sumbul#8864",
+                                    "killer_display_name": "sumbul\u3086\u3086#meow",
                                     "killer_team": "Blue",
                                     "victim_puuid": "24009a32-0dd9-57fc-bc45-62acf600f7c6",
                                     "victim_display_name": "Baggelsss#UwU",
@@ -9889,7 +9889,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3642,
@@ -10379,7 +10379,7 @@
                                         },
                                         {
                                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                            "player_display_name": "Sumbul#8864",
+                                            "player_display_name": "sumbul\u3086\u3086#meow",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4222,
@@ -10777,7 +10777,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -10824,7 +10824,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "receiver_display_name": "Sumbul#8864",
+                                    "receiver_display_name": "sumbul\u3086\u3086#meow",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -10853,7 +10853,7 @@
                                     "killer_display_name": "Alexlz#001",
                                     "killer_team": "Red",
                                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                                    "victim_display_name": "Sumbul#8864",
+                                    "victim_display_name": "sumbul\u3086\u3086#meow",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3326,
@@ -11667,7 +11667,7 @@
                     "kill_time_in_match": 72207,
                     "round": 0,
                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "killer_display_name": "Sumbul#8864",
+                    "killer_display_name": "sumbul\u3086\u3086#meow",
                     "killer_team": "Blue",
                     "victim_puuid": "21913fc4-1b31-5346-af16-611f88b2a810",
                     "victim_display_name": "A1skengdoe#6856",
@@ -11706,7 +11706,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 578,
@@ -11785,7 +11785,7 @@
                     "killer_display_name": "Baggelsss#UwU",
                     "killer_team": "Red",
                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "victim_display_name": "Sumbul#8864",
+                    "victim_display_name": "sumbul\u3086\u3086#meow",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -42,
@@ -12280,7 +12280,7 @@
                     "kill_time_in_match": 177587,
                     "round": 1,
                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "killer_display_name": "Sumbul#8864",
+                    "killer_display_name": "sumbul\u3086\u3086#meow",
                     "killer_team": "Blue",
                     "victim_puuid": "21913fc4-1b31-5346-af16-611f88b2a810",
                     "victim_display_name": "A1skengdoe#6856",
@@ -12319,7 +12319,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": -5830,
@@ -12398,7 +12398,7 @@
                     "killer_display_name": "b1gdckdaddy#huge",
                     "killer_team": "Red",
                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "victim_display_name": "Sumbul#8864",
+                    "victim_display_name": "sumbul\u3086\u3086#meow",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -5107,
@@ -12999,7 +12999,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": -5745,
@@ -13065,7 +13065,7 @@
                     "kill_time_in_match": 272270,
                     "round": 2,
                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "killer_display_name": "Sumbul#8864",
+                    "killer_display_name": "sumbul\u3086\u3086#meow",
                     "killer_team": "Blue",
                     "victim_puuid": "b173acc2-3b3e-5bb1-9e91-eed66ba859c2",
                     "victim_display_name": "Alexlz#001",
@@ -13114,7 +13114,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2943,
@@ -13173,7 +13173,7 @@
                     "killer_display_name": "A1skengdoe#6856",
                     "killer_team": "Red",
                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "victim_display_name": "Sumbul#8864",
+                    "victim_display_name": "sumbul\u3086\u3086#meow",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2612,
@@ -13651,7 +13651,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3080,
@@ -13766,7 +13766,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3639,
@@ -13881,7 +13881,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3775,
@@ -13976,7 +13976,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3853,
@@ -14046,7 +14046,7 @@
                     "killer_display_name": "VantaaaX#3670",
                     "killer_team": "Red",
                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "victim_display_name": "Sumbul#8864",
+                    "victim_display_name": "sumbul\u3086\u3086#meow",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4863,
@@ -14338,7 +14338,7 @@
                     "killer_display_name": "b1gdckdaddy#huge",
                     "killer_team": "Red",
                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "victim_display_name": "Sumbul#8864",
+                    "victim_display_name": "sumbul\u3086\u3086#meow",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2642,
@@ -14551,7 +14551,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "assistant_display_name": "Sumbul#8864",
+                            "assistant_display_name": "sumbul\u3086\u3086#meow",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -15048,7 +15048,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3088,
@@ -15163,7 +15163,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4062,
@@ -15228,7 +15228,7 @@
                     "killer_display_name": "Baggelsss#UwU",
                     "killer_team": "Red",
                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "victim_display_name": "Sumbul#8864",
+                    "victim_display_name": "sumbul\u3086\u3086#meow",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4302,
@@ -15407,7 +15407,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "assistant_display_name": "Sumbul#8864",
+                            "assistant_display_name": "sumbul\u3086\u3086#meow",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -15493,7 +15493,7 @@
                         },
                         {
                             "assistant_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "assistant_display_name": "Sumbul#8864",
+                            "assistant_display_name": "sumbul\u3086\u3086#meow",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -15742,7 +15742,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4222,
@@ -15818,7 +15818,7 @@
                     "kill_time_in_match": 665711,
                     "round": 6,
                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "killer_display_name": "Sumbul#8864",
+                    "killer_display_name": "sumbul\u3086\u3086#meow",
                     "killer_team": "Blue",
                     "victim_puuid": "b173acc2-3b3e-5bb1-9e91-eed66ba859c2",
                     "victim_display_name": "Alexlz#001",
@@ -15857,7 +15857,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4712,
@@ -15929,7 +15929,7 @@
                     "kill_time_in_match": 673888,
                     "round": 6,
                     "killer_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "killer_display_name": "Sumbul#8864",
+                    "killer_display_name": "sumbul\u3086\u3086#meow",
                     "killer_team": "Blue",
                     "victim_puuid": "24009a32-0dd9-57fc-bc45-62acf600f7c6",
                     "victim_display_name": "Baggelsss#UwU",
@@ -15968,7 +15968,7 @@
                         },
                         {
                             "player_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                            "player_display_name": "Sumbul#8864",
+                            "player_display_name": "sumbul\u3086\u3086#meow",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3642,
@@ -16033,7 +16033,7 @@
                     "killer_display_name": "VantaaaX#3670",
                     "killer_team": "Red",
                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "victim_display_name": "Sumbul#8864",
+                    "victim_display_name": "sumbul\u3086\u3086#meow",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3406,
@@ -16325,7 +16325,7 @@
                     "killer_display_name": "Alexlz#001",
                     "killer_team": "Red",
                     "victim_puuid": "3456e30c-da88-59ff-b376-3bbc67bb505e",
-                    "victim_display_name": "Sumbul#8864",
+                    "victim_display_name": "sumbul\u3086\u3086#meow",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3326,
