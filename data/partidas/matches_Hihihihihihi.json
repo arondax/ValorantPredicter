@@ -246,8 +246,8 @@
                     },
                     {
                         "puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                        "name": "SAMY RANK 67",
-                        "tag": "6767",
+                        "name": "SamyM",
+                        "tag": "12345",
                         "team": "Red",
                         "level": 115,
                         "character": "Vyse",
@@ -759,8 +759,8 @@
                 "red": [
                     {
                         "puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                        "name": "SAMY RANK 67",
-                        "tag": "6767",
+                        "name": "SamyM",
+                        "tag": "12345",
                         "team": "Red",
                         "level": 115,
                         "character": "Vyse",
@@ -1636,7 +1636,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7032,
@@ -1707,7 +1707,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -1915,7 +1915,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7222,
@@ -1947,7 +1947,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "assistant_display_name": "SAMY RANK 67#6767",
+                                            "assistant_display_name": "SamyM#12345",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -2102,7 +2102,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -2149,7 +2149,7 @@
                                     "killer_display_name": "NW Lyzseh#2309",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6938,
@@ -2536,7 +2536,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -2774,7 +2774,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6943,
@@ -3774,7 +3774,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -3821,7 +3821,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -3841,7 +3841,7 @@
                                     "killer_display_name": "dry25#adhd",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4173,
@@ -4146,7 +4146,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6277,
@@ -4606,7 +4606,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3396,
@@ -4710,7 +4710,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4939,
@@ -4792,7 +4792,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 1,
@@ -4821,7 +4821,7 @@
                                     "killer_display_name": "NW Lyzseh#2309",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6278,
@@ -5055,7 +5055,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -5411,7 +5411,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6608,
@@ -5495,7 +5495,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7945,
@@ -5609,7 +5609,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -5695,7 +5695,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6944,
@@ -5842,7 +5842,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7610,
@@ -6137,7 +6137,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6269,7 +6269,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7797,
@@ -6346,7 +6346,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -6375,7 +6375,7 @@
                                     "killer_display_name": "Idiod#Jaman",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7945,
@@ -6700,7 +6700,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6242,
@@ -7013,7 +7013,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -7042,7 +7042,7 @@
                                     "killer_display_name": "Loo#PING",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6513,
@@ -7363,7 +7363,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -8553,7 +8553,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4776,
@@ -8619,7 +8619,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8641,7 +8641,7 @@
                                     "kill_time_in_round": 11547,
                                     "kill_time_in_match": 394442,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "87eb1772-2d0d-54e2-9fb4-c5169def0afd",
                                     "victim_display_name": "Idiod#Jaman",
@@ -8720,7 +8720,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4700,
@@ -8781,7 +8781,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -8801,7 +8801,7 @@
                                     "killer_display_name": "dry25#adhd",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4672,
@@ -8934,7 +8934,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -9035,7 +9035,7 @@
                             },
                             {
                                 "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                "player_display_name": "SAMY RANK 67#6767",
+                                "player_display_name": "SamyM#12345",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7113,
@@ -9163,7 +9163,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -9258,7 +9258,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5978,
@@ -9332,7 +9332,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7253,
@@ -9360,7 +9360,7 @@
                                     "killer_display_name": "\u304d\u3089\u3047#\u307f\u3055\u3047",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7909,
@@ -9587,7 +9587,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5925,
@@ -9899,7 +9899,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4823,
@@ -10005,7 +10005,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -10027,7 +10027,7 @@
                                     "kill_time_in_round": 17292,
                                     "kill_time_in_match": 490574,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                                     "victim_display_name": "Loo#PING",
@@ -10086,7 +10086,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6458,
@@ -10601,7 +10601,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7059,
@@ -10949,7 +10949,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -11054,7 +11054,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7038,
@@ -11092,7 +11092,7 @@
                                     "killer_display_name": "NW Lyzseh#2309",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7570,
@@ -11346,7 +11346,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11801,7 +11801,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6221,
@@ -11881,7 +11881,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8253,
@@ -12008,7 +12008,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -12084,7 +12084,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8253,
@@ -12230,7 +12230,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -12373,7 +12373,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5853,
@@ -12462,7 +12462,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -12548,7 +12548,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7033,
@@ -12618,7 +12618,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8253,
@@ -12646,7 +12646,7 @@
                                     "killer_display_name": "Idiod#Jaman",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7789,
@@ -12792,7 +12792,7 @@
                             },
                             {
                                 "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                "player_display_name": "SAMY RANK 67#6767",
+                                "player_display_name": "SamyM#12345",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4953,
@@ -12945,7 +12945,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5100,
@@ -13577,7 +13577,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13608,7 +13608,7 @@
                                     "kill_time_in_round": 13389,
                                     "kill_time_in_match": 717426,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "87eb1772-2d0d-54e2-9fb4-c5169def0afd",
                                     "victim_display_name": "Idiod#Jaman",
@@ -13677,7 +13677,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4982,
@@ -13702,7 +13702,7 @@
                                     "kill_time_in_round": 15654,
                                     "kill_time_in_match": 719691,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                                     "victim_display_name": "Loo#PING",
@@ -13761,7 +13761,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4957,
@@ -13822,7 +13822,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -13851,7 +13851,7 @@
                                     "killer_display_name": "dry25#adhd",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5374,
@@ -14054,7 +14054,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4642,
@@ -14283,7 +14283,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5334,
@@ -14562,7 +14562,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5311,
@@ -14666,7 +14666,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5568,
@@ -14746,7 +14746,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -14812,7 +14812,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5306,
@@ -14920,7 +14920,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14951,7 +14951,7 @@
                                     "kill_time_in_round": 29548,
                                     "kill_time_in_match": 824189,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                                     "victim_display_name": "Loo#PING",
@@ -14990,7 +14990,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3250,
@@ -15031,7 +15031,7 @@
                                     "kill_time_in_round": 31397,
                                     "kill_time_in_match": 826038,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "bdfee1d2-2b10-51b4-a60a-10aa99d99920",
                                     "victim_display_name": "\u304d\u3089\u3047#\u307f\u3055\u3047",
@@ -15060,7 +15060,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3706,
@@ -15173,7 +15173,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -15193,7 +15193,7 @@
                                     "killer_display_name": "Idiod#Jaman",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3336,
@@ -15345,7 +15345,7 @@
                             },
                             {
                                 "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                "player_display_name": "SAMY RANK 67#6767",
+                                "player_display_name": "SamyM#12345",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8015,
@@ -15564,7 +15564,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6388,
@@ -15678,7 +15678,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6826,
@@ -15911,7 +15911,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9066,
@@ -15971,7 +15971,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -16066,7 +16066,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6979,
@@ -16084,7 +16084,7 @@
                                     "killer_display_name": "NW Lyzseh#2309",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9520,
@@ -16237,7 +16237,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9479,
@@ -16283,7 +16283,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16305,7 +16305,7 @@
                                     "kill_time_in_round": 16717,
                                     "kill_time_in_match": 882148,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "8c5f2310-e1c6-5de3-8a7c-f3cb50646001",
                                     "victim_display_name": "dry25#adhd",
@@ -16384,7 +16384,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6797,
@@ -16745,7 +16745,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7799,
@@ -17050,7 +17050,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8337,
@@ -17127,7 +17127,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -17156,7 +17156,7 @@
                                     "killer_display_name": "NW Lyzseh#2309",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7885,
@@ -17459,7 +17459,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17481,7 +17481,7 @@
                                     "kill_time_in_round": 16360,
                                     "kill_time_in_match": 979012,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                                     "victim_display_name": "Loo#PING",
@@ -17540,7 +17540,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7382,
@@ -17821,7 +17821,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7616,
@@ -17925,7 +17925,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7607,
@@ -17947,7 +17947,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "assistant_display_name": "SAMY RANK 67#6767",
+                                            "assistant_display_name": "SamyM#12345",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -18191,7 +18191,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7531,
@@ -18285,7 +18285,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7581,
@@ -18477,7 +18477,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -18543,7 +18543,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -18636,7 +18636,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7627,
@@ -18664,7 +18664,7 @@
                                     "killer_display_name": "dry25#adhd",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7641,
@@ -18899,7 +18899,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -19023,7 +19023,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -19099,7 +19099,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10087,
@@ -19236,7 +19236,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10336,
@@ -19393,7 +19393,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8952,
@@ -19550,7 +19550,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9054,
@@ -19709,7 +19709,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10009,
@@ -19755,7 +19755,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -19786,7 +19786,7 @@
                                     "kill_time_in_round": 20069,
                                     "kill_time_in_match": 1120665,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "c8926d1b-a87a-5ada-938e-654d508d99e2",
                                     "victim_display_name": "NW Lyzseh#2309",
@@ -19855,7 +19855,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10357,
@@ -19880,7 +19880,7 @@
                                     "kill_time_in_round": 26265,
                                     "kill_time_in_match": 1126861,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "bdfee1d2-2b10-51b4-a60a-10aa99d99920",
                                     "victim_display_name": "\u304d\u3089\u3047#\u307f\u3055\u3047",
@@ -19929,7 +19929,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10410,
@@ -20232,7 +20232,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10748,
@@ -20342,7 +20342,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10680,
@@ -20722,7 +20722,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9644,
@@ -20816,7 +20816,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9391,
@@ -20906,7 +20906,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9527,
@@ -20980,7 +20980,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9395,
@@ -21036,7 +21036,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -21076,7 +21076,7 @@
                                     "kill_time_in_round": 29154,
                                     "kill_time_in_match": 1198702,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                                     "victim_display_name": "Loo#PING",
@@ -21115,7 +21115,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9542,
@@ -21150,7 +21150,7 @@
                                     "kill_time_in_round": 34448,
                                     "kill_time_in_match": 1203996,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "87eb1772-2d0d-54e2-9fb4-c5169def0afd",
                                     "victim_display_name": "Idiod#Jaman",
@@ -21189,7 +21189,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8817,
@@ -21249,7 +21249,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -21487,7 +21487,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10938,
@@ -21591,7 +21591,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11108,
@@ -21675,7 +21675,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10692,
@@ -21739,7 +21739,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10746,
@@ -21943,7 +21943,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -22019,7 +22019,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9409,
@@ -22073,7 +22073,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10816,
@@ -22203,7 +22203,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -22225,7 +22225,7 @@
                                     "kill_time_in_round": 53237,
                                     "kill_time_in_match": 1294247,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                                     "victim_display_name": "Loo#PING",
@@ -22254,7 +22254,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8402,
@@ -22443,7 +22443,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9250,
@@ -22577,7 +22577,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -22642,7 +22642,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7547,
@@ -22861,7 +22861,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7366,
@@ -23002,7 +23002,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -23078,7 +23078,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7574,
@@ -23162,7 +23162,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7640,
@@ -23270,7 +23270,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -23292,7 +23292,7 @@
                                     "kill_time_in_round": 37759,
                                     "kill_time_in_match": 1369014,
                                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "killer_display_name": "SAMY RANK 67#6767",
+                                    "killer_display_name": "SamyM#12345",
                                     "killer_team": "Red",
                                     "victim_puuid": "c8926d1b-a87a-5ada-938e-654d508d99e2",
                                     "victim_display_name": "NW Lyzseh#2309",
@@ -23321,7 +23321,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7414,
@@ -23401,7 +23401,7 @@
                                 },
                                 {
                                     "receiver_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "receiver_display_name": "SAMY RANK 67#6767",
+                                    "receiver_display_name": "SamyM#12345",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -23477,7 +23477,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8541,
@@ -23515,7 +23515,7 @@
                                     "killer_display_name": "dry25#adhd",
                                     "killer_team": "Blue",
                                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                    "victim_display_name": "SAMY RANK 67#6767",
+                                    "victim_display_name": "SamyM#12345",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9402,
@@ -23694,7 +23694,7 @@
                                         },
                                         {
                                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                                            "player_display_name": "SAMY RANK 67#6767",
+                                            "player_display_name": "SamyM#12345",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7362,
@@ -23840,7 +23840,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7032,
@@ -23945,7 +23945,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7222,
@@ -23977,7 +23977,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "assistant_display_name": "SAMY RANK 67#6767",
+                            "assistant_display_name": "SamyM#12345",
                             "assistant_team": "Red"
                         },
                         {
@@ -24051,7 +24051,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6943,
@@ -24090,7 +24090,7 @@
                     "killer_display_name": "NW Lyzseh#2309",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6938,
@@ -24462,7 +24462,7 @@
                     "killer_display_name": "dry25#adhd",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4173,
@@ -25196,7 +25196,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 3396,
@@ -25301,7 +25301,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 4939,
@@ -25417,7 +25417,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6277,
@@ -25446,7 +25446,7 @@
                     "killer_display_name": "NW Lyzseh#2309",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6278,
@@ -25870,7 +25870,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6608,
@@ -25975,7 +25975,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6944,
@@ -26070,7 +26070,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7610,
@@ -26155,7 +26155,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7797,
@@ -26246,7 +26246,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7945,
@@ -26275,7 +26275,7 @@
                     "killer_display_name": "Idiod#Jaman",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7945,
@@ -26563,7 +26563,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6242,
@@ -26602,7 +26602,7 @@
                     "killer_display_name": "Loo#PING",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6513,
@@ -27265,7 +27265,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 4776,
@@ -27301,7 +27301,7 @@
                     "kill_time_in_match": 394442,
                     "round": 5,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "87eb1772-2d0d-54e2-9fb4-c5169def0afd",
                     "victim_display_name": "Idiod#Jaman",
@@ -27380,7 +27380,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 4700,
@@ -27409,7 +27409,7 @@
                     "killer_display_name": "dry25#adhd",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4672,
@@ -27927,7 +27927,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 4823,
@@ -28038,7 +28038,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 5925,
@@ -28133,7 +28133,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 5978,
@@ -28159,7 +28159,7 @@
                     "kill_time_in_match": 490574,
                     "round": 6,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                     "victim_display_name": "Loo#PING",
@@ -28218,7 +28218,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6458,
@@ -28293,7 +28293,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7253,
@@ -28322,7 +28322,7 @@
                     "killer_display_name": "\u304d\u3089\u3047#\u307f\u3055\u3047",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7909,
@@ -28643,7 +28643,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7038,
@@ -28758,7 +28758,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7059,
@@ -28787,7 +28787,7 @@
                     "killer_display_name": "NW Lyzseh#2309",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7570,
@@ -29195,7 +29195,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 5853,
@@ -29310,7 +29310,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6221,
@@ -29411,7 +29411,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7033,
@@ -29502,7 +29502,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 8253,
@@ -29583,7 +29583,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 8253,
@@ -29654,7 +29654,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 8253,
@@ -29683,7 +29683,7 @@
                     "killer_display_name": "Idiod#Jaman",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7789,
@@ -29814,7 +29814,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 4642,
@@ -29919,7 +29919,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 5100,
@@ -29961,7 +29961,7 @@
                     "kill_time_in_match": 717426,
                     "round": 9,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "87eb1772-2d0d-54e2-9fb4-c5169def0afd",
                     "victim_display_name": "Idiod#Jaman",
@@ -30030,7 +30030,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 4982,
@@ -30056,7 +30056,7 @@
                     "kill_time_in_match": 719691,
                     "round": 9,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                     "victim_display_name": "Loo#PING",
@@ -30115,7 +30115,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 4957,
@@ -30144,7 +30144,7 @@
                     "killer_display_name": "dry25#adhd",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5374,
@@ -30560,7 +30560,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 5311,
@@ -30665,7 +30665,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 5568,
@@ -30760,7 +30760,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 5334,
@@ -30845,7 +30845,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 5306,
@@ -30881,7 +30881,7 @@
                     "kill_time_in_match": 824189,
                     "round": 10,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                     "victim_display_name": "Loo#PING",
@@ -30920,7 +30920,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 3250,
@@ -30962,7 +30962,7 @@
                     "kill_time_in_match": 826038,
                     "round": 10,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "bdfee1d2-2b10-51b4-a60a-10aa99d99920",
                     "victim_display_name": "\u304d\u3089\u3047#\u307f\u3055\u3047",
@@ -30991,7 +30991,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 3706,
@@ -31030,7 +31030,7 @@
                     "killer_display_name": "Idiod#Jaman",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3336,
@@ -31167,7 +31167,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6388,
@@ -31203,7 +31203,7 @@
                     "kill_time_in_match": 882148,
                     "round": 11,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "8c5f2310-e1c6-5de3-8a7c-f3cb50646001",
                     "victim_display_name": "dry25#adhd",
@@ -31282,7 +31282,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6797,
@@ -31387,7 +31387,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6826,
@@ -31472,7 +31472,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 6979,
@@ -31547,7 +31547,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9066,
@@ -31612,7 +31612,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9479,
@@ -31631,7 +31631,7 @@
                     "killer_display_name": "NW Lyzseh#2309",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9520,
@@ -31807,7 +31807,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 8337,
@@ -31918,7 +31918,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7799,
@@ -31954,7 +31954,7 @@
                     "kill_time_in_match": 979012,
                     "round": 12,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                     "victim_display_name": "Loo#PING",
@@ -32013,7 +32013,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7382,
@@ -32052,7 +32052,7 @@
                     "killer_display_name": "NW Lyzseh#2309",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7885,
@@ -32408,7 +32408,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7531,
@@ -32513,7 +32513,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7616,
@@ -32618,7 +32618,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7607,
@@ -32640,7 +32640,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "assistant_display_name": "SAMY RANK 67#6767",
+                            "assistant_display_name": "SamyM#12345",
                             "assistant_team": "Red"
                         }
                     ]
@@ -32709,7 +32709,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7581,
@@ -32784,7 +32784,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7627,
@@ -32813,7 +32813,7 @@
                     "killer_display_name": "dry25#adhd",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7641,
@@ -33105,7 +33105,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 8952,
@@ -33210,7 +33210,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9054,
@@ -33236,7 +33236,7 @@
                     "kill_time_in_match": 1120665,
                     "round": 14,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "c8926d1b-a87a-5ada-938e-654d508d99e2",
                     "victim_display_name": "NW Lyzseh#2309",
@@ -33305,7 +33305,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10357,
@@ -33390,7 +33390,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10087,
@@ -33475,7 +33475,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10336,
@@ -33491,7 +33491,7 @@
                     "kill_time_in_match": 1126861,
                     "round": 14,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "bdfee1d2-2b10-51b4-a60a-10aa99d99920",
                     "victim_display_name": "\u304d\u3089\u3047#\u307f\u3055\u3047",
@@ -33540,7 +33540,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10410,
@@ -33595,7 +33595,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10009,
@@ -33690,7 +33690,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10748,
@@ -33801,7 +33801,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10680,
@@ -33896,7 +33896,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9644,
@@ -33991,7 +33991,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9391,
@@ -34082,7 +34082,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9527,
@@ -34118,7 +34118,7 @@
                     "kill_time_in_match": 1198702,
                     "round": 15,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                     "victim_display_name": "Loo#PING",
@@ -34157,7 +34157,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9542,
@@ -34232,7 +34232,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9395,
@@ -34258,7 +34258,7 @@
                     "kill_time_in_match": 1203996,
                     "round": 15,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "87eb1772-2d0d-54e2-9fb4-c5169def0afd",
                     "victim_display_name": "Idiod#Jaman",
@@ -34297,7 +34297,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 8817,
@@ -34392,7 +34392,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9250,
@@ -34507,7 +34507,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10938,
@@ -34612,7 +34612,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 11108,
@@ -34697,7 +34697,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10692,
@@ -34772,7 +34772,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 9409,
@@ -34837,7 +34837,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10746,
@@ -34892,7 +34892,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 10816,
@@ -34908,7 +34908,7 @@
                     "kill_time_in_match": 1294247,
                     "round": 16,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "f1c00012-ae57-5cb3-9b8c-6c9232714764",
                     "victim_display_name": "Loo#PING",
@@ -34937,7 +34937,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 8402,
@@ -35032,7 +35032,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7366,
@@ -35137,7 +35137,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7362,
@@ -35232,7 +35232,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7574,
@@ -35327,7 +35327,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 8541,
@@ -35412,7 +35412,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7640,
@@ -35487,7 +35487,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7547,
@@ -35523,7 +35523,7 @@
                     "kill_time_in_match": 1369014,
                     "round": 17,
                     "killer_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "killer_display_name": "SAMY RANK 67#6767",
+                    "killer_display_name": "SamyM#12345",
                     "killer_team": "Red",
                     "victim_puuid": "c8926d1b-a87a-5ada-938e-654d508d99e2",
                     "victim_display_name": "NW Lyzseh#2309",
@@ -35552,7 +35552,7 @@
                         },
                         {
                             "player_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                            "player_display_name": "SAMY RANK 67#6767",
+                            "player_display_name": "SamyM#12345",
                             "player_team": "Red",
                             "location": {
                                 "x": 7414,
@@ -35591,7 +35591,7 @@
                     "killer_display_name": "dry25#adhd",
                     "killer_team": "Blue",
                     "victim_puuid": "60cfb9bb-a70a-5249-9709-29096e104aed",
-                    "victim_display_name": "SAMY RANK 67#6767",
+                    "victim_display_name": "SamyM#12345",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9402,
