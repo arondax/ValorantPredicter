@@ -46979,8 +46979,8 @@
                     },
                     {
                         "puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                        "name": "xantares",
-                        "tag": "1031",
+                        "name": "lll",
+                        "tag": "agane",
                         "team": "Blue",
                         "level": 109,
                         "character": "Jett",
@@ -48005,8 +48005,8 @@
                 "blue": [
                     {
                         "puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                        "name": "xantares",
-                        "tag": "1031",
+                        "name": "lll",
+                        "tag": "agane",
                         "team": "Blue",
                         "level": 109,
                         "character": "Jett",
@@ -48417,7 +48417,7 @@
                             },
                             {
                                 "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                "player_display_name": "xantares#1031",
+                                "player_display_name": "lll#agane",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 2885,
@@ -48543,7 +48543,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3142,
@@ -48665,7 +48665,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -48931,7 +48931,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3158,
@@ -49219,7 +49219,7 @@
                                 },
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -49265,7 +49265,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2979,
@@ -49339,7 +49339,7 @@
                                     "killer_display_name": "Alexander Mahone#03402",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2833,
@@ -49517,7 +49517,7 @@
                             },
                             {
                                 "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                "player_display_name": "xantares#1031",
+                                "player_display_name": "lll#agane",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 3013,
@@ -49606,7 +49606,7 @@
                                 },
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -49670,7 +49670,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2886,
@@ -49764,7 +49764,7 @@
                                     "killer_display_name": "Zlwans#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3168,
@@ -49994,7 +49994,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -50016,7 +50016,7 @@
                                     "kill_time_in_round": 18996,
                                     "kill_time_in_match": 189077,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "486538c7-e1d8-5471-ac57-8b65bf2921c9",
                                     "victim_display_name": "Alexander Mahone#03402",
@@ -50045,7 +50045,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2486,
@@ -50593,7 +50593,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2486,
@@ -50765,7 +50765,7 @@
                             },
                             {
                                 "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                "player_display_name": "xantares#1031",
+                                "player_display_name": "lll#agane",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -747,
@@ -50901,7 +50901,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 545,
@@ -50973,7 +50973,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -50995,7 +50995,7 @@
                                     "kill_time_in_round": 35226,
                                     "kill_time_in_match": 281145,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "567a695b-06e0-57ee-b906-744772ecdce2",
                                     "victim_display_name": "sokucuyusuf7#7200",
@@ -51024,7 +51024,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 696,
@@ -51146,7 +51146,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1145,
@@ -51230,7 +51230,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1264,
@@ -51415,7 +51415,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1065,
@@ -51680,7 +51680,7 @@
                                 },
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -51726,7 +51726,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 962,
@@ -51804,7 +51804,7 @@
                                     "killer_display_name": "Alexander Mahone#03402",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1447,
@@ -52103,7 +52103,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -52134,7 +52134,7 @@
                                     "kill_time_in_round": 14546,
                                     "kill_time_in_match": 351258,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "486538c7-e1d8-5471-ac57-8b65bf2921c9",
                                     "victim_display_name": "Alexander Mahone#03402",
@@ -52163,7 +52163,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -507,
@@ -52451,7 +52451,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -507,
@@ -52967,7 +52967,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -507,
@@ -53149,7 +53149,7 @@
                                 },
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -53195,7 +53195,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -507,
@@ -53283,7 +53283,7 @@
                                     "killer_display_name": "Alexander Mahone#03402",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -323,
@@ -53537,7 +53537,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 110,
@@ -53641,7 +53641,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1042,
@@ -53707,7 +53707,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -53747,7 +53747,7 @@
                                     "kill_time_in_round": 20020,
                                     "kill_time_in_match": 434990,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1494a0aa-c8c1-5cdb-b59a-1a96445a55a7",
                                     "victim_display_name": "fbcdigital#028",
@@ -53776,7 +53776,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2313,
@@ -53965,7 +53965,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2341,
@@ -54091,7 +54091,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1495,
@@ -54145,7 +54145,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1475,
@@ -54215,7 +54215,7 @@
                                 },
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -54270,7 +54270,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1127,
@@ -54468,7 +54468,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 399,
@@ -54637,7 +54637,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -54756,7 +54756,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1002,
@@ -54868,7 +54868,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -54917,7 +54917,7 @@
                                     "kill_time_in_round": 22904,
                                     "kill_time_in_match": 520930,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ef26edfb-1d32-5ca6-865a-b67adf1b9589",
                                     "victim_display_name": "heartless#css",
@@ -54936,7 +54936,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -151,
@@ -54991,7 +54991,7 @@
                                     "kill_time_in_round": 30587,
                                     "kill_time_in_match": 528613,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1494a0aa-c8c1-5cdb-b59a-1a96445a55a7",
                                     "victim_display_name": "fbcdigital#028",
@@ -55010,7 +55010,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1276,
@@ -55136,7 +55136,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -788,
@@ -55246,7 +55246,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -101,
@@ -55415,7 +55415,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -298,
@@ -55642,7 +55642,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -55662,7 +55662,7 @@
                                     "killer_display_name": "Alexander Mahone#03402",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1278,
@@ -55794,7 +55794,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1147,
@@ -55914,7 +55914,7 @@
                             },
                             {
                                 "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                "player_display_name": "xantares#1031",
+                                "player_display_name": "lll#agane",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 3841,
@@ -56049,7 +56049,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2578,
@@ -56163,7 +56163,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2437,
@@ -56269,7 +56269,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -56300,7 +56300,7 @@
                                     "kill_time_in_round": 11057,
                                     "kill_time_in_match": 578005,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1494a0aa-c8c1-5cdb-b59a-1a96445a55a7",
                                     "victim_display_name": "fbcdigital#028",
@@ -56329,7 +56329,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2745,
@@ -56485,7 +56485,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3861,
@@ -56870,7 +56870,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -56890,7 +56890,7 @@
                                     "killer_display_name": "Alexander Mahone#03402",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4221,
@@ -57003,7 +57003,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -57143,7 +57143,7 @@
                                 },
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -57163,7 +57163,7 @@
                                     "killer_display_name": "Zlwans#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2025,
@@ -57275,7 +57275,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -57368,7 +57368,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2538,
@@ -57767,7 +57767,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2048,
@@ -57955,7 +57955,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2427,
@@ -58123,7 +58123,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2062,
@@ -58329,7 +58329,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2244,
@@ -58445,7 +58445,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -58476,7 +58476,7 @@
                                     "kill_time_in_round": 30963,
                                     "kill_time_in_match": 726347,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "486538c7-e1d8-5471-ac57-8b65bf2921c9",
                                     "victim_display_name": "Alexander Mahone#03402",
@@ -58495,7 +58495,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 565,
@@ -58595,7 +58595,7 @@
                                 },
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -58633,7 +58633,7 @@
                                     "killer_display_name": "sokucuyusuf7#7200",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 477,
@@ -58869,7 +58869,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1718,
@@ -59044,7 +59044,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1121,
@@ -59329,7 +59329,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2245,
@@ -59544,7 +59544,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 843,
@@ -59706,7 +59706,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                "player_display_name": "xantares#1031",
+                                "player_display_name": "lll#agane",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 211,
@@ -59831,7 +59831,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -59871,7 +59871,7 @@
                                     "kill_time_in_round": 17306,
                                     "kill_time_in_match": 817256,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "486538c7-e1d8-5471-ac57-8b65bf2921c9",
                                     "victim_display_name": "Alexander Mahone#03402",
@@ -59890,7 +59890,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 25,
@@ -59945,7 +59945,7 @@
                                     "kill_time_in_round": 18008,
                                     "kill_time_in_match": 817958,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ef26edfb-1d32-5ca6-865a-b67adf1b9589",
                                     "victim_display_name": "heartless#css",
@@ -59964,7 +59964,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 25,
@@ -60063,7 +60063,7 @@
                                 },
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -60099,7 +60099,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 389,
@@ -60177,7 +60177,7 @@
                                     "killer_display_name": "sokucuyusuf7#7200",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 950,
@@ -60306,7 +60306,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1166,
@@ -60494,7 +60494,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "assistant_display_name": "xantares#1031",
+                                            "assistant_display_name": "lll#agane",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -60619,7 +60619,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2910,
@@ -60830,7 +60830,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -60875,7 +60875,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 28,
@@ -60982,7 +60982,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -61122,7 +61122,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -61151,7 +61151,7 @@
                                     "killer_display_name": "Zlwans#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 678,
@@ -61393,7 +61393,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -62262,7 +62262,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -157,
@@ -62378,7 +62378,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -63281,7 +63281,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -63310,7 +63310,7 @@
                                     "killer_display_name": "fbcdigital#028",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1266,
@@ -63617,7 +63617,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2991,
@@ -63719,7 +63719,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -63741,7 +63741,7 @@
                                     "kill_time_in_round": 27076,
                                     "kill_time_in_match": 1095885,
                                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "killer_display_name": "xantares#1031",
+                                    "killer_display_name": "lll#agane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "567a695b-06e0-57ee-b906-744772ecdce2",
                                     "victim_display_name": "sokucuyusuf7#7200",
@@ -63760,7 +63760,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1442,
@@ -63877,7 +63877,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2596,
@@ -64052,7 +64052,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2580,
@@ -64308,7 +64308,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -64328,7 +64328,7 @@
                                     "killer_display_name": "Alexander Mahone#03402",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1789,
@@ -64470,7 +64470,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3056,
@@ -64584,7 +64584,7 @@
                                         },
                                         {
                                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                            "player_display_name": "xantares#1031",
+                                            "player_display_name": "lll#agane",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3056,
@@ -64802,7 +64802,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -64831,7 +64831,7 @@
                                     "killer_display_name": "Zlwans#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1304,
@@ -65083,7 +65083,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -65371,7 +65371,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -65976,7 +65976,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -66005,7 +66005,7 @@
                                     "killer_display_name": "Zlwans#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "victim_display_name": "xantares#1031",
+                                    "victim_display_name": "lll#agane",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1386,
@@ -66147,7 +66147,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -66564,7 +66564,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                                    "receiver_display_name": "xantares#1031",
+                                    "receiver_display_name": "lll#agane",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -67131,7 +67131,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3142,
@@ -67252,7 +67252,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3158,
@@ -67357,7 +67357,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2979,
@@ -67432,7 +67432,7 @@
                     "killer_display_name": "Alexander Mahone#03402",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2833,
@@ -67618,7 +67618,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2886,
@@ -67739,7 +67739,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2486,
@@ -67815,7 +67815,7 @@
                     "kill_time_in_match": 189077,
                     "round": 1,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "486538c7-e1d8-5471-ac57-8b65bf2921c9",
                     "victim_display_name": "Alexander Mahone#03402",
@@ -67844,7 +67844,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2486,
@@ -67919,7 +67919,7 @@
                     "killer_display_name": "Zlwans#0000",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3168,
@@ -68225,7 +68225,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 962,
@@ -68330,7 +68330,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1065,
@@ -68425,7 +68425,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1145,
@@ -68510,7 +68510,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1264,
@@ -68591,7 +68591,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 545,
@@ -68633,7 +68633,7 @@
                     "kill_time_in_match": 281145,
                     "round": 2,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "567a695b-06e0-57ee-b906-744772ecdce2",
                     "victim_display_name": "sokucuyusuf7#7200",
@@ -68662,7 +68662,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 696,
@@ -68697,7 +68697,7 @@
                     "killer_display_name": "Alexander Mahone#03402",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1447,
@@ -68764,7 +68764,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -507,
@@ -68889,7 +68889,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -507,
@@ -68975,7 +68975,7 @@
                     "kill_time_in_match": 351258,
                     "round": 3,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "486538c7-e1d8-5471-ac57-8b65bf2921c9",
                     "victim_display_name": "Alexander Mahone#03402",
@@ -69004,7 +69004,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -507,
@@ -69109,7 +69109,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -507,
@@ -69178,7 +69178,7 @@
                     "killer_display_name": "Alexander Mahone#03402",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -323,
@@ -69591,7 +69591,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 399,
@@ -69712,7 +69712,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 110,
@@ -69817,7 +69817,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1127,
@@ -69883,7 +69883,7 @@
                     "kill_time_in_match": 434990,
                     "round": 4,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "1494a0aa-c8c1-5cdb-b59a-1a96445a55a7",
                     "victim_display_name": "fbcdigital#028",
@@ -69912,7 +69912,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2313,
@@ -69997,7 +69997,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2341,
@@ -70072,7 +70072,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1042,
@@ -70127,7 +70127,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1495,
@@ -70182,7 +70182,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1475,
@@ -70237,7 +70237,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -788,
@@ -70358,7 +70358,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1002,
@@ -70469,7 +70469,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1147,
@@ -70554,7 +70554,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -298,
@@ -70620,7 +70620,7 @@
                     "kill_time_in_match": 520930,
                     "round": 5,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "ef26edfb-1d32-5ca6-865a-b67adf1b9589",
                     "victim_display_name": "heartless#css",
@@ -70639,7 +70639,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -151,
@@ -70714,7 +70714,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -101,
@@ -70760,7 +70760,7 @@
                     "kill_time_in_match": 528613,
                     "round": 5,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "1494a0aa-c8c1-5cdb-b59a-1a96445a55a7",
                     "victim_display_name": "fbcdigital#028",
@@ -70779,7 +70779,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1276,
@@ -70818,7 +70818,7 @@
                     "killer_display_name": "Alexander Mahone#03402",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1278,
@@ -70889,7 +70889,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2578,
@@ -71004,7 +71004,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2437,
@@ -71080,7 +71080,7 @@
                     "kill_time_in_match": 578005,
                     "round": 6,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "1494a0aa-c8c1-5cdb-b59a-1a96445a55a7",
                     "victim_display_name": "fbcdigital#028",
@@ -71109,7 +71109,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2745,
@@ -71204,7 +71204,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3861,
@@ -71263,7 +71263,7 @@
                     "killer_display_name": "Alexander Mahone#03402",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4221,
@@ -71435,7 +71435,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2538,
@@ -71556,7 +71556,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2427,
@@ -71672,7 +71672,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2062,
@@ -71767,7 +71767,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2048,
@@ -71826,7 +71826,7 @@
                     "killer_display_name": "Zlwans#0000",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2025,
@@ -72018,7 +72018,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2244,
@@ -72123,7 +72123,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2245,
@@ -72234,7 +72234,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1718,
@@ -72339,7 +72339,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1121,
@@ -72434,7 +72434,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 843,
@@ -72500,7 +72500,7 @@
                     "kill_time_in_match": 726347,
                     "round": 8,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "486538c7-e1d8-5471-ac57-8b65bf2921c9",
                     "victim_display_name": "Alexander Mahone#03402",
@@ -72519,7 +72519,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 565,
@@ -72578,7 +72578,7 @@
                     "killer_display_name": "sokucuyusuf7#7200",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 477,
@@ -72816,7 +72816,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2910,
@@ -72927,7 +72927,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1166,
@@ -73032,7 +73032,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 389,
@@ -73127,7 +73127,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 28,
@@ -73199,7 +73199,7 @@
                     "kill_time_in_match": 817256,
                     "round": 9,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "486538c7-e1d8-5471-ac57-8b65bf2921c9",
                     "victim_display_name": "Alexander Mahone#03402",
@@ -73218,7 +73218,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 25,
@@ -73274,7 +73274,7 @@
                     "kill_time_in_match": 817958,
                     "round": 9,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "ef26edfb-1d32-5ca6-865a-b67adf1b9589",
                     "victim_display_name": "heartless#css",
@@ -73293,7 +73293,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": 25,
@@ -73342,7 +73342,7 @@
                     "killer_display_name": "sokucuyusuf7#7200",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 950,
@@ -73441,7 +73441,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "assistant_display_name": "xantares#1031",
+                            "assistant_display_name": "lll#agane",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -73489,7 +73489,7 @@
                     "killer_display_name": "Zlwans#0000",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 678,
@@ -74073,7 +74073,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -157,
@@ -74162,7 +74162,7 @@
                     "killer_display_name": "fbcdigital#028",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1266,
@@ -74839,7 +74839,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3056,
@@ -74954,7 +74954,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3056,
@@ -75059,7 +75059,7 @@
                         },
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2991,
@@ -75150,7 +75150,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2580,
@@ -75235,7 +75235,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2596,
@@ -75297,7 +75297,7 @@
                     "kill_time_in_match": 1095885,
                     "round": 12,
                     "killer_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "killer_display_name": "xantares#1031",
+                    "killer_display_name": "lll#agane",
                     "killer_team": "Blue",
                     "victim_puuid": "567a695b-06e0-57ee-b906-744772ecdce2",
                     "victim_display_name": "sokucuyusuf7#7200",
@@ -75316,7 +75316,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                            "player_display_name": "xantares#1031",
+                            "player_display_name": "lll#agane",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1442,
@@ -75365,7 +75365,7 @@
                     "killer_display_name": "Alexander Mahone#03402",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1789,
@@ -75420,7 +75420,7 @@
                     "killer_display_name": "Zlwans#0000",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1304,
@@ -76021,7 +76021,7 @@
                     "killer_display_name": "Zlwans#0000",
                     "killer_team": "Red",
                     "victim_puuid": "81ac03d9-a169-5aa3-af7a-a2b0e0f35024",
-                    "victim_display_name": "xantares#1031",
+                    "victim_display_name": "lll#agane",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1386,
