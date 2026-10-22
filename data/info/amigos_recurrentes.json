@@ -489,7 +489,7 @@
             "nombre": "pain Grill\u00e9",
             "tag": "2541",
             "region": "eu",
-            "apariciones": 10,
+            "apariciones": 11,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-10-22"
         },
@@ -505,7 +505,7 @@
             "nombre": "ikiler6",
             "tag": "9997",
             "region": "eu",
-            "apariciones": 85,
+            "apariciones": 88,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-10-22"
         },
@@ -2893,8 +2893,9 @@
             "nombre": "ice94",
             "tag": "8880",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "bekonn",
@@ -3864,17 +3865,17 @@
             "nombre": "EFN I Choppe",
             "tag": "1234",
             "region": "eu",
-            "apariciones": 87,
+            "apariciones": 88,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-10-21"
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "PinkMonster",
             "tag": "2011",
             "region": "eu",
-            "apariciones": 73,
+            "apariciones": 75,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-10-20"
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "super mario",
@@ -4511,9 +4512,9 @@
             "nombre": "Alvaro28",
             "tag": "APC",
             "region": "eu",
-            "apariciones": 55,
+            "apariciones": 59,
             "amigo_desde": "2026-09-02",
-            "ultima_vez": "2026-10-21"
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "st3r",
@@ -4565,9 +4566,9 @@
             "nombre": "marcy",
             "tag": "winx",
             "region": "eu",
-            "apariciones": 62,
+            "apariciones": 64,
             "amigo_desde": "2026-09-02",
-            "ultima_vez": "2026-10-21"
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "coelhoganzado",
@@ -5171,9 +5172,9 @@
             "nombre": "Pecolsito",
             "tag": "Frost",
             "region": "eu",
-            "apariciones": 38,
+            "apariciones": 40,
             "amigo_desde": "2026-09-19",
-            "ultima_vez": "2026-10-21"
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "MaStErX",
@@ -5362,9 +5363,9 @@
             "nombre": "A1skengdoe",
             "tag": "6856",
             "region": "eu",
-            "apariciones": 14,
+            "apariciones": 16,
             "amigo_desde": "2026-09-25",
-            "ultima_vez": "2026-10-21"
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "BrooMery",
@@ -5386,9 +5387,9 @@
             "nombre": "EFN I Rizzler",
             "tag": "9323",
             "region": "eu",
-            "apariciones": 32,
+            "apariciones": 33,
             "amigo_desde": "2026-09-25",
-            "ultima_vez": "2026-10-21"
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "goncas165\u30c4",
@@ -5610,9 +5611,9 @@
             "nombre": "Cadete SanJacobo",
             "tag": "FRITO",
             "region": "eu",
-            "apariciones": 29,
+            "apariciones": 31,
             "amigo_desde": "2026-09-28",
-            "ultima_vez": "2026-10-18"
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "winter",
@@ -5986,7 +5987,7 @@
             "nombre": "Depressed",
             "tag": "EUWWW",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 10,
             "amigo_desde": "2026-10-08",
             "ultima_vez": "2026-10-22"
         },
@@ -6411,9 +6412,9 @@
             "nombre": "Naked Bakers",
             "tag": "PAJA",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 10,
             "amigo_desde": "2026-10-18",
-            "ultima_vez": "2026-10-20"
+            "ultima_vez": "2026-10-22"
         },
         {
             "nombre": "c00chyslatt",
@@ -6492,7 +6493,15 @@
             "nombre": "Amalthea",
             "tag": "atun",
             "region": "eu",
-            "apariciones": 3,
+            "apariciones": 4,
+            "amigo_desde": "2026-10-22",
+            "ultima_vez": "2026-10-22"
+        },
+        {
+            "nombre": "Rensz",
+            "tag": "star",
+            "region": "eu",
+            "apariciones": 7,
             "amigo_desde": "2026-10-22"
         }
     ]
