@@ -1549,9 +1549,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -2852,9 +2855,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -4073,16 +4079,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -5292,9 +5304,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -6688,16 +6703,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -9462,9 +9483,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -10700,16 +10724,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -12006,9 +12036,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -13348,16 +13381,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -14622,16 +14661,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -15922,16 +15967,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -17304,9 +17355,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -18556,9 +18610,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -19569,16 +19626,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -20519,16 +20582,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -21774,9 +21843,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -22952,16 +23024,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -23984,16 +24062,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -24987,16 +25071,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -26092,9 +26182,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -27370,16 +27463,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -43972,16 +44071,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -45167,16 +45272,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -46274,9 +46385,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -47316,9 +47430,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -48628,9 +48745,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -49959,9 +50079,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -52315,16 +52438,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -54925,16 +55054,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -56081,9 +56216,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -58585,16 +58723,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -59707,16 +59851,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -60739,16 +60889,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -62037,9 +62193,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -63249,16 +63408,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -64588,9 +64753,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -66057,9 +66225,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -67334,9 +67505,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -68450,9 +68624,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -83712,16 +83889,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -158209,16 +158392,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -209939,16 +210128,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -212120,16 +212315,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -214296,16 +214497,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -216410,16 +216617,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -218488,16 +218701,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -220551,16 +220770,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -222631,16 +222856,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -224683,16 +224914,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -226741,16 +226978,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -228884,16 +229127,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -231106,16 +231355,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -232721,16 +232976,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -234390,16 +234651,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -235574,16 +235841,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -236663,16 +236936,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -237526,16 +237805,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -251964,7 +252249,7 @@
                     "kill_time_in_round": 59703,
                     "kill_time_in_match": 689836,
                     "round": 10,
-                    "killer_puuid": "383e2215-5f24-4f66-86ab-f4750a8e024a",
+                    "killer_puuid": "811fb791-c2ab-4345-b744-cc78198396a5",
                     "killer_display_name": "Unknown",
                     "killer_team": "Unknown",
                     "victim_puuid": "ff1f716f-753b-5993-81ac-6b27178c545b",
