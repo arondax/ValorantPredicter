@@ -14127,8 +14127,8 @@
                     },
                     {
                         "puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                        "name": "Kento Nanami",
-                        "tag": "RATI0",
+                        "name": "Il Capitano",
+                        "tag": "Nym",
                         "team": "Blue",
                         "level": 233,
                         "character": "Tejo",
@@ -15007,8 +15007,8 @@
                     },
                     {
                         "puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                        "name": "Kento Nanami",
-                        "tag": "RATI0",
+                        "name": "Il Capitano",
+                        "tag": "Nym",
                         "team": "Blue",
                         "level": 233,
                         "character": "Tejo",
@@ -15421,7 +15421,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -16104,7 +16104,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -16133,7 +16133,7 @@
                                     "killer_display_name": "RucunGamer#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7136,
@@ -16487,7 +16487,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                "player_display_name": "Kento Nanami#RATI0",
+                                "player_display_name": "Il Capitano#Nym",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 1873,
@@ -16562,7 +16562,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -16645,7 +16645,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6089,
@@ -16882,7 +16882,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3689,
@@ -17078,7 +17078,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4828,
@@ -17182,7 +17182,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1617,
@@ -17422,7 +17422,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2195,
@@ -17591,7 +17591,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -17620,7 +17620,7 @@
                                     "killer_display_name": "Vitoria#8270",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3598,
@@ -17781,7 +17781,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                "player_display_name": "Kento Nanami#RATI0",
+                                "player_display_name": "Il Capitano#Nym",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8982,
@@ -17866,7 +17866,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -17889,7 +17889,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -17906,7 +17906,7 @@
                                     "kill_time_in_round": 9184,
                                     "kill_time_in_match": 244724,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                                     "victim_display_name": "inestequiero#777",
@@ -17925,7 +17925,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8982,
@@ -18020,7 +18020,7 @@
                                     "kill_time_in_round": 68756,
                                     "kill_time_in_match": 304296,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                                     "victim_display_name": "RucunGamer#EUW",
@@ -18039,7 +18039,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9373,
@@ -18090,10 +18090,10 @@
                                     "kill_time_in_round": 86907,
                                     "kill_time_in_match": 322447,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6308,
@@ -18351,7 +18351,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7716,
@@ -18525,7 +18525,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9592,
@@ -18605,7 +18605,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8990,
@@ -18676,7 +18676,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -18782,7 +18782,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8980,
@@ -18892,7 +18892,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8979,
@@ -19035,7 +19035,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6427,
@@ -19242,7 +19242,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -19448,7 +19448,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -20091,7 +20091,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -20111,7 +20111,7 @@
                                     "killer_display_name": "xTheAnimal3#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8980,
@@ -20316,7 +20316,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -20347,7 +20347,7 @@
                                     "kill_time_in_round": 24417,
                                     "kill_time_in_match": 459778,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "237af4fd-aafe-5aab-b5c8-7e1f5243f0d1",
                                     "victim_display_name": "PocheteNocturno#1830",
@@ -20366,7 +20366,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4588,
@@ -20599,7 +20599,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5347,
@@ -20882,7 +20882,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -21347,7 +21347,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -21367,7 +21367,7 @@
                                     "killer_display_name": "Vitoria#8270",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2388,
@@ -21578,7 +21578,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -22011,7 +22011,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -22049,7 +22049,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 10040,
@@ -22440,7 +22440,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -22492,7 +22492,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -22710,7 +22710,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -22826,7 +22826,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -22848,7 +22848,7 @@
                                     "kill_time_in_round": 27800,
                                     "kill_time_in_match": 688563,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                                     "victim_display_name": "inestequiero#777",
@@ -22867,7 +22867,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7488,
@@ -23071,7 +23071,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9889,
@@ -23263,7 +23263,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -23317,7 +23317,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7295,
@@ -23411,7 +23411,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6443,
@@ -23720,7 +23720,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -23765,7 +23765,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7347,
@@ -24056,7 +24056,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -24158,7 +24158,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5972,
@@ -24456,7 +24456,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -24654,7 +24654,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -24699,7 +24699,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5927,
@@ -25133,7 +25133,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -25153,7 +25153,7 @@
                                     "killer_display_name": "Vitoria#8270",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6516,
@@ -25302,7 +25302,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -25333,7 +25333,7 @@
                                     "kill_time_in_round": 15187,
                                     "kill_time_in_match": 881891,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                                     "victim_display_name": "RucunGamer#EUW",
@@ -25352,7 +25352,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7494,
@@ -25780,7 +25780,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7989,
@@ -26069,7 +26069,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -26098,7 +26098,7 @@
                                     "killer_display_name": "inestequiero#777",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7543,
@@ -26415,7 +26415,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -26498,7 +26498,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7554,
@@ -26712,7 +26712,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6048,
@@ -26864,7 +26864,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8540,
@@ -26984,7 +26984,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7046,
@@ -27208,7 +27208,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6525,
@@ -27310,7 +27310,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -27339,7 +27339,7 @@
                                     "killer_display_name": "RucunGamer#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6604,
@@ -27608,7 +27608,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                "player_display_name": "Kento Nanami#RATI0",
+                                "player_display_name": "Il Capitano#Nym",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6989,
@@ -27721,7 +27721,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -27945,7 +27945,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5693,
@@ -28145,7 +28145,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -28277,7 +28277,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6138,
@@ -28349,7 +28349,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -28541,7 +28541,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5693,
@@ -28645,7 +28645,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6248,
@@ -28788,7 +28788,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -28817,7 +28817,7 @@
                                     "killer_display_name": "Vitoria#8270",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6206,
@@ -28940,7 +28940,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -28989,7 +28989,7 @@
                                     "kill_time_in_round": 20347,
                                     "kill_time_in_match": 1157371,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                                     "victim_display_name": "Vitoria#8270",
@@ -29008,7 +29008,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6480,
@@ -29083,7 +29083,7 @@
                                     "kill_time_in_round": 22421,
                                     "kill_time_in_match": 1159445,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                                     "victim_display_name": "inestequiero#777",
@@ -29102,7 +29102,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6415,
@@ -29238,7 +29238,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6922,
@@ -29352,7 +29352,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7179,
@@ -29434,7 +29434,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -29663,7 +29663,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         },
                                         {
@@ -29749,7 +29749,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6529,
@@ -29865,7 +29865,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 1,
@@ -29919,7 +29919,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6427,
@@ -29967,7 +29967,7 @@
                                     "killer_display_name": "RucunGamer#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6333,
@@ -30208,7 +30208,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -30390,7 +30390,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -30547,7 +30547,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -30592,7 +30592,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4779,
@@ -30706,7 +30706,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4816,
@@ -31006,7 +31006,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -31035,7 +31035,7 @@
                                     "killer_display_name": "RucunGamer#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4716,
@@ -31343,7 +31343,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -31639,7 +31639,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -31686,7 +31686,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3551,
@@ -32179,7 +32179,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -32467,7 +32467,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -32569,7 +32569,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3539,
@@ -32818,7 +32818,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -32863,7 +32863,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3543,
@@ -32951,7 +32951,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4105,
@@ -33314,7 +33314,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3591,
@@ -33408,7 +33408,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4182,
@@ -33576,7 +33576,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                "player_display_name": "Kento Nanami#RATI0",
+                                "player_display_name": "Il Capitano#Nym",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5151,
@@ -33621,7 +33621,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -33714,7 +33714,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3818,
@@ -34066,7 +34066,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -34360,7 +34360,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3602,
@@ -34756,7 +34756,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -34765,7 +34765,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -34785,7 +34785,7 @@
                                     "killer_display_name": "Vitoria#8270",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3922,
@@ -34879,7 +34879,7 @@
                                     "killer_display_name": "Vitoria#8270",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6786,
@@ -34972,7 +34972,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -35126,7 +35126,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         },
                                         {
@@ -35627,7 +35627,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -35656,7 +35656,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3460,
@@ -36230,7 +36230,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                "player_display_name": "Kento Nanami#RATI0",
+                                "player_display_name": "Il Capitano#Nym",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4224,
@@ -36295,7 +36295,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -36842,7 +36842,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3837,
@@ -36884,7 +36884,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "assistant_display_name": "Kento Nanami#RATI0",
+                                            "assistant_display_name": "Il Capitano#Nym",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -37293,7 +37293,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -37313,7 +37313,7 @@
                                     "killer_display_name": "Vitoria#8270",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1364,
@@ -37469,7 +37469,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                "player_display_name": "Kento Nanami#RATI0",
+                                "player_display_name": "Il Capitano#Nym",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5815,
@@ -37534,7 +37534,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -37583,7 +37583,7 @@
                                     "kill_time_in_round": 5135,
                                     "kill_time_in_match": 1813123,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "237af4fd-aafe-5aab-b5c8-7e1f5243f0d1",
                                     "victim_display_name": "PocheteNocturno#1830",
@@ -37602,7 +37602,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3539,
@@ -37697,7 +37697,7 @@
                                     "kill_time_in_round": 9188,
                                     "kill_time_in_match": 1817176,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                                     "victim_display_name": "inestequiero#777",
@@ -37716,7 +37716,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3540,
@@ -37801,7 +37801,7 @@
                                     "kill_time_in_round": 52228,
                                     "kill_time_in_match": 1860216,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                                     "victim_display_name": "Vitoria#8270",
@@ -37820,7 +37820,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6922,
@@ -37988,7 +37988,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5324,
@@ -38078,7 +38078,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6230,
@@ -38431,7 +38431,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5324,
@@ -38578,7 +38578,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5100,
@@ -38678,7 +38678,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                "player_display_name": "Kento Nanami#RATI0",
+                                "player_display_name": "Il Capitano#Nym",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5609,
@@ -38743,7 +38743,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -38765,7 +38765,7 @@
                                     "kill_time_in_round": 58218,
                                     "kill_time_in_match": 1955436,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                                     "victim_display_name": "RucunGamer#EUW",
@@ -38784,7 +38784,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3539,
@@ -38973,7 +38973,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 883,
@@ -39149,7 +39149,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3554,
@@ -39259,7 +39259,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3539,
@@ -39458,7 +39458,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4771,
@@ -39726,7 +39726,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                "player_display_name": "Kento Nanami#RATI0",
+                                "player_display_name": "Il Capitano#Nym",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 1947,
@@ -39819,7 +39819,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -39850,7 +39850,7 @@
                                     "kill_time_in_round": 24617,
                                     "kill_time_in_match": 2025615,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                                     "victim_display_name": "Vitoria#8270",
@@ -39869,7 +39869,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2907,
@@ -39944,7 +39944,7 @@
                                     "kill_time_in_round": 56541,
                                     "kill_time_in_match": 2057539,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                                     "victim_display_name": "RucunGamer#EUW",
@@ -39963,7 +39963,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5778,
@@ -40187,7 +40187,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -40223,7 +40223,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2768,
@@ -40303,7 +40303,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3216,
@@ -40373,7 +40373,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5727,
@@ -40417,7 +40417,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5998,
@@ -40535,7 +40535,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3539,
@@ -40649,7 +40649,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2843,
@@ -40810,7 +40810,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -40846,7 +40846,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3542,
@@ -41060,7 +41060,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                "player_display_name": "Kento Nanami#RATI0",
+                                "player_display_name": "Il Capitano#Nym",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 3125,
@@ -41125,7 +41125,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -41147,7 +41147,7 @@
                                     "kill_time_in_round": 72807,
                                     "kill_time_in_match": 2175710,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                                     "victim_display_name": "Vitoria#8270",
@@ -41166,7 +41166,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3978,
@@ -41696,7 +41696,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -41725,7 +41725,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3885,
@@ -41923,7 +41923,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3877,
@@ -42178,7 +42178,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -42223,7 +42223,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3099,
@@ -42330,7 +42330,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -42352,7 +42352,7 @@
                                     "kill_time_in_round": 47426,
                                     "kill_time_in_match": 2260142,
                                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "killer_display_name": "Kento Nanami#RATI0",
+                                    "killer_display_name": "Il Capitano#Nym",
                                     "killer_team": "Blue",
                                     "victim_puuid": "cb922fc3-c993-5945-a3d4-bf6688380e5d",
                                     "victim_display_name": "xTheAnimal3#EUW",
@@ -42371,7 +42371,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5143,
@@ -42549,7 +42549,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2745,
@@ -42712,7 +42712,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "receiver_display_name": "Kento Nanami#RATI0",
+                                    "receiver_display_name": "Il Capitano#Nym",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -42766,7 +42766,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4630,
@@ -42844,7 +42844,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                    "victim_display_name": "Kento Nanami#RATI0",
+                                    "victim_display_name": "Il Capitano#Nym",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4618,
@@ -43089,7 +43089,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1358,
@@ -43316,7 +43316,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                                            "player_display_name": "Kento Nanami#RATI0",
+                                            "player_display_name": "Il Capitano#Nym",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5255,
@@ -43464,7 +43464,7 @@
                     "killer_display_name": "RucunGamer#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7136,
@@ -44026,7 +44026,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6089,
@@ -44141,7 +44141,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4828,
@@ -44246,7 +44246,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2195,
@@ -44347,7 +44347,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1617,
@@ -44432,7 +44432,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3689,
@@ -44497,7 +44497,7 @@
                     "killer_display_name": "Vitoria#8270",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3598,
@@ -44670,7 +44670,7 @@
                     "kill_time_in_match": 244724,
                     "round": 2,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                     "victim_display_name": "inestequiero#777",
@@ -44689,7 +44689,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8982,
@@ -44804,7 +44804,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8980,
@@ -44915,7 +44915,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7716,
@@ -45010,7 +45010,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8979,
@@ -45101,7 +45101,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9592,
@@ -45163,7 +45163,7 @@
                     "kill_time_in_match": 304296,
                     "round": 2,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                     "victim_display_name": "RucunGamer#EUW",
@@ -45182,7 +45182,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9373,
@@ -45253,7 +45253,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8990,
@@ -45308,7 +45308,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6427,
@@ -45334,10 +45334,10 @@
                     "kill_time_in_match": 322447,
                     "round": 2,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6308,
@@ -45372,7 +45372,7 @@
                     "killer_display_name": "xTheAnimal3#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8980,
@@ -45840,7 +45840,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -45934,7 +45934,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5347,
@@ -46030,7 +46030,7 @@
                     "kill_time_in_match": 459778,
                     "round": 4,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "237af4fd-aafe-5aab-b5c8-7e1f5243f0d1",
                     "victim_display_name": "PocheteNocturno#1830",
@@ -46049,7 +46049,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4588,
@@ -46144,7 +46144,7 @@
                     "killer_display_name": "Vitoria#8270",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2388,
@@ -46392,7 +46392,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -46556,7 +46556,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 10040,
@@ -47191,7 +47191,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9889,
@@ -47306,7 +47306,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7295,
@@ -47417,7 +47417,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7347,
@@ -47493,7 +47493,7 @@
                     "kill_time_in_match": 688563,
                     "round": 6,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                     "victim_display_name": "inestequiero#777",
@@ -47512,7 +47512,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7488,
@@ -47587,7 +47587,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6443,
@@ -47821,7 +47821,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5972,
@@ -47936,7 +47936,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5927,
@@ -48036,7 +48036,7 @@
                     "killer_display_name": "Vitoria#8270",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6516,
@@ -48290,7 +48290,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -48496,7 +48496,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7989,
@@ -48592,7 +48592,7 @@
                     "kill_time_in_match": 881891,
                     "round": 8,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                     "victim_display_name": "RucunGamer#EUW",
@@ -48611,7 +48611,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7494,
@@ -48700,7 +48700,7 @@
                     "killer_display_name": "inestequiero#777",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7543,
@@ -49036,7 +49036,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8540,
@@ -49157,7 +49157,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7046,
@@ -49268,7 +49268,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7554,
@@ -49369,7 +49369,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6048,
@@ -49460,7 +49460,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6525,
@@ -49530,7 +49530,7 @@
                     "killer_display_name": "RucunGamer#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6604,
@@ -49672,7 +49672,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5693,
@@ -49787,7 +49787,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5693,
@@ -49892,7 +49892,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6138,
@@ -49964,7 +49964,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -49993,7 +49993,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6248,
@@ -50062,7 +50062,7 @@
                     "killer_display_name": "Vitoria#8270",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6206,
@@ -50301,7 +50301,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -50330,7 +50330,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6922,
@@ -50445,7 +50445,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7179,
@@ -50527,7 +50527,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -50537,7 +50537,7 @@
                     "kill_time_in_match": 1157371,
                     "round": 11,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                     "victim_display_name": "Vitoria#8270",
@@ -50556,7 +50556,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6480,
@@ -50651,7 +50651,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6529,
@@ -50723,7 +50723,7 @@
                     "kill_time_in_match": 1159445,
                     "round": 11,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                     "victim_display_name": "inestequiero#777",
@@ -50742,7 +50742,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6415,
@@ -50817,7 +50817,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6427,
@@ -50866,7 +50866,7 @@
                     "killer_display_name": "RucunGamer#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6333,
@@ -50994,7 +50994,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         },
                         {
@@ -51028,7 +51028,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4779,
@@ -51143,7 +51143,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4816,
@@ -51232,7 +51232,7 @@
                     "killer_display_name": "RucunGamer#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4716,
@@ -51411,7 +51411,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -51575,7 +51575,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3551,
@@ -52154,7 +52154,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3539,
@@ -52275,7 +52275,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3543,
@@ -52380,7 +52380,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3591,
@@ -52475,7 +52475,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4182,
@@ -52550,7 +52550,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4105,
@@ -52717,7 +52717,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3602,
@@ -52838,7 +52838,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3818,
@@ -52933,7 +52933,7 @@
                     "killer_display_name": "Vitoria#8270",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3922,
@@ -53365,7 +53365,7 @@
                     "killer_display_name": "Vitoria#8270",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6786,
@@ -53438,7 +53438,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -53451,7 +53451,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3460,
@@ -53919,7 +53919,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         },
                         {
@@ -54125,7 +54125,7 @@
                     "killer_display_name": "Vitoria#8270",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1364,
@@ -54687,7 +54687,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3837,
@@ -54729,7 +54729,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "assistant_display_name": "Kento Nanami#RATI0",
+                            "assistant_display_name": "Il Capitano#Nym",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -54739,7 +54739,7 @@
                     "kill_time_in_match": 1813123,
                     "round": 18,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "237af4fd-aafe-5aab-b5c8-7e1f5243f0d1",
                     "victim_display_name": "PocheteNocturno#1830",
@@ -54758,7 +54758,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3539,
@@ -54854,7 +54854,7 @@
                     "kill_time_in_match": 1817176,
                     "round": 18,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                     "victim_display_name": "inestequiero#777",
@@ -54873,7 +54873,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3540,
@@ -54978,7 +54978,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5324,
@@ -55073,7 +55073,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5324,
@@ -55164,7 +55164,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5100,
@@ -55239,7 +55239,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6230,
@@ -55291,7 +55291,7 @@
                     "kill_time_in_match": 1860216,
                     "round": 18,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                     "victim_display_name": "Vitoria#8270",
@@ -55310,7 +55310,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6922,
@@ -55365,7 +55365,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 883,
@@ -55480,7 +55480,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3554,
@@ -55591,7 +55591,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3539,
@@ -55667,7 +55667,7 @@
                     "kill_time_in_match": 1955436,
                     "round": 19,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                     "victim_display_name": "RucunGamer#EUW",
@@ -55686,7 +55686,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3539,
@@ -55771,7 +55771,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4771,
@@ -55846,7 +55846,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3539,
@@ -55961,7 +55961,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3542,
@@ -56047,7 +56047,7 @@
                     "kill_time_in_match": 2025615,
                     "round": 20,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                     "victim_display_name": "Vitoria#8270",
@@ -56066,7 +56066,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2907,
@@ -56161,7 +56161,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2843,
@@ -56246,7 +56246,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2768,
@@ -56327,7 +56327,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3216,
@@ -56398,7 +56398,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5727,
@@ -56440,7 +56440,7 @@
                     "kill_time_in_match": 2057539,
                     "round": 20,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                     "victim_display_name": "RucunGamer#EUW",
@@ -56459,7 +56459,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5778,
@@ -56488,7 +56488,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5998,
@@ -56529,7 +56529,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3885,
@@ -56957,7 +56957,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3877,
@@ -57042,7 +57042,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3099,
@@ -57098,7 +57098,7 @@
                     "kill_time_in_match": 2175710,
                     "round": 21,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                     "victim_display_name": "Vitoria#8270",
@@ -57117,7 +57117,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3978,
@@ -57188,7 +57188,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1358,
@@ -57303,7 +57303,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2745,
@@ -57408,7 +57408,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4630,
@@ -57503,7 +57503,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5255,
@@ -57575,7 +57575,7 @@
                     "kill_time_in_match": 2260142,
                     "round": 22,
                     "killer_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "killer_display_name": "Kento Nanami#RATI0",
+                    "killer_display_name": "Il Capitano#Nym",
                     "killer_team": "Blue",
                     "victim_puuid": "cb922fc3-c993-5945-a3d4-bf6688380e5d",
                     "victim_display_name": "xTheAnimal3#EUW",
@@ -57594,7 +57594,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                            "player_display_name": "Kento Nanami#RATI0",
+                            "player_display_name": "Il Capitano#Nym",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5143,
@@ -57653,7 +57653,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "4cfd8564-5177-5bff-8e0f-0fdd8226748a",
-                    "victim_display_name": "Kento Nanami#RATI0",
+                    "victim_display_name": "Il Capitano#Nym",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4618,
