@@ -90803,8 +90803,8 @@
                     },
                     {
                         "puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                        "name": "chaser",
-                        "tag": "5bars",
+                        "name": "talented",
+                        "tag": "guy",
                         "team": "Blue",
                         "level": 115,
                         "character": "Raze",
@@ -91829,8 +91829,8 @@
                     },
                     {
                         "puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                        "name": "chaser",
-                        "tag": "5bars",
+                        "name": "talented",
+                        "tag": "guy",
                         "team": "Blue",
                         "level": 115,
                         "character": "Raze",
@@ -92165,7 +92165,7 @@
                             },
                             {
                                 "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                "player_display_name": "chaser#5bars",
+                                "player_display_name": "talented#guy",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 13494,
@@ -92192,14 +92192,14 @@
                         },
                         "defused_by": {
                             "puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "display_name": "chaser#5bars",
+                            "display_name": "talented#guy",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 62745,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                "player_display_name": "chaser#5bars",
+                                "player_display_name": "talented#guy",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 10452,
@@ -92338,7 +92338,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13557,
@@ -92432,7 +92432,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11867,
@@ -92483,7 +92483,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -92538,7 +92538,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10547,
@@ -92743,7 +92743,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13286,
@@ -92907,7 +92907,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12806,
@@ -92971,7 +92971,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13025,
@@ -93153,7 +93153,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -93184,7 +93184,7 @@
                                     "kill_time_in_round": 42768,
                                     "kill_time_in_match": 137486,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "18965584-52d3-5b3b-930e-6aa90e343424",
                                     "victim_display_name": "TANKEMYERSS#1550",
@@ -93223,7 +93223,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11579,
@@ -93244,7 +93244,7 @@
                                     "kill_time_in_round": 57766,
                                     "kill_time_in_match": 152484,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "12ce0c26-4930-5733-9d99-56bb44b4b800",
                                     "victim_display_name": "Carliviris13#1128",
@@ -93263,7 +93263,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10256,
@@ -93409,7 +93409,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12072,
@@ -93902,7 +93902,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -93940,7 +93940,7 @@
                                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 11731,
@@ -94637,7 +94637,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -94850,7 +94850,7 @@
                             },
                             {
                                 "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                "player_display_name": "chaser#5bars",
+                                "player_display_name": "talented#guy",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 12722,
@@ -94988,7 +94988,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12452,
@@ -95206,7 +95206,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -95312,7 +95312,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12904,
@@ -95346,7 +95346,7 @@
                                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 12472,
@@ -95662,7 +95662,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12871,
@@ -95760,7 +95760,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -95903,7 +95903,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12686,
@@ -96118,7 +96118,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -96305,7 +96305,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -96420,7 +96420,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10512,
@@ -96459,7 +96459,7 @@
                                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 10525,
@@ -96777,7 +96777,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10268,
@@ -96972,7 +96972,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -97215,7 +97215,7 @@
                             },
                             {
                                 "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                "player_display_name": "chaser#5bars",
+                                "player_display_name": "talented#guy",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9040,
@@ -97258,7 +97258,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -97400,7 +97400,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8450,
@@ -97500,7 +97500,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9070,
@@ -97580,7 +97580,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8973,
@@ -97660,7 +97660,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9196,
@@ -97678,7 +97678,7 @@
                                     "killer_display_name": "TANKEMYERSS#1550",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9320,
@@ -97780,7 +97780,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -98086,7 +98086,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9186,
@@ -98170,7 +98170,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9163,
@@ -98373,7 +98373,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -98661,7 +98661,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6666,
@@ -98879,7 +98879,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6349,
@@ -98959,7 +98959,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7444,
@@ -99013,7 +99013,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7142,
@@ -99165,7 +99165,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6263,
@@ -99321,7 +99321,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -99420,7 +99420,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -99451,7 +99451,7 @@
                                     "kill_time_in_round": 13494,
                                     "kill_time_in_match": 563642,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "18f43bab-e684-5b53-bc84-e0e6ae6bfc67",
                                     "victim_display_name": "sou monhe#22222",
@@ -99540,7 +99540,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6202,
@@ -99555,7 +99555,7 @@
                                     "kill_time_in_round": 25857,
                                     "kill_time_in_match": 576005,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "12ce0c26-4930-5733-9d99-56bb44b4b800",
                                     "victim_display_name": "Carliviris13#1128",
@@ -99604,7 +99604,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7752,
@@ -99814,7 +99814,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -99834,7 +99834,7 @@
                                     "killer_display_name": "TANKEMYERSS#1550",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 11005,
@@ -100788,7 +100788,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -100966,7 +100966,7 @@
                             },
                             {
                                 "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                "player_display_name": "chaser#5bars",
+                                "player_display_name": "talented#guy",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7842,
@@ -101133,7 +101133,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9188,
@@ -101237,7 +101237,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7177,
@@ -101316,7 +101316,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -101392,7 +101392,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7210,
@@ -101416,7 +101416,7 @@
                                     "killer_display_name": "Carliviris13#1128",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7362,
@@ -101560,7 +101560,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -101656,7 +101656,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7145,
@@ -101841,7 +101841,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7169,
@@ -101981,7 +101981,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -102012,7 +102012,7 @@
                                     "kill_time_in_round": 53013,
                                     "kill_time_in_match": 768229,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "18965584-52d3-5b3b-930e-6aa90e343424",
                                     "victim_display_name": "TANKEMYERSS#1550",
@@ -102061,7 +102061,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7183,
@@ -102082,7 +102082,7 @@
                                     "kill_time_in_round": 57938,
                                     "kill_time_in_match": 773154,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ceac1f1f-0973-5710-bbad-340baac7ce58",
                                     "victim_display_name": "NoSoyGuanillo#BUFAS",
@@ -102121,7 +102121,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7235,
@@ -102269,7 +102269,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -102487,7 +102487,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10982,
@@ -102591,7 +102591,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11212,
@@ -102841,7 +102841,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11561,
@@ -102931,7 +102931,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11091,
@@ -103096,7 +103096,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -103118,7 +103118,7 @@
                                     "kill_time_in_round": 30619,
                                     "kill_time_in_match": 845525,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "18965584-52d3-5b3b-930e-6aa90e343424",
                                     "victim_display_name": "TANKEMYERSS#1550",
@@ -103167,7 +103167,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9453,
@@ -103355,7 +103355,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -103373,7 +103373,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -103393,7 +103393,7 @@
                                     "killer_display_name": "Carliviris13#1128",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 11547,
@@ -103493,7 +103493,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10864,
@@ -103521,7 +103521,7 @@
                                     "killer_display_name": "Carliviris13#1128",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 10251,
@@ -103703,7 +103703,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13117,
@@ -103777,7 +103777,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13035,
@@ -103995,7 +103995,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13128,
@@ -104099,7 +104099,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13095,
@@ -104278,7 +104278,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12137,
@@ -104376,7 +104376,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -104754,7 +104754,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12511,
@@ -104834,7 +104834,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12765,
@@ -104957,7 +104957,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12347,
@@ -105064,7 +105064,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12514,
@@ -105246,7 +105246,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12616,
@@ -105313,7 +105313,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -105408,7 +105408,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12511,
@@ -105516,7 +105516,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -105538,7 +105538,7 @@
                                     "kill_time_in_round": 15900,
                                     "kill_time_in_match": 1019082,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d494cf06-cdbb-5c3d-ad42-4c2f6845dfa6",
                                     "victim_display_name": "zogemm#3828",
@@ -105617,7 +105617,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12737,
@@ -105789,7 +105789,7 @@
                             },
                             {
                                 "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                "player_display_name": "chaser#5bars",
+                                "player_display_name": "talented#guy",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 12933,
@@ -105883,7 +105883,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -105969,7 +105969,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12941,
@@ -105997,7 +105997,7 @@
                                     "killer_display_name": "Carliviris13#1128",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 10984,
@@ -106291,7 +106291,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9315,
@@ -106391,7 +106391,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12378,
@@ -106724,7 +106724,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12613,
@@ -106785,7 +106785,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -106874,7 +106874,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -107152,7 +107152,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -107181,7 +107181,7 @@
                                     "killer_display_name": "Carliviris13#1128",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 11132,
@@ -108163,12 +108163,12 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -108311,7 +108311,7 @@
                             },
                             {
                                 "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                "player_display_name": "chaser#5bars",
+                                "player_display_name": "talented#guy",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 10123,
@@ -108562,7 +108562,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8457,
@@ -108623,7 +108623,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -108851,7 +108851,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8556,
@@ -108935,7 +108935,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10270,
@@ -108996,7 +108996,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -109143,7 +109143,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10312,
@@ -109199,7 +109199,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -109230,7 +109230,7 @@
                                     "kill_time_in_round": 69653,
                                     "kill_time_in_match": 1331509,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "18f43bab-e684-5b53-bc84-e0e6ae6bfc67",
                                     "victim_display_name": "sou monhe#22222",
@@ -109269,7 +109269,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10152,
@@ -109396,7 +109396,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10366,
@@ -109418,7 +109418,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "assistant_display_name": "chaser#5bars",
+                                            "assistant_display_name": "talented#guy",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -109604,7 +109604,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8764,
@@ -109699,7 +109699,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8957,
@@ -109763,7 +109763,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8957,
@@ -109932,7 +109932,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8957,
@@ -109992,7 +109992,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -110108,7 +110108,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7213,
@@ -110126,7 +110126,7 @@
                                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8522,
@@ -110376,7 +110376,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8734,
@@ -110427,7 +110427,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -110544,7 +110544,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -110774,7 +110774,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9542,
@@ -110848,7 +110848,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10228,
@@ -110965,7 +110965,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10301,
@@ -111277,7 +111277,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5254,
@@ -111389,7 +111389,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -111465,7 +111465,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9565,
@@ -111499,7 +111499,7 @@
                                     "killer_display_name": "zogemm#3828",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 10261,
@@ -111581,7 +111581,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -111752,7 +111752,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9179,
@@ -111961,7 +111961,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9157,
@@ -112035,7 +112035,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9179,
@@ -112086,7 +112086,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -112106,7 +112106,7 @@
                                     "killer_display_name": "Carliviris13#1128",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9298,
@@ -112538,7 +112538,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9038,
@@ -112622,7 +112622,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9038,
@@ -112668,7 +112668,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -112821,7 +112821,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9396,
@@ -113019,7 +113019,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7506,
@@ -113080,7 +113080,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -113100,7 +113100,7 @@
                                     "killer_display_name": "Carliviris13#1128",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8411,
@@ -113568,7 +113568,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "assistant_display_name": "chaser#5bars",
+                                            "assistant_display_name": "talented#guy",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -114046,7 +114046,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -114158,7 +114158,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8423,
@@ -114348,7 +114348,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9052,
@@ -114511,7 +114511,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -114617,7 +114617,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9012,
@@ -114721,7 +114721,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9150,
@@ -114745,7 +114745,7 @@
                                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8536,
@@ -115012,7 +115012,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -115088,7 +115088,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6348,
@@ -115140,7 +115140,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -115162,7 +115162,7 @@
                                     "kill_time_in_round": 21840,
                                     "kill_time_in_match": 1694738,
                                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "killer_display_name": "chaser#5bars",
+                                    "killer_display_name": "talented#guy",
                                     "killer_team": "Blue",
                                     "victim_puuid": "18965584-52d3-5b3b-930e-6aa90e343424",
                                     "victim_display_name": "TANKEMYERSS#1550",
@@ -115231,7 +115231,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7619,
@@ -115508,7 +115508,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8613,
@@ -115739,7 +115739,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6290,
@@ -115800,7 +115800,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -115820,7 +115820,7 @@
                                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9305,
@@ -116050,7 +116050,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -116306,7 +116306,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9024,
@@ -116352,7 +116352,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -116584,7 +116584,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6517,
@@ -116669,7 +116669,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -116967,7 +116967,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5717,
@@ -117298,7 +117298,7 @@
                                         },
                                         {
                                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "player_display_name": "chaser#5bars",
+                                            "player_display_name": "talented#guy",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6516,
@@ -117394,7 +117394,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                            "assistant_display_name": "chaser#5bars",
+                                            "assistant_display_name": "talented#guy",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -117439,7 +117439,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "receiver_display_name": "chaser#5bars",
+                                    "receiver_display_name": "talented#guy",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -117459,7 +117459,7 @@
                                     "killer_display_name": "sou monhe#22222",
                                     "killer_team": "Red",
                                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                                    "victim_display_name": "chaser#5bars",
+                                    "victim_display_name": "talented#guy",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7246,
@@ -117623,7 +117623,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -117807,7 +117807,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13557,
@@ -117912,7 +117912,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13286,
@@ -118007,7 +118007,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12072,
@@ -118102,7 +118102,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11867,
@@ -118177,7 +118177,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12806,
@@ -118242,7 +118242,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13025,
@@ -118258,7 +118258,7 @@
                     "kill_time_in_match": 137486,
                     "round": 0,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "18965584-52d3-5b3b-930e-6aa90e343424",
                     "victim_display_name": "TANKEMYERSS#1550",
@@ -118297,7 +118297,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11579,
@@ -118348,7 +118348,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10547,
@@ -118370,7 +118370,7 @@
                     "kill_time_in_match": 152484,
                     "round": 0,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "12ce0c26-4930-5733-9d99-56bb44b4b800",
                     "victim_display_name": "Carliviris13#1128",
@@ -118389,7 +118389,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10256,
@@ -118408,7 +118408,7 @@
                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 11731,
@@ -119193,7 +119193,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12904,
@@ -119304,7 +119304,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12871,
@@ -119399,7 +119399,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12686,
@@ -119494,7 +119494,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12452,
@@ -119513,7 +119513,7 @@
                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 12472,
@@ -119739,7 +119739,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10512,
@@ -119855,7 +119855,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10268,
@@ -119890,7 +119890,7 @@
                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 10525,
@@ -120313,7 +120313,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8450,
@@ -120424,7 +120424,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9186,
@@ -120519,7 +120519,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9070,
@@ -120610,7 +120610,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9163,
@@ -120696,7 +120696,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8973,
@@ -120777,7 +120777,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9196,
@@ -120796,7 +120796,7 @@
                     "killer_display_name": "TANKEMYERSS#1550",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9320,
@@ -120953,7 +120953,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6666,
@@ -120980,7 +120980,7 @@
                     "kill_time_in_match": 563642,
                     "round": 5,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "18f43bab-e684-5b53-bc84-e0e6ae6bfc67",
                     "victim_display_name": "sou monhe#22222",
@@ -121069,7 +121069,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6202,
@@ -121164,7 +121164,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6349,
@@ -121255,7 +121255,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6263,
@@ -121341,7 +121341,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7444,
@@ -121357,7 +121357,7 @@
                     "kill_time_in_match": 576005,
                     "round": 5,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "12ce0c26-4930-5733-9d99-56bb44b4b800",
                     "victim_display_name": "Carliviris13#1128",
@@ -121406,7 +121406,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7752,
@@ -121467,7 +121467,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7142,
@@ -121492,7 +121492,7 @@
                     "killer_display_name": "TANKEMYERSS#1550",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 11005,
@@ -122136,7 +122136,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9188,
@@ -122241,7 +122241,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7177,
@@ -122346,7 +122346,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7145,
@@ -122437,7 +122437,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7169,
@@ -122512,7 +122512,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7210,
@@ -122534,7 +122534,7 @@
                     "kill_time_in_match": 768229,
                     "round": 7,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "18965584-52d3-5b3b-930e-6aa90e343424",
                     "victim_display_name": "TANKEMYERSS#1550",
@@ -122583,7 +122583,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7183,
@@ -122605,7 +122605,7 @@
                     "kill_time_in_match": 773154,
                     "round": 7,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "ceac1f1f-0973-5710-bbad-340baac7ce58",
                     "victim_display_name": "NoSoyGuanillo#BUFAS",
@@ -122644,7 +122644,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7235,
@@ -122663,7 +122663,7 @@
                     "killer_display_name": "Carliviris13#1128",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7362,
@@ -122800,7 +122800,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10982,
@@ -122905,7 +122905,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11212,
@@ -123000,7 +123000,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11561,
@@ -123091,7 +123091,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11091,
@@ -123123,7 +123123,7 @@
                     "kill_time_in_match": 845525,
                     "round": 8,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "18965584-52d3-5b3b-930e-6aa90e343424",
                     "victim_display_name": "TANKEMYERSS#1550",
@@ -123172,7 +123172,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9453,
@@ -123293,7 +123293,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13128,
@@ -123398,7 +123398,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13095,
@@ -123493,7 +123493,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13117,
@@ -123578,7 +123578,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12137,
@@ -123653,7 +123653,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13035,
@@ -123682,7 +123682,7 @@
                     "killer_display_name": "Carliviris13#1128",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 11547,
@@ -123783,7 +123783,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10864,
@@ -123812,7 +123812,7 @@
                     "killer_display_name": "Carliviris13#1128",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 10251,
@@ -123998,7 +123998,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12616,
@@ -124030,7 +124030,7 @@
                     "kill_time_in_match": 1019082,
                     "round": 10,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "d494cf06-cdbb-5c3d-ad42-4c2f6845dfa6",
                     "victim_display_name": "zogemm#3828",
@@ -124109,7 +124109,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12737,
@@ -124204,7 +124204,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12511,
@@ -124289,7 +124289,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12511,
@@ -124370,7 +124370,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12765,
@@ -124441,7 +124441,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12347,
@@ -124496,7 +124496,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12514,
@@ -124617,7 +124617,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9315,
@@ -124728,7 +124728,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12613,
@@ -124823,7 +124823,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12941,
@@ -124918,7 +124918,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12378,
@@ -124937,7 +124937,7 @@
                     "killer_display_name": "Carliviris13#1128",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 10984,
@@ -125149,7 +125149,7 @@
                     "killer_display_name": "Carliviris13#1128",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 11132,
@@ -125893,7 +125893,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8556,
@@ -125998,7 +125998,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8457,
@@ -126093,7 +126093,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10312,
@@ -126178,7 +126178,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10270,
@@ -126253,7 +126253,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10366,
@@ -126275,7 +126275,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "assistant_display_name": "chaser#5bars",
+                            "assistant_display_name": "talented#guy",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -126285,7 +126285,7 @@
                     "kill_time_in_match": 1331509,
                     "round": 13,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "18f43bab-e684-5b53-bc84-e0e6ae6bfc67",
                     "victim_display_name": "sou monhe#22222",
@@ -126324,7 +126324,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10152,
@@ -126449,7 +126449,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7213,
@@ -126554,7 +126554,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8734,
@@ -126649,7 +126649,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8764,
@@ -126745,7 +126745,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8957,
@@ -126820,7 +126820,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8957,
@@ -126885,7 +126885,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8957,
@@ -126904,7 +126904,7 @@
                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8522,
@@ -127051,7 +127051,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5254,
@@ -127156,7 +127156,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9179,
@@ -127257,7 +127257,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9542,
@@ -127342,7 +127342,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9565,
@@ -127423,7 +127423,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10301,
@@ -127498,7 +127498,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10228,
@@ -127517,7 +127517,7 @@
                     "killer_display_name": "zogemm#3828",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 10261,
@@ -127658,7 +127658,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9396,
@@ -127773,7 +127773,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9157,
@@ -127868,7 +127868,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9038,
@@ -127953,7 +127953,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9038,
@@ -128028,7 +128028,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9179,
@@ -128047,7 +128047,7 @@
                     "killer_display_name": "Carliviris13#1128",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9298,
@@ -128112,7 +128112,7 @@
                     "killer_display_name": "Carliviris13#1128",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8411,
@@ -128517,7 +128517,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "assistant_display_name": "chaser#5bars",
+                            "assistant_display_name": "talented#guy",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -128712,7 +128712,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7506,
@@ -128767,7 +128767,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8423,
@@ -128888,7 +128888,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9012,
@@ -128993,7 +128993,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9052,
@@ -129098,7 +129098,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9150,
@@ -129120,7 +129120,7 @@
                     "kill_time_in_match": 1694738,
                     "round": 18,
                     "killer_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "killer_display_name": "chaser#5bars",
+                    "killer_display_name": "talented#guy",
                     "killer_team": "Blue",
                     "victim_puuid": "18965584-52d3-5b3b-930e-6aa90e343424",
                     "victim_display_name": "TANKEMYERSS#1550",
@@ -129189,7 +129189,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7619,
@@ -129264,7 +129264,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6348,
@@ -129289,7 +129289,7 @@
                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8536,
@@ -129446,7 +129446,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6290,
@@ -129551,7 +129551,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8613,
@@ -129656,7 +129656,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9024,
@@ -129675,7 +129675,7 @@
                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9305,
@@ -129992,7 +129992,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6517,
@@ -130103,7 +130103,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6516,
@@ -130208,7 +130208,7 @@
                         },
                         {
                             "player_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "player_display_name": "chaser#5bars",
+                            "player_display_name": "talented#guy",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5717,
@@ -130233,7 +130233,7 @@
                     "killer_display_name": "sou monhe#22222",
                     "killer_team": "Red",
                     "victim_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                    "victim_display_name": "chaser#5bars",
+                    "victim_display_name": "talented#guy",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7246,
@@ -130386,7 +130386,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b518f43e-8b2e-5a4f-955b-42a24c421f66",
-                            "assistant_display_name": "chaser#5bars",
+                            "assistant_display_name": "talented#guy",
                             "assistant_team": "Blue"
                         }
                     ]
