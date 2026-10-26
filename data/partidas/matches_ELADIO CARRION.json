@@ -1609,9 +1609,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -2801,9 +2804,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -4080,9 +4086,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -5248,9 +5257,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -7801,16 +7813,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -10121,16 +10139,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -11384,9 +11408,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -12604,16 +12631,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -13912,9 +13945,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -15073,9 +15109,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -16330,9 +16369,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -17448,9 +17490,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -18632,9 +18677,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -19728,9 +19776,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -20918,9 +20969,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -23694,9 +23748,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -24900,9 +24957,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -26267,9 +26327,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -40530,8 +40593,8 @@
                     },
                     {
                         "puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                        "name": "TH  peterbot\u30c4",
-                        "tag": "npeee",
+                        "name": "soloamoaM",
+                        "tag": "teamo",
                         "team": "Red",
                         "level": 107,
                         "character": "Phoenix",
@@ -40897,8 +40960,8 @@
                     },
                     {
                         "puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                        "name": "TH  peterbot\u30c4",
-                        "tag": "npeee",
+                        "name": "soloamoaM",
+                        "tag": "teamo",
                         "team": "Red",
                         "level": 107,
                         "character": "Phoenix",
@@ -41506,16 +41569,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -41593,7 +41662,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -41689,7 +41758,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3937,
@@ -41836,7 +41905,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4274,
@@ -42096,7 +42165,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4797,
@@ -42249,7 +42318,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4283,
@@ -42325,7 +42394,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -42400,7 +42469,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6552,
@@ -42428,7 +42497,7 @@
                                     "killer_display_name": "crisreg06#1300",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6816,
@@ -42626,7 +42695,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -42687,16 +42756,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -42765,7 +42840,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -42912,7 +42987,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3691,
@@ -43100,7 +43175,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2610,
@@ -43273,7 +43348,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2152,
@@ -43404,7 +43479,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -43470,7 +43545,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3887,
@@ -43544,7 +43619,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1636,
@@ -43572,7 +43647,7 @@
                                     "killer_display_name": "crisreg06#1300",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4463,
@@ -43696,7 +43771,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -43727,7 +43802,7 @@
                                     "kill_time_in_round": 44134,
                                     "kill_time_in_match": 218197,
                                     "killer_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "killer_display_name": "TH  peterbot\u30c4#npeee",
+                                    "killer_display_name": "soloamoaM#teamo",
                                     "killer_team": "Red",
                                     "victim_puuid": "fb93f517-cdf0-5ff8-bc11-be97a96377de",
                                     "victim_display_name": "Where is Rocio#CADIZ",
@@ -43786,7 +43861,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3688,
@@ -43852,16 +43927,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -44444,7 +44525,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2539,
@@ -44932,7 +45013,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -44961,7 +45042,7 @@
                                     "killer_display_name": "crisreg06#1300",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4792,
@@ -45145,7 +45226,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -45187,16 +45268,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -45659,7 +45746,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3808,
@@ -45873,7 +45960,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -45902,7 +45989,7 @@
                                     "killer_display_name": "crisreg06#1300",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5223,
@@ -46170,7 +46257,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -46286,7 +46373,7 @@
                             },
                             {
                                 "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                "player_display_name": "TH  peterbot\u30c4#npeee",
+                                "player_display_name": "soloamoaM#teamo",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6846,
@@ -46307,9 +46394,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -46444,7 +46534,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7417,
@@ -46619,7 +46709,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5158,
@@ -46683,7 +46773,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7438,
@@ -46705,7 +46795,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "assistant_display_name": "TH  peterbot\u30c4#npeee",
+                                            "assistant_display_name": "soloamoaM#teamo",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -46912,7 +47002,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4754,
@@ -47116,7 +47206,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6670,
@@ -47200,7 +47290,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7435,
@@ -47267,7 +47357,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -47314,7 +47404,7 @@
                                     "killer_display_name": "crisreg06#1300",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7672,
@@ -47463,7 +47553,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "assistant_display_name": "TH  peterbot\u30c4#npeee",
+                                            "assistant_display_name": "soloamoaM#teamo",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -47555,7 +47645,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -47616,16 +47706,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -47799,7 +47895,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -47837,7 +47933,7 @@
                                     "killer_display_name": "Where is Rocio#CADIZ",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4483,
@@ -48906,7 +49002,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -49002,7 +49098,7 @@
                             },
                             {
                                 "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                "player_display_name": "TH  peterbot\u30c4#npeee",
+                                "player_display_name": "soloamoaM#teamo",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8324,
@@ -49033,9 +49129,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -49279,7 +49378,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4167,
@@ -49389,7 +49488,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4630,
@@ -49553,7 +49652,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -49637,7 +49736,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8253,
@@ -49675,7 +49774,7 @@
                                     "killer_display_name": "ivan19trzn#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8897,
@@ -49992,7 +50091,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8094,
@@ -50058,7 +50157,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -50080,7 +50179,7 @@
                                     "kill_time_in_round": 52477,
                                     "kill_time_in_match": 766615,
                                     "killer_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "killer_display_name": "TH  peterbot\u30c4#npeee",
+                                    "killer_display_name": "soloamoaM#teamo",
                                     "killer_team": "Red",
                                     "victim_puuid": "ff0a521f-0bc5-5551-be69-7808696d3878",
                                     "victim_display_name": "crisreg06#1300",
@@ -50129,7 +50228,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8557,
@@ -50239,7 +50338,7 @@
                             },
                             {
                                 "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                "player_display_name": "TH  peterbot\u30c4#npeee",
+                                "player_display_name": "soloamoaM#teamo",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6150,
@@ -50260,9 +50359,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -50477,7 +50579,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5122,
@@ -50499,7 +50601,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "assistant_display_name": "TH  peterbot\u30c4#npeee",
+                                            "assistant_display_name": "soloamoaM#teamo",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -50567,7 +50669,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5969,
@@ -50734,7 +50836,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -50754,7 +50856,7 @@
                                     "killer_display_name": "i miss her \u3061\u306f#111",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7857,
@@ -50941,7 +51043,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -51055,7 +51157,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4403,
@@ -51192,7 +51294,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6175,
@@ -51248,7 +51350,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -51288,7 +51390,7 @@
                                     "kill_time_in_round": 34438,
                                     "kill_time_in_match": 842565,
                                     "killer_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "killer_display_name": "TH  peterbot\u30c4#npeee",
+                                    "killer_display_name": "soloamoaM#teamo",
                                     "killer_team": "Red",
                                     "victim_puuid": "7702ee0d-c591-53a6-8e53-9f550636fb0b",
                                     "victim_display_name": "ivan19trzn#EUW",
@@ -51357,7 +51459,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5959,
@@ -51477,7 +51579,7 @@
                             },
                             {
                                 "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                "player_display_name": "TH  peterbot\u30c4#npeee",
+                                "player_display_name": "soloamoaM#teamo",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 9269,
@@ -51488,9 +51590,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -51602,7 +51707,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9610,
@@ -51790,7 +51895,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8780,
@@ -51854,7 +51959,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8868,
@@ -52207,7 +52312,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8732,
@@ -52373,7 +52478,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2544,
@@ -52439,7 +52544,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -52461,7 +52566,7 @@
                                     "kill_time_in_round": 25957,
                                     "kill_time_in_match": 931791,
                                     "killer_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "killer_display_name": "TH  peterbot\u30c4#npeee",
+                                    "killer_display_name": "soloamoaM#teamo",
                                     "killer_team": "Red",
                                     "victim_puuid": "ff0a521f-0bc5-5551-be69-7808696d3878",
                                     "victim_display_name": "crisreg06#1300",
@@ -52530,7 +52635,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9618,
@@ -52582,16 +52687,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -52921,7 +53032,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -53044,7 +53155,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6331,
@@ -53072,7 +53183,7 @@
                                     "killer_display_name": "ivan19trzn#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6483,
@@ -53675,7 +53786,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4487,
@@ -53821,7 +53932,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -53863,16 +53974,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -54088,7 +54205,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1012,
@@ -54400,7 +54517,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1012,
@@ -54487,7 +54604,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -54583,7 +54700,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1012,
@@ -54667,7 +54784,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1012,
@@ -54741,7 +54858,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1012,
@@ -54805,7 +54922,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1012,
@@ -54823,7 +54940,7 @@
                                     "killer_display_name": "crisreg06#1300",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1012,
@@ -54947,7 +55064,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -54989,16 +55106,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -55437,7 +55560,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "receiver_display_name": "TH  peterbot\u30c4#npeee",
+                                    "receiver_display_name": "soloamoaM#teamo",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -55457,7 +55580,7 @@
                                     "killer_display_name": "Femboylover6000#UWU",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                                    "victim_display_name": "soloamoaM#teamo",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 687,
@@ -56107,7 +56230,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 687,
@@ -56153,7 +56276,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -56299,7 +56422,7 @@
                             },
                             {
                                 "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                "player_display_name": "TH  peterbot\u30c4#npeee",
+                                "player_display_name": "soloamoaM#teamo",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 10793,
@@ -56373,7 +56496,7 @@
                             },
                             {
                                 "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                "player_display_name": "TH  peterbot\u30c4#npeee",
+                                "player_display_name": "soloamoaM#teamo",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 10793,
@@ -56503,7 +56626,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10793,
@@ -56720,7 +56843,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10793,
@@ -56810,7 +56933,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10793,
@@ -56880,7 +57003,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10793,
@@ -57022,7 +57145,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10793,
@@ -57302,7 +57425,7 @@
                                         },
                                         {
                                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                                            "player_display_name": "soloamoaM#teamo",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10793,
@@ -57432,7 +57555,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -58600,7 +58723,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -58747,9 +58870,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -59717,7 +59843,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -59759,16 +59885,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -60720,7 +60852,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -60857,9 +60989,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -62038,7 +62173,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -62145,9 +62280,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -63168,7 +63306,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -63255,9 +63393,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -64350,7 +64491,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -64467,9 +64608,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -65502,7 +65646,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -65619,9 +65763,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -66518,7 +66665,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -66640,7 +66787,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 3937,
@@ -66755,7 +66902,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 4797,
@@ -66856,7 +67003,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 4283,
@@ -66947,7 +67094,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 4274,
@@ -67022,7 +67169,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 6552,
@@ -67051,7 +67198,7 @@
                     "killer_display_name": "crisreg06#1300",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6816,
@@ -67247,7 +67394,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 2152,
@@ -67352,7 +67499,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 3691,
@@ -67388,7 +67535,7 @@
                     "kill_time_in_match": 218197,
                     "round": 1,
                     "killer_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "killer_display_name": "TH  peterbot\u30c4#npeee",
+                    "killer_display_name": "soloamoaM#teamo",
                     "killer_team": "Red",
                     "victim_puuid": "fb93f517-cdf0-5ff8-bc11-be97a96377de",
                     "victim_display_name": "Where is Rocio#CADIZ",
@@ -67447,7 +67594,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 3688,
@@ -67532,7 +67679,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 3887,
@@ -67607,7 +67754,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 2610,
@@ -67688,7 +67835,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 1636,
@@ -67717,7 +67864,7 @@
                     "killer_display_name": "crisreg06#1300",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4463,
@@ -67858,7 +68005,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 2539,
@@ -67887,7 +68034,7 @@
                     "killer_display_name": "crisreg06#1300",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4792,
@@ -68601,7 +68748,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 3808,
@@ -68646,7 +68793,7 @@
                     "killer_display_name": "crisreg06#1300",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5223,
@@ -69109,7 +69256,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 4754,
@@ -69220,7 +69367,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 5158,
@@ -69315,7 +69462,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 6670,
@@ -69400,7 +69547,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 7435,
@@ -69481,7 +69628,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 7417,
@@ -69546,7 +69693,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 7438,
@@ -69568,7 +69715,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "assistant_display_name": "TH  peterbot\u30c4#npeee",
+                            "assistant_display_name": "soloamoaM#teamo",
                             "assistant_team": "Red"
                         },
                         {
@@ -69586,7 +69733,7 @@
                     "killer_display_name": "crisreg06#1300",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7672,
@@ -69738,7 +69885,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "assistant_display_name": "TH  peterbot\u30c4#npeee",
+                            "assistant_display_name": "soloamoaM#teamo",
                             "assistant_team": "Red"
                         }
                     ]
@@ -69751,7 +69898,7 @@
                     "killer_display_name": "Where is Rocio#CADIZ",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4483,
@@ -70585,7 +70732,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 4167,
@@ -70696,7 +70843,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 4630,
@@ -70791,7 +70938,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 8094,
@@ -70876,7 +71023,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 8253,
@@ -70912,7 +71059,7 @@
                     "kill_time_in_match": 766615,
                     "round": 6,
                     "killer_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "killer_display_name": "TH  peterbot\u30c4#npeee",
+                    "killer_display_name": "soloamoaM#teamo",
                     "killer_team": "Red",
                     "victim_puuid": "ff0a521f-0bc5-5551-be69-7808696d3878",
                     "victim_display_name": "crisreg06#1300",
@@ -70961,7 +71108,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 8557,
@@ -70990,7 +71137,7 @@
                     "killer_display_name": "ivan19trzn#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8897,
@@ -71192,7 +71339,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 4403,
@@ -71307,7 +71454,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 5122,
@@ -71329,7 +71476,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "assistant_display_name": "TH  peterbot\u30c4#npeee",
+                            "assistant_display_name": "soloamoaM#teamo",
                             "assistant_team": "Red"
                         }
                     ]
@@ -71339,7 +71486,7 @@
                     "kill_time_in_match": 842565,
                     "round": 7,
                     "killer_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "killer_display_name": "TH  peterbot\u30c4#npeee",
+                    "killer_display_name": "soloamoaM#teamo",
                     "killer_team": "Red",
                     "victim_puuid": "7702ee0d-c591-53a6-8e53-9f550636fb0b",
                     "victim_display_name": "ivan19trzn#EUW",
@@ -71408,7 +71555,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 5959,
@@ -71493,7 +71640,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 5969,
@@ -71568,7 +71715,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 6175,
@@ -71597,7 +71744,7 @@
                     "killer_display_name": "i miss her \u3061\u306f#111",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7857,
@@ -71799,7 +71946,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 2544,
@@ -71914,7 +72061,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 8732,
@@ -72009,7 +72156,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 9610,
@@ -72035,7 +72182,7 @@
                     "kill_time_in_match": 931791,
                     "round": 8,
                     "killer_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "killer_display_name": "TH  peterbot\u30c4#npeee",
+                    "killer_display_name": "soloamoaM#teamo",
                     "killer_team": "Red",
                     "victim_puuid": "ff0a521f-0bc5-5551-be69-7808696d3878",
                     "victim_display_name": "crisreg06#1300",
@@ -72104,7 +72251,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 9618,
@@ -72185,7 +72332,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 8780,
@@ -72250,7 +72397,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 8868,
@@ -72355,7 +72502,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 4487,
@@ -72466,7 +72613,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 6331,
@@ -72495,7 +72642,7 @@
                     "killer_display_name": "ivan19trzn#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6483,
@@ -73077,7 +73224,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 1012,
@@ -73182,7 +73329,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 1012,
@@ -73277,7 +73424,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 1012,
@@ -73362,7 +73509,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 1012,
@@ -73437,7 +73584,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 1012,
@@ -73502,7 +73649,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 1012,
@@ -73521,7 +73668,7 @@
                     "killer_display_name": "crisreg06#1300",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1012,
@@ -73672,7 +73819,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 687,
@@ -73691,7 +73838,7 @@
                     "killer_display_name": "Femboylover6000#UWU",
                     "killer_team": "Blue",
                     "victim_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                    "victim_display_name": "TH  peterbot\u30c4#npeee",
+                    "victim_display_name": "soloamoaM#teamo",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 687,
@@ -74324,7 +74471,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 10793,
@@ -74429,7 +74576,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 10793,
@@ -74524,7 +74671,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 10793,
@@ -74615,7 +74762,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 10793,
@@ -74696,7 +74843,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 10793,
@@ -74761,7 +74908,7 @@
                         },
                         {
                             "player_puuid": "71440661-6cd6-5246-ba48-859944a1a40e",
-                            "player_display_name": "TH  peterbot\u30c4#npeee",
+                            "player_display_name": "soloamoaM#teamo",
                             "player_team": "Red",
                             "location": {
                                 "x": 10793,
@@ -82009,9 +82156,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -83309,16 +83459,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -84516,16 +84672,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -87237,9 +87399,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -88615,9 +88780,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -89790,9 +89958,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -92419,9 +92590,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -93601,16 +93775,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -94860,16 +95040,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -96099,16 +96285,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -97160,16 +97352,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -99572,16 +99770,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -102221,9 +102425,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -103569,9 +103776,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -104964,16 +105174,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -106046,16 +106262,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -107194,9 +107416,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -128790,9 +129015,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -129955,9 +130183,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -131260,9 +131491,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -132449,16 +132683,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -133753,9 +133993,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -134887,16 +135130,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -136273,9 +136522,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -137323,16 +137575,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -138319,16 +138577,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -139553,16 +139817,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -140787,9 +141057,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -142065,16 +142338,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -144632,16 +144911,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -145702,16 +145987,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -146910,16 +147201,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -148214,9 +148511,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -163860,9 +164160,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -165121,9 +165424,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -167611,9 +167917,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -168848,9 +169157,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -170142,9 +170454,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -171321,16 +171636,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -172688,9 +173009,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -173705,16 +174029,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -176099,9 +176429,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -177237,16 +177570,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -179879,9 +180218,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -181214,9 +181556,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -182601,16 +182946,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -185229,9 +185580,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -186570,9 +186924,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -189438,9 +189795,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -190530,9 +190890,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -191819,9 +192182,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -194607,16 +194973,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -195747,16 +196119,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -197029,16 +197407,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -198301,9 +198685,12 @@
                         ]
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -199545,16 +199932,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
@@ -200731,16 +201124,22 @@
                     "bomb_planted": false,
                     "bomb_defused": false,
                     "plant_events": {
-                        "plant_location": null,
+                        "plant_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "planted_by": null,
                         "plant_site": null,
-                        "plant_time_in_round": null,
+                        "plant_time_in_round": 0,
                         "player_locations_on_plant": null
                     },
                     "defuse_events": {
-                        "defuse_location": null,
+                        "defuse_location": {
+                            "x": 0,
+                            "y": 0
+                        },
                         "defused_by": null,
-                        "defuse_time_in_round": null,
+                        "defuse_time_in_round": 0,
                         "player_locations_on_defuse": null
                     },
                     "player_stats": [
