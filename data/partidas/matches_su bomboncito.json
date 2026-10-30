@@ -44787,8 +44787,8 @@
                     },
                     {
                         "puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                        "name": "Iceman Jr",
-                        "tag": "NPC",
+                        "name": "KaguneFlick",
+                        "tag": "5538",
                         "team": "Blue",
                         "level": 126,
                         "character": "Phoenix",
@@ -45594,8 +45594,8 @@
                 "blue": [
                     {
                         "puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                        "name": "Iceman Jr",
-                        "tag": "NPC",
+                        "name": "KaguneFlick",
+                        "tag": "5538",
                         "team": "Blue",
                         "level": 126,
                         "character": "Phoenix",
@@ -45996,7 +45996,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8501,
@@ -46094,7 +46094,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -46125,7 +46125,7 @@
                                     "kill_time_in_round": 39338,
                                     "kill_time_in_match": 94404,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d43bea18-7799-55db-8617-b8e7d53f7820",
                                     "victim_display_name": "Deorokemaru#15y16",
@@ -46144,7 +46144,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9709,
@@ -46290,7 +46290,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9335,
@@ -46342,7 +46342,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "assistant_display_name": "Iceman Jr#NPC",
+                                            "assistant_display_name": "KaguneFlick#5538",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -46517,7 +46517,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8747,
@@ -46657,7 +46657,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -46693,7 +46693,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9692,
@@ -46771,7 +46771,7 @@
                                     "killer_display_name": "su bomboncito#sexy",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8758,
@@ -47074,7 +47074,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -47110,7 +47110,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8796,
@@ -47253,7 +47253,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -47718,7 +47718,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4544,
@@ -47855,7 +47855,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -47893,7 +47893,7 @@
                                     "killer_display_name": "k1r\u00f8#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5586,
@@ -48449,7 +48449,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -48480,7 +48480,7 @@
                                     "kill_time_in_round": 29213,
                                     "kill_time_in_match": 233752,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "be1a44e0-18fc-5add-b340-aa21da314b7f",
                                     "victim_display_name": "k1r\u00f8#0000",
@@ -48499,7 +48499,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7235,
@@ -48584,7 +48584,7 @@
                                     "kill_time_in_round": 30527,
                                     "kill_time_in_match": 235066,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                                     "victim_display_name": "su bomboncito#sexy",
@@ -48603,7 +48603,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7326,
@@ -48905,7 +48905,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -48934,7 +48934,7 @@
                                     "killer_display_name": "messi099tsts#carli",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7327,
@@ -49093,7 +49093,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7417,
@@ -49436,7 +49436,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -49624,7 +49624,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9304,
@@ -49722,7 +49722,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -49814,7 +49814,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9304,
@@ -50061,7 +50061,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9714,
@@ -50501,7 +50501,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -50521,7 +50521,7 @@
                                     "killer_display_name": "k1r\u00f8#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9026,
@@ -50673,7 +50673,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9119,
@@ -50787,7 +50787,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9538,
@@ -50897,7 +50897,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4938,
@@ -50995,7 +50995,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -51197,7 +51197,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -51233,7 +51233,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4640,
@@ -51311,7 +51311,7 @@
                                     "killer_display_name": "messi099tsts#carli",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4639,
@@ -51464,7 +51464,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7697,
@@ -51832,7 +51832,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5155,
@@ -51972,7 +51972,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9663,
@@ -52060,7 +52060,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -52100,7 +52100,7 @@
                                     "kill_time_in_round": 23726,
                                     "kill_time_in_match": 503316,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                                     "victim_display_name": "su bomboncito#sexy",
@@ -52119,7 +52119,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9619,
@@ -52523,7 +52523,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9548,
@@ -52633,7 +52633,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9463,
@@ -52784,7 +52784,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9665,
@@ -52868,7 +52868,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9031,
@@ -52999,7 +52999,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -53019,7 +53019,7 @@
                                     "killer_display_name": "k1r\u00f8#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7090,
@@ -53142,7 +53142,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9285,
@@ -53288,7 +53288,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8740,
@@ -53396,7 +53396,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -53427,7 +53427,7 @@
                                     "kill_time_in_round": 49955,
                                     "kill_time_in_match": 609951,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                                     "victim_display_name": "messi099tsts#carli",
@@ -53446,7 +53446,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7414,
@@ -53667,7 +53667,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7414,
@@ -53800,7 +53800,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7406,
@@ -53971,7 +53971,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7568,
@@ -54150,7 +54150,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -54179,7 +54179,7 @@
                                     "killer_display_name": "I miss Kyrie#Prime",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7414,
@@ -54312,7 +54312,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8780,
@@ -54478,7 +54478,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7924,
@@ -54701,7 +54701,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -55147,7 +55147,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -55192,7 +55192,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8803,
@@ -55306,7 +55306,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9292,
@@ -55400,7 +55400,7 @@
                                     "killer_display_name": "su bomboncito#sexy",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8108,
@@ -55833,7 +55833,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9179,
@@ -55941,7 +55941,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -56433,7 +56433,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8538,
@@ -56596,7 +56596,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -56650,7 +56650,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8423,
@@ -56728,7 +56728,7 @@
                                     "killer_display_name": "I miss Kyrie#Prime",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7988,
@@ -56982,7 +56982,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7352,
@@ -57177,7 +57177,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9100,
@@ -57295,7 +57295,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -57317,7 +57317,7 @@
                                     "kill_time_in_round": 32643,
                                     "kill_time_in_match": 856965,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                                     "victim_display_name": "su bomboncito#sexy",
@@ -57336,7 +57336,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9708,
@@ -57625,7 +57625,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9478,
@@ -57863,7 +57863,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -57899,7 +57899,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9395,
@@ -57996,7 +57996,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -58016,7 +58016,7 @@
                                     "killer_display_name": "k1r\u00f8#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9731,
@@ -58176,7 +58176,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9411,
@@ -58290,7 +58290,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9454,
@@ -58410,7 +58410,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8850,
@@ -58467,14 +58467,14 @@
                         },
                         "defused_by": {
                             "puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "display_name": "Iceman Jr#NPC",
+                            "display_name": "KaguneFlick#5538",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 83046,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7439,
@@ -58493,7 +58493,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -58515,7 +58515,7 @@
                                     "kill_time_in_round": 73033,
                                     "kill_time_in_match": 981955,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                                     "victim_display_name": "messi099tsts#carli",
@@ -58534,7 +58534,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6978,
@@ -58639,7 +58639,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6747,
@@ -58723,7 +58723,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8310,
@@ -58803,7 +58803,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8738,
@@ -58920,7 +58920,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8041,
@@ -59051,7 +59051,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -59087,7 +59087,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8804,
@@ -59151,7 +59151,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7219,
@@ -59266,7 +59266,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6222,
@@ -59370,7 +59370,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7619,
@@ -59526,7 +59526,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6147,
@@ -59811,7 +59811,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -59842,7 +59842,7 @@
                                     "kill_time_in_round": 74662,
                                     "kill_time_in_match": 1103636,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                                     "victim_display_name": "messi099tsts#carli",
@@ -59861,7 +59861,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6525,
@@ -59906,7 +59906,7 @@
                                     "kill_time_in_round": 81555,
                                     "kill_time_in_match": 1110529,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "65721c82-9fe5-5af9-9b47-ffc308f92bee",
                                     "victim_display_name": "I miss Kyrie#Prime",
@@ -59925,7 +59925,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7237,
@@ -60144,7 +60144,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6702,
@@ -60258,7 +60258,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7062,
@@ -60335,7 +60335,7 @@
                                         },
                                         {
                                             "assistant_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "assistant_display_name": "Iceman Jr#NPC",
+                                            "assistant_display_name": "KaguneFlick#5538",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -60380,7 +60380,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -60425,7 +60425,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6156,
@@ -60610,7 +60610,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6455,
@@ -60731,7 +60731,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -60794,7 +60794,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7062,
@@ -60986,7 +60986,7 @@
                         },
                         "planted_by": {
                             "puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "display_name": "Iceman Jr#NPC",
+                            "display_name": "KaguneFlick#5538",
                             "team": "Blue"
                         },
                         "plant_site": "A",
@@ -60994,7 +60994,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7536,
@@ -61052,7 +61052,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -61101,7 +61101,7 @@
                                     "kill_time_in_round": 5504,
                                     "kill_time_in_match": 1168040,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d43bea18-7799-55db-8617-b8e7d53f7820",
                                     "victim_display_name": "Deorokemaru#15y16",
@@ -61120,7 +61120,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4289,
@@ -61215,7 +61215,7 @@
                                     "kill_time_in_round": 21744,
                                     "kill_time_in_match": 1184280,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                                     "victim_display_name": "messi099tsts#carli",
@@ -61234,7 +61234,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7096,
@@ -61299,7 +61299,7 @@
                                     "kill_time_in_round": 23373,
                                     "kill_time_in_match": 1185909,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "65721c82-9fe5-5af9-9b47-ffc308f92bee",
                                     "victim_display_name": "I miss Kyrie#Prime",
@@ -61318,7 +61318,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7176,
@@ -61529,7 +61529,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7214,
@@ -61786,7 +61786,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7536,
@@ -61828,7 +61828,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "assistant_display_name": "Iceman Jr#NPC",
+                                            "assistant_display_name": "KaguneFlick#5538",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -61918,7 +61918,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7096,
@@ -62138,7 +62138,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5112,
@@ -62246,7 +62246,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -62441,7 +62441,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5445,
@@ -62545,7 +62545,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4988,
@@ -62639,7 +62639,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5006,
@@ -62746,7 +62746,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -62885,7 +62885,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1664,
@@ -62999,7 +62999,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7780,
@@ -63235,7 +63235,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5746,
@@ -63333,7 +63333,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -63382,7 +63382,7 @@
                                     "kill_time_in_round": 26876,
                                     "kill_time_in_match": 1354210,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "be1a44e0-18fc-5add-b340-aa21da314b7f",
                                     "victim_display_name": "k1r\u00f8#0000",
@@ -63401,7 +63401,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6506,
@@ -63548,7 +63548,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5743,
@@ -63740,7 +63740,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4330,
@@ -63854,7 +63854,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5687,
@@ -63964,7 +63964,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6321,
@@ -64065,7 +64065,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -64330,7 +64330,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6082,
@@ -64443,7 +64443,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -64474,7 +64474,7 @@
                                     "kill_time_in_round": 80222,
                                     "kill_time_in_match": 1479829,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                                     "victim_display_name": "su bomboncito#sexy",
@@ -64493,7 +64493,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5190,
@@ -64615,7 +64615,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3888,
@@ -64899,7 +64899,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -64935,7 +64935,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2507,
@@ -65019,7 +65019,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3701,
@@ -65151,7 +65151,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2474,
@@ -65319,7 +65319,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -65355,7 +65355,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2506,
@@ -65413,7 +65413,7 @@
                                     "killer_display_name": "k1r\u00f8#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5396,
@@ -65541,7 +65541,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3944,
@@ -65687,7 +65687,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                "player_display_name": "Iceman Jr#NPC",
+                                "player_display_name": "KaguneFlick#5538",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5213,
@@ -65780,7 +65780,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -65820,7 +65820,7 @@
                                     "kill_time_in_round": 75654,
                                     "kill_time_in_match": 1594076,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "be1a44e0-18fc-5add-b340-aa21da314b7f",
                                     "victim_display_name": "k1r\u00f8#0000",
@@ -65839,7 +65839,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5061,
@@ -65894,7 +65894,7 @@
                                     "kill_time_in_round": 81544,
                                     "kill_time_in_match": 1599966,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                                     "victim_display_name": "messi099tsts#carli",
@@ -65913,7 +65913,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4803,
@@ -66217,7 +66217,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4842,
@@ -66364,7 +66364,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4873,
@@ -66474,7 +66474,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -66510,7 +66510,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4425,
@@ -66608,7 +66608,7 @@
                                     "killer_display_name": "I miss Kyrie#Prime",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5056,
@@ -66781,7 +66781,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4428,
@@ -66885,7 +66885,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4805,
@@ -66945,7 +66945,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4957,
@@ -67038,7 +67038,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -67087,7 +67087,7 @@
                                     "kill_time_in_round": 29582,
                                     "kill_time_in_match": 1687962,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                                     "victim_display_name": "su bomboncito#sexy",
@@ -67106,7 +67106,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4850,
@@ -67181,7 +67181,7 @@
                                     "kill_time_in_round": 31523,
                                     "kill_time_in_match": 1689903,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                                     "victim_display_name": "messi099tsts#carli",
@@ -67200,7 +67200,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4801,
@@ -67275,7 +67275,7 @@
                                     "kill_time_in_round": 39446,
                                     "kill_time_in_match": 1697826,
                                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "killer_display_name": "Iceman Jr#NPC",
+                                    "killer_display_name": "KaguneFlick#5538",
                                     "killer_team": "Blue",
                                     "victim_puuid": "be1a44e0-18fc-5add-b340-aa21da314b7f",
                                     "victim_display_name": "k1r\u00f8#0000",
@@ -67294,7 +67294,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4901,
@@ -67477,7 +67477,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5016,
@@ -67668,7 +67668,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -67713,7 +67713,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5016,
@@ -67899,7 +67899,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -67944,7 +67944,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6194,
@@ -68058,7 +68058,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5726,
@@ -68162,7 +68162,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4600,
@@ -68200,7 +68200,7 @@
                                     "killer_display_name": "I miss Kyrie#Prime",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4244,
@@ -68393,7 +68393,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -68597,7 +68597,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3225,
@@ -68697,7 +68697,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2752,
@@ -68787,7 +68787,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1662,
@@ -68879,7 +68879,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "assistant_display_name": "Iceman Jr#NPC",
+                                            "assistant_display_name": "KaguneFlick#5538",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -68933,7 +68933,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -68953,7 +68953,7 @@
                                     "killer_display_name": "messi099tsts#carli",
                                     "killer_team": "Red",
                                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "victim_display_name": "Iceman Jr#NPC",
+                                    "victim_display_name": "KaguneFlick#5538",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6463,
@@ -69125,7 +69125,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2749,
@@ -69361,7 +69361,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3590,
@@ -69497,7 +69497,7 @@
                                 },
                                 {
                                     "receiver_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                    "receiver_display_name": "Iceman Jr#NPC",
+                                    "receiver_display_name": "KaguneFlick#5538",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -69533,7 +69533,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                                            "player_display_name": "Iceman Jr#NPC",
+                                            "player_display_name": "KaguneFlick#5538",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3024,
@@ -69679,7 +69679,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8747,
@@ -69794,7 +69794,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8796,
@@ -69899,7 +69899,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9692,
@@ -69975,7 +69975,7 @@
                     "kill_time_in_match": 94404,
                     "round": 0,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "d43bea18-7799-55db-8617-b8e7d53f7820",
                     "victim_display_name": "Deorokemaru#15y16",
@@ -69994,7 +69994,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9709,
@@ -70079,7 +70079,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9335,
@@ -70131,7 +70131,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "assistant_display_name": "Iceman Jr#NPC",
+                            "assistant_display_name": "KaguneFlick#5538",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -70144,7 +70144,7 @@
                     "killer_display_name": "su bomboncito#sexy",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8758,
@@ -70286,7 +70286,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4544,
@@ -70391,7 +70391,7 @@
                     "killer_display_name": "k1r\u00f8#0000",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5586,
@@ -70861,7 +70861,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7417,
@@ -70957,7 +70957,7 @@
                     "kill_time_in_match": 233752,
                     "round": 2,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "be1a44e0-18fc-5add-b340-aa21da314b7f",
                     "victim_display_name": "k1r\u00f8#0000",
@@ -70976,7 +70976,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7235,
@@ -71062,7 +71062,7 @@
                     "kill_time_in_match": 235066,
                     "round": 2,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                     "victim_display_name": "su bomboncito#sexy",
@@ -71081,7 +71081,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7326,
@@ -71160,7 +71160,7 @@
                     "killer_display_name": "messi099tsts#carli",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7327,
@@ -71507,7 +71507,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9119,
@@ -71622,7 +71622,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9714,
@@ -71727,7 +71727,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9304,
@@ -71828,7 +71828,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9538,
@@ -71897,7 +71897,7 @@
                     "killer_display_name": "k1r\u00f8#0000",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9026,
@@ -72153,7 +72153,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5155,
@@ -72268,7 +72268,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7697,
@@ -72373,7 +72373,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4640,
@@ -72452,7 +72452,7 @@
                     "killer_display_name": "messi099tsts#carli",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4639,
@@ -72628,7 +72628,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9285,
@@ -72749,7 +72749,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9548,
@@ -72841,7 +72841,7 @@
                     "kill_time_in_match": 503316,
                     "round": 5,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                     "victim_display_name": "su bomboncito#sexy",
@@ -72860,7 +72860,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9619,
@@ -72955,7 +72955,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9665,
@@ -73040,7 +73040,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9463,
@@ -73121,7 +73121,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9031,
@@ -73170,7 +73170,7 @@
                     "killer_display_name": "k1r\u00f8#0000",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7090,
@@ -73292,7 +73292,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7924,
@@ -73407,7 +73407,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8780,
@@ -73512,7 +73512,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7568,
@@ -73623,7 +73623,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7406,
@@ -73705,7 +73705,7 @@
                     "kill_time_in_match": 609951,
                     "round": 6,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                     "victim_display_name": "messi099tsts#carli",
@@ -73724,7 +73724,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7414,
@@ -73809,7 +73809,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7414,
@@ -73874,7 +73874,7 @@
                     "killer_display_name": "I miss Kyrie#Prime",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7414,
@@ -74026,7 +74026,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8803,
@@ -74141,7 +74141,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9292,
@@ -74236,7 +74236,7 @@
                     "killer_display_name": "su bomboncito#sexy",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8108,
@@ -74633,7 +74633,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7352,
@@ -74748,7 +74748,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8538,
@@ -74853,7 +74853,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8423,
@@ -74932,7 +74932,7 @@
                     "killer_display_name": "I miss Kyrie#Prime",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7988,
@@ -75325,7 +75325,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9411,
@@ -75421,7 +75421,7 @@
                     "kill_time_in_match": 856965,
                     "round": 9,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                     "victim_display_name": "su bomboncito#sexy",
@@ -75440,7 +75440,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9708,
@@ -75551,7 +75551,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9454,
@@ -75646,7 +75646,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9478,
@@ -75737,7 +75737,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9395,
@@ -75802,7 +75802,7 @@
                     "killer_display_name": "k1r\u00f8#0000",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9731,
@@ -75883,7 +75883,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6147,
@@ -76004,7 +76004,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6222,
@@ -76109,7 +76109,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7619,
@@ -76204,7 +76204,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6747,
@@ -76289,7 +76289,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8310,
@@ -76370,7 +76370,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8738,
@@ -76435,7 +76435,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8804,
@@ -76500,7 +76500,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8041,
@@ -76555,7 +76555,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7219,
@@ -76581,7 +76581,7 @@
                     "kill_time_in_match": 981955,
                     "round": 10,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                     "victim_display_name": "messi099tsts#carli",
@@ -76600,7 +76600,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6978,
@@ -76635,7 +76635,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6702,
@@ -76750,7 +76750,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6455,
@@ -76855,7 +76855,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7062,
@@ -76932,7 +76932,7 @@
                         },
                         {
                             "assistant_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "assistant_display_name": "Iceman Jr#NPC",
+                            "assistant_display_name": "KaguneFlick#5538",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -76961,7 +76961,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7062,
@@ -77052,7 +77052,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6156,
@@ -77114,7 +77114,7 @@
                     "kill_time_in_match": 1103636,
                     "round": 11,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                     "victim_display_name": "messi099tsts#carli",
@@ -77133,7 +77133,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6525,
@@ -77179,7 +77179,7 @@
                     "kill_time_in_match": 1110529,
                     "round": 11,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "65721c82-9fe5-5af9-9b47-ffc308f92bee",
                     "victim_display_name": "I miss Kyrie#Prime",
@@ -77198,7 +77198,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7237,
@@ -77234,7 +77234,7 @@
                     "kill_time_in_match": 1168040,
                     "round": 12,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "d43bea18-7799-55db-8617-b8e7d53f7820",
                     "victim_display_name": "Deorokemaru#15y16",
@@ -77253,7 +77253,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4289,
@@ -77368,7 +77368,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7214,
@@ -77479,7 +77479,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7096,
@@ -77561,7 +77561,7 @@
                     "kill_time_in_match": 1184280,
                     "round": 12,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                     "victim_display_name": "messi099tsts#carli",
@@ -77580,7 +77580,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7096,
@@ -77646,7 +77646,7 @@
                     "kill_time_in_match": 1185909,
                     "round": 12,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "65721c82-9fe5-5af9-9b47-ffc308f92bee",
                     "victim_display_name": "I miss Kyrie#Prime",
@@ -77665,7 +77665,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7176,
@@ -77740,7 +77740,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7536,
@@ -77782,7 +77782,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "assistant_display_name": "Iceman Jr#NPC",
+                            "assistant_display_name": "KaguneFlick#5538",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -77811,7 +77811,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1664,
@@ -77926,7 +77926,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5445,
@@ -78031,7 +78031,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4988,
@@ -78126,7 +78126,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5006,
@@ -78217,7 +78217,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7780,
@@ -78292,7 +78292,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4330,
@@ -78407,7 +78407,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5687,
@@ -78499,7 +78499,7 @@
                     "kill_time_in_match": 1354210,
                     "round": 14,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "be1a44e0-18fc-5add-b340-aa21da314b7f",
                     "victim_display_name": "k1r\u00f8#0000",
@@ -78518,7 +78518,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6506,
@@ -78613,7 +78613,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6321,
@@ -78698,7 +78698,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6082,
@@ -78773,7 +78773,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5743,
@@ -78844,7 +78844,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3944,
@@ -78965,7 +78965,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3888,
@@ -79070,7 +79070,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2474,
@@ -79171,7 +79171,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2507,
@@ -79256,7 +79256,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2506,
@@ -79331,7 +79331,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3701,
@@ -79383,7 +79383,7 @@
                     "kill_time_in_match": 1479829,
                     "round": 15,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                     "victim_display_name": "su bomboncito#sexy",
@@ -79402,7 +79402,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5190,
@@ -79447,7 +79447,7 @@
                     "killer_display_name": "k1r\u00f8#0000",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5396,
@@ -79514,7 +79514,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4425,
@@ -79629,7 +79629,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4428,
@@ -79734,7 +79734,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4842,
@@ -79829,7 +79829,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4873,
@@ -79895,7 +79895,7 @@
                     "kill_time_in_match": 1594076,
                     "round": 16,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "be1a44e0-18fc-5add-b340-aa21da314b7f",
                     "victim_display_name": "k1r\u00f8#0000",
@@ -79914,7 +79914,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5061,
@@ -79970,7 +79970,7 @@
                     "kill_time_in_match": 1599966,
                     "round": 16,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                     "victim_display_name": "messi099tsts#carli",
@@ -79989,7 +79989,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4803,
@@ -80054,7 +80054,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4805,
@@ -80115,7 +80115,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4957,
@@ -80154,7 +80154,7 @@
                     "killer_display_name": "I miss Kyrie#Prime",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5056,
@@ -80215,7 +80215,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6194,
@@ -80330,7 +80330,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5726,
@@ -80416,7 +80416,7 @@
                     "kill_time_in_match": 1687962,
                     "round": 17,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "8c3ec3f8-fd00-5fa3-b06c-1aff573e4231",
                     "victim_display_name": "su bomboncito#sexy",
@@ -80435,7 +80435,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4850,
@@ -80511,7 +80511,7 @@
                     "kill_time_in_match": 1689903,
                     "round": 17,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "fca2ed80-550a-5ffc-b097-9c3b2d41669b",
                     "victim_display_name": "messi099tsts#carli",
@@ -80530,7 +80530,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4801,
@@ -80625,7 +80625,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5016,
@@ -80716,7 +80716,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5016,
@@ -80778,7 +80778,7 @@
                     "kill_time_in_match": 1697826,
                     "round": 17,
                     "killer_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "killer_display_name": "Iceman Jr#NPC",
+                    "killer_display_name": "KaguneFlick#5538",
                     "killer_team": "Blue",
                     "victim_puuid": "be1a44e0-18fc-5add-b340-aa21da314b7f",
                     "victim_display_name": "k1r\u00f8#0000",
@@ -80797,7 +80797,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4901,
@@ -80868,7 +80868,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4600,
@@ -80907,7 +80907,7 @@
                     "killer_display_name": "I miss Kyrie#Prime",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4244,
@@ -80968,7 +80968,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3024,
@@ -81083,7 +81083,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3590,
@@ -81194,7 +81194,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3225,
@@ -81295,7 +81295,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2752,
@@ -81386,7 +81386,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2749,
@@ -81467,7 +81467,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "player_display_name": "Iceman Jr#NPC",
+                            "player_display_name": "KaguneFlick#5538",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1662,
@@ -81522,7 +81522,7 @@
                     "killer_display_name": "messi099tsts#carli",
                     "killer_team": "Red",
                     "victim_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                    "victim_display_name": "Iceman Jr#NPC",
+                    "victim_display_name": "KaguneFlick#5538",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6463,
@@ -81621,7 +81621,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "5bb3838f-35c6-5f35-82b3-70528ee587c5",
-                            "assistant_display_name": "Iceman Jr#NPC",
+                            "assistant_display_name": "KaguneFlick#5538",
                             "assistant_team": "Blue"
                         }
                     ]
