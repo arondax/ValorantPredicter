@@ -55399,8 +55399,8 @@
                     },
                     {
                         "puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                        "name": "ksziin",
-                        "tag": "6020",
+                        "name": "CmPunk",
+                        "tag": "cmpk",
                         "team": "Blue",
                         "level": 193,
                         "character": "Reyna",
@@ -56279,8 +56279,8 @@
                     },
                     {
                         "puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                        "name": "ksziin",
-                        "tag": "6020",
+                        "name": "CmPunk",
+                        "tag": "cmpk",
                         "team": "Blue",
                         "level": 193,
                         "character": "Reyna",
@@ -56409,7 +56409,7 @@
                             },
                             {
                                 "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                "player_display_name": "ksziin#6020",
+                                "player_display_name": "CmPunk#cmpk",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8703,
@@ -56622,7 +56622,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8703,
@@ -56873,7 +56873,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -56939,7 +56939,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -56995,7 +56995,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8703,
@@ -57053,7 +57053,7 @@
                                     "killer_display_name": "inestequiero#777",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9133,
@@ -57245,7 +57245,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4808,
@@ -57349,7 +57349,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5208,
@@ -57754,7 +57754,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4929,
@@ -57993,7 +57993,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "assistant_display_name": "ksziin#6020",
+                                            "assistant_display_name": "CmPunk#cmpk",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -58101,7 +58101,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -58177,7 +58177,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4557,
@@ -58225,7 +58225,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8956,
@@ -58337,7 +58337,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -58511,7 +58511,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5690,
@@ -58870,7 +58870,7 @@
                             },
                             {
                                 "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                "player_display_name": "ksziin#6020",
+                                "player_display_name": "CmPunk#cmpk",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5824,
@@ -59037,7 +59037,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5391,
@@ -59111,7 +59111,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7175,
@@ -59443,7 +59443,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6004,
@@ -59519,7 +59519,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -59568,7 +59568,7 @@
                                     "kill_time_in_round": 64803,
                                     "kill_time_in_match": 300343,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "237af4fd-aafe-5aab-b5c8-7e1f5243f0d1",
                                     "victim_display_name": "PocheteNocturno#1830",
@@ -59597,7 +59597,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7543,
@@ -59648,7 +59648,7 @@
                                     "kill_time_in_round": 75205,
                                     "kill_time_in_match": 310745,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                                     "victim_display_name": "Vitoria#8270",
@@ -59677,7 +59677,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6362,
@@ -59790,7 +59790,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -59884,7 +59884,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5932,
@@ -59974,7 +59974,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5825,
@@ -60061,7 +60061,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -60081,7 +60081,7 @@
                                     "killer_display_name": "xTheAnimal3#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5266,
@@ -60239,7 +60239,7 @@
                             },
                             {
                                 "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                "player_display_name": "ksziin#6020",
+                                "player_display_name": "CmPunk#cmpk",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7826,
@@ -60666,7 +60666,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8751,
@@ -60752,7 +60752,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -61009,7 +61009,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -61029,7 +61029,7 @@
                                     "killer_display_name": "RucunGamer#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7997,
@@ -61232,7 +61232,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9180,
@@ -61477,7 +61477,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6524,
@@ -61720,7 +61720,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6165,
@@ -61814,7 +61814,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2455,
@@ -62035,7 +62035,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -62066,7 +62066,7 @@
                                     "kill_time_in_round": 82487,
                                     "kill_time_in_match": 517848,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                                     "victim_display_name": "inestequiero#777",
@@ -62115,7 +62115,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3275,
@@ -62187,7 +62187,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -62207,7 +62207,7 @@
                                     "killer_display_name": "inestequiero#777",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6697,
@@ -62484,7 +62484,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7262,
@@ -62794,7 +62794,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9655,
@@ -63094,7 +63094,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -63179,7 +63179,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8851,
@@ -63243,7 +63243,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9366,
@@ -63425,7 +63425,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -64006,7 +64006,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "assistant_display_name": "ksziin#6020",
+                                            "assistant_display_name": "CmPunk#cmpk",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -64198,7 +64198,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5920,
@@ -64434,7 +64434,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7064,
@@ -64731,7 +64731,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -64806,7 +64806,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -64826,7 +64826,7 @@
                                     "killer_display_name": "inestequiero#777",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7453,
@@ -65278,7 +65278,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3087,
@@ -65678,7 +65678,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -65809,7 +65809,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2585,
@@ -65981,7 +65981,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -66010,7 +66010,7 @@
                                     "killer_display_name": "RucunGamer#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2201,
@@ -66269,7 +66269,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1633,
@@ -66488,7 +66488,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6899,
@@ -66634,7 +66634,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9840,
@@ -66718,7 +66718,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8216,
@@ -66916,7 +66916,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6596,
@@ -67010,7 +67010,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7349,
@@ -67108,7 +67108,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -67240,7 +67240,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7365,
@@ -67863,7 +67863,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "assistant_display_name": "ksziin#6020",
+                                            "assistant_display_name": "CmPunk#cmpk",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -67908,7 +67908,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -67937,7 +67937,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5256,
@@ -68195,7 +68195,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -68585,7 +68585,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -68727,7 +68727,7 @@
                             },
                             {
                                 "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                "player_display_name": "ksziin#6020",
+                                "player_display_name": "CmPunk#cmpk",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9614,
@@ -68774,7 +68774,7 @@
                         },
                         "defused_by": {
                             "puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "display_name": "ksziin#6020",
+                            "display_name": "CmPunk#cmpk",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 61876,
@@ -68791,7 +68791,7 @@
                             },
                             {
                                 "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                "player_display_name": "ksziin#6020",
+                                "player_display_name": "CmPunk#cmpk",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6536,
@@ -69074,7 +69074,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8232,
@@ -69158,7 +69158,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7540,
@@ -69222,7 +69222,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6640,
@@ -69316,7 +69316,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -69347,7 +69347,7 @@
                                     "kill_time_in_round": 26997,
                                     "kill_time_in_match": 1065142,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                                     "victim_display_name": "inestequiero#777",
@@ -69396,7 +69396,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9559,
@@ -69447,7 +69447,7 @@
                                     "kill_time_in_round": 50865,
                                     "kill_time_in_match": 1089010,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                                     "victim_display_name": "RucunGamer#EUW",
@@ -69476,7 +69476,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7425,
@@ -69660,7 +69660,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8711,
@@ -69754,7 +69754,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7728,
@@ -69932,7 +69932,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7494,
@@ -70143,7 +70143,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6697,
@@ -70227,7 +70227,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6176,
@@ -70373,7 +70373,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6922,
@@ -70487,7 +70487,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6800,
@@ -70705,7 +70705,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -70727,7 +70727,7 @@
                                     "kill_time_in_round": 45419,
                                     "kill_time_in_match": 1182443,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                                     "victim_display_name": "RucunGamer#EUW",
@@ -70746,7 +70746,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5880,
@@ -70874,7 +70874,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6514,
@@ -70978,7 +70978,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -71034,7 +71034,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5784,
@@ -71088,7 +71088,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4878,
@@ -71132,7 +71132,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6167,
@@ -71449,7 +71449,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1529,
@@ -71733,7 +71733,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5411,
@@ -71837,7 +71837,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4759,
@@ -71921,7 +71921,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1529,
@@ -72008,7 +72008,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -72172,7 +72172,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1608,
@@ -72311,7 +72311,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -72331,7 +72331,7 @@
                                     "killer_display_name": "Vitoria#8270",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5448,
@@ -72755,7 +72755,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -72849,7 +72849,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6094,
@@ -72918,7 +72918,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6203,
@@ -73220,7 +73220,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -73277,7 +73277,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -73732,7 +73732,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4253,
@@ -73774,7 +73774,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "assistant_display_name": "ksziin#6020",
+                                            "assistant_display_name": "CmPunk#cmpk",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -73922,7 +73922,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -74016,7 +74016,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4963,
@@ -74241,7 +74241,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -74391,7 +74391,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -74457,7 +74457,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5379,
@@ -74505,7 +74505,7 @@
                                     "killer_display_name": "xTheAnimal3#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5792,
@@ -74860,7 +74860,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3159,
@@ -75274,7 +75274,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -75296,7 +75296,7 @@
                                     "kill_time_in_round": 23918,
                                     "kill_time_in_match": 1490762,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                                     "victim_display_name": "inestequiero#777",
@@ -75335,7 +75335,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2318,
@@ -75440,7 +75440,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -75516,7 +75516,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2986,
@@ -75745,7 +75745,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -75765,7 +75765,7 @@
                                     "killer_display_name": "xTheAnimal3#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2227,
@@ -75937,7 +75937,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2859,
@@ -76574,7 +76574,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2362,
@@ -76678,7 +76678,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2526,
@@ -76758,7 +76758,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -76834,7 +76834,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3286,
@@ -76892,7 +76892,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2544,
@@ -77004,7 +77004,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -78054,7 +78054,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -78074,7 +78074,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3365,
@@ -78206,7 +78206,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -78494,7 +78494,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2757,
@@ -78770,7 +78770,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3786,
@@ -78884,7 +78884,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3767,
@@ -79178,7 +79178,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "assistant_display_name": "ksziin#6020",
+                                            "assistant_display_name": "CmPunk#cmpk",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -79372,7 +79372,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -79523,7 +79523,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -79543,7 +79543,7 @@
                                     "killer_display_name": "xTheAnimal3#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6120,
@@ -79846,7 +79846,7 @@
                             },
                             {
                                 "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                "player_display_name": "ksziin#6020",
+                                "player_display_name": "CmPunk#cmpk",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8934,
@@ -79955,7 +79955,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6232,
@@ -80154,7 +80154,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4151,
@@ -80330,7 +80330,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4098,
@@ -80430,7 +80430,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5850,
@@ -80548,7 +80548,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -80570,7 +80570,7 @@
                                     "kill_time_in_round": 66766,
                                     "kill_time_in_match": 1963984,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                                     "victim_display_name": "Vitoria#8270",
@@ -80629,7 +80629,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9077,
@@ -80897,7 +80897,7 @@
                             },
                             {
                                 "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                "player_display_name": "ksziin#6020",
+                                "player_display_name": "CmPunk#cmpk",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9036,
@@ -81040,7 +81040,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7461,
@@ -81300,7 +81300,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -81384,7 +81384,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8890,
@@ -81418,7 +81418,7 @@
                                     "killer_display_name": "PocheteNocturno#1830",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8955,
@@ -81616,7 +81616,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -81647,7 +81647,7 @@
                                     "kill_time_in_round": 9836,
                                     "kill_time_in_match": 2010834,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                                     "victim_display_name": "inestequiero#777",
@@ -81716,7 +81716,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3901,
@@ -81761,7 +81761,7 @@
                                     "kill_time_in_round": 26454,
                                     "kill_time_in_match": 2027452,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "cb922fc3-c993-5945-a3d4-bf6688380e5d",
                                     "victim_display_name": "xTheAnimal3#EUW",
@@ -81820,7 +81820,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7323,
@@ -82017,7 +82017,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4575,
@@ -82221,7 +82221,7 @@
                             },
                             {
                                 "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                "player_display_name": "ksziin#6020",
+                                "player_display_name": "CmPunk#cmpk",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6166,
@@ -82330,7 +82330,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4375,
@@ -82523,7 +82523,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2978,
@@ -82627,7 +82627,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2777,
@@ -82711,7 +82711,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1947,
@@ -82743,7 +82743,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "assistant_display_name": "ksziin#6020",
+                                            "assistant_display_name": "CmPunk#cmpk",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -82839,7 +82839,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -82915,7 +82915,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2670,
@@ -83007,7 +83007,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -83038,7 +83038,7 @@
                                     "kill_time_in_round": 46542,
                                     "kill_time_in_match": 2149445,
                                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "killer_display_name": "ksziin#6020",
+                                    "killer_display_name": "CmPunk#cmpk",
                                     "killer_team": "Blue",
                                     "victim_puuid": "cb922fc3-c993-5945-a3d4-bf6688380e5d",
                                     "victim_display_name": "xTheAnimal3#EUW",
@@ -83097,7 +83097,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4093,
@@ -83251,7 +83251,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -83387,7 +83387,7 @@
                                         },
                                         {
                                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                            "player_display_name": "ksziin#6020",
+                                            "player_display_name": "CmPunk#cmpk",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4592,
@@ -84076,7 +84076,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -84175,7 +84175,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "receiver_display_name": "ksziin#6020",
+                                    "receiver_display_name": "CmPunk#cmpk",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 1,
@@ -84213,7 +84213,7 @@
                                     "killer_display_name": "RucunGamer#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                                    "victim_display_name": "ksziin#6020",
+                                    "victim_display_name": "CmPunk#cmpk",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3651,
@@ -84660,7 +84660,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4808,
@@ -84765,7 +84765,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5208,
@@ -84860,7 +84860,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8703,
@@ -84955,7 +84955,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8703,
@@ -85004,7 +85004,7 @@
                     "killer_display_name": "inestequiero#777",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9133,
@@ -85216,7 +85216,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4929,
@@ -85321,7 +85321,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4557,
@@ -85416,7 +85416,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5690,
@@ -85471,7 +85471,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8956,
@@ -85624,7 +85624,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "assistant_display_name": "ksziin#6020",
+                            "assistant_display_name": "CmPunk#cmpk",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -85879,7 +85879,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5391,
@@ -85984,7 +85984,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5932,
@@ -86085,7 +86085,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6004,
@@ -86170,7 +86170,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5825,
@@ -86222,7 +86222,7 @@
                     "kill_time_in_match": 300343,
                     "round": 2,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "237af4fd-aafe-5aab-b5c8-7e1f5243f0d1",
                     "victim_display_name": "PocheteNocturno#1830",
@@ -86251,7 +86251,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7543,
@@ -86332,7 +86332,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7175,
@@ -86374,7 +86374,7 @@
                     "kill_time_in_match": 310745,
                     "round": 2,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                     "victim_display_name": "Vitoria#8270",
@@ -86403,7 +86403,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6362,
@@ -86432,7 +86432,7 @@
                     "killer_display_name": "xTheAnimal3#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5266,
@@ -86568,7 +86568,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9180,
@@ -86673,7 +86673,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8751,
@@ -86732,7 +86732,7 @@
                     "killer_display_name": "RucunGamer#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7997,
@@ -87124,7 +87124,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6165,
@@ -87229,7 +87229,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6524,
@@ -87330,7 +87330,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7262,
@@ -87379,7 +87379,7 @@
                     "killer_display_name": "inestequiero#777",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6697,
@@ -87542,7 +87542,7 @@
                     "kill_time_in_match": 517848,
                     "round": 4,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                     "victim_display_name": "inestequiero#777",
@@ -87591,7 +87591,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3275,
@@ -87677,7 +87677,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2455,
@@ -87752,7 +87752,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8851,
@@ -87873,7 +87873,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9655,
@@ -87928,7 +87928,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9366,
@@ -88381,7 +88381,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5920,
@@ -88486,7 +88486,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7064,
@@ -88541,7 +88541,7 @@
                     "killer_display_name": "inestequiero#777",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7453,
@@ -88714,7 +88714,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "assistant_display_name": "ksziin#6020",
+                            "assistant_display_name": "CmPunk#cmpk",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -89001,7 +89001,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3087,
@@ -89106,7 +89106,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2585,
@@ -89212,7 +89212,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1633,
@@ -89277,7 +89277,7 @@
                     "killer_display_name": "RucunGamer#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2201,
@@ -89686,7 +89686,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6596,
@@ -89801,7 +89801,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6899,
@@ -89896,7 +89896,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7365,
@@ -89981,7 +89981,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9840,
@@ -90066,7 +90066,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8216,
@@ -90141,7 +90141,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7349,
@@ -90160,7 +90160,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5256,
@@ -90571,7 +90571,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "assistant_display_name": "ksziin#6020",
+                            "assistant_display_name": "CmPunk#cmpk",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -90852,7 +90852,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8232,
@@ -90957,7 +90957,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8711,
@@ -91013,7 +91013,7 @@
                     "kill_time_in_match": 1065142,
                     "round": 10,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                     "victim_display_name": "inestequiero#777",
@@ -91062,7 +91062,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9559,
@@ -91153,7 +91153,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7728,
@@ -91228,7 +91228,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7494,
@@ -91303,7 +91303,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7540,
@@ -91339,7 +91339,7 @@
                     "kill_time_in_match": 1089010,
                     "round": 10,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                     "victim_display_name": "RucunGamer#EUW",
@@ -91368,7 +91368,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7425,
@@ -91429,7 +91429,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6640,
@@ -91510,7 +91510,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6922,
@@ -91625,7 +91625,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6800,
@@ -91736,7 +91736,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6697,
@@ -91821,7 +91821,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6514,
@@ -91912,7 +91912,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6176,
@@ -91977,7 +91977,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5784,
@@ -92032,7 +92032,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4878,
@@ -92077,7 +92077,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6167,
@@ -92103,7 +92103,7 @@
                     "kill_time_in_match": 1182443,
                     "round": 11,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "12d0c615-5ec1-51aa-bb68-a99693396d60",
                     "victim_display_name": "RucunGamer#EUW",
@@ -92122,7 +92122,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5880,
@@ -92208,7 +92208,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5411,
@@ -92313,7 +92313,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4759,
@@ -92408,7 +92408,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1608,
@@ -92509,7 +92509,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1529,
@@ -92590,7 +92590,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1529,
@@ -92650,7 +92650,7 @@
                     "killer_display_name": "Vitoria#8270",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5448,
@@ -92771,7 +92771,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6094,
@@ -92841,7 +92841,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6203,
@@ -93344,7 +93344,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4253,
@@ -93386,7 +93386,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "assistant_display_name": "ksziin#6020",
+                            "assistant_display_name": "CmPunk#cmpk",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -93455,7 +93455,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4963,
@@ -93550,7 +93550,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5379,
@@ -93599,7 +93599,7 @@
                     "killer_display_name": "xTheAnimal3#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5792,
@@ -93897,7 +93897,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2986,
@@ -94008,7 +94008,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3159,
@@ -94109,7 +94109,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2859,
@@ -94165,7 +94165,7 @@
                     "kill_time_in_match": 1490762,
                     "round": 15,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                     "victim_display_name": "inestequiero#777",
@@ -94204,7 +94204,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2318,
@@ -94259,7 +94259,7 @@
                     "killer_display_name": "xTheAnimal3#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2227,
@@ -94647,7 +94647,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3286,
@@ -94762,7 +94762,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2362,
@@ -94867,7 +94867,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2526,
@@ -94906,7 +94906,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2544,
@@ -95321,7 +95321,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2757,
@@ -95380,7 +95380,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3365,
@@ -95938,7 +95938,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3786,
@@ -96053,7 +96053,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3767,
@@ -96102,7 +96102,7 @@
                     "killer_display_name": "xTheAnimal3#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6120,
@@ -96275,7 +96275,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "assistant_display_name": "ksziin#6020",
+                            "assistant_display_name": "CmPunk#cmpk",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -96555,7 +96555,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4151,
@@ -96670,7 +96670,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4098,
@@ -96771,7 +96771,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5850,
@@ -96866,7 +96866,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6232,
@@ -96892,7 +96892,7 @@
                     "kill_time_in_match": 1963984,
                     "round": 19,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "b0218d21-8bca-5951-b2b9-d40e3fb7bd30",
                     "victim_display_name": "Vitoria#8270",
@@ -96951,7 +96951,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9077,
@@ -96967,7 +96967,7 @@
                     "kill_time_in_match": 2010834,
                     "round": 20,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "747e9c79-5c6c-5d6d-a1ce-6ce1925b04f1",
                     "victim_display_name": "inestequiero#777",
@@ -97036,7 +97036,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3901,
@@ -97141,7 +97141,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4575,
@@ -97246,7 +97246,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7461,
@@ -97282,7 +97282,7 @@
                     "kill_time_in_match": 2027452,
                     "round": 20,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "cb922fc3-c993-5945-a3d4-bf6688380e5d",
                     "victim_display_name": "xTheAnimal3#EUW",
@@ -97341,7 +97341,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7323,
@@ -97416,7 +97416,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8890,
@@ -97451,7 +97451,7 @@
                     "killer_display_name": "PocheteNocturno#1830",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8955,
@@ -97725,7 +97725,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2670,
@@ -97846,7 +97846,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2978,
@@ -97951,7 +97951,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2777,
@@ -98036,7 +98036,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1947,
@@ -98068,7 +98068,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "assistant_display_name": "ksziin#6020",
+                            "assistant_display_name": "CmPunk#cmpk",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -98078,7 +98078,7 @@
                     "kill_time_in_match": 2149445,
                     "round": 21,
                     "killer_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "killer_display_name": "ksziin#6020",
+                    "killer_display_name": "CmPunk#cmpk",
                     "killer_team": "Blue",
                     "victim_puuid": "cb922fc3-c993-5945-a3d4-bf6688380e5d",
                     "victim_display_name": "xTheAnimal3#EUW",
@@ -98137,7 +98137,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4093,
@@ -98212,7 +98212,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4592,
@@ -98287,7 +98287,7 @@
                         },
                         {
                             "player_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                            "player_display_name": "ksziin#6020",
+                            "player_display_name": "CmPunk#cmpk",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4375,
@@ -98312,7 +98312,7 @@
                     "killer_display_name": "RucunGamer#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "1b2c90fc-5d90-58d3-a09f-320683e9254d",
-                    "victim_display_name": "ksziin#6020",
+                    "victim_display_name": "CmPunk#cmpk",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3651,
