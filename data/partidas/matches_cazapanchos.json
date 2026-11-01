@@ -170956,7 +170956,7 @@
                     {
                         "puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
                         "name": "Silly Cat",
-                        "tag": "right",
+                        "tag": "S1lly",
                         "team": "Team_7",
                         "level": 41,
                         "character": "Unknown",
@@ -171953,7 +171953,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [],
                             "damage": 0,
@@ -172219,7 +172219,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -172248,7 +172248,7 @@
                                     "killer_display_name": "Lazyx#1883",
                                     "killer_team": "Team_2",
                                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "victim_display_name": "Silly Cat#right",
+                                    "victim_display_name": "Silly Cat#S1lly",
                                     "victim_team": "Team_7",
                                     "victim_death_location": {
                                         "x": -1266,
@@ -173526,7 +173526,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -1276,
@@ -173959,7 +173959,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -173979,7 +173979,7 @@
                                     "killer_display_name": "Chomusuke#mommy",
                                     "killer_team": "Team_1",
                                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "victim_display_name": "Silly Cat#right",
+                                    "victim_display_name": "Silly Cat#S1lly",
                                     "victim_team": "Team_7",
                                     "victim_death_location": {
                                         "x": 5860,
@@ -174151,7 +174151,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -174566,7 +174566,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5662,
@@ -174886,7 +174886,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5664,
@@ -175902,7 +175902,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5589,
@@ -176317,7 +176317,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -1137,
@@ -176431,7 +176431,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1037,
@@ -176503,7 +176503,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -176525,7 +176525,7 @@
                                     "kill_time_in_round": 16730,
                                     "kill_time_in_match": 272361,
                                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "killer_display_name": "Silly Cat#right",
+                                    "killer_display_name": "Silly Cat#S1lly",
                                     "killer_team": "Team_7",
                                     "victim_puuid": "2e29e9ee-6f58-5558-af85-8bdceff30244",
                                     "victim_display_name": "funkylama101#feng",
@@ -176584,7 +176584,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 3792,
@@ -176796,7 +176796,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5669,
@@ -177139,7 +177139,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -1003,
@@ -177470,7 +177470,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4383,
@@ -177677,7 +177677,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4139,
@@ -177899,7 +177899,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4188,
@@ -178049,7 +178049,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 3762,
@@ -178360,7 +178360,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [],
                             "damage": 0,
@@ -178493,7 +178493,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -4100,
@@ -178690,7 +178690,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -4452,
@@ -178976,7 +178976,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -5935,
@@ -179142,7 +179142,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -4264,
@@ -179429,7 +179429,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -4071,
@@ -179636,7 +179636,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -3689,
@@ -179798,7 +179798,7 @@
                                 },
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 4,
                                     "headshots": 1,
@@ -179884,7 +179884,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -3809,
@@ -179968,7 +179968,7 @@
                                     "killer_display_name": "SL\u00d8W#M\u00d8\u00d8",
                                     "killer_team": "Team_3",
                                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "victim_display_name": "Silly Cat#right",
+                                    "victim_display_name": "Silly Cat#S1lly",
                                     "victim_team": "Team_7",
                                     "victim_death_location": {
                                         "x": -5314,
@@ -180190,7 +180190,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -4909,
@@ -180387,7 +180387,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -4436,
@@ -180616,7 +180616,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 923,
@@ -180780,7 +180780,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1532,
@@ -180876,7 +180876,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -180907,7 +180907,7 @@
                                     "kill_time_in_round": 28306,
                                     "kill_time_in_match": 401091,
                                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "killer_display_name": "Silly Cat#right",
+                                    "killer_display_name": "Silly Cat#S1lly",
                                     "killer_team": "Team_7",
                                     "victim_puuid": "4b8fb346-096d-57c3-9a09-a9fb1a7c2657",
                                     "victim_display_name": "Imhotep#2382",
@@ -180956,7 +180956,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1276,
@@ -181017,7 +181017,7 @@
                                     "kill_time_in_round": 33207,
                                     "kill_time_in_match": 405992,
                                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "killer_display_name": "Silly Cat#right",
+                                    "killer_display_name": "Silly Cat#S1lly",
                                     "killer_team": "Team_7",
                                     "victim_puuid": "f0b80abf-602a-5d8b-8268-d1bacea51d7d",
                                     "victim_display_name": "FrancoWasGreat#7960",
@@ -181066,7 +181066,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 202,
@@ -181361,7 +181361,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1260,
@@ -181495,7 +181495,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1299,
@@ -181743,7 +181743,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1053,
@@ -182104,7 +182104,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 234,
@@ -182185,7 +182185,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -182323,7 +182323,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1532,
@@ -182603,7 +182603,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1394,
@@ -182707,7 +182707,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -706,
@@ -182887,7 +182887,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5812,
@@ -182983,7 +182983,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -183155,7 +183155,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5581,
@@ -183299,7 +183299,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5814,
@@ -183351,7 +183351,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "assistant_display_name": "Silly Cat#right",
+                                            "assistant_display_name": "Silly Cat#S1lly",
                                             "assistant_team": "Team_7"
                                         }
                                     ]
@@ -183492,7 +183492,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5676,
@@ -183760,7 +183760,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5990,
@@ -183871,7 +183871,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -184041,7 +184041,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -670,
@@ -184233,7 +184233,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 5676,
@@ -184618,7 +184618,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 6148,
@@ -184794,7 +184794,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 282,
@@ -185007,7 +185007,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1106,
@@ -185103,7 +185103,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -185125,7 +185125,7 @@
                                     "kill_time_in_round": 59476,
                                     "kill_time_in_match": 543131,
                                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "killer_display_name": "Silly Cat#right",
+                                    "killer_display_name": "Silly Cat#S1lly",
                                     "killer_team": "Team_7",
                                     "victim_puuid": "e4f532f6-ff8b-508e-b4ce-f36f615a31c3",
                                     "victim_display_name": "lurking b main#ans",
@@ -185365,7 +185365,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1614,
@@ -185978,7 +185978,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -186007,7 +186007,7 @@
                                     "killer_display_name": "lurking b main#ans",
                                     "killer_team": "Team_4",
                                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "victim_display_name": "Silly Cat#right",
+                                    "victim_display_name": "Silly Cat#S1lly",
                                     "victim_team": "Team_7",
                                     "victim_death_location": {
                                         "x": -400,
@@ -186376,7 +186376,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 996,
@@ -186593,7 +186593,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1617,
@@ -186809,7 +186809,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1105,
@@ -187225,7 +187225,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -1843,
@@ -187385,7 +187385,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -1910,
@@ -187497,7 +187497,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [],
                             "damage": 0,
@@ -187659,7 +187659,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -1843,
@@ -187793,7 +187793,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -337,
@@ -187835,7 +187835,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "assistant_display_name": "Silly Cat#right",
+                                            "assistant_display_name": "Silly Cat#S1lly",
                                             "assistant_team": "Team_7"
                                         }
                                     ]
@@ -188163,7 +188163,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -1744,
@@ -188297,7 +188297,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -783,
@@ -188720,7 +188720,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -1631,
@@ -188903,7 +188903,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -1543,
@@ -189085,7 +189085,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -290,
@@ -189299,7 +189299,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4380,
@@ -189395,7 +189395,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -189426,7 +189426,7 @@
                                     "kill_time_in_round": 20113,
                                     "kill_time_in_match": 633399,
                                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "killer_display_name": "Silly Cat#right",
+                                    "killer_display_name": "Silly Cat#S1lly",
                                     "killer_team": "Team_7",
                                     "victim_puuid": "f0b80abf-602a-5d8b-8268-d1bacea51d7d",
                                     "victim_display_name": "FrancoWasGreat#7960",
@@ -189505,7 +189505,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4314,
@@ -189560,7 +189560,7 @@
                                     "kill_time_in_round": 23591,
                                     "kill_time_in_match": 636877,
                                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "killer_display_name": "Silly Cat#right",
+                                    "killer_display_name": "Silly Cat#S1lly",
                                     "killer_team": "Team_7",
                                     "victim_puuid": "4b8fb346-096d-57c3-9a09-a9fb1a7c2657",
                                     "victim_display_name": "Imhotep#2382",
@@ -189629,7 +189629,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4452,
@@ -189874,7 +189874,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4331,
@@ -190249,7 +190249,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -86,
@@ -190435,7 +190435,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4201,
@@ -190566,7 +190566,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -190756,7 +190756,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4331,
@@ -190963,7 +190963,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 4442,
@@ -191211,7 +191211,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [],
                             "damage": 0,
@@ -191386,7 +191386,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 88,
@@ -191750,7 +191750,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -38,
@@ -191967,7 +191967,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 88,
@@ -192071,7 +192071,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -113,
@@ -192315,7 +192315,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -495,
@@ -192449,7 +192449,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 88,
@@ -192678,7 +192678,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -178,
@@ -192864,7 +192864,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -255,
@@ -192981,7 +192981,7 @@
                                 },
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -193077,7 +193077,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -5697,
@@ -193143,7 +193143,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [],
                             "damage": 0,
@@ -193242,7 +193242,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 9,
                                     "headshots": 0,
@@ -193262,7 +193262,7 @@
                                     "killer_display_name": "Conni#Daddy",
                                     "killer_team": "Team_1",
                                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "victim_display_name": "Silly Cat#right",
+                                    "victim_display_name": "Silly Cat#S1lly",
                                     "victim_team": "Team_7",
                                     "victim_death_location": {
                                         "x": -5481,
@@ -194352,7 +194352,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -194374,7 +194374,7 @@
                                     "kill_time_in_round": 22649,
                                     "kill_time_in_match": 828533,
                                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "killer_display_name": "Silly Cat#right",
+                                    "killer_display_name": "Silly Cat#S1lly",
                                     "killer_team": "Team_7",
                                     "victim_puuid": "4b8fb346-096d-57c3-9a09-a9fb1a7c2657",
                                     "victim_display_name": "Imhotep#2382",
@@ -194413,7 +194413,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -4743,
@@ -194570,7 +194570,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -5856,
@@ -195156,7 +195156,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -5100,
@@ -195293,7 +195293,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -5015,
@@ -195450,7 +195450,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -5663,
@@ -195643,7 +195643,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1825,
@@ -195707,7 +195707,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1949,
@@ -195763,7 +195763,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -195785,7 +195785,7 @@
                                     "kill_time_in_round": 49187,
                                     "kill_time_in_match": 897715,
                                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "killer_display_name": "Silly Cat#right",
+                                    "killer_display_name": "Silly Cat#S1lly",
                                     "killer_team": "Team_7",
                                     "victim_puuid": "72832673-ae75-59a0-b4f4-680bed0ee2c1",
                                     "victim_display_name": "cazapanchos#333",
@@ -195814,7 +195814,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -215,
@@ -195931,7 +195931,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1949,
@@ -196435,7 +196435,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1491,
@@ -196614,7 +196614,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1895,
@@ -196791,7 +196791,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -196805,7 +196805,7 @@
                                 },
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -196922,7 +196922,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -937,
@@ -197464,7 +197464,7 @@
                                 },
                                 {
                                     "receiver_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "receiver_display_name": "Silly Cat#right",
+                                    "receiver_display_name": "Silly Cat#S1lly",
                                     "receiver_team": "Team_7",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -197529,7 +197529,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -61,
@@ -197557,7 +197557,7 @@
                                     "killer_display_name": "Lauda#slay",
                                     "killer_team": "Team_5",
                                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "victim_display_name": "Silly Cat#right",
+                                    "victim_display_name": "Silly Cat#S1lly",
                                     "victim_team": "Team_7",
                                     "victim_death_location": {
                                         "x": -61,
@@ -197750,7 +197750,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -197872,7 +197872,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1840,
@@ -197904,7 +197904,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "assistant_display_name": "Silly Cat#right",
+                                            "assistant_display_name": "Silly Cat#S1lly",
                                             "assistant_team": "Team_7"
                                         }
                                     ]
@@ -197952,7 +197952,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 1842,
@@ -198651,7 +198651,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 226,
@@ -198705,7 +198705,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": -685,
@@ -198761,7 +198761,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [],
                             "damage": 0,
@@ -199440,7 +199440,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 319,
@@ -199565,7 +199565,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "damage_events": [
                                 {
@@ -199596,7 +199596,7 @@
                                     "kill_time_in_round": 14208,
                                     "kill_time_in_match": 1101925,
                                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                    "killer_display_name": "Silly Cat#right",
+                                    "killer_display_name": "Silly Cat#S1lly",
                                     "killer_team": "Team_7",
                                     "victim_puuid": "2e29e9ee-6f58-5558-af85-8bdceff30244",
                                     "victim_display_name": "funkylama101#feng",
@@ -199635,7 +199635,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 911,
@@ -199767,7 +199767,7 @@
                                         },
                                         {
                                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "player_display_name": "Silly Cat#right",
+                                            "player_display_name": "Silly Cat#S1lly",
                                             "player_team": "Team_7",
                                             "location": {
                                                 "x": 922,
@@ -199799,7 +199799,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                                            "assistant_display_name": "Silly Cat#right",
+                                            "assistant_display_name": "Silly Cat#S1lly",
                                             "assistant_team": "Team_7"
                                         }
                                     ]
@@ -200495,7 +200495,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -1276,
@@ -200590,7 +200590,7 @@
                     "killer_display_name": "Lazyx#1883",
                     "killer_team": "Team_2",
                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "victim_display_name": "Silly Cat#right",
+                    "victim_display_name": "Silly Cat#S1lly",
                     "victim_team": "Team_7",
                     "victim_death_location": {
                         "x": -1266,
@@ -201813,7 +201813,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5589,
@@ -201978,7 +201978,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5662,
@@ -202143,7 +202143,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5664,
@@ -202222,7 +202222,7 @@
                     "killer_display_name": "Chomusuke#mommy",
                     "killer_team": "Team_1",
                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "victim_display_name": "Silly Cat#right",
+                    "victim_display_name": "Silly Cat#S1lly",
                     "victim_team": "Team_7",
                     "victim_death_location": {
                         "x": 5860,
@@ -203196,7 +203196,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5669,
@@ -203371,7 +203371,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4383,
@@ -203536,7 +203536,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4188,
@@ -203687,7 +203687,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4139,
@@ -203838,7 +203838,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 3762,
@@ -203904,7 +203904,7 @@
                     "kill_time_in_match": 272361,
                     "round": 2,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "2e29e9ee-6f58-5558-af85-8bdceff30244",
                     "victim_display_name": "funkylama101#feng",
@@ -203963,7 +203963,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 3792,
@@ -204094,7 +204094,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -1137,
@@ -204209,7 +204209,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -1003,
@@ -204314,7 +204314,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1037,
@@ -204435,7 +204435,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -4909,
@@ -204600,7 +204600,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -4100,
@@ -204765,7 +204765,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -4071,
@@ -204920,7 +204920,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -3809,
@@ -205071,7 +205071,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -3689,
@@ -205196,7 +205196,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -4264,
@@ -205317,7 +205317,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -4452,
@@ -205438,7 +205438,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -4436,
@@ -205549,7 +205549,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -5935,
@@ -205598,7 +205598,7 @@
                     "killer_display_name": "SL\u00d8W#M\u00d8\u00d8",
                     "killer_team": "Team_3",
                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "victim_display_name": "Silly Cat#right",
+                    "victim_display_name": "Silly Cat#S1lly",
                     "victim_team": "Team_7",
                     "victim_death_location": {
                         "x": -5314,
@@ -205769,7 +205769,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1053,
@@ -205934,7 +205934,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 923,
@@ -206099,7 +206099,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1260,
@@ -206254,7 +206254,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1532,
@@ -206389,7 +206389,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1532,
@@ -206514,7 +206514,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1394,
@@ -206639,7 +206639,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1299,
@@ -206695,7 +206695,7 @@
                     "kill_time_in_match": 401091,
                     "round": 4,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "4b8fb346-096d-57c3-9a09-a9fb1a7c2657",
                     "victim_display_name": "Imhotep#2382",
@@ -206744,7 +206744,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1276,
@@ -206855,7 +206855,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 234,
@@ -206901,7 +206901,7 @@
                     "kill_time_in_match": 405992,
                     "round": 4,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "f0b80abf-602a-5d8b-8268-d1bacea51d7d",
                     "victim_display_name": "FrancoWasGreat#7960",
@@ -206950,7 +206950,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 202,
@@ -207031,7 +207031,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -706,
@@ -207162,7 +207162,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5581,
@@ -207327,7 +207327,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5676,
@@ -207492,7 +207492,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5676,
@@ -207637,7 +207637,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5990,
@@ -207782,7 +207782,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 6148,
@@ -207907,7 +207907,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5812,
@@ -208032,7 +208032,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 5814,
@@ -208084,7 +208084,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "assistant_display_name": "Silly Cat#right",
+                            "assistant_display_name": "Silly Cat#S1lly",
                             "assistant_team": "Team_7"
                         }
                     ]
@@ -208143,7 +208143,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 282,
@@ -208248,7 +208248,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -670,
@@ -208379,7 +208379,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1614,
@@ -208554,7 +208554,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1617,
@@ -208709,7 +208709,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 996,
@@ -208864,7 +208864,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1105,
@@ -209009,7 +209009,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1106,
@@ -209078,7 +209078,7 @@
                     "killer_display_name": "lurking b main#ans",
                     "killer_team": "Team_4",
                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "victim_display_name": "Silly Cat#right",
+                    "victim_display_name": "Silly Cat#S1lly",
                     "victim_team": "Team_7",
                     "victim_death_location": {
                         "x": -400,
@@ -209533,7 +209533,7 @@
                     "kill_time_in_match": 543131,
                     "round": 6,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "e4f532f6-ff8b-508e-b4ce-f36f615a31c3",
                     "victim_display_name": "lurking b main#ans",
@@ -209713,7 +209713,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -1843,
@@ -209888,7 +209888,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -1843,
@@ -210049,7 +210049,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -1910,
@@ -210200,7 +210200,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -1744,
@@ -210345,7 +210345,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -1543,
@@ -210486,7 +210486,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -1631,
@@ -210607,7 +210607,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -783,
@@ -210718,7 +210718,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -290,
@@ -210823,7 +210823,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -337,
@@ -210865,7 +210865,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "assistant_display_name": "Silly Cat#right",
+                            "assistant_display_name": "Silly Cat#S1lly",
                             "assistant_team": "Team_7"
                         }
                     ]
@@ -210954,7 +210954,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4201,
@@ -211129,7 +211129,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4331,
@@ -211294,7 +211294,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4331,
@@ -211449,7 +211449,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4380,
@@ -211515,7 +211515,7 @@
                     "kill_time_in_match": 633399,
                     "round": 8,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "f0b80abf-602a-5d8b-8268-d1bacea51d7d",
                     "victim_display_name": "FrancoWasGreat#7960",
@@ -211594,7 +211594,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4314,
@@ -211650,7 +211650,7 @@
                     "kill_time_in_match": 636877,
                     "round": 8,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "4b8fb346-096d-57c3-9a09-a9fb1a7c2657",
                     "victim_display_name": "Imhotep#2382",
@@ -211719,7 +211719,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4452,
@@ -211850,7 +211850,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 4442,
@@ -211955,7 +211955,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -86,
@@ -212090,7 +212090,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -495,
@@ -212235,7 +212235,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -178,
@@ -212370,7 +212370,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 88,
@@ -212505,7 +212505,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 88,
@@ -212620,7 +212620,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 88,
@@ -212735,7 +212735,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -255,
@@ -212830,7 +212830,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -38,
@@ -212925,7 +212925,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -113,
@@ -213046,7 +213046,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -5697,
@@ -213085,7 +213085,7 @@
                     "killer_display_name": "Conni#Daddy",
                     "killer_team": "Team_1",
                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "victim_display_name": "Silly Cat#right",
+                    "victim_display_name": "Silly Cat#S1lly",
                     "victim_team": "Team_7",
                     "victim_death_location": {
                         "x": -5481,
@@ -213596,7 +213596,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -5663,
@@ -213711,7 +213711,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -5856,
@@ -213806,7 +213806,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -5100,
@@ -213891,7 +213891,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -5015,
@@ -213927,7 +213927,7 @@
                     "kill_time_in_match": 828533,
                     "round": 11,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "4b8fb346-096d-57c3-9a09-a9fb1a7c2657",
                     "victim_display_name": "Imhotep#2382",
@@ -213966,7 +213966,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -4743,
@@ -214071,7 +214071,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1895,
@@ -214156,7 +214156,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1825,
@@ -214231,7 +214231,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1949,
@@ -214296,7 +214296,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1949,
@@ -214361,7 +214361,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1491,
@@ -214377,7 +214377,7 @@
                     "kill_time_in_match": 897715,
                     "round": 12,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "72832673-ae75-59a0-b4f4-680bed0ee2c1",
                     "victim_display_name": "cazapanchos#333",
@@ -214406,7 +214406,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -215,
@@ -214461,7 +214461,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -937,
@@ -214536,7 +214536,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -61,
@@ -214565,7 +214565,7 @@
                     "killer_display_name": "Lauda#slay",
                     "killer_team": "Team_5",
                     "victim_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "victim_display_name": "Silly Cat#right",
+                    "victim_display_name": "Silly Cat#S1lly",
                     "victim_team": "Team_7",
                     "victim_death_location": {
                         "x": -61,
@@ -214656,7 +214656,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1840,
@@ -214688,7 +214688,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "assistant_display_name": "Silly Cat#right",
+                            "assistant_display_name": "Silly Cat#S1lly",
                             "assistant_team": "Team_7"
                         }
                     ]
@@ -214737,7 +214737,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 1842,
@@ -214812,7 +214812,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 319,
@@ -214877,7 +214877,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 226,
@@ -214932,7 +214932,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -685,
@@ -214958,7 +214958,7 @@
                     "kill_time_in_match": 1101925,
                     "round": 16,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "2e29e9ee-6f58-5558-af85-8bdceff30244",
                     "victim_display_name": "funkylama101#feng",
@@ -214997,7 +214997,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 911,
@@ -215068,7 +215068,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": 922,
@@ -215100,7 +215100,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "assistant_display_name": "Silly Cat#right",
+                            "assistant_display_name": "Silly Cat#S1lly",
                             "assistant_team": "Team_7"
                         }
                     ]
@@ -215139,7 +215139,7 @@
                         },
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -3738,
@@ -215165,7 +215165,7 @@
                     "kill_time_in_match": 1149901,
                     "round": 17,
                     "killer_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                    "killer_display_name": "Silly Cat#right",
+                    "killer_display_name": "Silly Cat#S1lly",
                     "killer_team": "Team_7",
                     "victim_puuid": "47af4ea4-aeda-5404-b24a-9925f774cf46",
                     "victim_display_name": "Chomusuke#mommy",
@@ -215184,7 +215184,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "869ea0db-0802-5e4c-b91e-b822d9b5e134",
-                            "player_display_name": "Silly Cat#right",
+                            "player_display_name": "Silly Cat#S1lly",
                             "player_team": "Team_7",
                             "location": {
                                 "x": -3658,

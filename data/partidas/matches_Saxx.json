@@ -684,8 +684,8 @@
                     },
                     {
                         "puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                        "name": "\u03b5\u00ef\u0437",
-                        "tag": "I\u0161tar",
+                        "name": "Nabi \u03b5\u00ef\u0437",
+                        "tag": "nikki",
                         "team": "Red",
                         "level": 52,
                         "character": "Hush",
@@ -1051,8 +1051,8 @@
                     },
                     {
                         "puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                        "name": "\u03b5\u00ef\u0437",
-                        "tag": "I\u0161tar",
+                        "name": "Nabi \u03b5\u00ef\u0437",
+                        "tag": "nikki",
                         "team": "Red",
                         "level": 52,
                         "character": "Hush",
@@ -1581,7 +1581,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -1610,7 +1610,7 @@
                                     "killer_display_name": "PNC speedysnail#faf",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -267,
@@ -1790,7 +1790,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -1930,7 +1930,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -87,
@@ -1992,7 +1992,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -2394,7 +2394,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 98,
@@ -2456,7 +2456,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -2543,7 +2543,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -3144,7 +3144,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3166,7 +3166,7 @@
                                     "kill_time_in_round": 7336,
                                     "kill_time_in_match": 141666,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "487dbc6f-db26-5478-a3eb-b5f883efd0e5",
                                     "victim_display_name": "PNC kimpitus#Pins",
@@ -3215,7 +3215,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3545,
@@ -3818,7 +3818,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -3870,7 +3870,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -3917,7 +3917,7 @@
                                     "killer_display_name": "Saxx#Ong",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3865,
@@ -4212,7 +4212,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -181,
@@ -4306,7 +4306,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -358,
@@ -4424,7 +4424,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -4546,7 +4546,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -289,
@@ -4712,7 +4712,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -5,
@@ -4951,7 +4951,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -5021,7 +5021,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -5041,7 +5041,7 @@
                                     "killer_display_name": "PNC kimpitus#Pins",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -4496,
@@ -5496,7 +5496,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -5924,7 +5924,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4217,
@@ -6421,7 +6421,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -6450,7 +6450,7 @@
                                     "killer_display_name": "Saxx#Ong",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2570,
@@ -6710,7 +6710,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -6766,7 +6766,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3839,
@@ -6834,7 +6834,7 @@
                                     "killer_display_name": "Shoyo#172cm",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 659,
@@ -6926,7 +6926,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -7108,7 +7108,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1731,
@@ -7192,7 +7192,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 458,
@@ -7357,7 +7357,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3224,
@@ -7467,7 +7467,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 624,
@@ -7795,7 +7795,7 @@
                             },
                             {
                                 "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3557,
@@ -7896,7 +7896,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -7951,7 +7951,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3557,
@@ -8045,7 +8045,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3508,
@@ -8109,7 +8109,7 @@
                                     "killer_display_name": "PNC speedysnail#faf",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1585,
@@ -8287,7 +8287,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8318,7 +8318,7 @@
                                     "kill_time_in_round": 12940,
                                     "kill_time_in_match": 475197,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7b340ee-d267-5bc2-aba5-b2d78594c0a5",
                                     "victim_display_name": "Shoyo#172cm",
@@ -8347,7 +8347,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3608,
@@ -8433,7 +8433,7 @@
                                     "kill_time_in_round": 37163,
                                     "kill_time_in_match": 499420,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "f8a4e60f-4d89-5697-abed-49844d43ffe6",
                                     "victim_display_name": "2AM batman#zzzz",
@@ -8462,7 +8462,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2403,
@@ -8657,7 +8657,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4540,
@@ -9046,7 +9046,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3550,
@@ -9240,7 +9240,7 @@
                             },
                             {
                                 "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -867,
@@ -9348,7 +9348,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 241,
@@ -9475,7 +9475,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4378,
@@ -9581,7 +9581,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9612,7 +9612,7 @@
                                     "kill_time_in_round": 32275,
                                     "kill_time_in_match": 579977,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "5b0d1edc-7246-5ede-a313-3b98b524eb21",
                                     "victim_display_name": "Saxx#Ong",
@@ -9641,7 +9641,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1177,
@@ -9686,7 +9686,7 @@
                                     "kill_time_in_round": 43400,
                                     "kill_time_in_match": 591102,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "f0c90fd8-8c10-5421-a926-b9435358edab",
                                     "victim_display_name": "PNC speedysnail#faf",
@@ -9705,7 +9705,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -113,
@@ -9837,7 +9837,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4746,
@@ -10067,7 +10067,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4606,
@@ -10171,7 +10171,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4757,
@@ -10366,7 +10366,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -10510,7 +10510,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3411,
@@ -10822,7 +10822,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -11152,7 +11152,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -11172,7 +11172,7 @@
                                     "killer_display_name": "2AM batman#zzzz",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4335,
@@ -11655,7 +11655,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11966,7 +11966,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4876,
@@ -12038,7 +12038,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -12113,7 +12113,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -12366,7 +12366,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -12422,7 +12422,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2909,
@@ -12500,7 +12500,7 @@
                                     "killer_display_name": "2AM batman#zzzz",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5021,
@@ -12998,7 +12998,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -13488,7 +13488,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -13535,7 +13535,7 @@
                                     "killer_display_name": "2AM batman#zzzz",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2548,
@@ -14229,7 +14229,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14251,7 +14251,7 @@
                                     "kill_time_in_round": 7526,
                                     "kill_time_in_match": 865570,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "5b0d1edc-7246-5ede-a313-3b98b524eb21",
                                     "victim_display_name": "Saxx#Ong",
@@ -14290,7 +14290,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -231,
@@ -14939,7 +14939,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 188,
@@ -15144,7 +15144,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -15182,7 +15182,7 @@
                                     "killer_display_name": "Saxx#Ong",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 198,
@@ -15562,7 +15562,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2935,
@@ -15668,7 +15668,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -15690,7 +15690,7 @@
                                     "kill_time_in_round": 15931,
                                     "kill_time_in_match": 977435,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "f8a4e60f-4d89-5697-abed-49844d43ffe6",
                                     "victim_display_name": "2AM batman#zzzz",
@@ -15729,7 +15729,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4827,
@@ -16395,7 +16395,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -16424,7 +16424,7 @@
                                     "killer_display_name": "Saxx#Ong",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4442,
@@ -16644,7 +16644,7 @@
                             },
                             {
                                 "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2929,
@@ -16823,7 +16823,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1724,
@@ -16917,7 +16917,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1039,
@@ -16993,7 +16993,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17015,7 +17015,7 @@
                                     "kill_time_in_round": 34807,
                                     "kill_time_in_match": 1105302,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "f8a4e60f-4d89-5697-abed-49844d43ffe6",
                                     "victim_display_name": "2AM batman#zzzz",
@@ -17044,7 +17044,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2902,
@@ -17212,7 +17212,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2731,
@@ -17276,7 +17276,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3546,
@@ -17412,7 +17412,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2446,
@@ -17580,7 +17580,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -17636,7 +17636,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2011,
@@ -17788,7 +17788,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -17824,7 +17824,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3453,
@@ -17852,7 +17852,7 @@
                                     "killer_display_name": "Saxx#Ong",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3358,
@@ -17952,7 +17952,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -18004,7 +18004,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -18051,7 +18051,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -18091,7 +18091,7 @@
                                     "kill_time_in_round": 15578,
                                     "kill_time_in_match": 1181359,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "f8a4e60f-4d89-5697-abed-49844d43ffe6",
                                     "victim_display_name": "2AM batman#zzzz",
@@ -18130,7 +18130,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5827,
@@ -18205,7 +18205,7 @@
                                     "kill_time_in_round": 18881,
                                     "kill_time_in_match": 1184662,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7b340ee-d267-5bc2-aba5-b2d78594c0a5",
                                     "victim_display_name": "Shoyo#172cm",
@@ -18234,7 +18234,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5956,
@@ -18840,7 +18840,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -18869,7 +18869,7 @@
                                     "killer_display_name": "Saxx#Ong",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5879,
@@ -19196,7 +19196,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1242,
@@ -19292,7 +19292,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -19314,7 +19314,7 @@
                                     "kill_time_in_round": 34779,
                                     "kill_time_in_match": 1282765,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7b340ee-d267-5bc2-aba5-b2d78594c0a5",
                                     "victim_display_name": "Shoyo#172cm",
@@ -19333,7 +19333,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1242,
@@ -19495,7 +19495,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -201,
@@ -19599,7 +19599,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -352,
@@ -19905,7 +19905,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1247,
@@ -20090,7 +20090,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -20110,7 +20110,7 @@
                                     "killer_display_name": "Saxx#Ong",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1925,
@@ -20323,7 +20323,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -20453,7 +20453,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5957,
@@ -20677,7 +20677,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -20852,7 +20852,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2299,
@@ -21023,7 +21023,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -21079,7 +21079,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1922,
@@ -21183,7 +21183,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5459,
@@ -21247,7 +21247,7 @@
                                     "killer_display_name": "PNC kimpitus#Pins",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5460,
@@ -21520,7 +21520,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -21657,7 +21657,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -22301,7 +22301,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2459,
@@ -22677,7 +22677,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -22697,7 +22697,7 @@
                                     "killer_display_name": "Saxx#Ong",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2467,
@@ -23289,7 +23289,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -23311,7 +23311,7 @@
                                     "kill_time_in_round": 20083,
                                     "kill_time_in_match": 1517800,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "5b0d1edc-7246-5ede-a313-3b98b524eb21",
                                     "victim_display_name": "Saxx#Ong",
@@ -23350,7 +23350,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -709,
@@ -23659,7 +23659,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -23679,7 +23679,7 @@
                                     "killer_display_name": "2AM batman#zzzz",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -246,
@@ -24156,7 +24156,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -24624,7 +24624,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -24644,7 +24644,7 @@
                                     "killer_display_name": "2AM batman#zzzz",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 761,
@@ -25263,7 +25263,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -25283,7 +25283,7 @@
                                     "killer_display_name": "PNC speedysnail#faf",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3195,
@@ -25532,7 +25532,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -25563,7 +25563,7 @@
                                     "kill_time_in_round": 18180,
                                     "kill_time_in_match": 1734078,
                                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "killer_team": "Red",
                                     "victim_puuid": "487dbc6f-db26-5478-a3eb-b5f883efd0e5",
                                     "victim_display_name": "PNC kimpitus#Pins",
@@ -25602,7 +25602,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 798,
@@ -25820,7 +25820,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2032,
@@ -26083,7 +26083,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -26467,7 +26467,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -26531,7 +26531,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3184,
@@ -26595,7 +26595,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3076,
@@ -26699,7 +26699,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -26862,7 +26862,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4821,
@@ -27018,7 +27018,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3898,
@@ -27082,7 +27082,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -600,
@@ -27208,7 +27208,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5360,
@@ -27312,7 +27312,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3003,
@@ -27549,7 +27549,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -482,
@@ -27756,7 +27756,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -27867,7 +27867,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -263,
@@ -27967,7 +27967,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4674,
@@ -28166,7 +28166,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -28323,7 +28323,7 @@
                                         },
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -246,
@@ -28597,7 +28597,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "receiver_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "receiver_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -28642,7 +28642,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4653,
@@ -28710,7 +28710,7 @@
                                     "killer_display_name": "Saxx#Ong",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -4352,
@@ -28872,7 +28872,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 98,
@@ -28934,7 +28934,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "assistant_team": "Red"
                         }
                     ]
@@ -28983,7 +28983,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -87,
@@ -29045,7 +29045,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "assistant_team": "Red"
                         },
                         {
@@ -29063,7 +29063,7 @@
                     "killer_display_name": "PNC speedysnail#faf",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -267,
@@ -29492,7 +29492,7 @@
                     "kill_time_in_match": 141666,
                     "round": 1,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "487dbc6f-db26-5478-a3eb-b5f883efd0e5",
                     "victim_display_name": "PNC kimpitus#Pins",
@@ -29541,7 +29541,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 3545,
@@ -29616,7 +29616,7 @@
                     "killer_display_name": "Saxx#Ong",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3865,
@@ -30240,7 +30240,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -289,
@@ -30345,7 +30345,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -5,
@@ -30450,7 +30450,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -181,
@@ -30545,7 +30545,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -358,
@@ -30594,7 +30594,7 @@
                     "killer_display_name": "PNC kimpitus#Pins",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -4496,
@@ -30886,7 +30886,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -4217,
@@ -30955,7 +30955,7 @@
                     "killer_display_name": "Saxx#Ong",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2570,
@@ -31535,7 +31535,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 3224,
@@ -31656,7 +31656,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 3839,
@@ -31761,7 +31761,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 1731,
@@ -31846,7 +31846,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 458,
@@ -31931,7 +31931,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 624,
@@ -31980,7 +31980,7 @@
                     "killer_display_name": "Shoyo#172cm",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 659,
@@ -32142,7 +32142,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 4540,
@@ -32218,7 +32218,7 @@
                     "kill_time_in_match": 475197,
                     "round": 5,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "d7b340ee-d267-5bc2-aba5-b2d78594c0a5",
                     "victim_display_name": "Shoyo#172cm",
@@ -32247,7 +32247,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 3608,
@@ -32363,7 +32363,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 3557,
@@ -32458,7 +32458,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 3550,
@@ -32543,7 +32543,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 3508,
@@ -32605,7 +32605,7 @@
                     "kill_time_in_match": 499420,
                     "round": 5,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "f8a4e60f-4d89-5697-abed-49844d43ffe6",
                     "victim_display_name": "2AM batman#zzzz",
@@ -32634,7 +32634,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 2403,
@@ -32689,7 +32689,7 @@
                     "killer_display_name": "PNC speedysnail#faf",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1585,
@@ -32937,7 +32937,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 4378,
@@ -33042,7 +33042,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 4606,
@@ -33147,7 +33147,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 4757,
@@ -33242,7 +33242,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 4746,
@@ -33298,7 +33298,7 @@
                     "kill_time_in_match": 579977,
                     "round": 6,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "5b0d1edc-7246-5ede-a313-3b98b524eb21",
                     "victim_display_name": "Saxx#Ong",
@@ -33327,7 +33327,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 1177,
@@ -33402,7 +33402,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 241,
@@ -33438,7 +33438,7 @@
                     "kill_time_in_match": 591102,
                     "round": 6,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "f0c90fd8-8c10-5421-a926-b9435358edab",
                     "victim_display_name": "PNC speedysnail#faf",
@@ -33457,7 +33457,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -113,
@@ -33538,7 +33538,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 3411,
@@ -33617,7 +33617,7 @@
                     "killer_display_name": "2AM batman#zzzz",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4335,
@@ -34090,7 +34090,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 2909,
@@ -34195,7 +34195,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 4876,
@@ -34267,7 +34267,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "assistant_team": "Red"
                         },
                         {
@@ -34285,7 +34285,7 @@
                     "killer_display_name": "2AM batman#zzzz",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5021,
@@ -34609,7 +34609,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "assistant_team": "Red"
                         }
                     ]
@@ -34677,7 +34677,7 @@
                     "killer_display_name": "2AM batman#zzzz",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2548,
@@ -35372,7 +35372,7 @@
                     "kill_time_in_match": 865570,
                     "round": 10,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "5b0d1edc-7246-5ede-a313-3b98b524eb21",
                     "victim_display_name": "Saxx#Ong",
@@ -35411,7 +35411,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -231,
@@ -35526,7 +35526,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 188,
@@ -35605,7 +35605,7 @@
                     "killer_display_name": "Saxx#Ong",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 198,
@@ -36184,7 +36184,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 2935,
@@ -36260,7 +36260,7 @@
                     "kill_time_in_match": 977435,
                     "round": 11,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "f8a4e60f-4d89-5697-abed-49844d43ffe6",
                     "victim_display_name": "2AM batman#zzzz",
@@ -36299,7 +36299,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 4827,
@@ -36379,7 +36379,7 @@
                     "killer_display_name": "Saxx#Ong",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4442,
@@ -36841,7 +36841,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 2446,
@@ -36962,7 +36962,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 2011,
@@ -37067,7 +37067,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 1724,
@@ -37162,7 +37162,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -1039,
@@ -37237,7 +37237,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -2731,
@@ -37283,7 +37283,7 @@
                     "kill_time_in_match": 1105302,
                     "round": 12,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "f8a4e60f-4d89-5697-abed-49844d43ffe6",
                     "victim_display_name": "2AM batman#zzzz",
@@ -37312,7 +37312,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -2902,
@@ -37367,7 +37367,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -3546,
@@ -37422,7 +37422,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -3453,
@@ -37451,7 +37451,7 @@
                     "killer_display_name": "Saxx#Ong",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3358,
@@ -37489,7 +37489,7 @@
                     "kill_time_in_match": 1181359,
                     "round": 13,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "f8a4e60f-4d89-5697-abed-49844d43ffe6",
                     "victim_display_name": "2AM batman#zzzz",
@@ -37528,7 +37528,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 5827,
@@ -37604,7 +37604,7 @@
                     "kill_time_in_match": 1184662,
                     "round": 13,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "d7b340ee-d267-5bc2-aba5-b2d78594c0a5",
                     "victim_display_name": "Shoyo#172cm",
@@ -37633,7 +37633,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 5956,
@@ -37712,7 +37712,7 @@
                     "killer_display_name": "Saxx#Ong",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5879,
@@ -38134,7 +38134,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -201,
@@ -38239,7 +38239,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -352,
@@ -38344,7 +38344,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -1242,
@@ -38439,7 +38439,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -1247,
@@ -38495,7 +38495,7 @@
                     "kill_time_in_match": 1282765,
                     "round": 14,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "d7b340ee-d267-5bc2-aba5-b2d78594c0a5",
                     "victim_display_name": "Shoyo#172cm",
@@ -38514,7 +38514,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -1242,
@@ -38579,7 +38579,7 @@
                     "killer_display_name": "Saxx#Ong",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1925,
@@ -38735,7 +38735,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 1922,
@@ -38840,7 +38840,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 2299,
@@ -38945,7 +38945,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 5957,
@@ -39040,7 +39040,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 5459,
@@ -39105,7 +39105,7 @@
                     "killer_display_name": "PNC kimpitus#Pins",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5460,
@@ -39338,7 +39338,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "assistant_team": "Red"
                         }
                     ]
@@ -39387,7 +39387,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 2459,
@@ -39472,7 +39472,7 @@
                     "killer_display_name": "Saxx#Ong",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2467,
@@ -40177,7 +40177,7 @@
                     "kill_time_in_match": 1517800,
                     "round": 17,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "5b0d1edc-7246-5ede-a313-3b98b524eb21",
                     "victim_display_name": "Saxx#Ong",
@@ -40216,7 +40216,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -709,
@@ -40295,7 +40295,7 @@
                     "killer_display_name": "2AM batman#zzzz",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -246,
@@ -40720,7 +40720,7 @@
                     "killer_display_name": "2AM batman#zzzz",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 761,
@@ -41402,7 +41402,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 2032,
@@ -41478,7 +41478,7 @@
                     "kill_time_in_match": 1734078,
                     "round": 19,
                     "killer_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "killer_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "killer_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "killer_team": "Red",
                     "victim_puuid": "487dbc6f-db26-5478-a3eb-b5f883efd0e5",
                     "victim_display_name": "PNC kimpitus#Pins",
@@ -41517,7 +41517,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 798,
@@ -41586,7 +41586,7 @@
                     "killer_display_name": "PNC speedysnail#faf",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3195,
@@ -41899,7 +41899,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "assistant_team": "Red"
                         },
                         {
@@ -42064,7 +42064,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": 5360,
@@ -42179,7 +42179,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -482,
@@ -42284,7 +42284,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -4821,
@@ -42379,7 +42379,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -3898,
@@ -42454,7 +42454,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -3003,
@@ -42535,7 +42535,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -3184,
@@ -42600,7 +42600,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -3076,
@@ -42651,7 +42651,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -600,
@@ -42716,7 +42716,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -246,
@@ -42821,7 +42821,7 @@
                         },
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -263,
@@ -42922,7 +42922,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -4674,
@@ -43017,7 +43017,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "player_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "player_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "player_team": "Red",
                             "location": {
                                 "x": -4653,
@@ -43086,7 +43086,7 @@
                     "killer_display_name": "Saxx#Ong",
                     "killer_team": "Blue",
                     "victim_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                    "victim_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                    "victim_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -4352,
@@ -43239,7 +43239,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1c475e08-c892-5774-8a1f-1defdb35745a",
-                            "assistant_display_name": "\u03b5\u00ef\u0437#I\u0161tar",
+                            "assistant_display_name": "Nabi \u03b5\u00ef\u0437#nikki",
                             "assistant_team": "Red"
                         },
                         {
