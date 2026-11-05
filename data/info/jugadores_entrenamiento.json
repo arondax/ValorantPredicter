@@ -6122,11 +6122,16 @@
             "region": "eu"
         },
         {
+            "nombre": "Saxx",
+            "tag": "ong",
+            "region": "eu"
+        },
+        {
             "nombre": "MIBR ASPAS",
             "tag": "0009",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-04",
+            "desde": "2026-11-05",
             "origen": "amigo_recurrente"
         },
         {
@@ -6134,7 +6139,7 @@
             "tag": "FRIO",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-04",
+            "desde": "2026-11-05",
             "origen": "amigo_recurrente"
         },
         {
@@ -6142,7 +6147,7 @@
             "tag": "1TAP",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-04",
+            "desde": "2026-11-05",
             "origen": "amigo_recurrente"
         },
         {
@@ -6150,7 +6155,7 @@
             "tag": "5588",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-04",
+            "desde": "2026-11-05",
             "origen": "amigo_recurrente"
         },
         {
@@ -6158,7 +6163,7 @@
             "tag": "NINJA",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-04",
+            "desde": "2026-11-05",
             "origen": "amigo_recurrente"
         }
     ]
