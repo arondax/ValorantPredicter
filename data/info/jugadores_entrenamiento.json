@@ -181,12 +181,6 @@
             "activo": true
         },
         {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "KIM GAEUL",
             "tag": "8675",
             "region": "eu",
@@ -1112,12 +1106,6 @@
             "activo": true
         },
         {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "xivitoo",
             "tag": "GRX",
             "region": "eu",
@@ -1638,12 +1626,6 @@
         {
             "nombre": "lil night",
             "tag": "mkA",
-            "region": "eu",
-            "activo": true
-        },
-        {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
             "region": "eu",
             "activo": true
         },
@@ -2178,12 +2160,6 @@
             "activo": true
         },
         {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "xivitoo",
             "tag": "GRX",
             "region": "eu",
@@ -2708,12 +2684,6 @@
         {
             "nombre": "lil night",
             "tag": "mkA",
-            "region": "eu",
-            "activo": true
-        },
-        {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
             "region": "eu",
             "activo": true
         },
@@ -3248,12 +3218,6 @@
             "activo": true
         },
         {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "xivitoo",
             "tag": "GRX",
             "region": "eu",
@@ -3764,12 +3728,6 @@
             "activo": true
         },
         {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "xivitoo",
             "tag": "GRX",
             "region": "eu",
@@ -4292,12 +4250,6 @@
             "activo": true
         },
         {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "xivitoo",
             "tag": "GRX",
             "region": "eu",
@@ -4826,12 +4778,6 @@
             "activo": true
         },
         {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "xivitoo",
             "tag": "GRX",
             "region": "eu",
@@ -5342,12 +5288,6 @@
             "activo": true
         },
         {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "xivitoo",
             "tag": "GRX",
             "region": "eu",
@@ -5854,12 +5794,6 @@
         {
             "nombre": "lil night",
             "tag": "mkA",
-            "region": "eu",
-            "activo": true
-        },
-        {
-            "nombre": "Hihihihihihi",
-            "tag": "9197",
             "region": "eu",
             "activo": true
         },
@@ -6641,7 +6575,7 @@
             "tag": "0009",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-10",
+            "desde": "2026-11-11",
             "origen": "amigo_recurrente"
         },
         {
@@ -6649,7 +6583,15 @@
             "tag": "FRIO",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-10",
+            "desde": "2026-11-11",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Hihihihihihi",
+            "tag": "9197",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-11-11",
             "origen": "amigo_recurrente"
         },
         {
@@ -6657,7 +6599,7 @@
             "tag": "1TAP",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-10",
+            "desde": "2026-11-11",
             "origen": "amigo_recurrente"
         },
         {
@@ -6665,7 +6607,7 @@
             "tag": "5588",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-10",
+            "desde": "2026-11-11",
             "origen": "amigo_recurrente"
         },
         {
@@ -6673,7 +6615,7 @@
             "tag": "NINJA",
             "region": "eu",
             "activo": true,
-            "desde": "2026-11-10",
+            "desde": "2026-11-11",
             "origen": "amigo_recurrente"
         }
     ]
