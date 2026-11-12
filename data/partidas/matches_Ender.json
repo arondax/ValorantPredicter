@@ -96280,8 +96280,8 @@
                     },
                     {
                         "puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                        "name": "ST4R76",
-                        "tag": "ST4R",
+                        "name": "ST4R\u30c4",
+                        "tag": "ST4R\u30c4",
                         "team": "Blue",
                         "level": 111,
                         "character": "Raze",
@@ -97233,8 +97233,8 @@
                     },
                     {
                         "puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                        "name": "ST4R76",
-                        "tag": "ST4R",
+                        "name": "ST4R\u30c4",
+                        "tag": "ST4R\u30c4",
                         "team": "Blue",
                         "level": 111,
                         "character": "Raze",
@@ -97476,7 +97476,7 @@
                             },
                             {
                                 "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                "player_display_name": "ST4R76#ST4R",
+                                "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 12931,
@@ -97580,7 +97580,7 @@
                                 },
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -97676,7 +97676,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13078,
@@ -97829,7 +97829,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12865,
@@ -97899,7 +97899,7 @@
                                 },
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -98062,7 +98062,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -98156,7 +98156,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11351,
@@ -98174,7 +98174,7 @@
                                     "killer_display_name": "zogemm#3828",
                                     "killer_team": "Red",
                                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "victim_display_name": "ST4R76#ST4R",
+                                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 10842,
@@ -98447,7 +98447,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12778,
@@ -98523,7 +98523,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "assistant_display_name": "ST4R76#ST4R",
+                                            "assistant_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -98613,7 +98613,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -98755,7 +98755,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12186,
@@ -98966,7 +98966,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -99236,7 +99236,7 @@
                                 },
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -99351,7 +99351,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10105,
@@ -99525,7 +99525,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "assistant_display_name": "ST4R76#ST4R",
+                                            "assistant_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -99605,7 +99605,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "assistant_display_name": "ST4R76#ST4R",
+                                            "assistant_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -99692,7 +99692,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -99721,7 +99721,7 @@
                                     "killer_display_name": "laurie \u5723#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "victim_display_name": "ST4R76#ST4R",
+                                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9707,
@@ -99970,7 +99970,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -100177,7 +100177,7 @@
                             },
                             {
                                 "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                "player_display_name": "ST4R76#ST4R",
+                                "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 10402,
@@ -100241,7 +100241,7 @@
                             },
                             {
                                 "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                "player_display_name": "ST4R76#ST4R",
+                                "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 10051,
@@ -100340,7 +100340,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10207,
@@ -100656,7 +100656,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10241,
@@ -100851,7 +100851,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10188,
@@ -101013,7 +101013,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11121,
@@ -101097,7 +101097,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10098,
@@ -101149,7 +101149,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -101171,7 +101171,7 @@
                                     "kill_time_in_round": 35445,
                                     "kill_time_in_match": 368923,
                                     "killer_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "killer_display_name": "ST4R76#ST4R",
+                                    "killer_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d494cf06-cdbb-5c3d-ad42-4c2f6845dfa6",
                                     "victim_display_name": "zogemm#3828",
@@ -101260,7 +101260,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10402,
@@ -101537,7 +101537,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -101584,7 +101584,7 @@
                                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                                     "killer_team": "Red",
                                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "victim_display_name": "ST4R76#ST4R",
+                                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 11819,
@@ -102100,7 +102100,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -102450,7 +102450,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -102982,7 +102982,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9524,
@@ -103056,7 +103056,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12642,
@@ -103116,7 +103116,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11859,
@@ -103314,7 +103314,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11622,
@@ -103398,7 +103398,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12836,
@@ -103564,7 +103564,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11100,
@@ -103620,7 +103620,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -103723,7 +103723,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13024,
@@ -103921,7 +103921,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11695,
@@ -104016,7 +104016,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11742,
@@ -104309,7 +104309,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11907,
@@ -104517,7 +104517,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11276,
@@ -104587,7 +104587,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12961,
@@ -104781,7 +104781,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11337,
@@ -104837,7 +104837,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -104948,7 +104948,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13244,
@@ -105089,7 +105089,7 @@
                             },
                             {
                                 "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                "player_display_name": "ST4R76#ST4R",
+                                "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 12684,
@@ -105116,7 +105116,7 @@
                         },
                         "defused_by": {
                             "puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "display_name": "ST4R76#ST4R",
+                            "display_name": "ST4R\u30c4#ST4R\u30c4",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 62784,
@@ -105143,7 +105143,7 @@
                             },
                             {
                                 "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                "player_display_name": "ST4R76#ST4R",
+                                "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 10348,
@@ -105233,7 +105233,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11198,
@@ -105447,7 +105447,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9366,
@@ -105521,7 +105521,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11586,
@@ -105748,7 +105748,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9056,
@@ -105950,7 +105950,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -106130,7 +106130,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9056,
@@ -106224,7 +106224,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13650,
@@ -106298,7 +106298,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11757,
@@ -106490,7 +106490,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -106510,7 +106510,7 @@
                                     "killer_display_name": "D87#Bombo",
                                     "killer_team": "Red",
                                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "victim_display_name": "ST4R76#ST4R",
+                                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8139,
@@ -106617,7 +106617,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -106774,7 +106774,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11149,
@@ -106858,7 +106858,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11040,
@@ -107164,7 +107164,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10252,
@@ -107258,7 +107258,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11016,
@@ -107378,7 +107378,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -107616,7 +107616,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -107636,7 +107636,7 @@
                                     "killer_display_name": "D87#Bombo",
                                     "killer_team": "Red",
                                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "victim_display_name": "ST4R76#ST4R",
+                                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9492,
@@ -107768,7 +107768,7 @@
                                 },
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -107967,7 +107967,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9454,
@@ -108061,7 +108061,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9354,
@@ -108325,7 +108325,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -108356,7 +108356,7 @@
                                     "kill_time_in_round": 23060,
                                     "kill_time_in_match": 906316,
                                     "killer_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "killer_display_name": "ST4R76#ST4R",
+                                    "killer_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "killer_team": "Blue",
                                     "victim_puuid": "cde81fcb-876f-54bf-aca0-f61acd983673",
                                     "victim_display_name": "JESE56#1008",
@@ -108445,7 +108445,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9344,
@@ -108771,7 +108771,7 @@
                             },
                             {
                                 "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                "player_display_name": "ST4R76#ST4R",
+                                "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 13058,
@@ -108825,7 +108825,7 @@
                             },
                             {
                                 "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                "player_display_name": "ST4R76#ST4R",
+                                "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 11138,
@@ -108963,7 +108963,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 13221,
@@ -109027,7 +109027,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12183,
@@ -109190,7 +109190,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10737,
@@ -109299,7 +109299,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "receiver_display_name": "ST4R76#ST4R",
+                                    "receiver_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -109427,7 +109427,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12404,
@@ -109449,7 +109449,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "assistant_display_name": "ST4R76#ST4R",
+                                            "assistant_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -109712,7 +109712,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9808,
@@ -109768,7 +109768,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -109799,7 +109799,7 @@
                                     "kill_time_in_round": 44562,
                                     "kill_time_in_match": 1016768,
                                     "killer_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                    "killer_display_name": "ST4R76#ST4R",
+                                    "killer_display_name": "ST4R\u30c4#ST4R\u30c4",
                                     "killer_team": "Blue",
                                     "victim_puuid": "cde81fcb-876f-54bf-aca0-f61acd983673",
                                     "victim_display_name": "JESE56#1008",
@@ -109848,7 +109848,7 @@
                                         },
                                         {
                                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                                            "player_display_name": "ST4R76#ST4R",
+                                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12361,
@@ -110309,7 +110309,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -110756,7 +110756,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -111203,7 +111203,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -111650,7 +111650,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -112097,7 +112097,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -112544,7 +112544,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -112718,7 +112718,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12778,
@@ -112823,7 +112823,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13078,
@@ -112924,7 +112924,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12865,
@@ -113009,7 +113009,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12186,
@@ -113100,7 +113100,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11351,
@@ -113119,7 +113119,7 @@
                     "killer_display_name": "zogemm#3828",
                     "killer_team": "Red",
                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                    "victim_display_name": "ST4R76#ST4R",
+                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 10842,
@@ -113232,7 +113232,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "assistant_display_name": "ST4R76#ST4R",
+                            "assistant_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -113423,7 +113423,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10105,
@@ -113458,7 +113458,7 @@
                     "killer_display_name": "laurie \u5723#0000",
                     "killer_team": "Red",
                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                    "victim_display_name": "ST4R76#ST4R",
+                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9707,
@@ -113747,7 +113747,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "assistant_display_name": "ST4R76#ST4R",
+                            "assistant_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -113828,7 +113828,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "assistant_display_name": "ST4R76#ST4R",
+                            "assistant_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -113958,7 +113958,7 @@
                     "kill_time_in_match": 368923,
                     "round": 2,
                     "killer_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                    "killer_display_name": "ST4R76#ST4R",
+                    "killer_display_name": "ST4R\u30c4#ST4R\u30c4",
                     "killer_team": "Blue",
                     "victim_puuid": "d494cf06-cdbb-5c3d-ad42-4c2f6845dfa6",
                     "victim_display_name": "zogemm#3828",
@@ -114047,7 +114047,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10402,
@@ -114152,7 +114152,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11121,
@@ -114247,7 +114247,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10241,
@@ -114348,7 +114348,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10188,
@@ -114429,7 +114429,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10098,
@@ -114500,7 +114500,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10207,
@@ -114525,7 +114525,7 @@
                     "killer_display_name": "NoSoyGuanillo#BUFAS",
                     "killer_team": "Red",
                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                    "victim_display_name": "ST4R76#ST4R",
+                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 11819,
@@ -115217,7 +115217,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9524,
@@ -115322,7 +115322,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11100,
@@ -115417,7 +115417,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11622,
@@ -115502,7 +115502,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12836,
@@ -115577,7 +115577,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12642,
@@ -115648,7 +115648,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13024,
@@ -115709,7 +115709,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11859,
@@ -115824,7 +115824,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11337,
@@ -115929,7 +115929,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11276,
@@ -116030,7 +116030,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11695,
@@ -116126,7 +116126,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11742,
@@ -116212,7 +116212,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11907,
@@ -116277,7 +116277,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12961,
@@ -116332,7 +116332,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13244,
@@ -116458,7 +116458,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9056,
@@ -116563,7 +116563,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9056,
@@ -116668,7 +116668,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9366,
@@ -116753,7 +116753,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13650,
@@ -116838,7 +116838,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11586,
@@ -116913,7 +116913,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11757,
@@ -116978,7 +116978,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11198,
@@ -117099,7 +117099,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10252,
@@ -117204,7 +117204,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11149,
@@ -117299,7 +117299,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11016,
@@ -117384,7 +117384,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11040,
@@ -117413,7 +117413,7 @@
                     "killer_display_name": "D87#Bombo",
                     "killer_team": "Red",
                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                    "victim_display_name": "ST4R76#ST4R",
+                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8139,
@@ -117550,7 +117550,7 @@
                     "kill_time_in_match": 906316,
                     "round": 8,
                     "killer_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                    "killer_display_name": "ST4R76#ST4R",
+                    "killer_display_name": "ST4R\u30c4#ST4R\u30c4",
                     "killer_team": "Blue",
                     "victim_puuid": "cde81fcb-876f-54bf-aca0-f61acd983673",
                     "victim_display_name": "JESE56#1008",
@@ -117639,7 +117639,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9344,
@@ -117744,7 +117744,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9454,
@@ -117839,7 +117839,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9354,
@@ -117874,7 +117874,7 @@
                     "killer_display_name": "D87#Bombo",
                     "killer_team": "Red",
                     "victim_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                    "victim_display_name": "ST4R76#ST4R",
+                    "victim_display_name": "ST4R\u30c4#ST4R\u30c4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9492,
@@ -118297,7 +118297,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9808,
@@ -118402,7 +118402,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10737,
@@ -118503,7 +118503,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 13221,
@@ -118588,7 +118588,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12404,
@@ -118610,7 +118610,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "assistant_display_name": "ST4R76#ST4R",
+                            "assistant_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -118620,7 +118620,7 @@
                     "kill_time_in_match": 1016768,
                     "round": 9,
                     "killer_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                    "killer_display_name": "ST4R76#ST4R",
+                    "killer_display_name": "ST4R\u30c4#ST4R\u30c4",
                     "killer_team": "Blue",
                     "victim_puuid": "cde81fcb-876f-54bf-aca0-f61acd983673",
                     "victim_display_name": "JESE56#1008",
@@ -118669,7 +118669,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12361,
@@ -118734,7 +118734,7 @@
                         },
                         {
                             "player_puuid": "8730dba4-3471-5d7e-8e92-d8cf71908fec",
-                            "player_display_name": "ST4R76#ST4R",
+                            "player_display_name": "ST4R\u30c4#ST4R\u30c4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12183,
