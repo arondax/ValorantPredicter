@@ -181,12 +181,6 @@
             "activo": true
         },
         {
-            "nombre": "KIM GAEUL",
-            "tag": "8675",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "xivitoo",
             "tag": "GRX",
             "region": "eu",
@@ -6589,6 +6583,14 @@
         {
             "nombre": "Hihihihihihi",
             "tag": "9197",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-11-12",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "KIM GAEUL",
+            "tag": "8675",
             "region": "eu",
             "activo": true,
             "desde": "2026-11-12",
