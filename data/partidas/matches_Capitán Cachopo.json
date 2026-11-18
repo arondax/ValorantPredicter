@@ -538,8 +538,8 @@
                     },
                     {
                         "puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                        "name": "\u0395l \u0399nf\u03b9e\u03bb",
-                        "tag": "GGEZ",
+                        "name": "El Del Porvito",
+                        "tag": "cheto",
                         "team": "Red",
                         "level": 193,
                         "character": "Phoenix",
@@ -905,8 +905,8 @@
                     },
                     {
                         "puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                        "name": "\u0395l \u0399nf\u03b9e\u03bb",
-                        "tag": "GGEZ",
+                        "name": "El Del Porvito",
+                        "tag": "cheto",
                         "team": "Red",
                         "level": 193,
                         "character": "Phoenix",
@@ -1528,7 +1528,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                "player_display_name": "El Del Porvito#cheto",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2989,
@@ -1623,7 +1623,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -1698,7 +1698,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 140,
@@ -1870,7 +1870,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -128,
@@ -2058,7 +2058,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 850,
@@ -2140,7 +2140,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -2189,7 +2189,7 @@
                                     "kill_time_in_round": 38330,
                                     "kill_time_in_match": 93387,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "a9321f3a-e6c2-5140-892d-29ebe4153509",
                                     "victim_display_name": "Alvaro28#APC",
@@ -2248,7 +2248,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1712,
@@ -2303,7 +2303,7 @@
                                     "kill_time_in_round": 49015,
                                     "kill_time_in_match": 104072,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -2322,7 +2322,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1816,
@@ -2367,7 +2367,7 @@
                                     "kill_time_in_round": 54111,
                                     "kill_time_in_match": 109168,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                                     "victim_display_name": "new#MAG4",
@@ -2386,7 +2386,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2127,
@@ -2554,7 +2554,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2172,
@@ -2630,7 +2630,7 @@
                                 },
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -2728,7 +2728,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1507,
@@ -2848,7 +2848,7 @@
                             },
                             {
                                 "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                "player_display_name": "El Del Porvito#cheto",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1088,
@@ -2921,7 +2921,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -3123,7 +3123,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 856,
@@ -3155,7 +3155,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -3237,7 +3237,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3277,7 +3277,7 @@
                                     "kill_time_in_round": 38062,
                                     "kill_time_in_match": 237998,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                                     "victim_display_name": "new#MAG4",
@@ -3316,7 +3316,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1916,
@@ -3361,7 +3361,7 @@
                                     "kill_time_in_round": 44525,
                                     "kill_time_in_match": 244461,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "80f39863-0a9a-5ae7-94da-c4a2208f7245",
                                     "victim_display_name": "Usuario999#9649",
@@ -3400,7 +3400,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1265,
@@ -3608,7 +3608,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1836,
@@ -3702,7 +3702,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1165,
@@ -3911,7 +3911,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1751,
@@ -4196,7 +4196,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -4281,7 +4281,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 800,
@@ -4659,7 +4659,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1651,
@@ -4731,7 +4731,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4753,7 +4753,7 @@
                                     "kill_time_in_round": 40354,
                                     "kill_time_in_match": 332725,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -4802,7 +4802,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 906,
@@ -5133,7 +5133,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1668,
@@ -5214,7 +5214,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -5243,7 +5243,7 @@
                                     "killer_display_name": "Usuario999#9649",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1494,
@@ -5409,7 +5409,7 @@
                             },
                             {
                                 "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                "player_display_name": "El Del Porvito#cheto",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -201,
@@ -5472,7 +5472,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -5492,7 +5492,7 @@
                                     "killer_display_name": "Alvaro28#APC",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 956,
@@ -5675,7 +5675,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 753,
@@ -5943,7 +5943,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -6011,7 +6011,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 747,
@@ -6095,7 +6095,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 727,
@@ -6263,7 +6263,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6429,7 +6429,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -6474,7 +6474,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -6494,7 +6494,7 @@
                                     "killer_display_name": "new#MAG4",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -855,
@@ -6703,7 +6703,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 705,
@@ -6833,7 +6833,7 @@
                             },
                             {
                                 "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                "player_display_name": "El Del Porvito#cheto",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 135,
@@ -6876,7 +6876,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -6885,7 +6885,7 @@
                                 },
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -6946,7 +6946,7 @@
                                 },
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -7032,7 +7032,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -27,
@@ -7311,7 +7311,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1555,
@@ -7415,7 +7415,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1341,
@@ -7489,7 +7489,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 142,
@@ -7511,7 +7511,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -7551,7 +7551,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7582,7 +7582,7 @@
                                     "kill_time_in_round": 73054,
                                     "kill_time_in_match": 601238,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -7621,7 +7621,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1442,
@@ -7758,7 +7758,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 129,
@@ -8014,7 +8014,7 @@
                             },
                             {
                                 "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                "player_display_name": "El Del Porvito#cheto",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2525,
@@ -8195,7 +8195,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -23,
@@ -8393,7 +8393,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1091,
@@ -8560,7 +8560,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2072,
@@ -8592,7 +8592,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -8632,7 +8632,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8672,7 +8672,7 @@
                                     "kill_time_in_round": 57363,
                                     "kill_time_in_match": 695609,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -8711,7 +8711,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1458,
@@ -8896,7 +8896,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -8987,7 +8987,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1496,
@@ -9064,7 +9064,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 2,
@@ -9084,7 +9084,7 @@
                                     "killer_display_name": "new#MAG4",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1059,
@@ -9227,7 +9227,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -9465,7 +9465,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -9494,7 +9494,7 @@
                                     "killer_display_name": "chinaski#6112",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1696,
@@ -9766,7 +9766,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1757,
@@ -9870,7 +9870,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1757,
@@ -9988,7 +9988,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -10010,7 +10010,7 @@
                                     "kill_time_in_round": 25488,
                                     "kill_time_in_match": 758882,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                                     "victim_display_name": "new#MAG4",
@@ -10069,7 +10069,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1757,
@@ -10206,7 +10206,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1747,
@@ -10497,7 +10497,7 @@
                             },
                             {
                                 "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                "player_display_name": "El Del Porvito#cheto",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1567,
@@ -10550,7 +10550,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 6,
                                     "headshots": 1,
@@ -10579,7 +10579,7 @@
                                     "killer_display_name": "Alvaro28#APC",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1366,
@@ -10792,7 +10792,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1756,
@@ -10963,7 +10963,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -11055,7 +11055,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11095,7 +11095,7 @@
                                     "kill_time_in_round": 11723,
                                     "kill_time_in_match": 841664,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "3efa0feb-63b1-52e5-b15d-522a58bb8e66",
                                     "victim_display_name": "chinaski#6112",
@@ -11154,7 +11154,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1878,
@@ -11199,7 +11199,7 @@
                                     "kill_time_in_round": 16065,
                                     "kill_time_in_match": 846006,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -11238,7 +11238,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -756,
@@ -11405,7 +11405,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2259,
@@ -11716,7 +11716,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1497,
@@ -11820,7 +11820,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -11956,7 +11956,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -11985,7 +11985,7 @@
                                     "killer_display_name": "Capit\u00e1n Cachopo#FRITO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -299,
@@ -12383,7 +12383,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12548,7 +12548,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -12974,7 +12974,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -13121,7 +13121,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2961,
@@ -13225,7 +13225,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2659,
@@ -13375,7 +13375,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13415,7 +13415,7 @@
                                     "kill_time_in_round": 36141,
                                     "kill_time_in_match": 1029982,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -13464,7 +13464,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3104,
@@ -13499,7 +13499,7 @@
                                     "kill_time_in_round": 46007,
                                     "kill_time_in_match": 1039848,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                                     "victim_display_name": "new#MAG4",
@@ -13538,7 +13538,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1267,
@@ -13749,7 +13749,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2904,
@@ -13820,7 +13820,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -13838,7 +13838,7 @@
                                 },
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -13914,7 +13914,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3266,
@@ -13962,7 +13962,7 @@
                                     "killer_display_name": "Usuario999#9649",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1226,
@@ -14146,7 +14146,7 @@
                                 },
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -14221,7 +14221,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8,
@@ -14311,7 +14311,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 145,
@@ -14359,7 +14359,7 @@
                                     "killer_display_name": "Capit\u00e1n Cachopo#FRITO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -985,
@@ -14626,7 +14626,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 126,
@@ -14702,7 +14702,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14724,7 +14724,7 @@
                                     "kill_time_in_round": 18027,
                                     "kill_time_in_match": 1113673,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                                     "victim_display_name": "new#MAG4",
@@ -14763,7 +14763,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 391,
@@ -15144,7 +15144,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 121,
@@ -15304,7 +15304,7 @@
                             },
                             {
                                 "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                "player_display_name": "El Del Porvito#cheto",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 622,
@@ -15582,7 +15582,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -15604,7 +15604,7 @@
                                     "kill_time_in_round": 29830,
                                     "kill_time_in_match": 1193023,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "3efa0feb-63b1-52e5-b15d-522a58bb8e66",
                                     "victim_display_name": "chinaski#6112",
@@ -15643,7 +15643,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1676,
@@ -15808,7 +15808,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3137,
@@ -15892,7 +15892,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1261,
@@ -16044,7 +16044,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1728,
@@ -16158,7 +16158,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2144,
@@ -16291,7 +16291,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -16320,7 +16320,7 @@
                                     "killer_display_name": "Usuario999#9649",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 496,
@@ -16430,7 +16430,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 557,
@@ -16543,7 +16543,7 @@
                                 },
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -16563,7 +16563,7 @@
                                     "killer_display_name": "Alvaro28#APC",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 700,
@@ -16954,7 +16954,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16976,7 +16976,7 @@
                                     "kill_time_in_round": 12037,
                                     "kill_time_in_match": 1306376,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                                     "victim_display_name": "new#MAG4",
@@ -17035,7 +17035,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 843,
@@ -17201,7 +17201,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 731,
@@ -17493,7 +17493,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -17759,7 +17759,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 802,
@@ -17833,7 +17833,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1641,
@@ -17903,7 +17903,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2010,
@@ -18058,7 +18058,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1936,
@@ -18070,7 +18070,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -18201,7 +18201,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4307,
@@ -18267,7 +18267,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -18390,7 +18390,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4267,
@@ -18556,7 +18556,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 970,
@@ -18660,7 +18660,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4388,
@@ -18917,7 +18917,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -18969,7 +18969,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -19007,7 +19007,7 @@
                                     "killer_display_name": "Capit\u00e1n Cachopo#FRITO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1498,
@@ -19544,7 +19544,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -19969,7 +19969,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -224,
@@ -20232,7 +20232,7 @@
                                 },
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -20317,7 +20317,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3183,
@@ -20345,7 +20345,7 @@
                                     "killer_display_name": "chinaski#6112",
                                     "killer_team": "Blue",
                                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "victim_display_name": "El Del Porvito#cheto",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2470,
@@ -20598,7 +20598,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1295,
@@ -20712,7 +20712,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1080,
@@ -20832,7 +20832,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -20965,7 +20965,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3213,
@@ -21114,7 +21114,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -21282,7 +21282,7 @@
                             },
                             {
                                 "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                "player_display_name": "El Del Porvito#cheto",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3499,
@@ -21309,7 +21309,7 @@
                         },
                         "defused_by": {
                             "puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "display_name": "El Del Porvito#cheto",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 69528,
@@ -21326,7 +21326,7 @@
                             },
                             {
                                 "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                "player_display_name": "El Del Porvito#cheto",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1355,
@@ -21411,7 +21411,7 @@
                                 },
                                 {
                                     "receiver_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "receiver_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "receiver_display_name": "El Del Porvito#cheto",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -21613,7 +21613,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -21653,7 +21653,7 @@
                                     "kill_time_in_round": 43799,
                                     "kill_time_in_match": 1702763,
                                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                    "killer_display_name": "El Del Porvito#cheto",
                                     "killer_team": "Red",
                                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                                     "victim_display_name": "new#MAG4",
@@ -21702,7 +21702,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3199,
@@ -21849,7 +21849,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2688,
@@ -21901,7 +21901,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "assistant_display_name": "El Del Porvito#cheto",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -22020,7 +22020,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3280,
@@ -22100,7 +22100,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3449,
@@ -22154,7 +22154,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2534,
@@ -22300,7 +22300,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2642,
@@ -22394,7 +22394,7 @@
                                         },
                                         {
                                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                                            "player_display_name": "El Del Porvito#cheto",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3252,
@@ -22513,7 +22513,7 @@
                     "kill_time_in_match": 93387,
                     "round": 0,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "a9321f3a-e6c2-5140-892d-29ebe4153509",
                     "victim_display_name": "Alvaro28#APC",
@@ -22572,7 +22572,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1712,
@@ -22687,7 +22687,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -128,
@@ -22782,7 +22782,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 140,
@@ -22873,7 +22873,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 850,
@@ -22954,7 +22954,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 1507,
@@ -23000,7 +23000,7 @@
                     "kill_time_in_match": 104072,
                     "round": 0,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -23019,7 +23019,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 1816,
@@ -23065,7 +23065,7 @@
                     "kill_time_in_match": 109168,
                     "round": 0,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                     "victim_display_name": "new#MAG4",
@@ -23084,7 +23084,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 2127,
@@ -23139,7 +23139,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 2172,
@@ -23230,7 +23230,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1836,
@@ -23335,7 +23335,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1751,
@@ -23436,7 +23436,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1165,
@@ -23492,7 +23492,7 @@
                     "kill_time_in_match": 237998,
                     "round": 1,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                     "victim_display_name": "new#MAG4",
@@ -23531,7 +23531,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1916,
@@ -23577,7 +23577,7 @@
                     "kill_time_in_match": 244461,
                     "round": 1,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "80f39863-0a9a-5ae7-94da-c4a2208f7245",
                     "victim_display_name": "Usuario999#9649",
@@ -23616,7 +23616,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1265,
@@ -23681,7 +23681,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 856,
@@ -23713,7 +23713,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -23792,7 +23792,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1668,
@@ -23907,7 +23907,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1651,
@@ -24008,7 +24008,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 800,
@@ -24044,7 +24044,7 @@
                     "kill_time_in_match": 332725,
                     "round": 2,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -24093,7 +24093,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 906,
@@ -24132,7 +24132,7 @@
                     "killer_display_name": "Usuario999#9649",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1494,
@@ -24413,7 +24413,7 @@
                     "killer_display_name": "new#MAG4",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -855,
@@ -24632,7 +24632,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -24711,7 +24711,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 753,
@@ -24806,7 +24806,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 747,
@@ -24891,7 +24891,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 727,
@@ -24966,7 +24966,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 705,
@@ -25005,7 +25005,7 @@
                     "killer_display_name": "Alvaro28#APC",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 956,
@@ -25169,7 +25169,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -25248,7 +25248,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -27,
@@ -25363,7 +25363,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1555,
@@ -25468,7 +25468,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1341,
@@ -25553,7 +25553,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 129,
@@ -25628,7 +25628,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 142,
@@ -25650,7 +25650,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -25660,7 +25660,7 @@
                     "kill_time_in_match": 601238,
                     "round": 4,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -25699,7 +25699,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 1442,
@@ -25784,7 +25784,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1091,
@@ -25843,7 +25843,7 @@
                     "killer_display_name": "new#MAG4",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1059,
@@ -26042,7 +26042,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -26111,7 +26111,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -2072,
@@ -26143,7 +26143,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -26202,7 +26202,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -23,
@@ -26238,7 +26238,7 @@
                     "kill_time_in_match": 695609,
                     "round": 5,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -26277,7 +26277,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1458,
@@ -26348,7 +26348,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1496,
@@ -26459,7 +26459,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1757,
@@ -26564,7 +26564,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1757,
@@ -26610,7 +26610,7 @@
                     "kill_time_in_match": 758882,
                     "round": 6,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                     "victim_display_name": "new#MAG4",
@@ -26669,7 +26669,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1757,
@@ -26754,7 +26754,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1747,
@@ -26793,7 +26793,7 @@
                     "killer_display_name": "chinaski#6112",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1696,
@@ -27060,7 +27060,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -2259,
@@ -27106,7 +27106,7 @@
                     "kill_time_in_match": 841664,
                     "round": 7,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "3efa0feb-63b1-52e5-b15d-522a58bb8e66",
                     "victim_display_name": "chinaski#6112",
@@ -27165,7 +27165,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1878,
@@ -27260,7 +27260,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1756,
@@ -27306,7 +27306,7 @@
                     "kill_time_in_match": 846006,
                     "round": 7,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -27345,7 +27345,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -756,
@@ -27430,7 +27430,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1497,
@@ -27475,7 +27475,7 @@
                     "killer_display_name": "Alvaro28#APC",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1366,
@@ -27680,7 +27680,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -27693,7 +27693,7 @@
                     "killer_display_name": "Capit\u00e1n Cachopo#FRITO",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -299,
@@ -28007,7 +28007,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         },
                         {
@@ -28327,7 +28327,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -2961,
@@ -28432,7 +28432,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -3266,
@@ -28537,7 +28537,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -2659,
@@ -28573,7 +28573,7 @@
                     "kill_time_in_match": 1029982,
                     "round": 9,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -28622,7 +28622,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -3104,
@@ -28697,7 +28697,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -2904,
@@ -28733,7 +28733,7 @@
                     "kill_time_in_match": 1039848,
                     "round": 9,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                     "victim_display_name": "new#MAG4",
@@ -28772,7 +28772,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1267,
@@ -28801,7 +28801,7 @@
                     "killer_display_name": "Usuario999#9649",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1226,
@@ -28922,7 +28922,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 121,
@@ -29027,7 +29027,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 126,
@@ -29122,7 +29122,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 8,
@@ -29213,7 +29213,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 145,
@@ -29259,7 +29259,7 @@
                     "kill_time_in_match": 1113673,
                     "round": 10,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                     "victim_display_name": "new#MAG4",
@@ -29298,7 +29298,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 391,
@@ -29337,7 +29337,7 @@
                     "killer_display_name": "Capit\u00e1n Cachopo#FRITO",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -985,
@@ -29570,7 +29570,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1728,
@@ -29685,7 +29685,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -2144,
@@ -29780,7 +29780,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -3137,
@@ -29826,7 +29826,7 @@
                     "kill_time_in_match": 1193023,
                     "round": 11,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "3efa0feb-63b1-52e5-b15d-522a58bb8e66",
                     "victim_display_name": "chinaski#6112",
@@ -29865,7 +29865,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1676,
@@ -29914,7 +29914,7 @@
                     "killer_display_name": "Usuario999#9649",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 496,
@@ -30025,7 +30025,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 557,
@@ -30106,7 +30106,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -1261,
@@ -30197,7 +30197,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 731,
@@ -30253,7 +30253,7 @@
                     "kill_time_in_match": 1306376,
                     "round": 12,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                     "victim_display_name": "new#MAG4",
@@ -30312,7 +30312,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 843,
@@ -30361,7 +30361,7 @@
                     "killer_display_name": "Alvaro28#APC",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 700,
@@ -30753,7 +30753,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 970,
@@ -30868,7 +30868,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 4307,
@@ -30963,7 +30963,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 4388,
@@ -31048,7 +31048,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 4267,
@@ -31123,7 +31123,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 802,
@@ -31198,7 +31198,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 1641,
@@ -31269,7 +31269,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 2010,
@@ -31320,7 +31320,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 1936,
@@ -31332,7 +31332,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -31411,7 +31411,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": -224,
@@ -31460,7 +31460,7 @@
                     "killer_display_name": "Capit\u00e1n Cachopo#FRITO",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1498,
@@ -32063,7 +32063,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 1295,
@@ -32178,7 +32178,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 1080,
@@ -32273,7 +32273,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 3213,
@@ -32368,7 +32368,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 3183,
@@ -32397,7 +32397,7 @@
                     "killer_display_name": "chinaski#6112",
                     "killer_team": "Blue",
                     "victim_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "victim_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "victim_display_name": "El Del Porvito#cheto",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2470,
@@ -32530,7 +32530,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -32654,7 +32654,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 2688,
@@ -32706,7 +32706,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "assistant_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "assistant_display_name": "El Del Porvito#cheto",
                             "assistant_team": "Red"
                         }
                     ]
@@ -32775,7 +32775,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 2642,
@@ -32870,7 +32870,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 3252,
@@ -32916,7 +32916,7 @@
                     "kill_time_in_match": 1702763,
                     "round": 16,
                     "killer_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                    "killer_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                    "killer_display_name": "El Del Porvito#cheto",
                     "killer_team": "Red",
                     "victim_puuid": "a723ee02-c8be-5aaf-990b-3b33bd670bb4",
                     "victim_display_name": "new#MAG4",
@@ -32965,7 +32965,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 3199,
@@ -33040,7 +33040,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 3280,
@@ -33121,7 +33121,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 3449,
@@ -33176,7 +33176,7 @@
                         },
                         {
                             "player_puuid": "146957b8-3509-5682-8e57-677024f1f033",
-                            "player_display_name": "\u0395l \u0399nf\u03b9e\u03bb#GGEZ",
+                            "player_display_name": "El Del Porvito#cheto",
                             "player_team": "Red",
                             "location": {
                                 "x": 2534,
