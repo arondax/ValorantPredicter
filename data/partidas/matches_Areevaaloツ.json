@@ -144442,8 +144442,8 @@
                     },
                     {
                         "puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                        "name": "sOpp",
-                        "tag": "aim",
+                        "name": "shadow",
+                        "tag": "OA24",
                         "team": "Blue",
                         "level": 334,
                         "character": "Jett",
@@ -145468,8 +145468,8 @@
                     },
                     {
                         "puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                        "name": "sOpp",
-                        "tag": "aim",
+                        "name": "shadow",
+                        "tag": "OA24",
                         "team": "Blue",
                         "level": 334,
                         "character": "Jett",
@@ -145806,7 +145806,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -145826,7 +145826,7 @@
                                     "killer_display_name": "gamorry#PAPI",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3101,
@@ -146457,7 +146457,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -146624,7 +146624,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3047,
@@ -146646,7 +146646,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "assistant_display_name": "sOpp#aim",
+                                            "assistant_display_name": "shadow#OA24",
                                             "assistant_team": "Blue"
                                         },
                                         {
@@ -146691,7 +146691,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -146800,7 +146800,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -146976,7 +146976,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2949,
@@ -147086,7 +147086,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -1010,
@@ -147345,7 +147345,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -147431,7 +147431,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 532,
@@ -147586,7 +147586,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "assistant_display_name": "sOpp#aim",
+                                            "assistant_display_name": "shadow#OA24",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -147626,7 +147626,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -147657,7 +147657,7 @@
                                     "kill_time_in_round": 13885,
                                     "kill_time_in_match": 142142,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -147746,7 +147746,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 588,
@@ -147996,7 +147996,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -148101,7 +148101,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 550,
@@ -148129,7 +148129,7 @@
                                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2447,
@@ -148349,7 +148349,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -148566,7 +148566,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4575,
@@ -148650,7 +148650,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3488,
@@ -148786,7 +148786,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1926,
@@ -148856,7 +148856,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2455,
@@ -149006,7 +149006,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -149028,7 +149028,7 @@
                                     "kill_time_in_round": 4657,
                                     "kill_time_in_match": 215743,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "74a384b9-10df-5c41-a981-4dab361b13c3",
                                     "victim_display_name": "ge0z0r#EUW",
@@ -149117,7 +149117,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4960,
@@ -149289,7 +149289,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3787,
@@ -149343,7 +149343,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3235,
@@ -149452,7 +149452,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -150071,7 +150071,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "assistant_display_name": "sOpp#aim",
+                                            "assistant_display_name": "shadow#OA24",
                                             "assistant_team": "Blue"
                                         },
                                         {
@@ -150121,7 +150121,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -150150,7 +150150,7 @@
                                     "killer_display_name": "ImMad#4647",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 153,
@@ -150376,7 +150376,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -150618,7 +150618,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4,
@@ -150874,7 +150874,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -2932,
@@ -151168,7 +151168,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3993,
@@ -151272,7 +151272,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3941,
@@ -151342,7 +151342,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -151418,7 +151418,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3167,
@@ -151436,7 +151436,7 @@
                                     "killer_display_name": "bardo#002",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -689,
@@ -151560,7 +151560,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -151582,7 +151582,7 @@
                                     "kill_time_in_round": 36770,
                                     "kill_time_in_match": 441218,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -151641,7 +151641,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2597,
@@ -151839,7 +151839,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2403,
@@ -151913,7 +151913,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -990,
@@ -152085,7 +152085,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -443,
@@ -152401,7 +152401,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -152430,7 +152430,7 @@
                                     "killer_display_name": "bardo#002",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -443,
@@ -152678,7 +152678,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -153600,7 +153600,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -153931,7 +153931,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -153969,7 +153969,7 @@
                                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4020,
@@ -154396,7 +154396,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -154416,7 +154416,7 @@
                                     "killer_display_name": "gamorry#PAPI",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -4394,
@@ -155219,7 +155219,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -155712,7 +155712,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 1110,
@@ -155766,7 +155766,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6029,
@@ -155908,7 +155908,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3731,
@@ -156074,7 +156074,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2518,
@@ -156168,7 +156168,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2464,
@@ -156353,7 +156353,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3649,
@@ -156441,7 +156441,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -156463,7 +156463,7 @@
                                     "kill_time_in_round": 49897,
                                     "kill_time_in_match": 875544,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -156522,7 +156522,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4116,
@@ -156783,7 +156783,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2518,
@@ -157019,7 +157019,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -756,
@@ -157229,7 +157229,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -157318,7 +157318,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -157358,7 +157358,7 @@
                                     "kill_time_in_round": 12756,
                                     "kill_time_in_match": 935859,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -157447,7 +157447,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -42,
@@ -157462,7 +157462,7 @@
                                     "kill_time_in_round": 15330,
                                     "kill_time_in_match": 938433,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                                     "victim_display_name": "bardo#002",
@@ -157541,7 +157541,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1470,
@@ -157556,7 +157556,7 @@
                                     "kill_time_in_round": 38949,
                                     "kill_time_in_match": 962052,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "38c767ce-0c4f-5100-9318-a1bfa823ab5b",
                                     "victim_display_name": "gamorry#PAPI",
@@ -157625,7 +157625,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 882,
@@ -157718,7 +157718,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -157738,7 +157738,7 @@
                                     "killer_display_name": "ge0z0r#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1185,
@@ -157982,7 +157982,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -1232,
@@ -158380,7 +158380,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1339,
@@ -158492,7 +158492,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -158512,7 +158512,7 @@
                                     "killer_display_name": "bardo#002",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -4693,
@@ -158766,7 +158766,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -158855,7 +158855,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -159023,7 +159023,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -729,
@@ -159153,7 +159153,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 2702,
@@ -159231,7 +159231,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -159388,7 +159388,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3446,
@@ -159459,7 +159459,7 @@
                                         },
                                         {
                                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "assistant_display_name": "sOpp#aim",
+                                            "assistant_display_name": "shadow#OA24",
                                             "assistant_team": "Blue"
                                         },
                                         {
@@ -159652,7 +159652,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1187,
@@ -159834,7 +159834,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -159874,7 +159874,7 @@
                                     "kill_time_in_round": 44701,
                                     "kill_time_in_match": 1146087,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -159943,7 +159943,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3288,
@@ -159958,7 +159958,7 @@
                                     "kill_time_in_round": 47996,
                                     "kill_time_in_match": 1149382,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "38c767ce-0c4f-5100-9318-a1bfa823ab5b",
                                     "victim_display_name": "gamorry#PAPI",
@@ -160017,7 +160017,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3042,
@@ -160134,7 +160134,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -160240,7 +160240,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -930,
@@ -160264,7 +160264,7 @@
                                     "killer_display_name": "ge0z0r#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2935,
@@ -160452,7 +160452,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4082,
@@ -160504,7 +160504,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -160610,7 +160610,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1171,
@@ -160783,7 +160783,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1191,
@@ -160929,7 +160929,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3220,
@@ -161003,7 +161003,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4061,
@@ -161191,7 +161191,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -161222,7 +161222,7 @@
                                     "kill_time_in_round": 44790,
                                     "kill_time_in_match": 1255355,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -161281,7 +161281,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3662,
@@ -161306,7 +161306,7 @@
                                     "kill_time_in_round": 59725,
                                     "kill_time_in_match": 1270290,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -161345,7 +161345,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3342,
@@ -161621,7 +161621,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -2498,
@@ -161810,7 +161810,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -161862,7 +161862,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -161970,7 +161970,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2395,
@@ -162036,7 +162036,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -162085,7 +162085,7 @@
                                     "kill_time_in_round": 13940,
                                     "kill_time_in_match": 1321236,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -162174,7 +162174,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3080,
@@ -162205,7 +162205,7 @@
                                     "kill_time_in_round": 19354,
                                     "kill_time_in_match": 1326650,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                                     "victim_display_name": "bardo#002",
@@ -162284,7 +162284,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2499,
@@ -162315,7 +162315,7 @@
                                     "kill_time_in_round": 29822,
                                     "kill_time_in_match": 1337118,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -162384,7 +162384,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4289,
@@ -162415,7 +162415,7 @@
                                     "kill_time_in_round": 45850,
                                     "kill_time_in_match": 1353146,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "38c767ce-0c4f-5100-9318-a1bfa823ab5b",
                                     "victim_display_name": "gamorry#PAPI",
@@ -162464,7 +162464,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4835,
@@ -162819,7 +162819,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3226,
@@ -162984,7 +162984,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3226,
@@ -163076,7 +163076,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "assistant_display_name": "sOpp#aim",
+                                            "assistant_display_name": "shadow#OA24",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -163217,7 +163217,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -163269,7 +163269,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -163298,7 +163298,7 @@
                                     "killer_display_name": "bardo#002",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3136,
@@ -163463,7 +163463,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -163503,7 +163503,7 @@
                                     "kill_time_in_round": 11975,
                                     "kill_time_in_match": 1420707,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -163582,7 +163582,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3115,
@@ -163741,7 +163741,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "assistant_display_name": "sOpp#aim",
+                                            "assistant_display_name": "shadow#OA24",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -163828,7 +163828,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -164359,7 +164359,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -164379,7 +164379,7 @@
                                     "killer_display_name": "bardo#002",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1750,
@@ -164523,7 +164523,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -164554,7 +164554,7 @@
                                     "kill_time_in_round": 18771,
                                     "kill_time_in_match": 1580016,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -164623,7 +164623,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2574,
@@ -164648,7 +164648,7 @@
                                     "kill_time_in_round": 19898,
                                     "kill_time_in_match": 1581143,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -164707,7 +164707,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2660,
@@ -164948,7 +164948,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2573,
@@ -165048,7 +165048,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4401,
@@ -165228,7 +165228,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4595,
@@ -165302,7 +165302,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3012,
@@ -165491,7 +165491,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3558,
@@ -165651,7 +165651,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -165682,7 +165682,7 @@
                                     "kill_time_in_round": 9964,
                                     "kill_time_in_match": 1680260,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -165731,7 +165731,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4853,
@@ -165772,7 +165772,7 @@
                                     "kill_time_in_round": 22455,
                                     "kill_time_in_match": 1692751,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                                     "victim_display_name": "bardo#002",
@@ -165811,7 +165811,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4129,
@@ -166035,7 +166035,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -166182,7 +166182,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4788,
@@ -166204,7 +166204,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "assistant_display_name": "sOpp#aim",
+                                            "assistant_display_name": "shadow#OA24",
                                             "assistant_team": "Blue"
                                         },
                                         {
@@ -166320,7 +166320,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4931,
@@ -166332,7 +166332,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "assistant_display_name": "sOpp#aim",
+                                            "assistant_display_name": "shadow#OA24",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -166428,7 +166428,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -166504,7 +166504,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4854,
@@ -166602,7 +166602,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -166642,7 +166642,7 @@
                                     "kill_time_in_round": 16243,
                                     "kill_time_in_match": 1764560,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -166701,7 +166701,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4876,
@@ -166933,7 +166933,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4524,
@@ -167061,7 +167061,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3009,
@@ -167208,7 +167208,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3008,
@@ -167341,7 +167341,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3009,
@@ -167453,7 +167453,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -167509,7 +167509,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3268,
@@ -167537,7 +167537,7 @@
                                     "killer_display_name": "bardo#002",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2413,
@@ -167661,7 +167661,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -167961,7 +167961,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -167981,7 +167981,7 @@
                                     "killer_display_name": "gamorry#PAPI",
                                     "killer_team": "Red",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4620,
@@ -168208,7 +168208,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3619,
@@ -168304,7 +168304,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "assistant_display_name": "sOpp#aim",
+                                            "assistant_display_name": "shadow#OA24",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -168641,7 +168641,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -168873,7 +168873,7 @@
                             },
                             {
                                 "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                "player_display_name": "sOpp#aim",
+                                "player_display_name": "shadow#OA24",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 3166,
@@ -169043,7 +169043,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2991,
@@ -169123,7 +169123,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3680,
@@ -169437,7 +169437,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -169451,7 +169451,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "receiver_display_name": "sOpp#aim",
+                                    "receiver_display_name": "shadow#OA24",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -169468,7 +169468,7 @@
                                     "kill_time_in_round": 12758,
                                     "kill_time_in_match": 2008170,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                                     "victim_display_name": "ImMad#4647",
@@ -169537,7 +169537,7 @@
                                         },
                                         {
                                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                            "player_display_name": "sOpp#aim",
+                                            "player_display_name": "shadow#OA24",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2993,
@@ -169573,10 +169573,10 @@
                                     "kill_time_in_round": 42893,
                                     "kill_time_in_match": 2038305,
                                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "killer_display_name": "sOpp#aim",
+                                    "killer_display_name": "shadow#OA24",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                                    "victim_display_name": "sOpp#aim",
+                                    "victim_display_name": "shadow#OA24",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3735,
@@ -169894,7 +169894,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3047,
@@ -169916,7 +169916,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "assistant_display_name": "sOpp#aim",
+                            "assistant_display_name": "shadow#OA24",
                             "assistant_team": "Blue"
                         },
                         {
@@ -170020,7 +170020,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2949,
@@ -170039,7 +170039,7 @@
                     "killer_display_name": "gamorry#PAPI",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3101,
@@ -170474,7 +170474,7 @@
                     "kill_time_in_match": 142142,
                     "round": 1,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -170563,7 +170563,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 588,
@@ -170674,7 +170674,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 550,
@@ -170769,7 +170769,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 532,
@@ -170804,7 +170804,7 @@
                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2447,
@@ -170963,7 +170963,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "assistant_display_name": "sOpp#aim",
+                            "assistant_display_name": "shadow#OA24",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -171105,7 +171105,7 @@
                     "kill_time_in_match": 215743,
                     "round": 2,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "74a384b9-10df-5c41-a981-4dab361b13c3",
                     "victim_display_name": "ge0z0r#EUW",
@@ -171194,7 +171194,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4960,
@@ -171305,7 +171305,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3787,
@@ -171400,7 +171400,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4575,
@@ -171485,7 +171485,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3488,
@@ -171560,7 +171560,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1926,
@@ -171631,7 +171631,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2455,
@@ -171686,7 +171686,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3235,
@@ -171807,7 +171807,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4,
@@ -171836,7 +171836,7 @@
                     "killer_display_name": "ImMad#4647",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 153,
@@ -172272,7 +172272,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "assistant_display_name": "sOpp#aim",
+                            "assistant_display_name": "shadow#OA24",
                             "assistant_team": "Blue"
                         },
                         {
@@ -172523,7 +172523,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3993,
@@ -172628,7 +172628,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3941,
@@ -172723,7 +172723,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2403,
@@ -172749,7 +172749,7 @@
                     "kill_time_in_match": 441218,
                     "round": 4,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -172808,7 +172808,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2597,
@@ -172893,7 +172893,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3167,
@@ -172958,7 +172958,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -990,
@@ -172977,7 +172977,7 @@
                     "killer_display_name": "bardo#002",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -689,
@@ -173032,7 +173032,7 @@
                     "killer_display_name": "bardo#002",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -443,
@@ -173572,7 +173572,7 @@
                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4020,
@@ -174112,7 +174112,7 @@
                     "killer_display_name": "gamorry#PAPI",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -4394,
@@ -174895,7 +174895,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2518,
@@ -175000,7 +175000,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2518,
@@ -175095,7 +175095,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2464,
@@ -175186,7 +175186,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3649,
@@ -175202,7 +175202,7 @@
                     "kill_time_in_match": 875544,
                     "round": 8,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -175261,7 +175261,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4116,
@@ -175326,7 +175326,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3731,
@@ -175441,7 +175441,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -756,
@@ -175457,7 +175457,7 @@
                     "kill_time_in_match": 935859,
                     "round": 9,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -175546,7 +175546,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -42,
@@ -175562,7 +175562,7 @@
                     "kill_time_in_match": 938433,
                     "round": 9,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                     "victim_display_name": "bardo#002",
@@ -175641,7 +175641,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1470,
@@ -175657,7 +175657,7 @@
                     "kill_time_in_match": 962052,
                     "round": 9,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "38c767ce-0c4f-5100-9318-a1bfa823ab5b",
                     "victim_display_name": "gamorry#PAPI",
@@ -175726,7 +175726,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 882,
@@ -175745,7 +175745,7 @@
                     "killer_display_name": "ge0z0r#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1185,
@@ -175987,7 +175987,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -729,
@@ -176092,7 +176092,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1339,
@@ -176111,7 +176111,7 @@
                     "killer_display_name": "bardo#002",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -4693,
@@ -176550,7 +176550,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1187,
@@ -176655,7 +176655,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -930,
@@ -176756,7 +176756,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3446,
@@ -176772,7 +176772,7 @@
                     "kill_time_in_match": 1146087,
                     "round": 11,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -176841,7 +176841,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3288,
@@ -176857,7 +176857,7 @@
                     "kill_time_in_match": 1149382,
                     "round": 11,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "38c767ce-0c4f-5100-9318-a1bfa823ab5b",
                     "victim_display_name": "gamorry#PAPI",
@@ -176916,7 +176916,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3042,
@@ -176941,7 +176941,7 @@
                     "killer_display_name": "ge0z0r#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2935,
@@ -177059,7 +177059,7 @@
                         },
                         {
                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "assistant_display_name": "sOpp#aim",
+                            "assistant_display_name": "shadow#OA24",
                             "assistant_team": "Blue"
                         },
                         {
@@ -177173,7 +177173,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1191,
@@ -177278,7 +177278,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1171,
@@ -177369,7 +177369,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3220,
@@ -177395,7 +177395,7 @@
                     "kill_time_in_match": 1255355,
                     "round": 12,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -177454,7 +177454,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3662,
@@ -177529,7 +177529,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4061,
@@ -177561,7 +177561,7 @@
                     "kill_time_in_match": 1270290,
                     "round": 12,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -177600,7 +177600,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3342,
@@ -177626,7 +177626,7 @@
                     "kill_time_in_match": 1321236,
                     "round": 13,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -177715,7 +177715,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3080,
@@ -177747,7 +177747,7 @@
                     "kill_time_in_match": 1326650,
                     "round": 13,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                     "victim_display_name": "bardo#002",
@@ -177826,7 +177826,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2499,
@@ -177858,7 +177858,7 @@
                     "kill_time_in_match": 1337118,
                     "round": 13,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -177927,7 +177927,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4289,
@@ -177959,7 +177959,7 @@
                     "kill_time_in_match": 1353146,
                     "round": 13,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "38c767ce-0c4f-5100-9318-a1bfa823ab5b",
                     "victim_display_name": "gamorry#PAPI",
@@ -178008,7 +178008,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4835,
@@ -178083,7 +178083,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2395,
@@ -178119,7 +178119,7 @@
                     "kill_time_in_match": 1420707,
                     "round": 14,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -178198,7 +178198,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3115,
@@ -178303,7 +178303,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3226,
@@ -178398,7 +178398,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3226,
@@ -178443,7 +178443,7 @@
                     "killer_display_name": "bardo#002",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3136,
@@ -178607,7 +178607,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "assistant_display_name": "sOpp#aim",
+                            "assistant_display_name": "shadow#OA24",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -178739,7 +178739,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "assistant_display_name": "sOpp#aim",
+                            "assistant_display_name": "shadow#OA24",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -178873,7 +178873,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2573,
@@ -178899,7 +178899,7 @@
                     "kill_time_in_match": 1580016,
                     "round": 15,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -178968,7 +178968,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2574,
@@ -178994,7 +178994,7 @@
                     "kill_time_in_match": 1581143,
                     "round": 15,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -179053,7 +179053,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2660,
@@ -179082,7 +179082,7 @@
                     "killer_display_name": "bardo#002",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1750,
@@ -179343,7 +179343,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3558,
@@ -179438,7 +179438,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4595,
@@ -179474,7 +179474,7 @@
                     "kill_time_in_match": 1680260,
                     "round": 16,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -179523,7 +179523,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4853,
@@ -179565,7 +179565,7 @@
                     "kill_time_in_match": 1692751,
                     "round": 16,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                     "victim_display_name": "bardo#002",
@@ -179604,7 +179604,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4129,
@@ -179679,7 +179679,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3012,
@@ -179774,7 +179774,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4788,
@@ -179796,7 +179796,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "assistant_display_name": "sOpp#aim",
+                            "assistant_display_name": "shadow#OA24",
                             "assistant_team": "Blue"
                         },
                         {
@@ -179811,7 +179811,7 @@
                     "kill_time_in_match": 1764560,
                     "round": 17,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -179870,7 +179870,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4876,
@@ -179961,7 +179961,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4854,
@@ -180026,7 +180026,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4931,
@@ -180038,7 +180038,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "assistant_display_name": "sOpp#aim",
+                            "assistant_display_name": "shadow#OA24",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -180117,7 +180117,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3008,
@@ -180208,7 +180208,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3009,
@@ -180283,7 +180283,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3009,
@@ -180348,7 +180348,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3268,
@@ -180377,7 +180377,7 @@
                     "killer_display_name": "bardo#002",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2413,
@@ -180543,7 +180543,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3619,
@@ -180572,7 +180572,7 @@
                     "killer_display_name": "gamorry#PAPI",
                     "killer_team": "Red",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4620,
@@ -180731,7 +180731,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "assistant_display_name": "sOpp#aim",
+                            "assistant_display_name": "shadow#OA24",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -180861,7 +180861,7 @@
                     "kill_time_in_match": 2008170,
                     "round": 20,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "8017c969-483e-5ab2-a771-1d46f7dc494d",
                     "victim_display_name": "ImMad#4647",
@@ -180930,7 +180930,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2993,
@@ -181026,7 +181026,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2991,
@@ -181107,7 +181107,7 @@
                         },
                         {
                             "player_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                            "player_display_name": "sOpp#aim",
+                            "player_display_name": "shadow#OA24",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3680,
@@ -181133,10 +181133,10 @@
                     "kill_time_in_match": 2038305,
                     "round": 20,
                     "killer_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "killer_display_name": "sOpp#aim",
+                    "killer_display_name": "shadow#OA24",
                     "killer_team": "Blue",
                     "victim_puuid": "b94d7d88-1bb0-5924-928b-8f72e27a4ef7",
-                    "victim_display_name": "sOpp#aim",
+                    "victim_display_name": "shadow#OA24",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3735,

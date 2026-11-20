@@ -465,7 +465,7 @@
                     },
                     {
                         "puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                        "name": "LunarBeast04",
+                        "name": "Beyblade",
                         "tag": "Nika",
                         "team": "Blue",
                         "level": 2,
@@ -1418,7 +1418,7 @@
                     },
                     {
                         "puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                        "name": "LunarBeast04",
+                        "name": "Beyblade",
                         "tag": "Nika",
                         "team": "Blue",
                         "level": 2,
@@ -1546,7 +1546,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -1625,7 +1625,7 @@
                                 },
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -1701,7 +1701,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 503,
@@ -1775,7 +1775,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -57,
@@ -1845,7 +1845,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -97,
@@ -1869,7 +1869,7 @@
                                     "killer_display_name": "Pof#Pofff",
                                     "killer_team": "Red",
                                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "victim_display_name": "LunarBeast04#Nika",
+                                    "victim_display_name": "Beyblade#Nika",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -361,
@@ -2046,7 +2046,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 356,
@@ -2270,7 +2270,7 @@
                                         },
                                         {
                                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "assistant_display_name": "LunarBeast04#Nika",
+                                            "assistant_display_name": "Beyblade#Nika",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -2362,7 +2362,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -2411,7 +2411,7 @@
                                     "kill_time_in_round": 18036,
                                     "kill_time_in_match": 73098,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8e220de0-aa3f-5f60-aaaa-3e12a2c936d4",
                                     "victim_display_name": "Nedrem#9042",
@@ -2490,7 +2490,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 540,
@@ -2531,7 +2531,7 @@
                                     "kill_time_in_round": 26215,
                                     "kill_time_in_match": 81277,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8a35fe74-4f5b-590b-b7b0-8ad48d571b18",
                                     "victim_display_name": "Toji Fushiguro#PRIME",
@@ -2600,7 +2600,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 557,
@@ -2641,7 +2641,7 @@
                                     "kill_time_in_round": 38213,
                                     "kill_time_in_match": 93275,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3a220b36-e04b-5a97-b404-e75928bc2dc0",
                                     "victim_display_name": "Jonerix23#08830",
@@ -2690,7 +2690,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -141,
@@ -2990,7 +2990,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5123,
@@ -3153,7 +3153,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2895,
@@ -3430,7 +3430,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -3461,7 +3461,7 @@
                                     "kill_time_in_round": 22606,
                                     "kill_time_in_match": 166132,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8e220de0-aa3f-5f60-aaaa-3e12a2c936d4",
                                     "victim_display_name": "Nedrem#9042",
@@ -3530,7 +3530,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4373,
@@ -3561,7 +3561,7 @@
                                     "kill_time_in_round": 53441,
                                     "kill_time_in_match": 196967,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "63a5cb41-4101-5658-a5f4-df186ee6784a",
                                     "victim_display_name": "Pof#Pofff",
@@ -3600,7 +3600,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5859,
@@ -3791,7 +3791,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1007,
@@ -3865,7 +3865,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5162,
@@ -4011,7 +4011,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -4167,7 +4167,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -684,
@@ -4261,7 +4261,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1159,
@@ -4325,7 +4325,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2114,
@@ -4489,7 +4489,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -4574,7 +4574,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1316,
@@ -4671,7 +4671,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2852,
@@ -4770,7 +4770,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -4810,7 +4810,7 @@
                                     "kill_time_in_round": 47947,
                                     "kill_time_in_match": 281919,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "76f22b09-30f6-52f7-b4c4-1c2dd5f6080e",
                                     "victim_display_name": "VIVA VIGO#8452",
@@ -4869,7 +4869,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1275,
@@ -4890,7 +4890,7 @@
                                     "kill_time_in_round": 53370,
                                     "kill_time_in_match": 287342,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8a35fe74-4f5b-590b-b7b0-8ad48d571b18",
                                     "victim_display_name": "Toji Fushiguro#PRIME",
@@ -4939,7 +4939,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1736,
@@ -5095,7 +5095,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -712,
@@ -5189,7 +5189,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -701,
@@ -5221,7 +5221,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "assistant_display_name": "LunarBeast04#Nika",
+                                            "assistant_display_name": "Beyblade#Nika",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -5266,7 +5266,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -5482,7 +5482,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4234,
@@ -5655,7 +5655,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3844,
@@ -5757,7 +5757,7 @@
                                 },
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 6,
                                     "headshots": 1,
@@ -5872,7 +5872,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3277,
@@ -5906,7 +5906,7 @@
                                     "killer_display_name": "Toji Fushiguro#PRIME",
                                     "killer_team": "Red",
                                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "victim_display_name": "LunarBeast04#Nika",
+                                    "victim_display_name": "Beyblade#Nika",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3940,
@@ -6188,7 +6188,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3877,
@@ -6427,7 +6427,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3908,
@@ -6489,7 +6489,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -6616,7 +6616,7 @@
                                 },
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -7400,7 +7400,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -7440,7 +7440,7 @@
                                     "kill_time_in_round": 11412,
                                     "kill_time_in_match": 435224,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3a220b36-e04b-5a97-b404-e75928bc2dc0",
                                     "victim_display_name": "Jonerix23#08830",
@@ -7519,7 +7519,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2855,
@@ -7741,7 +7741,7 @@
                                 },
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -7845,7 +7845,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2845,
@@ -7889,7 +7889,7 @@
                                     "killer_display_name": "VIVA VIGO#8452",
                                     "killer_team": "Red",
                                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "victim_display_name": "LunarBeast04#Nika",
+                                    "victim_display_name": "Beyblade#Nika",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2996,
@@ -8135,7 +8135,7 @@
                                 },
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -8323,7 +8323,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7016,
@@ -8345,7 +8345,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "assistant_display_name": "LunarBeast04#Nika",
+                                            "assistant_display_name": "Beyblade#Nika",
                                             "assistant_team": "Blue"
                                         },
                                         {
@@ -8687,7 +8687,7 @@
                                 },
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -8707,7 +8707,7 @@
                                     "killer_display_name": "Jonerix23#08830",
                                     "killer_team": "Red",
                                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "victim_display_name": "LunarBeast04#Nika",
+                                    "victim_display_name": "Beyblade#Nika",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5725,
@@ -8815,7 +8815,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -8846,7 +8846,7 @@
                                     "kill_time_in_round": 27377,
                                     "kill_time_in_match": 566069,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8e220de0-aa3f-5f60-aaaa-3e12a2c936d4",
                                     "victim_display_name": "Nedrem#9042",
@@ -8915,7 +8915,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7413,
@@ -9081,7 +9081,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6266,
@@ -9247,7 +9247,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5513,
@@ -9345,7 +9345,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -9607,7 +9607,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -9654,7 +9654,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -9685,7 +9685,7 @@
                                     "kill_time_in_round": 29040,
                                     "kill_time_in_match": 706758,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8e220de0-aa3f-5f60-aaaa-3e12a2c936d4",
                                     "victim_display_name": "Nedrem#9042",
@@ -9764,7 +9764,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7367,
@@ -9799,7 +9799,7 @@
                                     "kill_time_in_round": 91897,
                                     "kill_time_in_match": 769615,
                                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "killer_display_name": "LunarBeast04#Nika",
+                                    "killer_display_name": "Beyblade#Nika",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3a220b36-e04b-5a97-b404-e75928bc2dc0",
                                     "victim_display_name": "Jonerix23#08830",
@@ -9868,7 +9868,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1522,
@@ -10258,7 +10258,7 @@
                                         },
                                         {
                                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "player_display_name": "LunarBeast04#Nika",
+                                            "player_display_name": "Beyblade#Nika",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7321,
@@ -10290,7 +10290,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "assistant_display_name": "LunarBeast04#Nika",
+                                            "assistant_display_name": "Beyblade#Nika",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -10390,7 +10390,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                            "assistant_display_name": "LunarBeast04#Nika",
+                                            "assistant_display_name": "Beyblade#Nika",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -10868,7 +10868,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -10976,7 +10976,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "receiver_display_name": "LunarBeast04#Nika",
+                                    "receiver_display_name": "Beyblade#Nika",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -10996,7 +10996,7 @@
                                     "killer_display_name": "VIVA VIGO#8452",
                                     "killer_team": "Red",
                                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                                    "victim_display_name": "LunarBeast04#Nika",
+                                    "victim_display_name": "Beyblade#Nika",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7250,
@@ -11129,7 +11129,7 @@
                     "kill_time_in_match": 73098,
                     "round": 0,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "8e220de0-aa3f-5f60-aaaa-3e12a2c936d4",
                     "victim_display_name": "Nedrem#9042",
@@ -11208,7 +11208,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 540,
@@ -11250,7 +11250,7 @@
                     "kill_time_in_match": 81277,
                     "round": 0,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "8a35fe74-4f5b-590b-b7b0-8ad48d571b18",
                     "victim_display_name": "Toji Fushiguro#PRIME",
@@ -11319,7 +11319,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 557,
@@ -11420,7 +11420,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 503,
@@ -11515,7 +11515,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 356,
@@ -11547,7 +11547,7 @@
                     "kill_time_in_match": 93275,
                     "round": 0,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "3a220b36-e04b-5a97-b404-e75928bc2dc0",
                     "victim_display_name": "Jonerix23#08830",
@@ -11596,7 +11596,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -141,
@@ -11661,7 +11661,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -57,
@@ -11732,7 +11732,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -97,
@@ -11757,7 +11757,7 @@
                     "killer_display_name": "Pof#Pofff",
                     "killer_team": "Red",
                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "victim_display_name": "LunarBeast04#Nika",
+                    "victim_display_name": "Beyblade#Nika",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -361,
@@ -11841,7 +11841,7 @@
                         },
                         {
                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "assistant_display_name": "LunarBeast04#Nika",
+                            "assistant_display_name": "Beyblade#Nika",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -11940,7 +11940,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1007,
@@ -12045,7 +12045,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2895,
@@ -12077,7 +12077,7 @@
                     "kill_time_in_match": 166132,
                     "round": 1,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "8e220de0-aa3f-5f60-aaaa-3e12a2c936d4",
                     "victim_display_name": "Nedrem#9042",
@@ -12146,7 +12146,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4373,
@@ -12237,7 +12237,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5123,
@@ -12318,7 +12318,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5162,
@@ -12350,7 +12350,7 @@
                     "kill_time_in_match": 196967,
                     "round": 1,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "63a5cb41-4101-5658-a5f4-df186ee6784a",
                     "victim_display_name": "Pof#Pofff",
@@ -12389,7 +12389,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5859,
@@ -12500,7 +12500,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -712,
@@ -12605,7 +12605,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -684,
@@ -12700,7 +12700,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -701,
@@ -12732,7 +12732,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "assistant_display_name": "LunarBeast04#Nika",
+                            "assistant_display_name": "Beyblade#Nika",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -12801,7 +12801,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1159,
@@ -12827,7 +12827,7 @@
                     "kill_time_in_match": 281919,
                     "round": 2,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "76f22b09-30f6-52f7-b4c4-1c2dd5f6080e",
                     "victim_display_name": "VIVA VIGO#8452",
@@ -12886,7 +12886,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1275,
@@ -12967,7 +12967,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1316,
@@ -12983,7 +12983,7 @@
                     "kill_time_in_match": 287342,
                     "round": 2,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "8a35fe74-4f5b-590b-b7b0-8ad48d571b18",
                     "victim_display_name": "Toji Fushiguro#PRIME",
@@ -13032,7 +13032,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1736,
@@ -13087,7 +13087,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2114,
@@ -13132,7 +13132,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2852,
@@ -13248,7 +13248,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3277,
@@ -13369,7 +13369,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3844,
@@ -13464,7 +13464,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3908,
@@ -13565,7 +13565,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3877,
@@ -13650,7 +13650,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4234,
@@ -13685,7 +13685,7 @@
                     "killer_display_name": "Toji Fushiguro#PRIME",
                     "killer_team": "Red",
                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "victim_display_name": "LunarBeast04#Nika",
+                    "victim_display_name": "Beyblade#Nika",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3940,
@@ -13894,7 +13894,7 @@
                     "kill_time_in_match": 435224,
                     "round": 4,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "3a220b36-e04b-5a97-b404-e75928bc2dc0",
                     "victim_display_name": "Jonerix23#08830",
@@ -13973,7 +13973,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2855,
@@ -14078,7 +14078,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2845,
@@ -14123,7 +14123,7 @@
                     "killer_display_name": "VIVA VIGO#8452",
                     "killer_team": "Red",
                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "victim_display_name": "LunarBeast04#Nika",
+                    "victim_display_name": "Beyblade#Nika",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2996,
@@ -14694,7 +14694,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5513,
@@ -14809,7 +14809,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6266,
@@ -14835,7 +14835,7 @@
                     "kill_time_in_match": 566069,
                     "round": 5,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "8e220de0-aa3f-5f60-aaaa-3e12a2c936d4",
                     "victim_display_name": "Nedrem#9042",
@@ -14904,7 +14904,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7413,
@@ -14989,7 +14989,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7016,
@@ -15011,7 +15011,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "assistant_display_name": "LunarBeast04#Nika",
+                            "assistant_display_name": "Beyblade#Nika",
                             "assistant_team": "Blue"
                         },
                         {
@@ -15029,7 +15029,7 @@
                     "killer_display_name": "Jonerix23#08830",
                     "killer_team": "Red",
                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "victim_display_name": "LunarBeast04#Nika",
+                    "victim_display_name": "Beyblade#Nika",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5725,
@@ -15278,7 +15278,7 @@
                     "kill_time_in_match": 706758,
                     "round": 6,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "8e220de0-aa3f-5f60-aaaa-3e12a2c936d4",
                     "victim_display_name": "Nedrem#9042",
@@ -15357,7 +15357,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7367,
@@ -15393,7 +15393,7 @@
                     "kill_time_in_match": 769615,
                     "round": 6,
                     "killer_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "killer_display_name": "LunarBeast04#Nika",
+                    "killer_display_name": "Beyblade#Nika",
                     "killer_team": "Blue",
                     "victim_puuid": "3a220b36-e04b-5a97-b404-e75928bc2dc0",
                     "victim_display_name": "Jonerix23#08830",
@@ -15462,7 +15462,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1522,
@@ -15577,7 +15577,7 @@
                         },
                         {
                             "player_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "player_display_name": "LunarBeast04#Nika",
+                            "player_display_name": "Beyblade#Nika",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7321,
@@ -15609,7 +15609,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "assistant_display_name": "LunarBeast04#Nika",
+                            "assistant_display_name": "Beyblade#Nika",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -15622,7 +15622,7 @@
                     "killer_display_name": "VIVA VIGO#8452",
                     "killer_team": "Red",
                     "victim_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                    "victim_display_name": "LunarBeast04#Nika",
+                    "victim_display_name": "Beyblade#Nika",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7250,
@@ -15815,7 +15815,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "368b4f15-2a20-523b-abd5-5c78e57fdefb",
-                            "assistant_display_name": "LunarBeast04#Nika",
+                            "assistant_display_name": "Beyblade#Nika",
                             "assistant_team": "Blue"
                         }
                     ]
