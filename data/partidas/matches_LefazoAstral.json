@@ -173,8 +173,8 @@
                     },
                     {
                         "puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                        "name": "\u0422he \u0421hosen One",
-                        "tag": "aim",
+                        "name": "\u30ad\u30eb\u30a2",
+                        "tag": "aim2",
                         "team": "Red",
                         "level": 148,
                         "character": "Chamber",
@@ -759,8 +759,8 @@
                 "red": [
                     {
                         "puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                        "name": "\u0422he \u0421hosen One",
-                        "tag": "aim",
+                        "name": "\u30ad\u30eb\u30a2",
+                        "tag": "aim2",
                         "team": "Red",
                         "level": 148,
                         "character": "Chamber",
@@ -1520,7 +1520,7 @@
                         },
                         "planted_by": {
                             "puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "display_name": "\u0422he \u0421hosen One#aim",
+                            "display_name": "\u30ad\u30eb\u30a2#aim2",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -1548,7 +1548,7 @@
                             },
                             {
                                 "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                "player_display_name": "\u0422he \u0421hosen One#aim",
+                                "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 10370,
@@ -1791,7 +1791,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10275,
@@ -1947,7 +1947,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -2004,7 +2004,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -2024,7 +2024,7 @@
                                     "killer_display_name": "Lu \u30c4#miau",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 10333,
@@ -2187,7 +2187,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10081,
@@ -2249,7 +2249,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "assistant_display_name": "\u0422he \u0421hosen One#aim",
+                                            "assistant_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -2401,7 +2401,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10370,
@@ -2657,7 +2657,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7276,
@@ -2900,7 +2900,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9782,
@@ -2994,7 +2994,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10762,
@@ -3065,7 +3065,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -3094,7 +3094,7 @@
                                     "killer_display_name": "UMID LEPA#1998",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 11414,
@@ -3200,7 +3200,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3231,7 +3231,7 @@
                                     "kill_time_in_round": 40258,
                                     "kill_time_in_match": 176199,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                                     "victim_display_name": "LefazoAstral#lefa",
@@ -3260,7 +3260,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11041,
@@ -3386,7 +3386,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10155,
@@ -3544,7 +3544,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -3618,7 +3618,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10307,
@@ -3745,7 +3745,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11027,
@@ -3925,7 +3925,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7849,
@@ -4272,7 +4272,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -4310,7 +4310,7 @@
                                     "killer_display_name": "UMID LEPA#1998",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9343,
@@ -4496,7 +4496,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4920,7 +4920,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9255,
@@ -5508,7 +5508,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -5546,7 +5546,7 @@
                                     "killer_display_name": "UMID LEPA#1998",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9769,
@@ -5966,7 +5966,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6728,7 +6728,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -6784,7 +6784,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9973,
@@ -6880,7 +6880,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6902,7 +6902,7 @@
                                     "kill_time_in_round": 24005,
                                     "kill_time_in_match": 514108,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "599cea04-a01d-50e0-ad98-ac2944113e71",
                                     "victim_display_name": "UMID LEPA#1998",
@@ -6931,7 +6931,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10876,
@@ -7041,7 +7041,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -7087,7 +7087,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10688,
@@ -7229,7 +7229,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -7388,7 +7388,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9268,
@@ -7554,7 +7554,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10572,
@@ -7641,7 +7641,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -7670,7 +7670,7 @@
                                     "killer_display_name": "CUCAA#CUCAA",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 10035,
@@ -7842,7 +7842,7 @@
                             },
                             {
                                 "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                "player_display_name": "\u0422he \u0421hosen One#aim",
+                                "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 11893,
@@ -7940,7 +7940,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11115,
@@ -7994,7 +7994,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10753,
@@ -8092,7 +8092,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8123,7 +8123,7 @@
                                     "kill_time_in_round": 30685,
                                     "kill_time_in_match": 653757,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                                     "victim_display_name": "LefazoAstral#lefa",
@@ -8162,7 +8162,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11586,
@@ -8197,7 +8197,7 @@
                                     "kill_time_in_round": 45851,
                                     "kill_time_in_match": 668923,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "a8b61e41-a0c5-5680-b9b9-2a17e30a0bf0",
                                     "victim_display_name": "LefazoC\u00f3smico#Boca",
@@ -8236,7 +8236,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10724,
@@ -8353,7 +8353,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10588,
@@ -8571,7 +8571,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11092,
@@ -8665,7 +8665,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11371,
@@ -8896,7 +8896,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10949,
@@ -9046,7 +9046,7 @@
                         },
                         "planted_by": {
                             "puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "display_name": "\u0422he \u0421hosen One#aim",
+                            "display_name": "\u30ad\u30eb\u30a2#aim2",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -9074,7 +9074,7 @@
                             },
                             {
                                 "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                "player_display_name": "\u0422he \u0421hosen One#aim",
+                                "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 10517,
@@ -9202,7 +9202,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10014,
@@ -9273,7 +9273,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -9329,7 +9329,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9378,7 +9378,7 @@
                                     "kill_time_in_round": 38431,
                                     "kill_time_in_match": 765647,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "5af7eae7-7526-5b28-86ef-7d425b6e1521",
                                     "victim_display_name": "CUCAA#CUCAA",
@@ -9417,7 +9417,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9988,
@@ -9452,7 +9452,7 @@
                                     "kill_time_in_round": 52042,
                                     "kill_time_in_match": 779258,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                                     "victim_display_name": "LefazoAstral#lefa",
@@ -9481,7 +9481,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8741,
@@ -9682,7 +9682,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9763,
@@ -9941,7 +9941,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10517,
@@ -10041,7 +10041,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10517,
@@ -10105,7 +10105,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9024,
@@ -10127,7 +10127,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "assistant_display_name": "\u0422he \u0421hosen One#aim",
+                                            "assistant_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -10237,7 +10237,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8007,
@@ -10341,7 +10341,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10522,
@@ -10532,7 +10532,7 @@
                                         },
                                         {
                                             "assistant_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "assistant_display_name": "\u0422he \u0421hosen One#aim",
+                                            "assistant_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -10614,7 +10614,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -10680,7 +10680,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 1,
@@ -10745,7 +10745,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10191,
@@ -10799,7 +10799,7 @@
                                     "killer_display_name": "Lu \u30c4#miau",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 10209,
@@ -10963,7 +10963,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11028,7 +11028,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6666,
@@ -11300,7 +11300,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9313,
@@ -11352,7 +11352,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "assistant_display_name": "\u0422he \u0421hosen One#aim",
+                                            "assistant_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -11495,7 +11495,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8669,
@@ -11625,7 +11625,7 @@
                             },
                             {
                                 "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                "player_display_name": "\u0422he \u0421hosen One#aim",
+                                "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 11052,
@@ -11773,7 +11773,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8968,
@@ -11931,7 +11931,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11962,7 +11962,7 @@
                                     "kill_time_in_round": 45356,
                                     "kill_time_in_match": 961332,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "5af7eae7-7526-5b28-86ef-7d425b6e1521",
                                     "victim_display_name": "CUCAA#CUCAA",
@@ -11981,7 +11981,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12782,
@@ -12037,7 +12037,7 @@
                                     "kill_time_in_round": 46057,
                                     "kill_time_in_match": 962033,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                                     "victim_display_name": "LefazoAstral#lefa",
@@ -12056,7 +12056,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12915,
@@ -12380,7 +12380,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10257,
@@ -12484,7 +12484,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11230,
@@ -12688,7 +12688,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12347,
@@ -12768,7 +12768,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12085,
@@ -12878,7 +12878,7 @@
                             },
                             {
                                 "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                "player_display_name": "\u0422he \u0421hosen One#aim",
+                                "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5173,
@@ -13040,7 +13040,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13071,7 +13071,7 @@
                                     "kill_time_in_round": 41278,
                                     "kill_time_in_match": 1040321,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "a8b61e41-a0c5-5680-b9b9-2a17e30a0bf0",
                                     "victim_display_name": "LefazoC\u00f3smico#Boca",
@@ -13100,7 +13100,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5169,
@@ -13318,7 +13318,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6003,
@@ -13429,7 +13429,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -13587,7 +13587,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4143,
@@ -13697,7 +13697,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8132,
@@ -13781,7 +13781,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11359,
@@ -13985,7 +13985,7 @@
                             },
                             {
                                 "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                "player_display_name": "\u0422he \u0421hosen One#aim",
+                                "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 10971,
@@ -14183,7 +14183,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10118,
@@ -14257,7 +14257,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10109,
@@ -14313,7 +14313,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14335,7 +14335,7 @@
                                     "kill_time_in_round": 32479,
                                     "kill_time_in_match": 1126776,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                                     "victim_display_name": "LefazoAstral#lefa",
@@ -14374,7 +14374,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10106,
@@ -14601,7 +14601,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -14736,7 +14736,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9403,
@@ -14850,7 +14850,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9977,
@@ -14944,7 +14944,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10110,
@@ -15071,7 +15071,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9816,
@@ -15183,7 +15183,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                "player_display_name": "\u0422he \u0421hosen One#aim",
+                                "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 11957,
@@ -15324,7 +15324,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7478,
@@ -15440,7 +15440,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -15480,7 +15480,7 @@
                                     "kill_time_in_round": 49173,
                                     "kill_time_in_match": 1259211,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "a8b61e41-a0c5-5680-b9b9-2a17e30a0bf0",
                                     "victim_display_name": "LefazoC\u00f3smico#Boca",
@@ -15499,7 +15499,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12613,
@@ -15564,7 +15564,7 @@
                                     "kill_time_in_round": 50096,
                                     "kill_time_in_match": 1260134,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                                     "victim_display_name": "LefazoAstral#lefa",
@@ -15583,7 +15583,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12565,
@@ -15639,7 +15639,7 @@
                                     "kill_time_in_round": 52695,
                                     "kill_time_in_match": 1262733,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "5af7eae7-7526-5b28-86ef-7d425b6e1521",
                                     "victim_display_name": "CUCAA#CUCAA",
@@ -15658,7 +15658,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12685,
@@ -15844,7 +15844,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8852,
@@ -15965,7 +15965,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -16053,7 +16053,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12531,
@@ -16222,7 +16222,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10335,
@@ -16597,7 +16597,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16619,7 +16619,7 @@
                                     "kill_time_in_round": 11935,
                                     "kill_time_in_match": 1326674,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                                     "victim_display_name": "LefazoAstral#lefa",
@@ -16658,7 +16658,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10728,
@@ -16874,7 +16874,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -16903,7 +16903,7 @@
                                     "killer_display_name": "LefazoC\u00f3smico#Boca",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 10863,
@@ -17151,7 +17151,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10885,
@@ -17687,7 +17687,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -17743,7 +17743,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12978,
@@ -17797,7 +17797,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11754,
@@ -17853,7 +17853,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17893,7 +17893,7 @@
                                     "kill_time_in_round": 2710,
                                     "kill_time_in_match": 1389120,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "e9e356c7-f5ec-5210-8a8d-3a0c23c6f37a",
                                     "victim_display_name": "Lu \u30c4#miau",
@@ -17932,7 +17932,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8937,
@@ -18007,7 +18007,7 @@
                                     "kill_time_in_round": 83707,
                                     "kill_time_in_match": 1470117,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "599cea04-a01d-50e0-ad98-ac2944113e71",
                                     "victim_display_name": "UMID LEPA#1998",
@@ -18026,7 +18026,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11480,
@@ -18200,7 +18200,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 13594,
@@ -18333,7 +18333,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10614,
@@ -18541,7 +18541,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12858,
@@ -18635,7 +18635,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 12383,
@@ -18943,7 +18943,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -18990,7 +18990,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -19021,7 +19021,7 @@
                                     "kill_time_in_round": 40522,
                                     "kill_time_in_match": 1547651,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "599cea04-a01d-50e0-ad98-ac2944113e71",
                                     "victim_display_name": "UMID LEPA#1998",
@@ -19050,7 +19050,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10070,
@@ -19115,7 +19115,7 @@
                                     "kill_time_in_round": 56291,
                                     "kill_time_in_match": 1563420,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                                     "victim_display_name": "LefazoAstral#lefa",
@@ -19144,7 +19144,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9794,
@@ -19250,7 +19250,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -19295,7 +19295,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8501,
@@ -19353,7 +19353,7 @@
                                     "killer_display_name": "Lu \u30c4#miau",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8501,
@@ -19565,7 +19565,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11502,
@@ -19764,7 +19764,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 11470,
@@ -19969,7 +19969,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -20497,7 +20497,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -21021,7 +21021,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -21041,7 +21041,7 @@
                                     "killer_display_name": "CUCAA#CUCAA",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8421,
@@ -21289,7 +21289,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10214,
@@ -21393,7 +21393,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9851,
@@ -21548,7 +21548,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9843,
@@ -21638,7 +21638,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10300,
@@ -21714,7 +21714,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -21839,7 +21839,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8911,
@@ -22076,7 +22076,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10647,
@@ -22243,7 +22243,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10348,
@@ -22777,7 +22777,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -22815,7 +22815,7 @@
                                     "killer_display_name": "UMID LEPA#1998",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9932,
@@ -22947,7 +22947,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -22969,7 +22969,7 @@
                                     "kill_time_in_round": 13503,
                                     "kill_time_in_match": 1820367,
                                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "killer_team": "Red",
                                     "victim_puuid": "5af7eae7-7526-5b28-86ef-7d425b6e1521",
                                     "victim_display_name": "CUCAA#CUCAA",
@@ -23008,7 +23008,7 @@
                                         },
                                         {
                                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8361,
@@ -23472,7 +23472,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -23952,7 +23952,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -24083,7 +24083,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "receiver_display_name": "\u0422he \u0421hosen One#aim",
+                                    "receiver_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -24112,7 +24112,7 @@
                                     "killer_display_name": "LefazoC\u00f3smico#Boca",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9248,
@@ -24917,7 +24917,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 7276,
@@ -25032,7 +25032,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10081,
@@ -25094,7 +25094,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "assistant_display_name": "\u0422he \u0421hosen One#aim",
+                            "assistant_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "assistant_team": "Red"
                         }
                     ]
@@ -25143,7 +25143,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10370,
@@ -25234,7 +25234,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10275,
@@ -25299,7 +25299,7 @@
                     "killer_display_name": "Lu \u30c4#miau",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 10333,
@@ -25475,7 +25475,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 7849,
@@ -25590,7 +25590,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10155,
@@ -25701,7 +25701,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9782,
@@ -25796,7 +25796,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10307,
@@ -25881,7 +25881,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10762,
@@ -25946,7 +25946,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11027,
@@ -25993,7 +25993,7 @@
                     "kill_time_in_match": 176199,
                     "round": 1,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                     "victim_display_name": "LefazoAstral#lefa",
@@ -26022,7 +26022,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11041,
@@ -26051,7 +26051,7 @@
                     "killer_display_name": "UMID LEPA#1998",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 11414,
@@ -26167,7 +26167,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9255,
@@ -26252,7 +26252,7 @@
                     "killer_display_name": "UMID LEPA#1998",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9343,
@@ -26818,7 +26818,7 @@
                     "killer_display_name": "UMID LEPA#1998",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9769,
@@ -27400,7 +27400,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9268,
@@ -27515,7 +27515,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9973,
@@ -27581,7 +27581,7 @@
                     "kill_time_in_match": 514108,
                     "round": 4,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "599cea04-a01d-50e0-ad98-ac2944113e71",
                     "victim_display_name": "UMID LEPA#1998",
@@ -27610,7 +27610,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10876,
@@ -27705,7 +27705,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10688,
@@ -27790,7 +27790,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10572,
@@ -27845,7 +27845,7 @@
                     "killer_display_name": "CUCAA#CUCAA",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 10035,
@@ -28093,7 +28093,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10588,
@@ -28208,7 +28208,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10949,
@@ -28319,7 +28319,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11092,
@@ -28414,7 +28414,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11371,
@@ -28460,7 +28460,7 @@
                     "kill_time_in_match": 653757,
                     "round": 5,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                     "victim_display_name": "LefazoAstral#lefa",
@@ -28499,7 +28499,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11586,
@@ -28535,7 +28535,7 @@
                     "kill_time_in_match": 668923,
                     "round": 5,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "a8b61e41-a0c5-5680-b9b9-2a17e30a0bf0",
                     "victim_display_name": "LefazoC\u00f3smico#Boca",
@@ -28574,7 +28574,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10724,
@@ -28629,7 +28629,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11115,
@@ -28684,7 +28684,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10753,
@@ -28739,7 +28739,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8007,
@@ -28854,7 +28854,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9763,
@@ -28959,7 +28959,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10517,
@@ -29060,7 +29060,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10517,
@@ -29135,7 +29135,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10522,
@@ -29181,7 +29181,7 @@
                     "kill_time_in_match": 765647,
                     "round": 6,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "5af7eae7-7526-5b28-86ef-7d425b6e1521",
                     "victim_display_name": "CUCAA#CUCAA",
@@ -29220,7 +29220,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9988,
@@ -29285,7 +29285,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10014,
@@ -29321,7 +29321,7 @@
                     "kill_time_in_match": 779258,
                     "round": 6,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                     "victim_display_name": "LefazoAstral#lefa",
@@ -29350,7 +29350,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8741,
@@ -29395,7 +29395,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9024,
@@ -29417,7 +29417,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "assistant_display_name": "\u0422he \u0421hosen One#aim",
+                            "assistant_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "assistant_team": "Red"
                         }
                     ]
@@ -29466,7 +29466,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8669,
@@ -29581,7 +29581,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 6666,
@@ -29686,7 +29686,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9313,
@@ -29738,7 +29738,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "assistant_display_name": "\u0422he \u0421hosen One#aim",
+                            "assistant_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "assistant_team": "Red"
                         }
                     ]
@@ -29787,7 +29787,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10191,
@@ -29842,7 +29842,7 @@
                     "killer_display_name": "Lu \u30c4#miau",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 10209,
@@ -29986,7 +29986,7 @@
                         },
                         {
                             "assistant_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "assistant_display_name": "\u0422he \u0421hosen One#aim",
+                            "assistant_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "assistant_team": "Red"
                         }
                     ]
@@ -30080,7 +30080,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8968,
@@ -30195,7 +30195,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10257,
@@ -30300,7 +30300,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11230,
@@ -30401,7 +30401,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12347,
@@ -30482,7 +30482,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12085,
@@ -30538,7 +30538,7 @@
                     "kill_time_in_match": 961332,
                     "round": 8,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "5af7eae7-7526-5b28-86ef-7d425b6e1521",
                     "victim_display_name": "CUCAA#CUCAA",
@@ -30557,7 +30557,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12782,
@@ -30614,7 +30614,7 @@
                     "kill_time_in_match": 962033,
                     "round": 8,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                     "victim_display_name": "LefazoAstral#lefa",
@@ -30633,7 +30633,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12915,
@@ -30719,7 +30719,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 6003,
@@ -30824,7 +30824,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4143,
@@ -30906,7 +30906,7 @@
                     "kill_time_in_match": 1040321,
                     "round": 9,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "a8b61e41-a0c5-5680-b9b9-2a17e30a0bf0",
                     "victim_display_name": "LefazoC\u00f3smico#Boca",
@@ -30935,7 +30935,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5169,
@@ -31030,7 +31030,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8132,
@@ -31115,7 +31115,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11359,
@@ -31200,7 +31200,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9403,
@@ -31276,7 +31276,7 @@
                     "kill_time_in_match": 1126776,
                     "round": 10,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                     "victim_display_name": "LefazoAstral#lefa",
@@ -31315,7 +31315,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10106,
@@ -31420,7 +31420,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9977,
@@ -31515,7 +31515,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10110,
@@ -31600,7 +31600,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10118,
@@ -31675,7 +31675,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10109,
@@ -31730,7 +31730,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9816,
@@ -31785,7 +31785,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 7478,
@@ -31890,7 +31890,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8852,
@@ -31995,7 +31995,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10335,
@@ -32077,7 +32077,7 @@
                     "kill_time_in_match": 1259211,
                     "round": 11,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "a8b61e41-a0c5-5680-b9b9-2a17e30a0bf0",
                     "victim_display_name": "LefazoC\u00f3smico#Boca",
@@ -32096,7 +32096,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12613,
@@ -32181,7 +32181,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12531,
@@ -32237,7 +32237,7 @@
                     "kill_time_in_match": 1260134,
                     "round": 11,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                     "victim_display_name": "LefazoAstral#lefa",
@@ -32256,7 +32256,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12565,
@@ -32313,7 +32313,7 @@
                     "kill_time_in_match": 1262733,
                     "round": 11,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "5af7eae7-7526-5b28-86ef-7d425b6e1521",
                     "victim_display_name": "CUCAA#CUCAA",
@@ -32332,7 +32332,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12685,
@@ -32368,7 +32368,7 @@
                     "kill_time_in_match": 1326674,
                     "round": 12,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                     "victim_display_name": "LefazoAstral#lefa",
@@ -32407,7 +32407,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10728,
@@ -32523,7 +32523,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10885,
@@ -32602,7 +32602,7 @@
                     "killer_display_name": "LefazoC\u00f3smico#Boca",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 10863,
@@ -32997,7 +32997,7 @@
                     "kill_time_in_match": 1389120,
                     "round": 13,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "e9e356c7-f5ec-5210-8a8d-3a0c23c6f37a",
                     "victim_display_name": "Lu \u30c4#miau",
@@ -33036,7 +33036,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8937,
@@ -33151,7 +33151,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10614,
@@ -33256,7 +33256,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12858,
@@ -33351,7 +33351,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12383,
@@ -33436,7 +33436,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 13594,
@@ -33517,7 +33517,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 12978,
@@ -33572,7 +33572,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11754,
@@ -33598,7 +33598,7 @@
                     "kill_time_in_match": 1470117,
                     "round": 13,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "599cea04-a01d-50e0-ad98-ac2944113e71",
                     "victim_display_name": "UMID LEPA#1998",
@@ -33617,7 +33617,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11480,
@@ -33688,7 +33688,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11470,
@@ -33803,7 +33803,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 11502,
@@ -33869,7 +33869,7 @@
                     "kill_time_in_match": 1547651,
                     "round": 14,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "599cea04-a01d-50e0-ad98-ac2944113e71",
                     "victim_display_name": "UMID LEPA#1998",
@@ -33898,7 +33898,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10070,
@@ -33964,7 +33964,7 @@
                     "kill_time_in_match": 1563420,
                     "round": 14,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "8fe6eb61-a11a-5aaf-9784-63224dfe558e",
                     "victim_display_name": "LefazoAstral#lefa",
@@ -33993,7 +33993,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9794,
@@ -34074,7 +34074,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8501,
@@ -34133,7 +34133,7 @@
                     "killer_display_name": "Lu \u30c4#miau",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8501,
@@ -34304,7 +34304,7 @@
                     "killer_display_name": "CUCAA#CUCAA",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8421,
@@ -34892,7 +34892,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10647,
@@ -35007,7 +35007,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10214,
@@ -35112,7 +35112,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9851,
@@ -35197,7 +35197,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 9843,
@@ -35298,7 +35298,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10348,
@@ -35373,7 +35373,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 10300,
@@ -35438,7 +35438,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8911,
@@ -35490,7 +35490,7 @@
                     "kill_time_in_match": 1820367,
                     "round": 17,
                     "killer_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "killer_display_name": "\u0422he \u0421hosen One#aim",
+                    "killer_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "killer_team": "Red",
                     "victim_puuid": "5af7eae7-7526-5b28-86ef-7d425b6e1521",
                     "victim_display_name": "CUCAA#CUCAA",
@@ -35529,7 +35529,7 @@
                         },
                         {
                             "player_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                            "player_display_name": "\u0422he \u0421hosen One#aim",
+                            "player_display_name": "\u30ad\u30eb\u30a2#aim2",
                             "player_team": "Red",
                             "location": {
                                 "x": 8361,
@@ -35608,7 +35608,7 @@
                     "killer_display_name": "UMID LEPA#1998",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9932,
@@ -36100,7 +36100,7 @@
                     "killer_display_name": "LefazoC\u00f3smico#Boca",
                     "killer_team": "Blue",
                     "victim_puuid": "0da8a954-7833-5237-891a-c37f51378a0a",
-                    "victim_display_name": "\u0422he \u0421hosen One#aim",
+                    "victim_display_name": "\u30ad\u30eb\u30a2#aim2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9248,
