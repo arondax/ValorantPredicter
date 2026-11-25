@@ -44591,8 +44591,8 @@
                     },
                     {
                         "puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                        "name": "Rougail Saucisse",
-                        "tag": "YUAH",
+                        "name": "PotAuFeu",
+                        "tag": "GLOUP",
                         "team": "Red",
                         "level": 51,
                         "character": "Fade",
@@ -45323,8 +45323,8 @@
                     },
                     {
                         "puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                        "name": "Rougail Saucisse",
-                        "tag": "YUAH",
+                        "name": "PotAuFeu",
+                        "tag": "GLOUP",
                         "team": "Red",
                         "level": 51,
                         "character": "Fade",
@@ -46145,7 +46145,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1528,
@@ -46229,7 +46229,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1227,
@@ -46261,7 +46261,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "assistant_display_name": "Rougail Saucisse#YUAH",
+                                            "assistant_display_name": "PotAuFeu#GLOUP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -46539,7 +46539,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1684,
@@ -46615,7 +46615,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -46655,7 +46655,7 @@
                                     "kill_time_in_round": 30780,
                                     "kill_time_in_match": 85846,
                                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "killer_display_name": "Rougail Saucisse#YUAH",
+                                    "killer_display_name": "PotAuFeu#GLOUP",
                                     "killer_team": "Red",
                                     "victim_puuid": "77a7fb44-e486-5b4c-87bc-31d4439f7532",
                                     "victim_display_name": "Raven\u304b#cute",
@@ -46694,7 +46694,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1280,
@@ -46735,7 +46735,7 @@
                                     "kill_time_in_round": 35520,
                                     "kill_time_in_match": 90586,
                                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "killer_display_name": "Rougail Saucisse#YUAH",
+                                    "killer_display_name": "PotAuFeu#GLOUP",
                                     "killer_team": "Red",
                                     "victim_puuid": "c72793f7-907f-57a8-858a-a24240803e6a",
                                     "victim_display_name": "asiersexi222#222",
@@ -46774,7 +46774,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 126,
@@ -46926,7 +46926,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1529,
@@ -47060,7 +47060,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -47089,7 +47089,7 @@
                                     "killer_display_name": "lothar#2212",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1087,
@@ -47442,7 +47442,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1295,
@@ -47712,7 +47712,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1687,
@@ -47862,7 +47862,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -47947,7 +47947,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1312,
@@ -47985,7 +47985,7 @@
                                     "killer_display_name": "KayFlock#Doa7",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1321,
@@ -48147,7 +48147,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -48374,7 +48374,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1178,
@@ -48524,7 +48524,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -48766,7 +48766,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -646,
@@ -49048,7 +49048,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -49114,7 +49114,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -49143,7 +49143,7 @@
                                     "killer_display_name": "asiersexi222#222",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 142,
@@ -49445,7 +49445,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -665,
@@ -49617,7 +49617,7 @@
                         },
                         "planted_by": {
                             "puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "display_name": "Rougail Saucisse#YUAH",
+                            "display_name": "PotAuFeu#GLOUP",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -49685,7 +49685,7 @@
                             },
                             {
                                 "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                "player_display_name": "Rougail Saucisse#YUAH",
+                                "player_display_name": "PotAuFeu#GLOUP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1320,
@@ -49933,7 +49933,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1412,
@@ -50073,7 +50073,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -50139,7 +50139,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1042,
@@ -50203,7 +50203,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1118,
@@ -50231,7 +50231,7 @@
                                     "killer_display_name": "KayFlock#Doa7",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1163,
@@ -50313,7 +50313,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -50335,7 +50335,7 @@
                                     "kill_time_in_round": 22471,
                                     "kill_time_in_match": 308800,
                                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "killer_display_name": "Rougail Saucisse#YUAH",
+                                    "killer_display_name": "PotAuFeu#GLOUP",
                                     "killer_team": "Red",
                                     "victim_puuid": "db4dc174-e3f5-5998-bf5d-51084fad0a6f",
                                     "victim_display_name": "voLmir#hzr0",
@@ -50414,7 +50414,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2496,
@@ -50527,7 +50527,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -50664,7 +50664,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1042,
@@ -50855,7 +50855,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1368,
@@ -51019,7 +51019,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -787,
@@ -51338,7 +51338,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -51369,7 +51369,7 @@
                                     "kill_time_in_round": 16910,
                                     "kill_time_in_match": 410030,
                                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "killer_display_name": "Rougail Saucisse#YUAH",
+                                    "killer_display_name": "PotAuFeu#GLOUP",
                                     "killer_team": "Red",
                                     "victim_puuid": "77a7fb44-e486-5b4c-87bc-31d4439f7532",
                                     "victim_display_name": "Raven\u304b#cute",
@@ -51418,7 +51418,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1753,
@@ -51550,7 +51550,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -51645,7 +51645,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1433,
@@ -51729,7 +51729,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1402,
@@ -51777,7 +51777,7 @@
                                     "killer_display_name": "voLmir#hzr0",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1402,
@@ -52290,7 +52290,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2208,
@@ -52384,7 +52384,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -760,
@@ -52634,7 +52634,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1109,
@@ -52706,7 +52706,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -52753,7 +52753,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -52773,7 +52773,7 @@
                                     "killer_display_name": "asiersexi222#222",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 31,
@@ -53197,7 +53197,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -53292,7 +53292,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -531,
@@ -53346,7 +53346,7 @@
                                     "killer_display_name": "Raven\u304b#cute",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -231,
@@ -53839,7 +53839,7 @@
                                         },
                                         {
                                             "assistant_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "assistant_display_name": "Rougail Saucisse#YUAH",
+                                            "assistant_display_name": "PotAuFeu#GLOUP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -54005,7 +54005,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -54708,7 +54708,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -54764,7 +54764,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -54859,7 +54859,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 742,
@@ -54897,7 +54897,7 @@
                                     "killer_display_name": "asiersexi222#222",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 433,
@@ -55363,7 +55363,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1575,
@@ -55537,7 +55537,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -521,
@@ -55778,7 +55778,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -496,
@@ -55868,7 +55868,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -55897,7 +55897,7 @@
                                     "killer_display_name": "KayFlock#Doa7",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 503,
@@ -56147,7 +56147,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -56322,7 +56322,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1151,
@@ -56488,7 +56488,7 @@
                         },
                         "planted_by": {
                             "puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "display_name": "Rougail Saucisse#YUAH",
+                            "display_name": "PotAuFeu#GLOUP",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -56536,7 +56536,7 @@
                             },
                             {
                                 "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                "player_display_name": "Rougail Saucisse#YUAH",
+                                "player_display_name": "PotAuFeu#GLOUP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 721,
@@ -56675,7 +56675,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 410,
@@ -56854,7 +56854,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2052,
@@ -56980,7 +56980,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1277,
@@ -57064,7 +57064,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1863,
@@ -57125,7 +57125,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -57172,7 +57172,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -57194,7 +57194,7 @@
                                     "kill_time_in_round": 17060,
                                     "kill_time_in_match": 779000,
                                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "killer_display_name": "Rougail Saucisse#YUAH",
+                                    "killer_display_name": "PotAuFeu#GLOUP",
                                     "killer_team": "Red",
                                     "victim_puuid": "fb00c47d-1599-5889-be35-5176426dda96",
                                     "victim_display_name": "KayFlock#Doa7",
@@ -57253,7 +57253,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -213,
@@ -57812,7 +57812,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -57832,7 +57832,7 @@
                                     "killer_display_name": "KayFlock#Doa7",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1679,
@@ -57954,7 +57954,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -58087,7 +58087,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1042,
@@ -58272,7 +58272,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1179,
@@ -58576,7 +58576,7 @@
                         },
                         "planted_by": {
                             "puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "display_name": "Rougail Saucisse#YUAH",
+                            "display_name": "PotAuFeu#GLOUP",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -58594,7 +58594,7 @@
                             },
                             {
                                 "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                "player_display_name": "Rougail Saucisse#YUAH",
+                                "player_display_name": "PotAuFeu#GLOUP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1586,
@@ -58692,7 +58692,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -58767,7 +58767,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 215,
@@ -58949,7 +58949,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1362,
@@ -59181,7 +59181,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -59237,7 +59237,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -59283,7 +59283,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1182,
@@ -59410,7 +59410,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1126,
@@ -59500,7 +59500,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -59546,7 +59546,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1426,
@@ -59584,7 +59584,7 @@
                                     "killer_display_name": "lothar#2212",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1112,
@@ -59742,7 +59742,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 188,
@@ -59832,7 +59832,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1182,
@@ -59978,7 +59978,7 @@
                             },
                             {
                                 "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                "player_display_name": "Rougail Saucisse#YUAH",
+                                "player_display_name": "PotAuFeu#GLOUP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2495,
@@ -60366,7 +60366,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2481,
@@ -60497,7 +60497,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -60592,7 +60592,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2789,
@@ -60696,7 +60696,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1473,
@@ -60730,7 +60730,7 @@
                                     "killer_display_name": "KayFlock#Doa7",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1494,
@@ -60872,7 +60872,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -60894,7 +60894,7 @@
                                     "kill_time_in_round": 27536,
                                     "kill_time_in_match": 1042972,
                                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "killer_display_name": "Rougail Saucisse#YUAH",
+                                    "killer_display_name": "PotAuFeu#GLOUP",
                                     "killer_team": "Red",
                                     "victim_puuid": "db4dc174-e3f5-5998-bf5d-51084fad0a6f",
                                     "victim_display_name": "voLmir#hzr0",
@@ -60963,7 +60963,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2161,
@@ -61076,7 +61076,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -61476,7 +61476,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 757,
@@ -61670,7 +61670,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -61736,7 +61736,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 794,
@@ -61784,7 +61784,7 @@
                                     "killer_display_name": "KayFlock#Doa7",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 697,
@@ -61896,7 +61896,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -62070,7 +62070,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 750,
@@ -62497,7 +62497,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2830,
@@ -62682,7 +62682,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2932,
@@ -62950,7 +62950,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -63016,7 +63016,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 305,
@@ -63070,7 +63070,7 @@
                                     "killer_display_name": "KayFlock#Doa7",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 934,
@@ -63182,7 +63182,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -63841,7 +63841,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2272,
@@ -63945,7 +63945,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1473,
@@ -64088,7 +64088,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 643,
@@ -64202,7 +64202,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -64418,7 +64418,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 967,
@@ -64584,7 +64584,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2653,
@@ -64678,7 +64678,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 951,
@@ -64814,7 +64814,7 @@
                             },
                             {
                                 "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                "player_display_name": "Rougail Saucisse#YUAH",
+                                "player_display_name": "PotAuFeu#GLOUP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2620,
@@ -64896,7 +64896,7 @@
                                 },
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -64990,7 +64990,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2413,
@@ -65439,7 +65439,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "assistant_display_name": "Rougail Saucisse#YUAH",
+                                            "assistant_display_name": "PotAuFeu#GLOUP",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -65583,7 +65583,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2598,
@@ -65669,7 +65669,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -65700,7 +65700,7 @@
                                     "kill_time_in_round": 33293,
                                     "kill_time_in_match": 1391176,
                                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "killer_display_name": "Rougail Saucisse#YUAH",
+                                    "killer_display_name": "PotAuFeu#GLOUP",
                                     "killer_team": "Red",
                                     "victim_puuid": "8b66d035-2b23-57f4-b696-0ecb325ae2c4",
                                     "victim_display_name": "lothar#2212",
@@ -65759,7 +65759,7 @@
                                         },
                                         {
                                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                            "player_display_name": "Rougail Saucisse#YUAH",
+                                            "player_display_name": "PotAuFeu#GLOUP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2560,
@@ -65840,7 +65840,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "receiver_display_name": "Rougail Saucisse#YUAH",
+                                    "receiver_display_name": "PotAuFeu#GLOUP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -65860,7 +65860,7 @@
                                     "killer_display_name": "asiersexi222#222",
                                     "killer_team": "Blue",
                                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                                    "victim_display_name": "Rougail Saucisse#YUAH",
+                                    "victim_display_name": "PotAuFeu#GLOUP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2024,
@@ -66189,7 +66189,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1684,
@@ -66304,7 +66304,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1528,
@@ -66399,7 +66399,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1529,
@@ -66495,7 +66495,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1227,
@@ -66527,7 +66527,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "assistant_display_name": "Rougail Saucisse#YUAH",
+                            "assistant_display_name": "PotAuFeu#GLOUP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -66537,7 +66537,7 @@
                     "kill_time_in_match": 85846,
                     "round": 0,
                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "killer_display_name": "Rougail Saucisse#YUAH",
+                    "killer_display_name": "PotAuFeu#GLOUP",
                     "killer_team": "Red",
                     "victim_puuid": "77a7fb44-e486-5b4c-87bc-31d4439f7532",
                     "victim_display_name": "Raven\u304b#cute",
@@ -66576,7 +66576,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1280,
@@ -66618,7 +66618,7 @@
                     "kill_time_in_match": 90586,
                     "round": 0,
                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "killer_display_name": "Rougail Saucisse#YUAH",
+                    "killer_display_name": "PotAuFeu#GLOUP",
                     "killer_team": "Red",
                     "victim_puuid": "c72793f7-907f-57a8-858a-a24240803e6a",
                     "victim_display_name": "asiersexi222#222",
@@ -66657,7 +66657,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 126,
@@ -66692,7 +66692,7 @@
                     "killer_display_name": "lothar#2212",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1087,
@@ -66868,7 +66868,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1687,
@@ -66973,7 +66973,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1178,
@@ -67068,7 +67068,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1312,
@@ -67163,7 +67163,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1295,
@@ -67192,7 +67192,7 @@
                     "killer_display_name": "KayFlock#Doa7",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1321,
@@ -67551,7 +67551,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -646,
@@ -67662,7 +67662,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -665,
@@ -67717,7 +67717,7 @@
                     "killer_display_name": "asiersexi222#222",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 142,
@@ -68040,7 +68040,7 @@
                     "kill_time_in_match": 308800,
                     "round": 3,
                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "killer_display_name": "Rougail Saucisse#YUAH",
+                    "killer_display_name": "PotAuFeu#GLOUP",
                     "killer_team": "Red",
                     "victim_puuid": "db4dc174-e3f5-5998-bf5d-51084fad0a6f",
                     "victim_display_name": "voLmir#hzr0",
@@ -68119,7 +68119,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2496,
@@ -68224,7 +68224,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1412,
@@ -68329,7 +68329,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1368,
@@ -68414,7 +68414,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1042,
@@ -68489,7 +68489,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1042,
@@ -68554,7 +68554,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1118,
@@ -68583,7 +68583,7 @@
                     "killer_display_name": "KayFlock#Doa7",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1163,
@@ -68749,7 +68749,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1433,
@@ -68854,7 +68854,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -787,
@@ -68900,7 +68900,7 @@
                     "kill_time_in_match": 410030,
                     "round": 4,
                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "killer_display_name": "Rougail Saucisse#YUAH",
+                    "killer_display_name": "PotAuFeu#GLOUP",
                     "killer_team": "Red",
                     "victim_puuid": "77a7fb44-e486-5b4c-87bc-31d4439f7532",
                     "victim_display_name": "Raven\u304b#cute",
@@ -68949,7 +68949,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1753,
@@ -69034,7 +69034,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1402,
@@ -69083,7 +69083,7 @@
                     "killer_display_name": "voLmir#hzr0",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1402,
@@ -69299,7 +69299,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -2208,
@@ -69404,7 +69404,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1109,
@@ -69505,7 +69505,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -760,
@@ -69544,7 +69544,7 @@
                     "killer_display_name": "asiersexi222#222",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 31,
@@ -69941,7 +69941,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -531,
@@ -69996,7 +69996,7 @@
                     "killer_display_name": "Raven\u304b#cute",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -231,
@@ -70431,7 +70431,7 @@
                         },
                         {
                             "assistant_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "assistant_display_name": "Rougail Saucisse#YUAH",
+                            "assistant_display_name": "PotAuFeu#GLOUP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -70575,7 +70575,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1575,
@@ -70680,7 +70680,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 742,
@@ -70719,7 +70719,7 @@
                     "killer_display_name": "asiersexi222#222",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 433,
@@ -71172,7 +71172,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1151,
@@ -71277,7 +71277,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -521,
@@ -71372,7 +71372,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -496,
@@ -71421,7 +71421,7 @@
                     "killer_display_name": "KayFlock#Doa7",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 503,
@@ -71643,7 +71643,7 @@
                     "kill_time_in_match": 779000,
                     "round": 9,
                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "killer_display_name": "Rougail Saucisse#YUAH",
+                    "killer_display_name": "PotAuFeu#GLOUP",
                     "killer_team": "Red",
                     "victim_puuid": "fb00c47d-1599-5889-be35-5176426dda96",
                     "victim_display_name": "KayFlock#Doa7",
@@ -71702,7 +71702,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -213,
@@ -71807,7 +71807,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 410,
@@ -71892,7 +71892,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1277,
@@ -71977,7 +71977,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1863,
@@ -72052,7 +72052,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2052,
@@ -72137,7 +72137,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1179,
@@ -72242,7 +72242,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1042,
@@ -72291,7 +72291,7 @@
                     "killer_display_name": "KayFlock#Doa7",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1679,
@@ -72667,7 +72667,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1362,
@@ -72772,7 +72772,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 215,
@@ -72873,7 +72873,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 188,
@@ -72964,7 +72964,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1182,
@@ -73049,7 +73049,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1182,
@@ -73130,7 +73130,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1426,
@@ -73185,7 +73185,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1126,
@@ -73234,7 +73234,7 @@
                     "killer_display_name": "lothar#2212",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1112,
@@ -73361,7 +73361,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2789,
@@ -73476,7 +73476,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2481,
@@ -73512,7 +73512,7 @@
                     "kill_time_in_match": 1042972,
                     "round": 12,
                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "killer_display_name": "Rougail Saucisse#YUAH",
+                    "killer_display_name": "PotAuFeu#GLOUP",
                     "killer_team": "Red",
                     "victim_puuid": "db4dc174-e3f5-5998-bf5d-51084fad0a6f",
                     "victim_display_name": "voLmir#hzr0",
@@ -73581,7 +73581,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2161,
@@ -73666,7 +73666,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1473,
@@ -73701,7 +73701,7 @@
                     "killer_display_name": "KayFlock#Doa7",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1494,
@@ -74044,7 +74044,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 757,
@@ -74149,7 +74149,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 750,
@@ -74254,7 +74254,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 794,
@@ -74303,7 +74303,7 @@
                     "killer_display_name": "KayFlock#Doa7",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 697,
@@ -74594,7 +74594,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2932,
@@ -74699,7 +74699,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2830,
@@ -74794,7 +74794,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 305,
@@ -74849,7 +74849,7 @@
                     "killer_display_name": "KayFlock#Doa7",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 934,
@@ -75277,7 +75277,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2653,
@@ -75382,7 +75382,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2272,
@@ -75487,7 +75487,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1473,
@@ -75578,7 +75578,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 967,
@@ -75663,7 +75663,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 951,
@@ -75744,7 +75744,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 643,
@@ -75835,7 +75835,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2598,
@@ -75891,7 +75891,7 @@
                     "kill_time_in_match": 1391176,
                     "round": 16,
                     "killer_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "killer_display_name": "Rougail Saucisse#YUAH",
+                    "killer_display_name": "PotAuFeu#GLOUP",
                     "killer_team": "Red",
                     "victim_puuid": "8b66d035-2b23-57f4-b696-0ecb325ae2c4",
                     "victim_display_name": "lothar#2212",
@@ -75950,7 +75950,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2560,
@@ -76055,7 +76055,7 @@
                         },
                         {
                             "player_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "player_display_name": "Rougail Saucisse#YUAH",
+                            "player_display_name": "PotAuFeu#GLOUP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2413,
@@ -76100,7 +76100,7 @@
                     "killer_display_name": "asiersexi222#222",
                     "killer_team": "Blue",
                     "victim_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                    "victim_display_name": "Rougail Saucisse#YUAH",
+                    "victim_display_name": "PotAuFeu#GLOUP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2024,
@@ -76264,7 +76264,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "13aa6bac-8f36-51f2-af08-82fec20e5eed",
-                            "assistant_display_name": "Rougail Saucisse#YUAH",
+                            "assistant_display_name": "PotAuFeu#GLOUP",
                             "assistant_team": "Red"
                         },
                         {
