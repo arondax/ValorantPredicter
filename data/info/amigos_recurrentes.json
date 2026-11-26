@@ -412,9 +412,9 @@
             "nombre": "Powell",
             "tag": "EUW",
             "region": "eu",
-            "apariciones": 21,
+            "apariciones": 25,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-11-08"
+            "ultima_vez": "2026-11-26"
         },
         {
             "nombre": "MissMeri",
@@ -7372,6 +7372,13 @@
         {
             "nombre": "Julius Caesar",
             "tag": "Jol",
+            "region": "eu",
+            "apariciones": 4,
+            "amigo_desde": "2026-11-26"
+        },
+        {
+            "nombre": "Charlie",
+            "tag": "Alr",
             "region": "eu",
             "apariciones": 4,
             "amigo_desde": "2026-11-26"
