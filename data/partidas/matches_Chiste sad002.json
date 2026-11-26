@@ -33214,7 +33214,7 @@
                     "kill_time_in_round": 56052,
                     "kill_time_in_match": 203301,
                     "round": 2,
-                    "killer_puuid": "ab3aeb08-ea38-4cc3-90cf-cfd2351bf424",
+                    "killer_puuid": "18d854a0-b360-4467-ab6b-82956adaaa53",
                     "killer_display_name": "Unknown",
                     "killer_team": "Unknown",
                     "victim_puuid": "d6005a59-8c27-5d68-8805-b619f86233fd",
@@ -87950,8 +87950,8 @@
                     },
                     {
                         "puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                        "name": "ysn",
-                        "tag": "mvp",
+                        "name": "bring her back",
+                        "tag": "hate",
                         "team": "Red",
                         "level": 108,
                         "character": "Jett",
@@ -88317,8 +88317,8 @@
                     },
                     {
                         "puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                        "name": "ysn",
-                        "tag": "mvp",
+                        "name": "bring her back",
+                        "tag": "hate",
                         "team": "Red",
                         "level": 108,
                         "character": "Jett",
@@ -89031,7 +89031,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -89078,7 +89078,7 @@
                                     "killer_display_name": "Bonnie#4106",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 239,
@@ -89185,7 +89185,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -89292,7 +89292,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -89323,7 +89323,7 @@
                                     "kill_time_in_round": 64761,
                                     "kill_time_in_match": 161778,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "a842e19e-ba85-5e50-84b4-b10e41fb77f1",
                                     "victim_display_name": "mamipito#4860",
@@ -89362,7 +89362,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -8,
@@ -89433,7 +89433,7 @@
                                     "kill_time_in_round": 72951,
                                     "kill_time_in_match": 169968,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                                     "victim_display_name": "papa pito#4284",
@@ -89472,7 +89472,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 239,
@@ -89629,7 +89629,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -60,
@@ -89794,7 +89794,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3313,
@@ -90305,7 +90305,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3209,
@@ -90454,7 +90454,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -90510,7 +90510,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -90541,7 +90541,7 @@
                                     "kill_time_in_round": 29606,
                                     "kill_time_in_match": 247388,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "4671eb23-3dcc-5227-9544-d6b44b9294e2",
                                     "victim_display_name": "Bonnie#4106",
@@ -90580,7 +90580,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4118,
@@ -90671,7 +90671,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -90796,7 +90796,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2457,
@@ -90870,7 +90870,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1925,
@@ -91111,7 +91111,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3530,
@@ -91257,7 +91257,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2437,
@@ -91413,7 +91413,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -91433,7 +91433,7 @@
                                     "killer_display_name": "marcy#winx",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2774,
@@ -91562,7 +91562,7 @@
                                 },
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -91628,7 +91628,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3050,
@@ -91742,7 +91742,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3081,
@@ -91836,7 +91836,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2999,
@@ -91926,7 +91926,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2752,
@@ -91988,7 +91988,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -92028,7 +92028,7 @@
                                     "kill_time_in_round": 38811,
                                     "kill_time_in_match": 355123,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "325da9ed-6fb8-5ce8-ac3c-43908fc773be",
                                     "victim_display_name": "Chiste sad002#EUW",
@@ -92067,7 +92067,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2763,
@@ -92246,7 +92246,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3086,
@@ -92790,7 +92790,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 2,
@@ -92810,7 +92810,7 @@
                                     "killer_display_name": "Chiste sad002#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3500,
@@ -92952,7 +92952,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -93751,7 +93751,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -5006,
@@ -93921,7 +93921,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -93943,7 +93943,7 @@
                                     "kill_time_in_round": 12683,
                                     "kill_time_in_match": 508077,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "325da9ed-6fb8-5ce8-ac3c-43908fc773be",
                                     "victim_display_name": "Chiste sad002#EUW",
@@ -93982,7 +93982,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -85,
@@ -94209,7 +94209,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4132,
@@ -94481,7 +94481,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -94501,7 +94501,7 @@
                                     "killer_display_name": "mamipito#4860",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -4894,
@@ -94696,7 +94696,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -5067,
@@ -94824,7 +94824,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -95341,7 +95341,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -95407,7 +95407,7 @@
                                 },
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -95482,7 +95482,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3245,
@@ -95550,7 +95550,7 @@
                                     "killer_display_name": "papa pito#4284",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1506,
@@ -95959,7 +95959,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -95988,7 +95988,7 @@
                                     "killer_display_name": "Bonnie#4106",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1098,
@@ -96243,7 +96243,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -96449,7 +96449,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -96480,7 +96480,7 @@
                                     "kill_time_in_round": 22253,
                                     "kill_time_in_match": 690173,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                                     "victim_display_name": "papa pito#4284",
@@ -96529,7 +96529,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 507,
@@ -96635,7 +96635,7 @@
                                 },
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -96701,7 +96701,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 850,
@@ -97065,7 +97065,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -240,
@@ -97275,7 +97275,7 @@
                                 },
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -97304,7 +97304,7 @@
                                     "killer_display_name": "Chiste sad002#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -4316,
@@ -97560,7 +97560,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -97582,7 +97582,7 @@
                                     "kill_time_in_round": 8765,
                                     "kill_time_in_match": 755434,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                                     "victim_display_name": "papa pito#4284",
@@ -97631,7 +97631,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -301,
@@ -97848,7 +97848,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2481,
@@ -98114,7 +98114,7 @@
                                 },
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -98179,7 +98179,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4277,
@@ -98438,7 +98438,7 @@
                                 },
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -98503,7 +98503,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1242,
@@ -98551,7 +98551,7 @@
                                     "killer_display_name": "marcy#winx",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1611,
@@ -98719,7 +98719,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -99006,7 +99006,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1242,
@@ -99110,7 +99110,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1242,
@@ -99252,7 +99252,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1242,
@@ -99352,7 +99352,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1275,
@@ -99484,7 +99484,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2254,
@@ -99634,7 +99634,7 @@
                             },
                             {
                                 "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                "player_display_name": "ysn#mvp",
+                                "player_display_name": "bring her back#hate",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -4281,
@@ -99804,7 +99804,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -100032,7 +100032,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 6,
                                     "headshots": 0,
@@ -100125,7 +100125,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -5106,
@@ -100239,7 +100239,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3758,
@@ -100303,7 +100303,7 @@
                                     "killer_display_name": "Chiste sad002#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3758,
@@ -100431,7 +100431,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -101047,7 +101047,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1176,
@@ -101241,7 +101241,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1717,
@@ -101297,7 +101297,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -101337,7 +101337,7 @@
                                     "kill_time_in_round": 45221,
                                     "kill_time_in_match": 1135283,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "325da9ed-6fb8-5ce8-ac3c-43908fc773be",
                                     "victim_display_name": "Chiste sad002#EUW",
@@ -101366,7 +101366,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1587,
@@ -101391,7 +101391,7 @@
                                     "kill_time_in_round": 47977,
                                     "kill_time_in_match": 1138039,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                                     "victim_display_name": "papa pito#4284",
@@ -101420,7 +101420,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2222,
@@ -101435,7 +101435,7 @@
                                     "kill_time_in_round": 64924,
                                     "kill_time_in_match": 1154986,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "4671eb23-3dcc-5227-9544-d6b44b9294e2",
                                     "victim_display_name": "Bonnie#4106",
@@ -101454,7 +101454,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1470,
@@ -101532,7 +101532,7 @@
                                 },
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -101588,7 +101588,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1377,
@@ -101731,7 +101731,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1176,
@@ -101868,7 +101868,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1394,
@@ -102024,7 +102024,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1176,
@@ -102223,7 +102223,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1176,
@@ -102333,7 +102333,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                "player_display_name": "ysn#mvp",
+                                "player_display_name": "bring her back#hate",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -5127,
@@ -102516,7 +102516,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3793,
@@ -102617,7 +102617,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -102681,7 +102681,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4784,
@@ -102819,7 +102819,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -102866,7 +102866,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -102895,7 +102895,7 @@
                                     "killer_display_name": "papa pito#4284",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3750,
@@ -103113,7 +103113,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3961,
@@ -103280,7 +103280,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2845,
@@ -103456,7 +103456,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -5110,
@@ -103633,7 +103633,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4468,
@@ -103940,7 +103940,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -103962,7 +103962,7 @@
                                     "kill_time_in_round": 7858,
                                     "kill_time_in_match": 1356222,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "a842e19e-ba85-5e50-84b4-b10e41fb77f1",
                                     "victim_display_name": "mamipito#4860",
@@ -104011,7 +104011,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4534,
@@ -104112,7 +104112,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -104141,7 +104141,7 @@
                                     "killer_display_name": "papa pito#4284",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4596,
@@ -104333,7 +104333,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4595,
@@ -105019,7 +105019,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -105041,7 +105041,7 @@
                                     "kill_time_in_round": 2610,
                                     "kill_time_in_match": 1425623,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                                     "victim_display_name": "papa pito#4284",
@@ -105090,7 +105090,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 170,
@@ -105279,7 +105279,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2595,
@@ -105432,7 +105432,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1158,
@@ -105682,7 +105682,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 184,
@@ -105756,7 +105756,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3770,
@@ -105866,7 +105866,7 @@
                             },
                             {
                                 "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                "player_display_name": "ysn#mvp",
+                                "player_display_name": "bring her back#hate",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1338,
@@ -106153,7 +106153,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -94,
@@ -106249,7 +106249,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -106430,7 +106430,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -117,
@@ -106534,7 +106534,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 253,
@@ -106618,7 +106618,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1181,
@@ -106698,7 +106698,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1569,
@@ -106900,7 +106900,7 @@
                                 },
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 1,
@@ -106920,7 +106920,7 @@
                                     "killer_display_name": "mamipito#4860",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2147,
@@ -107160,7 +107160,7 @@
                             },
                             {
                                 "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                "player_display_name": "ysn#mvp",
+                                "player_display_name": "bring her back#hate",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -3456,
@@ -107327,7 +107327,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -107347,7 +107347,7 @@
                                     "killer_display_name": "Chiste sad002#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -813,
@@ -107469,7 +107469,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -107591,7 +107591,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3635,
@@ -107945,7 +107945,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3143,
@@ -108249,7 +108249,7 @@
                             },
                             {
                                 "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                "player_display_name": "ysn#mvp",
+                                "player_display_name": "bring her back#hate",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5265,
@@ -108510,7 +108510,7 @@
                                 },
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -108576,7 +108576,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4865,
@@ -108644,7 +108644,7 @@
                                     "killer_display_name": "Chiste sad002#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2565,
@@ -108766,7 +108766,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -108907,7 +108907,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3599,
@@ -109490,7 +109490,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -109584,7 +109584,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -109622,7 +109622,7 @@
                                     "killer_display_name": "Chiste sad002#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4762,
@@ -109820,7 +109820,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -109851,7 +109851,7 @@
                                     "kill_time_in_round": 52068,
                                     "kill_time_in_match": 1869373,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "313cc696-08ac-5992-b9e2-1e2140f610a5",
                                     "victim_display_name": "marcy#winx",
@@ -109890,7 +109890,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4542,
@@ -109965,7 +109965,7 @@
                                     "kill_time_in_round": 53592,
                                     "kill_time_in_match": 1870897,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "4671eb23-3dcc-5227-9544-d6b44b9294e2",
                                     "victim_display_name": "Bonnie#4106",
@@ -109994,7 +109994,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4542,
@@ -110169,7 +110169,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4516,
@@ -111219,7 +111219,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -111266,7 +111266,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -111304,7 +111304,7 @@
                                     "killer_display_name": "papa pito#4284",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5021,
@@ -112016,7 +112016,7 @@
                             },
                             {
                                 "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                "player_display_name": "ysn#mvp",
+                                "player_display_name": "bring her back#hate",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1300,
@@ -112338,7 +112338,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1371,
@@ -112434,7 +112434,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -112456,7 +112456,7 @@
                                     "kill_time_in_round": 24382,
                                     "kill_time_in_match": 2066324,
                                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "killer_display_name": "ysn#mvp",
+                                    "killer_display_name": "bring her back#hate",
                                     "killer_team": "Red",
                                     "victim_puuid": "313cc696-08ac-5992-b9e2-1e2140f610a5",
                                     "victim_display_name": "marcy#winx",
@@ -112495,7 +112495,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1461,
@@ -112596,7 +112596,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -112616,7 +112616,7 @@
                                     "killer_display_name": "papa pito#4284",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1207,
@@ -112779,7 +112779,7 @@
                                         },
                                         {
                                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                            "player_display_name": "ysn#mvp",
+                                            "player_display_name": "bring her back#hate",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1514,
@@ -113763,7 +113763,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -113810,7 +113810,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "receiver_display_name": "ysn#mvp",
+                                    "receiver_display_name": "bring her back#hate",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -113839,7 +113839,7 @@
                                     "killer_display_name": "papa pito#4284",
                                     "killer_team": "Blue",
                                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                                    "victim_display_name": "ysn#mvp",
+                                    "victim_display_name": "bring her back#hate",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4680,
@@ -114429,7 +114429,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3313,
@@ -114505,7 +114505,7 @@
                     "kill_time_in_match": 161778,
                     "round": 0,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "a842e19e-ba85-5e50-84b4-b10e41fb77f1",
                     "victim_display_name": "mamipito#4860",
@@ -114544,7 +114544,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -8,
@@ -114655,7 +114655,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -60,
@@ -114711,7 +114711,7 @@
                     "kill_time_in_match": 169968,
                     "round": 0,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                     "victim_display_name": "papa pito#4284",
@@ -114750,7 +114750,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 239,
@@ -114810,7 +114810,7 @@
                     "killer_display_name": "Bonnie#4106",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 239,
@@ -115051,7 +115051,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 3209,
@@ -115172,7 +115172,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 3530,
@@ -115228,7 +115228,7 @@
                     "kill_time_in_match": 247388,
                     "round": 1,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "4671eb23-3dcc-5227-9544-d6b44b9294e2",
                     "victim_display_name": "Bonnie#4106",
@@ -115267,7 +115267,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 4118,
@@ -115352,7 +115352,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 2457,
@@ -115437,7 +115437,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 2437,
@@ -115508,7 +115508,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1925,
@@ -115603,7 +115603,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3050,
@@ -115718,7 +115718,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3086,
@@ -115823,7 +115823,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3081,
@@ -115918,7 +115918,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -2999,
@@ -116009,7 +116009,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -2752,
@@ -116041,7 +116041,7 @@
                     "kill_time_in_match": 355123,
                     "round": 2,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "325da9ed-6fb8-5ce8-ac3c-43908fc773be",
                     "victim_display_name": "Chiste sad002#EUW",
@@ -116080,7 +116080,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -2763,
@@ -116109,7 +116109,7 @@
                     "killer_display_name": "marcy#winx",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2774,
@@ -116170,7 +116170,7 @@
                     "killer_display_name": "Chiste sad002#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3500,
@@ -116780,7 +116780,7 @@
                     "kill_time_in_match": 508077,
                     "round": 4,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "325da9ed-6fb8-5ce8-ac3c-43908fc773be",
                     "victim_display_name": "Chiste sad002#EUW",
@@ -116819,7 +116819,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -85,
@@ -116934,7 +116934,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -4132,
@@ -117029,7 +117029,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -5067,
@@ -117124,7 +117124,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -5006,
@@ -117183,7 +117183,7 @@
                     "killer_display_name": "mamipito#4860",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -4894,
@@ -117424,7 +117424,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3245,
@@ -117493,7 +117493,7 @@
                     "killer_display_name": "papa pito#4284",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1506,
@@ -118001,7 +118001,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 850,
@@ -118067,7 +118067,7 @@
                     "kill_time_in_match": 690173,
                     "round": 6,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                     "victim_display_name": "papa pito#4284",
@@ -118116,7 +118116,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 507,
@@ -118227,7 +118227,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -240,
@@ -118276,7 +118276,7 @@
                     "killer_display_name": "Bonnie#4106",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1098,
@@ -118577,7 +118577,7 @@
                     "kill_time_in_match": 755434,
                     "round": 7,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                     "victim_display_name": "papa pito#4284",
@@ -118626,7 +118626,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -301,
@@ -118731,7 +118731,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -2481,
@@ -118842,7 +118842,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -4277,
@@ -118907,7 +118907,7 @@
                     "killer_display_name": "Chiste sad002#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -4316,
@@ -119274,7 +119274,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 2254,
@@ -119389,7 +119389,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1242,
@@ -119494,7 +119494,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1242,
@@ -119595,7 +119595,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1242,
@@ -119680,7 +119680,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1242,
@@ -119761,7 +119761,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1275,
@@ -119796,7 +119796,7 @@
                     "killer_display_name": "marcy#winx",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1611,
@@ -119942,7 +119942,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -5106,
@@ -120057,7 +120057,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3758,
@@ -120122,7 +120122,7 @@
                     "killer_display_name": "Chiste sad002#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3758,
@@ -120575,7 +120575,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -1176,
@@ -120690,7 +120690,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -1176,
@@ -120795,7 +120795,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -1176,
@@ -120890,7 +120890,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -1176,
@@ -120971,7 +120971,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -1394,
@@ -121056,7 +121056,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -1377,
@@ -121137,7 +121137,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -1717,
@@ -121163,7 +121163,7 @@
                     "kill_time_in_match": 1135283,
                     "round": 10,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "325da9ed-6fb8-5ce8-ac3c-43908fc773be",
                     "victim_display_name": "Chiste sad002#EUW",
@@ -121192,7 +121192,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -1587,
@@ -121218,7 +121218,7 @@
                     "kill_time_in_match": 1138039,
                     "round": 10,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                     "victim_display_name": "papa pito#4284",
@@ -121247,7 +121247,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -2222,
@@ -121263,7 +121263,7 @@
                     "kill_time_in_match": 1154986,
                     "round": 10,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "4671eb23-3dcc-5227-9544-d6b44b9294e2",
                     "victim_display_name": "Bonnie#4106",
@@ -121282,7 +121282,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1470,
@@ -121347,7 +121347,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3793,
@@ -121452,7 +121452,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -2845,
@@ -121568,7 +121568,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3961,
@@ -121673,7 +121673,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -4784,
@@ -121758,7 +121758,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -4468,
@@ -121849,7 +121849,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -5110,
@@ -121908,7 +121908,7 @@
                     "killer_display_name": "papa pito#4284",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3750,
@@ -122088,7 +122088,7 @@
                     "kill_time_in_match": 1356222,
                     "round": 12,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "a842e19e-ba85-5e50-84b4-b10e41fb77f1",
                     "victim_display_name": "mamipito#4860",
@@ -122137,7 +122137,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 4534,
@@ -122242,7 +122242,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 4595,
@@ -122311,7 +122311,7 @@
                     "killer_display_name": "papa pito#4284",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4596,
@@ -122634,7 +122634,7 @@
                     "kill_time_in_match": 1425623,
                     "round": 13,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "e4f68099-75c4-5603-b642-8d2fd5a8e8fe",
                     "victim_display_name": "papa pito#4284",
@@ -122683,7 +122683,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 170,
@@ -122798,7 +122798,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 184,
@@ -122893,7 +122893,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -1158,
@@ -122978,7 +122978,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -2595,
@@ -123059,7 +123059,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3770,
@@ -123164,7 +123164,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -94,
@@ -123269,7 +123269,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -117,
@@ -123374,7 +123374,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 253,
@@ -123459,7 +123459,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1181,
@@ -123540,7 +123540,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1569,
@@ -123599,7 +123599,7 @@
                     "killer_display_name": "mamipito#4860",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2147,
@@ -123771,7 +123771,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3635,
@@ -123886,7 +123886,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": -3143,
@@ -123945,7 +123945,7 @@
                     "killer_display_name": "Chiste sad002#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -813,
@@ -124252,7 +124252,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 4865,
@@ -124367,7 +124367,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 3599,
@@ -124426,7 +124426,7 @@
                     "killer_display_name": "Chiste sad002#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2565,
@@ -124743,7 +124743,7 @@
                     "kill_time_in_match": 1869373,
                     "round": 17,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "313cc696-08ac-5992-b9e2-1e2140f610a5",
                     "victim_display_name": "marcy#winx",
@@ -124782,7 +124782,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 4542,
@@ -124858,7 +124858,7 @@
                     "kill_time_in_match": 1870897,
                     "round": 17,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "4671eb23-3dcc-5227-9544-d6b44b9294e2",
                     "victim_display_name": "Bonnie#4106",
@@ -124887,7 +124887,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 4542,
@@ -124992,7 +124992,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 4516,
@@ -125061,7 +125061,7 @@
                     "killer_display_name": "Chiste sad002#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4762,
@@ -125445,7 +125445,7 @@
                     "killer_display_name": "papa pito#4284",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5021,
@@ -126124,7 +126124,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1371,
@@ -126190,7 +126190,7 @@
                     "kill_time_in_match": 2066324,
                     "round": 19,
                     "killer_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "killer_display_name": "ysn#mvp",
+                    "killer_display_name": "bring her back#hate",
                     "killer_team": "Red",
                     "victim_puuid": "313cc696-08ac-5992-b9e2-1e2140f610a5",
                     "victim_display_name": "marcy#winx",
@@ -126229,7 +126229,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1461,
@@ -126324,7 +126324,7 @@
                         },
                         {
                             "player_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                            "player_display_name": "ysn#mvp",
+                            "player_display_name": "bring her back#hate",
                             "player_team": "Red",
                             "location": {
                                 "x": 1514,
@@ -126393,7 +126393,7 @@
                     "killer_display_name": "papa pito#4284",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1207,
@@ -126718,7 +126718,7 @@
                     "killer_display_name": "papa pito#4284",
                     "killer_team": "Blue",
                     "victim_puuid": "23355188-9ad2-543d-ae27-f4998954b2b3",
-                    "victim_display_name": "ysn#mvp",
+                    "victim_display_name": "bring her back#hate",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4680,
